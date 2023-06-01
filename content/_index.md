@@ -1,27 +1,28 @@
 ---
-title: 🪴 Quartz 3.3
+title: jgc.fyi
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+I'd like to discuss <br/>
+the resilience of our home places and the people thereof
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+\+ how they may be buoyed by relational economies <br/> 
+and locally [appropriate](https://en.wikipedia.org/wiki/Appropriate_technology) [community computing](https://twitter.com/buchmanster/status/1466092508316905478)
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+Where have your parents lived? Where will your children live?
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+[Twitter](https://twitter.com/jgcfyi)
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
+[Admiration](/admiration.md)
 
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+**Writing**
+- Agency + Limits
+    1.  [Agency & Limits](jgcfyi/1-Agency-And-Limits.md)
+    2.  [Agency](jgcfyi/2-Agency.md)
+    3.  [Limits](jgcfyi/3-Limits.md)
+    4.  [Context](jgcfyi/4-Context.md)
+    5.  [Rooting the Internet in Community & Place](jgcfyi/5-Rooting-the-Internet-in-Community-And-Place.md)
+    6.  [Specifics](jgcfyi/6-Specifics.md)
+- [Other Writing (Mirror)](https://mirror.xyz/jgcfyi.eth)
 
