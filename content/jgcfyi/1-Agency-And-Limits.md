@@ -50,7 +50,7 @@ Enduring structures of household and family life or the life of a community or t
 
 {{<quote text="Enduring structures of household and family life or the life of a community or the life of a country, cannot be formed except within limits. We must not outdistance local knowledge and affection." author="<a href='https://en.wikipedia.org/wiki/Wendell_Berry'>Wendell Berry,</a><i> The Art of Loading Brush</i>">}}
 
-{{<image src="/jgcfyi/images/1/cycle.png">}}
+{{<image src="/jgcfyi/jgcfyi/images/1/cycle.png">}}
 
 ## Agency in Proximity
 
@@ -62,7 +62,7 @@ The fact that our generation's impact on the physical world will outlive us is p
 
 Decisions being made now will [impact](https://www.youtube.com/watch?v=JsT9V3WQiNA&t=383s) our great grandchildren, and yet most Americans don't have a role to play in building and maintaining their neighborhoods. Since they are so permanent, however, it's time to begin to think more clearly about how to improve the way we make places together over generations.
 
-{{<image src="/jgcfyi/images/1/map.jpg" height="600px" caption="Boston <a href='https://www.reddit.com/r/OldPhotosInRealLife/comments/s3b3d0/boston_1938_vs_1969_before_the_big_dig/'>before and after</a> I-93 was built through the middle of downtown">}}
+{{<image src="/jgcfyi/jgcfyi/images/1/map.jpg" height="600px" caption="Boston <a href='https://www.reddit.com/r/OldPhotosInRealLife/comments/s3b3d0/boston_1938_vs_1969_before_the_big_dig/'>before and after</a> I-93 was built through the middle of downtown">}}
 
 ## Agency and Disengagement
 
@@ -94,7 +94,7 @@ The longer our apathetic dependence on distant and opaque systems of organizatio
 
 Critically, sensitivity to local biophysical limits reduces [externalities](https://www.researchgate.net/publication/290557797_Global_supply_chains_disasters_and_externalities_How_complex_supply_networks_create_damaging_externalities_and_its_consequences) of global supply chains, which through their complexity have become unaccountable to the places they harm the most. As our cultural amnesia becomes more irreversible, our connection with extractive economies shifts from a convenient way to raise standards of living, to a dangerous dependence on fragile [gentrifying](https://www.youtube.com/watch?v=1AckNxh1NZY&t=146s) systems beyond local control.
 
-{{<image src="/jgcfyi/images/1/cycle2.png">}}
+{{<image src="/jgcfyi/jgcfyi/images/1/cycle2.png">}}
 
 ### Catalysts of Change in a Society Managed at Scale
 
@@ -116,7 +116,7 @@ Often, these '[wake up call](https://www.newsweek.com/near-death-experiences-tra
 
 The study of [wildfires](http://www.pacificbio.org/initiatives/fire/fire_ecology.html) teaches us that building resilient places, protected from catastrophe, requires iterative and ongoing management. Just as [prescribed burns](https://www.youtube.com/watch?v=E542gY7uR0s) are often carried out on foot at a careful pace, we must cultivate smaller scale organizational and economic structures that empower local people to maintain their specific place with care and affection. If we want people to start engaging with the world around them, however, we need to start by giving them real responsibility. Only then can we begin our work to network these local places into a dynamic, resilient whole.
 
-{{<image src="/jgcfyi/images/1/fire.png" caption="Prescribed burning is a labor-intensive process that can require multiple entries and efforts to complete the work. <a href='https://www.fs.usda.gov/detail/gmug/home/?cid=STELPRD3812788#:~:text=Prescribed%20burning%20is%20a%20labor%2Dintensive%20process%20that%20can%20require%20multiple%20entries%20and%20efforts%20to%20complete%20the%20work.'>US Forest Service</a> <p/>" >}}
+{{<image src="/jgcfyi/jgcfyi/images/1/fire.png" caption="Prescribed burning is a labor-intensive process that can require multiple entries and efforts to complete the work. <a href='https://www.fs.usda.gov/detail/gmug/home/?cid=STELPRD3812788#:~:text=Prescribed%20burning%20is%20a%20labor%2Dintensive%20process%20that%20can%20require%20multiple%20entries%20and%20efforts%20to%20complete%20the%20work.'>US Forest Service</a> <p/>" >}}
 
 
 {{<quote text="Who could blame young adults for thinking that work is fake and meaningless if we prescribe fake and meaningless work for the first two decades of their existence? Even for smart children, education endlessly ushers them towards an often far and always abstract future, so far and abstract that some children seem to apprise the opposite of agency, they take on a learned helplessness, and downplay that the future is a reality at all." author="<a href='https://simonsarris.substack.com/p/the-most-precious-resource-is-agency#:~:text=Who%20could%20blame,reality%20at%20all'>Simon Sarris, The Most Precious Resource is Agency</a>">}}
