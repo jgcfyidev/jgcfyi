@@ -1,4 +1,4 @@
-baseURL = "https://jgcfyidev.github.io/jgcfyi/"
+baseURL = "jgcfyidev.github.io/jgcfyi/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
