@@ -4,8 +4,18 @@ h1 {
   color: var(--dark);
 }
 
-h2, h3, h4, h5, h6 {
-  color: var(--middlegray);
+h2 {
+  color: var(--gray2);
+  font-size: 1.75em;
+}
+
+h3 {
+  color: var(--gray3);
+  font-size: 1.25em;
+}
+
+a > h3 + p {
+  margin-top: 0;
 }
 
 :root {
@@ -16,7 +26,8 @@ h2, h3, h4, h5, h6 {
   --visited: #afbfc9;
   --primary: #f28482;
   --gray: #4e4e4e;
-  --middlegray: #6d6d6d;
+  --gray2: #575757;
+  --gray3: #868686;
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
   --million-progress-bar-color: var(--secondary);

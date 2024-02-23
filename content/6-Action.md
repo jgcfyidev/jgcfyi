@@ -1,4 +1,6 @@
-# 6. Action
+# 6
+<h1 style="margin:0;">Action</h1>
+
 <mark>Capable new tools for collaborative action are poised to shift
 sovereignty back to small communities at more appropriate fidelity of
 empowered placemaking. Together, these tools can help us build a
@@ -22,6 +24,8 @@ view, drawing from the
 and dedicated people building these tools. In reality, the open nature
 of these systems means that specific uses cannot be prescribed or
 predicted very far in advance.</mark>
+
+---
 
 ## Digital Identity
 

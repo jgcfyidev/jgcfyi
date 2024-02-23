@@ -1,4 +1,5 @@
-# 2. Agency
+# 2
+<h1 style="margin:0;">Agency</h1>
 <h4 style="margin-top:0; margin-bottom: 16px;">Derived in Affectionate Relationship to Each Other and our Places</h4>
 
 <mark>Life-giving agency must be established through the kind of spontaneous,
@@ -13,6 +14,8 @@ mycelium in support of our home places.
 >
 > --- [Napoleon
 > Bonaparte](https://simonsarris.substack.com/p/long-distance-thinking#:~:text=%E2%80%9CA%20form%20of%20government%20that%20is%20not%20the%20result%20of%20a%20long%20sequence%20of%20shared%20experiences%2C%20efforts%2C%20and%20endeavors%20can%20never%20take%20root.%E2%80%9D)
+
+---
 
 ## Distance and (Lack of) Trust
 

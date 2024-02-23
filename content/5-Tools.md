@@ -1,4 +1,5 @@
-# 5. Tools
+# 5
+<h1 style="margin:0;">Tools</h1>
 <h4 style="margin-top:0; margin-bottom: 16px;">Rooting our Computing in Place & Relationship</h4>
 
 
@@ -21,6 +22,8 @@ necessary to steward our places through generations. </mark>
 <mark> A healthy society is built on relationship, between people and to their
 home places over time. Our tools can either support or undermine this
 delicate balance. </mark>
+
+---
 
 ## Technology in Place
 

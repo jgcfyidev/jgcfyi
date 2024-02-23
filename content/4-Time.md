@@ -1,4 +1,5 @@
-# 4. Time
+# 4
+<h1 style="margin:0;">Time</h1>
 <h4 style="margin-top:0; margin-bottom: 16px;">Generational Ways of Thinking</h4>
 
 <mark> Agency and limits both are strongly supported by traditions of
@@ -27,6 +28,9 @@ edified by our relationship to that which came before us, and which
 comes after. Without these traditions, our rootlessness leads our
 children to increasingly fragile dependence.
 </mark>
+
+---
+
 ## Place in Time and Time in Place
 
 A culture can be understood as an accumulation of its people's various
