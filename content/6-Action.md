@@ -77,7 +77,7 @@ identity in our home places---experiments that may help to
 innovations in community computing, which have until now been used
 mostly for the speculative games of technologists.
 
-{{<image src="/jgcfyi/jgcfyi/media/image18.png" caption="Our first conception of identity is not given by an institution, but formed in relationship with the people and place around us.<a href='https://jenikirbyhistory.getarchive.net/media/family-farm-sunset-people-b1831e'>(source)</a>">}}
+{{<image src="/jgcfyi/media/image18.png" caption="Our first conception of identity is not given by an institution, but formed in relationship with the people and place around us.<a href='https://jenikirbyhistory.getarchive.net/media/family-farm-sunset-people-b1831e'>(source)</a>">}}
 
 ### Reputation Systems
 
@@ -419,7 +419,7 @@ new](https://www.youtube.com/watch?v=jHwZojqJBFE) concepts,
 they do stand to be uniquely invigorated by the interoperability,
 autonomy and verifiability that blockchains offer.
 
-{{<image src="/jgcfyi/jgcfyi/media/image27.jpg" caption="Berkshire Farm Preserve Notes were jointly issued by two Great Barrington farms in 1991, The Corn Crib and Taft Farm, to finance start-up in the spring, and could be redeemed once produce was ready to be harvested. — <a href='https://centerforneweconomics.org/apply/local-currencies-program/'>Center for New Economics</a>">}}
+{{<image src="/jgcfyi/media/image27.jpg" caption="Berkshire Farm Preserve Notes were jointly issued by two Great Barrington farms in 1991, The Corn Crib and Taft Farm, to finance start-up in the spring, and could be redeemed once produce was ready to be harvested. — <a href='https://centerforneweconomics.org/apply/local-currencies-program/'>Center for New Economics</a>">}}
 
 Today, blockchain-based tools like
 [Juicebox](https://juicebox.money/) provide simple
@@ -516,7 +516,7 @@ ownership and collective management---from
 private housing to collective funding of
 [construction](https://metropolismag.com/projects/dont-call-it-a-commune-inside-berlin-radical-cohousing-project/).
 
-{{<image src="/jgcfyi/jgcfyi/media/image23.png" caption="<a href='https://rocusa.org/whats-a-roc/what-is-a-roc-how-is-it-different/'>Resident-owned</a> <a href='https://www.floridamfghome.com/'>mobile-home</a> communities are one of the more common forms of cooperative ownership structures in America today.">}}
+{{<image src="/jgcfyi/media/image23.png" caption="<a href='https://rocusa.org/whats-a-roc/what-is-a-roc-how-is-it-different/'>Resident-owned</a> <a href='https://www.floridamfghome.com/'>mobile-home</a> communities are one of the more common forms of cooperative ownership structures in America today.">}}
 
 While encouraging, these efforts are still sparse and often dependent on
 [professionals](https://metropolismag.com/projects/dont-call-it-a-commune-inside-berlin-radical-cohousing-project/#:~:text=The%20architect%2Dled%2C%20collectively%20funded%20R50%20Baugruppen%20project%20in%20Berlin)
@@ -623,7 +623,7 @@ on residential and home construction, or even [procurement
 hurdles](https://bloombergcities.jhu.edu/news/procurement-reforming-how-cities-work)
 for cities themselves.
 
-{{<image src="/jgcfyi/jgcfyi/media/image19.png" caption="A CNC design for a 'parklet' made free to use by <a href='Wikiblock'>https://www.betterblock.org/product-page/mobility-parklet</a>">}}
+{{<image src="/jgcfyi/media/image19.png" caption="A CNC design for a 'parklet' made free to use by <a href='Wikiblock'>https://www.betterblock.org/product-page/mobility-parklet</a>">}}
 
 #### A Note on Hyperfinancialization
 
@@ -884,7 +884,7 @@ blockchain-based system working to build [on-chain
 infrastructure](https://twitter.com/cyclesmoney) to support
 mutual credit systems to the benefit small communities.
 
-{{<image src="/jgcfyi/jgcfyi/media/image22.png" caption="The <a href='https://grassecon.org/trust-graph'>trust graph</a> of villages in Kenya using <a href='https://www.grassrootseconomics.org/pages/how-it-works#:~:text=Community%20Asset%20Vouchers%20(CAVs)'>Sarafu</a> for accounting, credit, and debt of their mutual aid <a href='https://viz.sarafu.network/'>network</a>. There are 150 clusters---many with significant economic relationship to each other">}}
+{{<image src="/jgcfyi/media/image22.png" caption="The <a href='https://grassecon.org/trust-graph'>trust graph</a> of villages in Kenya using <a href='https://www.grassrootseconomics.org/pages/how-it-works#:~:text=Community%20Asset%20Vouchers%20(CAVs)'>Sarafu</a> for accounting, credit, and debt of their mutual aid <a href='https://viz.sarafu.network/'>network</a>. There are 150 clusters---many with significant economic relationship to each other">}}
 
 ## Where Does That Lead Us? 
 

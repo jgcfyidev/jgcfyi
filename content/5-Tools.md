@@ -54,7 +54,7 @@ to the polycentric organizational structures we discussed in Chapter 2.
 > --- [Kevin
 > Driscoll](https://spectrum.ieee.org/social-medias-dialup-ancestor-the-bulletin-board-system#:~:text=For%20Internet%20users%20today%2C%20there%20is%20more%20to%20the%20BBS%20story%20than%20mere%20nostalgia.%20As%20our%20online%20lives%20are%20channeled%20through%20an%20ever%2Dsmaller%20number%20of%20service%20providers%2C%20reflecting%20on%20the%20long%2Dforgotten%20dial%2Dup%20era%20can%20open%20our%20eyes%20to%20the%20value%20of%20diversity%20and%20local%20control)
 
-{{<image src="/jgcfyi/jgcfyi/media/image15.png" caption="<a href='https://www.computerhistory.org/collections/catalog/102774056'>Community Memory</a> terminal being used at Berkeley laundromat in 1990">}}
+{{<image src="/jgcfyi/media/image15.png" caption="<a href='https://www.computerhistory.org/collections/catalog/102774056'>Community Memory</a> terminal being used at Berkeley laundromat in 1990">}}
 
 A return to
 [technologies](https://twitter.com/TBSocialist/status/1596918140545691652)
@@ -306,7 +306,7 @@ can enable key functions of physical placemaking---making home-building
 and transportation infrastructure more relational,
 [spontaneous](http://tacticalurbanismguide.com/), and fun.
 
-{{<image src="/jgcfyi/jgcfyi/media/image2.png" caption="<a href='https://www.opensourceecology.org/portfolio/tractor/'>Open Source Ecology</a> developed the design for an open source, DIY farm tractor (among many other machines). <a href='https://youtu.be/zIsHKrP-66s?si=cbqBzCICwPfjBqt3&t=127'>Contributors emerged</a> from all over the world and collaborated to improve designs.">}}
+{{<image src="/jgcfyi/media/image2.png" caption="<a href='https://www.opensourceecology.org/portfolio/tractor/'>Open Source Ecology</a> developed the design for an open source, DIY farm tractor (among many other machines). <a href='https://youtu.be/zIsHKrP-66s?si=cbqBzCICwPfjBqt3&t=127'>Contributors emerged</a> from all over the world and collaborated to improve designs.">}}
 
 ## Defining an 'Empowered Internet' 
 
