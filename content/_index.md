@@ -3,26 +3,72 @@ title: jgc.fyi
 enableToc: false
 ---
 
-I'd like to discuss <br/>
-the resilience of our home places and the people thereof
+**Community Memory**
 
-\+ how they may be buoyed by relational economies <br/> 
-and locally [appropriate](https://en.wikipedia.org/wiki/Appropriate_technology) [community computing](https://twitter.com/buchmanster/status/1466092508316905478)
+A Framework for Building Resilient Communities Anchored in Relationship
+and Empowered by Collaborative Technology
 
+This six-part series will examine how new organizational and
+technological approaches to collaborative coordination can support a
+'community memory' grounded in affectionate relationship to each other
+and our places over generations. These locally derived traditions of
+placemaking can help build more resilient communities and reduce our
+reliance on disempowering institutions.
 
-Where have your parents lived? Where will your children live?
+Together this collection of essays is about our relationships---
 
-[Twitter](https://twitter.com/jgcfyi)
+To each other (and the systems of coordination we use to scale them)
 
-[Admiration](/admiration.md)
+To our places (and the limits we sustain them with)
 
-**Writing**
-- Agency + Limits
-    1.  [Agency & Limits](jgcfyi/1-Agency-And-Limits.md)
-    2.  [Agency](jgcfyi/2-Agency.md)
-    3.  [Limits](jgcfyi/3-Limits.md)
-    4.  [Context](jgcfyi/4-Context.md)
-    5.  [Rooting the Internet in Community & Place](jgcfyi/5-Rooting-the-Internet-in-Community-And-Place.md)
-    6.  [Specifics](jgcfyi/6-Specifics.md)
-- [Other Writing (Mirror)](https://mirror.xyz/jgcfyi.eth)
+To time (and our traditions) and
 
+To our tools and technologies (and the trajectories they amplify)
+
+1.  [**Relationship**](/jgcfyi/1-relationship)
+
+> Despite the proliferation of impersonal organizational structures and
+> abstract global economies, only the mutual extension of
+> trust---grounded in affection for our home places---can foster
+> traditions of placemaking strong enough to steward our communities
+> sustainably through generations.
+
+2.  [**Agency**](/jgcfyi/2-agency)
+
+> Life-giving agency must be established through the kind of
+> spontaneous, trust-filled relationship that distant institutions are
+> incapable of. Innovative organizational structures, in rhythm with
+> natural ecologies, can scaffold these relationships into a more
+> resilient organizational mycelium in support of our home places.
+
+3.  [**Limits**](/jgcfyi/3-limits)
+
+> As globalized economies accumulate hidden existential debts,
+> institutions seeking to control for risk instead reinforce our
+> trajectory. Affectionate and empathetic relationship with the people
+> and places around us can help more effectively build resilience and
+> diffuse these risks.
+
+4.  [**Time**](/jgcfyi/4-time)
+
+> Agency and limits both are strongly supported by traditions of
+> generational knowledge transfer, rooted in specific place. Equilibrial
+> investment and draw from local resources over generations grounds a
+> community in time and place, giving joy in the present and assurance
+> of the future.
+
+5.  [**Tools**](/jgcfyi/5-tools)
+
+> Our tools and technologies amplify our habits of relating to each
+> other, our places, our organizational systems, and even time. More
+> collaborative computing architectures can help us shed the prosthesis
+> of institutional control and rebuild the locally-derived competency
+> necessary to steward our places through generations.
+
+6.  [**Action**](/jgcfyi/6-action)
+
+> Capable new tools for collaborative action are poised to shift
+> sovereignty back to small communities at more appropriate fidelity of
+> empowered placemaking. Together, these tools can help us build a
+> persistent community memory capable of carrying our places forward
+> with vitality.

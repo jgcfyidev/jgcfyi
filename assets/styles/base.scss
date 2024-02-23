@@ -144,10 +144,14 @@ sup {
 }
 
 blockquote {
-  margin-left: 0;
+  margin-left: 60px;
   border-left: 3px solid var(--secondary);
   padding-left: 1em;
   transition: border-color 0.2s ease;
+  font-style: italic;
+  p:last-of-type {
+    margin-left: 25px;
+  }
 }
 
 .footnotes p {
