@@ -1,0 +1,21 @@
+<div
+ style="
+ display:flex;
+ flex-wrap: nowrap;
+ flex-direction: row;
+ align-items: center;
+ gap: 8px;
+ ">
+    <div style="text-align:center; flex-basis: 50%;">
+        <img src='{{.Get "src"}}' height='{{.Get "height"}}'>
+        <div>
+            <text style="font-style: italic; font-size: .9em;">{{.Get "caption" | safeHTML}}</text>
+        </div>
+    </div>
+    <div style="flex-basis: 50%;">
+        <p>
+            {{.Get "aside" | safeHTML}}
+        </p>
+    </div>
+</div>
+

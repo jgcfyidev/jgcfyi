@@ -41,7 +41,7 @@ body {
 
 h1, h2, h3, h4, h5, h6, thead {
   font-family: var(--font-header);
-  color: var(--dark);
+  color: var(--gray);
   font-weight: revert;
   margin: 2rem 0 0;
   padding: 2rem auto 1rem;
@@ -147,7 +147,6 @@ blockquote {
   border-left: 3px solid var(--secondary);
   padding-left: 1em;
   transition: border-color 0.2s ease;
-  font-style: italic;
   p:last-of-type {
     margin-left: 25px;
   }

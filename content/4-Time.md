@@ -1,37 +1,32 @@
 # 4. Time
-Generational Ways of Thinking
+<h4 style="margin-top:0; margin-bottom: 16px;">Generational Ways of Thinking</h4>
 
-Agency and limits both are strongly supported by traditions of
+<mark> Agency and limits both are strongly supported by traditions of
 generational knowledge transfer, rooted in specific place. Equilibrial
 investment and draw from local resources over generations grounds a
 community in time and place, giving joy in the present and assurance of
 the future.
+</mark>
 
-> Invest in the millenium. Plant sequoias.
->
-> Say that your main crop is the forest
->
-> that you did not plant,
->
-> that you will not live to harvest.
->
-> Say that the leaves are harvested
->
-> when they have rotted into the mold.
->
+> Invest in the millenium. Plant sequoias.\
+> Say that your main crop is the forest\
+> that you did not plant,\
+> that you will not live to harvest.\
+> Say that the leaves are harvested\
+> when they have rotted into the mold.\
 > Call that profit. Prophesy such returns.
 >
 > --- Wendell Berry, [Manifesto: The Mad Farmer Liberation
 > Front](https://cales.arizona.edu/~steidl/Liberation.html)
 
-So far, we have discussed how affectionate relationship unlocks pathways
+<mark> So far, we have discussed how affectionate relationship unlocks pathways
 for agency and limits to emerge in balance toward resilient home places.
 Now, we will explore how this equilibrium is matured across generations
 as we build local community memory---traditions of knowledge transfer
 edified by our relationship to that which came before us, and which
 comes after. Without these traditions, our rootlessness leads our
 children to increasingly fragile dependence.
-
+</mark>
 ## Place in Time and Time in Place
 
 A culture can be understood as an accumulation of its people's various
@@ -264,7 +259,7 @@ caused as much by institutional demands on economic (and
 [physical](https://agaveroadtrip.com/episodes/s4e28-problem-with-the-washington-post-article-about-mezcal#:~:text=soon%2Dto%2Dbe%2Dmonoculture%20espadin%20in%20Oaxaca))
 forms than natural demands of the market.
 
-{{<image src="/jgcfyi/media/image5.jpg" caption="Mezcal distillation in San Agustin Amatengo vs placeless <a href='https://insidethecask.com/2022/01/18/understanding-mezcal/'>industrial</a> distillation">}}
+{{<image-dual height="350px" src1="/jgcfyi/media/image5.jpg" src2="/jgcfyi/media/image13.png" caption="Mezcal distillation in San Agustin Amatengo vs placeless <a href='https://insidethecask.com/2022/01/18/understanding-mezcal/'>industrial</a> distillation">}}
 
 Despite instiutional intervention, we are capable of learning about the
 traditions we are [in

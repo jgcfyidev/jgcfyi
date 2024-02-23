@@ -1,28 +1,27 @@
 # 6. Action
-
-Capable new tools for collaborative action are poised to shift
+<mark>Capable new tools for collaborative action are poised to shift
 sovereignty back to small communities at more appropriate fidelity of
 empowered placemaking. Together, these tools can help us build a
 persistent community memory capable of carrying our places forward with
-vitality.
+vitality.</mark>
 
 --
 
-For an enduring community memory to sustain us, we must act to
+<mark>For an enduring community memory to sustain us, we must act to
 perpetuate it. The most important of such acts are simple: to listen to
 a friend or plant a tree. Still, there are some ways that community
 computing can help us grow in deeper relationship to our neighbors and
 our place. So finally, let's get into some specific near-term use cases
-for these technologies.
+for these technologies.</mark>
 
-The following discussion should be viewed as a
+<mark>The following discussion should be viewed as a
 [limited](https://genius.com/Twain-in-the-high-of-the-morning-lyrics#:~:text=I%20recall%20that%20I%20used%20to%20despair%20at%20the%20lost%20chance%20of%20knowing%0AA%20much%20longed%20for%20beauty%0ABut%20now%20that%20I%20know%20it%27s%20my%20duty%20to%20love%20life%0ANot%20try%20and%20know%20life%0ATo%20show%20it%2Dto%20show%20I%20don%27t%20know%20yet%20I%20know%20that%20it%27s%20real)
 view, drawing from the
 [many](https://ipfs.metalabel.xyz/ipfs/QmQvVuzF85JDapSAYd8Ke1H2V8ey5je28hbN1UUJn6Hu6e/pdfs/sacred-stack-the-art-of-cyborg-community.pdf)
 [brilliant](https://vitalik.eth.limo/general/2021/10/31/cities.html)
 and dedicated people building these tools. In reality, the open nature
 of these systems means that specific uses cannot be prescribed or
-predicted very far in advance.
+predicted very far in advance.</mark>
 
 ## Digital Identity
 

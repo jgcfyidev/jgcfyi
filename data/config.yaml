@@ -18,8 +18,6 @@ search:
   enableSemanticSearch: false
 description: 'A Framework for Building Resilient Communities Anchored in Relationship and Empowered by Collaborative Technology'
   
-page_title:
-  "jgc.fyi"
 links:
   - link_name: Twitter
     link: https://twitter.com/jgcfyi

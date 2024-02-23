@@ -1,13 +1,12 @@
 # 3. Limits
+<h4 style="margin-top:0; margin-bottom: 16px;">Derived in Affectionate Relationship to Each Other and our Places</h4>
 
-Derived in Affectionate Relationship to Each Other and our Places
-
-As globalized economies accumulate hidden existential debts,
+<mark>As globalized economies accumulate hidden existential debts,
 institutions seeking to control for risk instead reinforce our
 trajectory. Affectionate and empathetic relationship with the people and
 places around us can help more effectively build resilience and diffuse
 these risks.
-
+</mark>
 
 ## Outside Dependencies, Unknown Limits
 
@@ -233,13 +232,8 @@ population in check, which in turn allowed vegetation to recover. The
 recovery of willow stands provided more habitats for beavers, whose dams
 create habitats for other species.
 
-{{<image src="/jgcfyi/media/image10.png" caption="The regrowth of willow stands after the <a href='https://www.sciencedirect.com/science/article/abs/pii/S0006320711004046?via%3Dihub'>reintroduction</a> of wolves to Yellowstone <a href='https://www.semanticscholar.org/paper/Trophic-cascades-in-Yellowstone%3A-The-first-15-years-Ripple-Beschta/04dd403deb56b90a65cc6fc67ba51d35242875eb/figure/3'>(source)</a>">}}
-
-Despite the good result, the resource and time intensive process
-necessary simply to return to what were naturally sustainable ecologies
-should serve as a warning against the kind of
-[overzealous](https://www.institute.global/insights/tech-and-digitalisation/gene-editing-food-production-charting-way-forward)
-institutional influence our home places rely on today.
+{{<image-aside height="600px" src="/jgcfyi/media/image10.png" caption="The regrowth of willow stands after the <a href='https://www.sciencedirect.com/science/article/abs/pii/S0006320711004046?via%3Dihub'>reintroduction</a> of wolves to Yellowstone <a href='https://www.semanticscholar.org/paper/Trophic-cascades-in-Yellowstone%3A-The-first-15-years-Ripple-Beschta/04dd403deb56b90a65cc6fc67ba51d35242875eb/figure/3'>(source)</a>" aside="Despite the good result, the resource and time intensive process necessary simply to return to what were naturally sustainable ecologies should serve as a warning against the kind of <a href='https://www.institute.global/insights/tech-and-digitalisation/gene-editing-food-production-charting-way-forward'>overzealous</a> institutional influence our home places rely on today."
+>}}
 
 ## Limits Derived in Empathetic Relationship
 

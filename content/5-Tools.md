@@ -1,12 +1,12 @@
 # 5. Tools
+<h4 style="margin-top:0; margin-bottom: 16px;">Rooting our Computing in Place & Relationship</h4>
 
-Rooting our Computing in Place & Relationship
 
-Our tools and technologies amplify our habits of relating to each other,
+<mark> Our tools and technologies amplify our habits of relating to each other,
 our places, our organizational systems, and even time. More
 collaborative computing architectures can help us shed the prosthesis of
 institutional control and rebuild the locally-derived competency
-necessary to steward our places through generations.
+necessary to steward our places through generations. </mark>
 
 > *Personal Computers unleashed unimaginable levels of sovereignty &
 > interoperability for people.*
@@ -18,9 +18,9 @@ necessary to steward our places through generations.
 > ---   [Ethan
     Buchman](https://twitter.com/buchmanster/status/1466092508316905478)
 
-A healthy society is built on relationship, between people and to their
+<mark> A healthy society is built on relationship, between people and to their
 home places over time. Our tools can either support or undermine this
-delicate balance.
+delicate balance. </mark>
 
 ## Technology in Place
 

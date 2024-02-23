@@ -1,12 +1,13 @@
 # 1. Relationship
+<h4 style="margin-top:0; margin-bottom: 16px;">Balancing Agency and Limits Toward Empathetic Placemaking</h4>
 
-Balancing Agency and Limits Toward Empathetic Placemaking
-
+<mark>
 Despite the proliferation of impersonal organizational structures and
 abstract global economies, only the mutual extension of trust---grounded
 in affection for our home places---can foster traditions of placemaking
 strong enough to steward our communities sustainably through
 generations.
+</mark>
 
 ## Community Memory
 
