@@ -92,7 +92,7 @@ work](https://www.bloomberg.com/news/features/2023-07-11/china-s-hidden-debt-pro
 imposed on communities with no means of course correcting the
 bureaucracy in charge.
 
-{{<image src="/jgcfyi/media/image21.jpg" caption="Once pristine but now forgotten malls (and then neighborhoods) like <a href='https://www.flickr.com/photos/fireatwillrva/6800796760/'>this one</a> are the ininevitable result of a society that moves in straight lines rather than cycles. In such a world, it's often better to abandon than to maintain. ">}}
+{{<image src="/media/image21.jpg" caption="Once pristine but now forgotten malls (and then neighborhoods) like <a href='https://www.flickr.com/photos/fireatwillrva/6800796760/'>this one</a> are the ininevitable result of a society that moves in straight lines rather than cycles. In such a world, it's often better to abandon than to maintain. ">}}
 
 In the making of our places, state and federal transportation
 authorities are happy to
@@ -232,7 +232,7 @@ population in check, which in turn allowed vegetation to recover. The
 recovery of willow stands provided more habitats for beavers, whose dams
 create habitats for other species.
 
-{{<image-aside height="600px" src="/jgcfyi/media/image10.png" caption="The regrowth of willow stands after the <a href='https://www.sciencedirect.com/science/article/abs/pii/S0006320711004046?via%3Dihub'>reintroduction</a> of wolves to Yellowstone <a href='https://www.semanticscholar.org/paper/Trophic-cascades-in-Yellowstone%3A-The-first-15-years-Ripple-Beschta/04dd403deb56b90a65cc6fc67ba51d35242875eb/figure/3'>(source)</a>" aside="Despite the good result, the resource and time intensive process necessary simply to return to what were naturally sustainable ecologies should serve as a warning against the kind of <a href='https://www.institute.global/insights/tech-and-digitalisation/gene-editing-food-production-charting-way-forward'>overzealous</a> institutional influence our home places rely on today."
+{{<image-aside height="600px" src="/media/image10.png" caption="The regrowth of willow stands after the <a href='https://www.sciencedirect.com/science/article/abs/pii/S0006320711004046?via%3Dihub'>reintroduction</a> of wolves to Yellowstone <a href='https://www.semanticscholar.org/paper/Trophic-cascades-in-Yellowstone%3A-The-first-15-years-Ripple-Beschta/04dd403deb56b90a65cc6fc67ba51d35242875eb/figure/3'>(source)</a>" aside="Despite the good result, the resource and time intensive process necessary simply to return to what were naturally sustainable ecologies should serve as a warning against the kind of <a href='https://www.institute.global/insights/tech-and-digitalisation/gene-editing-food-production-charting-way-forward'>overzealous</a> institutional influence our home places rely on today."
 >}}
 
 ## Limits Derived in Empathetic Relationship
@@ -267,7 +267,7 @@ coherent](https://laidbackgardener.blog/2019/10/14/the-worlds-second-oldest-seal
 economic systems, we can develop more sustainable communities that also
 support broader organizational structures.
 
-{{<image src="/jgcfyi/media/image8.png" caption="A sustainable ecosystem which pairs energy flows and minimizes waste, bearing strong resemblance to Microsolidarity's polycentric vision of nested organizational systems. — Dr. Mae-Wan Ho, <a href='https://www.mdpi.com/2079-8954/1/3/30'>Circular Thermodynamics of Organisms and Sustainable Systems</a>">}}
+{{<image src="/media/image8.png" caption="A sustainable ecosystem which pairs energy flows and minimizes waste, bearing strong resemblance to Microsolidarity's polycentric vision of nested organizational systems. — Dr. Mae-Wan Ho, <a href='https://www.mdpi.com/2079-8954/1/3/30'>Circular Thermodynamics of Organisms and Sustainable Systems</a>">}}
 
 {{<twitter user="ryolithica" id="1467242928011550721" >}}
 
@@ -310,4 +310,4 @@ places, taking natural ecologies as an example. After that discussion,
 we will get into specific technologies that may aid us in maintaining
 these more sustainable organizational structures.
 
-{{<nav prevText="← 2. Agency" prevLink="/jgcfyi/2-Agency" nextLink="/jgcfyi/4-Time" nextText="4. Time →">}}
+{{<nav prevText="← 2. Agency" prevLink="/2-Agency" nextLink="/4-Time" nextText="4. Time →">}}

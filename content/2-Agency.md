@@ -209,7 +209,7 @@ to disease, leading to a crisis in German forestry that has
 [never](https://www.science.org/content/article/germany-s-trees-are-dying-fierce-debate-has-broken-out-over-how-respond)
 truly resolved.
 
-{{<image src="/jgcfyi/media/image1.png" caption="Illegible natural vs. legible 'scientific' forests - James C. Scott, <a href='https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/'>Seeing Like a State</a>">}}
+{{<image src="/media/image1.png" caption="Illegible natural vs. legible 'scientific' forests - James C. Scott, <a href='https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/'>Seeing Like a State</a>">}}
 
 When our communities themselves are made to be more measurable,
 traditional
@@ -324,7 +324,7 @@ Illich](https://www.youtube.com/watch?v=dcvJs6RS2Ek), and
 > ---   [Royal Swedish Academy of
 >    Sciences](https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2009.pdf)
 
-{{<image src="/jgcfyi/media/image16.png" caption="A traditional <a href='https://fmistnepal.wordpress.com/2014/04/09/'>farmer managed irrigation system</a> in Nepal">}}
+{{<image src="/media/image16.png" caption="A traditional <a href='https://fmistnepal.wordpress.com/2014/04/09/'>farmer managed irrigation system</a> in Nepal">}}
 
 ## Relationship and Dialogue 
 
@@ -383,7 +383,7 @@ the design of institutions affecting them are more successful."
 > Sciences](https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2009.pdf)
 
 
-{{<image src="/jgcfyi/media/image3.png" caption="A <a href='https://fmistnepal.wordpress.com/2014/04/09/'>farmers' meeting</a> in support of local irrigation management in Nepal">}}
+{{<image src="/media/image3.png" caption="A <a href='https://fmistnepal.wordpress.com/2014/04/09/'>farmers' meeting</a> in support of local irrigation management in Nepal">}}
 
 And so the tragedy of the commons is not some sort of hard
 [scientific](https://www.jstor.org/stable/40368894)
@@ -502,7 +502,7 @@ This kind of physical informality builds trust and invites engagement.
 > --- [William H.
 Whyte](https://www.urbancincy.com/2010/05/clifton-plaza-an-early-success-improvements-needed/#:~:text=%E2%80%9CThe%20possibility%20of,and%20rather%20satisfying.%E2%80%9D)
 
-{{<image src="/jgcfyi/media/image20.jpg" caption="1991: Before the bistro chair, Bryant Park Corporation added white plastic chairs for the park's partial reopening in July 1991. Skeptics said they'd be stolen, but most remained in the park. — <a href='https://www.flickr.com/photos/bryantpark/7113772829/in/album-72157629899969863/'>Bryant Park Corporation</a>">}}
+{{<image src="/media/image20.jpg" caption="1991: Before the bistro chair, Bryant Park Corporation added white plastic chairs for the park's partial reopening in July 1991. Skeptics said they'd be stolen, but most remained in the park. — <a href='https://www.flickr.com/photos/bryantpark/7113772829/in/album-72157629899969863/'>Bryant Park Corporation</a>">}}
 
 
 ## Extension of Trust Means Giving Up Power
@@ -650,7 +650,7 @@ contexts they cannot properly manage.
 > --- Gandhi, [Panchayat
 Raj](https://www.gandhiashramsevagram.org/mind-of-mahatma-gandhi/panchayat-raj.php#:~:text=In%20this%20structure,strength%20from%20it.)
 
-{{<image src="/jgcfyi/media/image26.png" caption="<a href='https://www.youtube.com/watch?v=ekT_WpgBQ0w&t=2516s'>Visualization</a> of Gandhi's Oceanic Circles">}}
+{{<image src="/media/image26.png" caption="<a href='https://www.youtube.com/watch?v=ekT_WpgBQ0w&t=2516s'>Visualization</a> of Gandhi's Oceanic Circles">}}
 
 Today, community-building practitioners like
 [Microsolidarity](https://www.microsolidarity.cc/essays/five-scales-of-microsolidarity)
@@ -660,7 +660,7 @@ but non-hierarchical. Their model is structured around a progression
 from the self-as-a-group → the dyad (2 people) → the crew (about 3-5) →
 the congregation (about 15-150) → the network of congregations.
 
-{{<image src="/jgcfyi/media/image12.png" caption="A <a href='https://www.microsolidarity.cc/essays/a-developmental-pathway'>developmental pathway</a> to building a networked organization via Microsolidarity">}}
+{{<image src="/media/image12.png" caption="A <a href='https://www.microsolidarity.cc/essays/a-developmental-pathway'>developmental pathway</a> to building a networked organization via Microsolidarity">}}
 
 Another emerging paradigm,
 [cosmolocalism](https://actionforesight.net/cosmo-localism-and-the-futures-of-material-production/)
@@ -767,4 +767,4 @@ this series, we'll discuss explicitly how new protocols for coordination
 can help move our physical communities toward a society with more
 agency.
 
-{{<nav prevText="← 1. Relationship" prevLink="/jgcfyi/1-Relationship" nextLink="/jgcfyi/3-Limits" nextText="3. Limits →">}}
+{{<nav prevText="← 1. Relationship" prevLink="/1-Relationship" nextLink="/3-Limits" nextText="3. Limits →">}}

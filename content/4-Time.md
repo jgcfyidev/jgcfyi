@@ -39,7 +39,7 @@ resulting cultures at the core. Here we can see that affection for our
 place not only grounds our relationship to each other and limits, but
 also to time.
 
-{{<image src="/jgcfyi/media/image7.png" caption="Pace Layering Visualized">}}
+{{<image src="/media/image7.png" caption="Pace Layering Visualized">}}
 
 As our cultural center
 [moves](https://www.entrepreneur.com/science-technology/a-world-of-difference-the-transformation-from-physical-to/430683)
@@ -189,7 +189,7 @@ that is not a 'movement' but a self-sustaining system with stabilized
 consumption and production, whose prospects of health in the future are
 deeply in relationship with today's habits.
 
-{{<image src="/jgcfyi/media/image24.png">}}
+{{<image src="/media/image24.png">}}
 
 
 > The hierarchy in scale of pine needle, tree crown, patch, stand, whole
@@ -259,7 +259,7 @@ caused as much by institutional demands on economic (and
 [physical](https://agaveroadtrip.com/episodes/s4e28-problem-with-the-washington-post-article-about-mezcal#:~:text=soon%2Dto%2Dbe%2Dmonoculture%20espadin%20in%20Oaxaca))
 forms than natural demands of the market.
 
-{{<image-dual height="350px" src1="/jgcfyi/media/image5.jpg" src2="/jgcfyi/media/image13.png" caption="Mezcal distillation in San Agustin Amatengo vs placeless <a href='https://insidethecask.com/2022/01/18/understanding-mezcal/'>industrial</a> distillation">}}
+{{<image-dual height="350px" src1="/media/image5.jpg" src2="/media/image13.png" caption="Mezcal distillation in San Agustin Amatengo vs placeless <a href='https://insidethecask.com/2022/01/18/understanding-mezcal/'>industrial</a> distillation">}}
 
 Despite instiutional intervention, we are capable of learning about the
 traditions we are [in
@@ -337,7 +337,7 @@ to broader regulatory structures, a language for every village is
 probably not the sweet spot for the coordination of resilient physical
 communities at this point in humanity\'s development.
 
-{{<image src="/jgcfyi/media/image11.jpg" caption="A photo I took in one such valley-bound <a href='https://maps.app.goo.gl/wFDAX1ooHZhgDSBk6'>village</a> in Sichuan in 2013. The camera shutter was giving me issues, rending half of the image illegible, an apt representation of this place.">}}
+{{<image src="/media/image11.jpg" caption="A photo I took in one such valley-bound <a href='https://maps.app.goo.gl/wFDAX1ooHZhgDSBk6'>village</a> in Sichuan in 2013. The camera shutter was giving me issues, rending half of the image illegible, an apt representation of this place.">}}
 
 Instead of having to choose between isolated local traditions or
 monolithic unilaterally coordinated institutions, we can employ
@@ -393,4 +393,4 @@ dependencies.
 > ---   [Brian
     Eno](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2#:~:text=%22Civilizations%20with%20long%20nows%20look%20after%20things%20better%2C%22%20says%20Brian%20Eno.%C2%A0%20%22In%20those%20places%20you%20feel%20a%20very%20strong%20but%20flexible%20structure%20which%20is%20built%20to%20absorb%20shocks%20and%20in%20fact%20incorporate%20them.%221)
 
-{{<nav prevText="← 3. Limits" prevLink="/jgcfyi/3-Limits" nextLink="/jgcfyi/5-Tools" nextText="5. Tools →">}}
+{{<nav prevText="← 3. Limits" prevLink="/3-Limits" nextLink="/5-Tools" nextText="5. Tools →">}}
