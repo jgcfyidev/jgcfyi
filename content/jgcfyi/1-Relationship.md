@@ -149,7 +149,7 @@ place](https://www.youtube.com/watch?v=wS3-PffLKqM&t=1100s).
 > Berry](https://en.wikipedia.org/wiki/Wendell_Berry), *The
 > Art of Loading Brush*
 
-{{<image src="/jgcfyi/media/image9.png">}}
+{{<image src="/jgcfyi/jgcfyi/media/image9.png">}}
 
 ## The Persistence of Place
 
@@ -169,7 +169,7 @@ now try to
 [amend](https://www.nytimes.com/interactive/2021/05/27/climate/us-cities-highway-removal.html)
 those mistakes 80 years later.
 
-{{<image src="/jgcfyi/media/image4.png" height="600px" caption="Boston <a href='https://www.reddit.com/r/OldPhotosInRealLife/comments/s3b3d0/boston_1938_vs_1969_before_the_big_dig/'>before and after</a> I-93 was built through the <a href='https://en.wikipedia.org/wiki/Interstate_93#History:~:text=This%20new%20highway%20was%20greatly%20disliked%20by%20the%20citizens%20of%20the%20city%20because%20it%20cut%20the%20heart%20of%20the%20city%20in%20half%3B%20cast%20long%2C%20dreary%20shadows%3B%20and%20was%20an%20eyesore%20to%20the%20community.'>middle of downtown</a> in the 1950s">}}
+{{<image src="/jgcfyi/jgcfyi/media/image4.png" height="600px" caption="Boston <a href='https://www.reddit.com/r/OldPhotosInRealLife/comments/s3b3d0/boston_1938_vs_1969_before_the_big_dig/'>before and after</a> I-93 was built through the <a href='https://en.wikipedia.org/wiki/Interstate_93#History:~:text=This%20new%20highway%20was%20greatly%20disliked%20by%20the%20citizens%20of%20the%20city%20because%20it%20cut%20the%20heart%20of%20the%20city%20in%20half%3B%20cast%20long%2C%20dreary%20shadows%3B%20and%20was%20an%20eyesore%20to%20the%20community.'>middle of downtown</a> in the 1950s">}}
 
 Decisions made about our places today will
 [impact](https://www.youtube.com/watch?v=JsT9V3WQiNA&t=383s)
@@ -221,8 +221,8 @@ applied---especially as time distances planner from planned.
 > Cities](https://en.wikipedia.org/wiki/The_Death_and_Life_of_Great_American_Cities)*
 
 
-{{<image src="/jgcfyi/media/image14.png">}}
-{{<image src="/jgcfyi/media/image17.png" caption="Places made for consumers vs places made by their residents">}}
+{{<image src="/jgcfyi/jgcfyi/media/image14.png">}}
+{{<image src="/jgcfyi/jgcfyi/media/image17.png" caption="Places made for consumers vs places made by their residents">}}
 
 Today the power to change a neighborhood is primarily reserved for
 '[visionaries](https://www.youtube.com/watch?v=37zF36oq0jE)'
@@ -313,7 +313,7 @@ living', to a dangerous dependence on fragile
 [systems](https://www.researchgate.net/publication/290557797_Global_supply_chains_disasters_and_externalities_How_complex_supply_networks_create_damaging_externalities_and_its_consequences)
 beyond local control.
 
-{{<image src="/jgcfyi/media/image25.png">}}
+{{<image src="/jgcfyi/jgcfyi/media/image25.png">}}
 
 
 This pattern is evident in many rural American communities, where
@@ -329,7 +329,7 @@ see
 when the retailers choose to
 [close](https://youtu.be/p3O6bKdPLbw?t=471) or move.
 
-{{<image src="/jgcfyi/media/image6.jpg" caption="A <a href='https://commons.wikimedia.org/wiki/File:Hamilton_County,_TN_abandoned_store.jpg'>shuttered</a> Walmart in Hamilton County, TN">}}
+{{<image src="/jgcfyi/jgcfyi/media/image6.jpg" caption="A <a href='https://commons.wikimedia.org/wiki/File:Hamilton_County,_TN_abandoned_store.jpg'>shuttered</a> Walmart in Hamilton County, TN">}}
 
 ## Catalysts of Change in a Society Managed at Scale
 
