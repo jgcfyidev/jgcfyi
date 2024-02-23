@@ -911,4 +911,4 @@ from within. Instead, the answer lies in a long-term commitment to our
 places and a willingness to engage with new tools to build a sustained
 and vibrant community memory.
 
-{{<nav prevText="← 5. Tools" prevLink="/5-Tools">}}
+{{<nav prevText="← 5. Tools" prevLink="/jgcfyi/5-Tools">}}

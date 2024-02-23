@@ -767,4 +767,4 @@ this series, we'll discuss explicitly how new protocols for coordination
 can help move our physical communities toward a society with more
 agency.
 
-{{<nav prevText="← 1. Relationship" prevLink="/1-Relationship" nextLink="/3-Limits" nextText="3. Limits →">}}
+{{<nav prevText="← 1. Relationship" prevLink="/jgcfyi/1-Relationship" nextLink="/jgcfyi/3-Limits" nextText="3. Limits →">}}

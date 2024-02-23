@@ -675,4 +675,4 @@ alongside more universally available and [credibly
 neutral](https://nakamoto.com/credible-neutrality/) rails
 for sharing knowledge.
 
-{{<nav prevText="← 4. Time" prevLink="/4-Time" nextLink="/6-Action" nextText="6. Action →">}}
+{{<nav prevText="← 4. Time" prevLink="/jgcfyi/4-Time" nextLink="/jgcfyi/6-Action" nextText="6. Action →">}}

@@ -310,4 +310,4 @@ places, taking natural ecologies as an example. After that discussion,
 we will get into specific technologies that may aid us in maintaining
 these more sustainable organizational structures.
 
-{{<nav prevText="← 2. Agency" prevLink="/2-Agency" nextLink="/4-Time" nextText="4. Time →">}}
+{{<nav prevText="← 2. Agency" prevLink="/jgcfyi/2-Agency" nextLink="/jgcfyi/4-Time" nextText="4. Time →">}}
