@@ -16,9 +16,7 @@ enableMermaid: true
 GitHubLink: https://github.com/jgcfyidev/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
-  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
-description:
+description: 'A Framework for Building Resilient Communities Anchored in Relationship and Empowered by Collaborative Technology'
   
 page_title:
   "jgc.fyi"
@@ -27,5 +25,3 @@ links:
     link: https://twitter.com/jgcfyi
   - link_name: Mirror
     link: https://mirror.xyz/jgcfyi.eth
-  - link_name: Admiration
-    link: /jgcfyi/admiration

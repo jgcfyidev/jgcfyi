@@ -1,0 +1,9 @@
+<!-- nav html -->
+<div style="display: flex; flex-wrap: nowrap;">
+    <div>
+        <a href="{{.Get "prevLink" | safeHTML}}">{{.Get "prevText" | safeHTML}}</a>
+    </div>
+    <div style="margin-left: auto;">
+        <a href="{{.Get "nextLink" | safeHTML}}">{{.Get "nextText" | safeHTML}}</a>
+    </div>
+</div>

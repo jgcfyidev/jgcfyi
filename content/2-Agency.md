@@ -254,20 +254,24 @@ or technological counterparts.
 > local places, pleasures, and associations. Our knowledge, in short,
 > has become increasingly statistical.
 >
-> \- Wendell Berry, [It All Turns on
+> --- Wendell Berry, [It All Turns on
 > Affection](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.pdf)
 
-### A Note on States
 
-Of course, states and other government institutions aren't miserable at
-*everything*. They're useful for managing common legal frameworks, the
-protection of basic human rights, as well as a check against powerful
-non-state institutions such as large corporations. In those cases, the
-state creates a common substrate with which communities can interface
-more freely. When it comes to local placemaking, though, the modern
-state\'s reach strays far beyond clearing space for coordination.
-Instead, its prescriptive intervention has a habit of suffocating the
-vitality that trust invites.
+
+> [!info]- A Note on States
+>
+> Of course, states and other government institutions aren't miserable at
+> *everything*. They're useful for managing common legal frameworks, the
+> protection of basic human rights, as well as a check against powerful
+> non-state institutions such as large corporations. In those cases, the
+> state creates a common substrate with which communities can interface
+> more freely. When it comes to local placemaking, though, the modern
+> state\'s reach strays far beyond clearing space for coordination.
+> Instead, its prescriptive intervention has a habit of suffocating the
+> vitality that trust invites.
+
+
 
 ## Affection is Competence
 
@@ -447,7 +451,7 @@ more than simply scorning non-local institutions, first we must better
 understand what healthy patterns of locally sensitive relationship look
 like.
 
-[https://twitter.com/jgcfyi/status/1543957797976547329?](https://twitter.com/jgcfyi/status/1543957797976547329?s=20&t=NsRfqgiIHoqQXM5SJlHqnw)
+{{<twitter user="jgcfyi" id="1543957797976547329" >}}
 
 Foundationally, vibrant communities are built on informal and empathetic
 [relationships](https://www.researchgate.net/publication/344484649_Examining_the_Correlates_of_Psychological_Flexibility_in_Romantic_Relationship_and_Family_Dynamics_A_Meta-Analysis)
@@ -554,7 +558,7 @@ as well.
 
 > The first big thing Bezos realized is that the infrastructure they\'d
 > built for selling and shipping books and sundry could be transformed
-> \[into\] an excellent repurposable computing platform. The other big
+> [into] an excellent repurposable computing platform. The other big
 > realization he had was that he can\'t ... build one product and have
 > it be right for everyone.
 >
@@ -570,7 +574,7 @@ social media platforms similarly host a whole universe of user-generated
 content.
 
 The difference between these
-[platforms](https://outland.art/art-games/#:~:text=This%20is%20also%20how%20platform%20capitalism%20works!),
+[platforms](https://outland.art/art-games/#:~:text=This%20is%20also%20how%20platform%20capitalism%20works),
 though, and the agency-delivering organizational structures we should
 aspire to, is that the platform owners can [take away
 access](https://99percentinvisible.org/episode/the-lost-cities-of-geo/transcript/#:~:text=And%20then%2C%20the%20world%20ended.)
@@ -583,19 +587,12 @@ Without giving full-control to users, platforms can
 offer a taste of what more empowering organizational technologies can
 offer in terms of trustworthiness, interoperability, and permanence.
 
-#### A Note on Protocols
+> [!info]-
 
-The progression toward open architectures that empower communities finds
-its completion in
-[protocols](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech):
-open
-[standards](https://www.youtube.com/watch?v=9Cs9Yf6WpUk)
-for organization not controlled by any specific individual or company.
-These
-[technological](https://summerofprotocols.com/research)
-building blocks offer the scaffolding for replicable alternatives to
-central planning and will see much more discussion in the final essays
-of this series.
+> A Note on Protocols
+>
+> The progression toward open architectures that empower communities finds its completion in [protocols](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech): open [standards](https://www.youtube.com/watch?v=9Cs9Yf6WpUk) for organization not controlled by any specific individual or company. These [technological](https://summerofprotocols.com/research) building blocks offer the scaffolding for replicable alternatives to central planning and will see much more discussion in the final essays of this series.
+>
 
 ## Alternatives to Central Planning
 
@@ -769,3 +766,5 @@ the internet as a substrate for coordination. In subsequent parts of
 this series, we'll discuss explicitly how new protocols for coordination
 can help move our physical communities toward a society with more
 agency.
+
+{{<nav prevText="← 1. Relationship" prevLink="/1-Relationship" nextLink="/3-Limits" nextText="3. Limits →">}}

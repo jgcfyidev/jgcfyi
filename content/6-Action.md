@@ -107,33 +107,33 @@ they are more
 [permanent](https://vitalik.ca/general/2022/01/26/soulbound.html)
 and portable than any more self-contained identity solution.
 
-#### A Note on Privacy
-
-While crypto emphasizes
-[privacy](https://en.wikipedia.org/wiki/Tornado_Cash) as a
-core value, paradoxically any interaction with most blockchains today
-are completely open and
-[traceable](https://www.chainalysis.com/why-chainalysis/).
-[Zero-knowledge
-proofs](https://ethereum.org/en/zero-knowledge-proofs) are
-an innovation that promise to bring [privacy to crypto
-networks](http://learn.0xparc.org/materials/circom/learning-group-1/intro-zkp)
-by allowing the validity of a statement to be established without
-revealing the statement itself. Tools can be built on open
-infrastructure, but personal data can remain in control of the user and
-shared only to the extent desired.
-
-This kind of privacy is vital for many of the systems we're discussing
-here and, very excitingly, already beginning to be possible. In fact,
-there are
-[already](https://semaphore.appliedzkp.org/docs/introduction)
-[identity](https://docs.sismo.io/sismo-docs/)
-[systems](https://web.archive.org/web/20230306023654/https://irma.app/),
-[messaging](https://www.heyanon.xyz/), and
-[blockchain](https://aztec.network/) applications
-experimenting with the implications of
-[zero-knowledge](https://www.youtube.com/watch?v=fOGdb1CTu5c)
-privacy tools.
+> [!info]- A Note on Privacy
+> 
+>While crypto emphasizes
+>[privacy](https://en.wikipedia.org/wiki/Tornado_Cash) as a
+>core value, paradoxically any interaction with most blockchains today
+>are completely open and
+>[traceable](https://www.chainalysis.com/why-chainalysis/).
+>[Zero-knowledge
+>proofs](https://ethereum.org/en/zero-knowledge-proofs) are
+>an innovation that promise to bring [privacy to crypto
+>networks](http://learn.0xparc.org/materials/circom/learning-group-1/intro-zkp)
+>by allowing the validity of a statement to be established without
+>revealing the statement itself. Tools can be built on open
+>infrastructure, but personal data can remain in control of the user and
+>shared only to the extent desired.
+>
+>This kind of privacy is vital for many of the systems we're discussing
+>here and, very excitingly, already beginning to be possible. In fact,
+>there are
+>[already](https://semaphore.appliedzkp.org/docs/introduction)
+>[identity](https://docs.sismo.io/sismo-docs/)
+>[systems](https://web.archive.org/web/20230306023654/https://irma.app/),
+>[messaging](https://www.heyanon.xyz/), and
+>[blockchain](https://aztec.network/) applications
+>experimenting with the implications of
+>[zero-knowledge](https://www.youtube.com/watch?v=fOGdb1CTu5c)
+>privacy tools.
 
 ### Digital Hardness
 
@@ -424,15 +424,15 @@ autonomy and verifiability that blockchains offer.
 Today, blockchain-based tools like
 [Juicebox](https://juicebox.money/) provide simple
 infrastructure for crowdfunding and distributing shared ownership over
-digital property. [Gitcoin [Grants
+digital property. [Gitcoin Grants
 Stack](https://www.gitcoin.co/grants-stack) allows users to
-coordinate community-driven grants funding.]{.mark}
-[[Clr.fund](https://clr.fund/#/about) allows participants
+coordinate community-driven grants funding.
+[Clr.fund](https://clr.fund/#/about) allows participants
 to crowdfund public goods with the aid of [quadratic
 funding](https://vitalik.ca/general/2019/12/07/quadratic.html),
 where philanthropic individuals or organizations contribute to a
 matching pool that is dispersed in higher proportion to causes with more
-individual donors.]{.mark}
+individual donors.
 
 ## Collective Ownership and Action
 
@@ -625,36 +625,36 @@ for cities themselves.
 
 {{<image src="/jgcfyi/media/image19.png" caption="A CNC design for a 'parklet' made free to use by <a href='Wikiblock'>https://www.betterblock.org/product-page/mobility-parklet</a>">}}
 
-#### A Note on Hyperfinancialization
-
-In advocating for new forms of ownership, we risk movement towards a
-kind of hyperfinancialization that only serves technocratic systems of
-financial control. While I have already written [about
-this](https://mirror.xyz/jgc.eth/-pGobZqAYOqA1spo9ldV4C7p2LifNjtwQibwXAxLkVk)
-elsewhere, it is worth directly addressing the tendency in the crypto
-community to treat market
-[liquidity](https://twitter.com/balajis/status/1364821818398318595)
-as a
-[virtue](https://twitter.com/cburniske/status/1471519286078308359).
-
-Balaji Srinivasan
-[envisions](https://tim.blog/2021/11/17/balaji-srinivasan-2-trancript/#:~:text=Every%20ideology%2C%20everything%20will%20have%20a%20price%2C%20which%20roughly%20reflects%20people%E2%80%99s%20measure%20of%20belief%20in%20it)
-a world where, "every ideology, everything will have a price, which
-roughly reflects people's measure of belief in it." Today you can
-already find intimate artwork representing [childhood
-memories](https://opensea.io/collection/ryans-memories)
-available on 24/7 marketplaces. This kind of
-[hyperliquidity] [of
-everything](https://www.forbes.com/sites/worldeconomicforum/2016/11/10/shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/?sh=7a264f571735#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service.)---and
-the resulting
-[hypermobility](https://www.fastcompany.com/90779384/heres-what-to-know-about-flow-adam-neumanns-newly-flush-with-cash-real-estate-startup#:~:text=Flow%20wants%20to%20be%20a%20housing%20utopia%20for%20remote%20workers.)---[objectifies
-personal relatedness](https://twitter.com/friendtech). It
-works directly against genuine loving care for specific
-places---***the*** necessary ingredient for sustainable and resilient
-places. Much more is said about the consequences of the distance that
-subsuming markets create in the essay [It All Turns on
-Affection](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.pdf)
-by Wendell Berry.
+> [!info]- A Note on Hyperfinancialization
+>
+> In advocating for new forms of ownership, we risk movement towards a
+> kind of hyperfinancialization that only serves technocratic systems of
+> financial control. While I have already written [about
+> this](https://mirror.xyz/jgc.eth/-pGobZqAYOqA1spo9ldV4C7p2LifNjtwQibwXAxLkVk)
+> elsewhere, it is worth directly addressing the tendency in the crypto
+> community to treat market
+> [liquidity](https://twitter.com/balajis/status/1364821818398318595)
+> as a
+> [virtue](https://twitter.com/cburniske/status/1471519286078308359).
+>
+>Balaji Srinivasan
+>[envisions](https://tim.blog/2021/11/17/balaji-srinivasan-2-trancript/>#:~:text=Every%20ideology%2C%20everything%20will%20have%20a%20price%2C%20which%20roughly%20reflects%20peo>ple%E2%80%99s%20measure%20of%20belief%20in%20it)
+>a world where, "every ideology, everything will have a price, which
+>roughly reflects people's measure of belief in it." Today you can
+>already find intimate artwork representing [childhood
+>memories](https://opensea.io/collection/ryans-memories)
+>available on 24/7 marketplaces. This kind of
+>[hyperliquidity] [of
+>everything](https://www.forbes.com/sites/worldeconomicforum/2016/11/10/>shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/?>sh=7a264f571735#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service>.)---and
+>the resulting
+>[hypermobility](https://www.fastcompany.com/90779384/>heres-what-to-know-about-flow-adam-neumanns-newly-flush-with-cash-real-estate-startup#:~:text=Flow%20want>s%20to%20be%20a%20housing%20utopia%20for%20remote%20workers.)---[objectifies
+>personal relatedness](https://twitter.com/friendtech). It
+>works directly against genuine loving care for specific
+>places---***the*** necessary ingredient for sustainable and resilient
+>places. Much more is said about the consequences of the distance that
+>subsuming markets create in the essay [It All Turns on
+>Affection](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.>pdf)
+>by Wendell Berry.
 
 ### Social Coordination
 
@@ -911,3 +911,5 @@ institutions](https://twitter.com/jgcfyi/status/1503822879552688129)
 from within. Instead, the answer lies in a long-term commitment to our
 places and a willingness to engage with new tools to build a sustained
 and vibrant community memory.
+
+{{<nav prevText="← 5. Tools" prevLink="/5-Tools">}}

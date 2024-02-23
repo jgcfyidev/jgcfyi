@@ -25,7 +25,7 @@ into our economic system, often with our
 '[best](https://www.economist.com/finance-and-economics/2022/06/15/the-construction-industry-remains-horribly-climate-unfriendly?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=17210591673&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gad_source=1&gclid=Cj0KCQiA7OqrBhD9ARIsAK3UXh1juWsfFNih08gr-bvOty-1E0Brzw8QqF9bd21dCz4tQ6VVPlUztWYaAtWpEALw_wcB)'
 places becoming the most dependent on this exploitation.
 
-[https://twitter.com/samdknowlton/status/1611073311580225536](https://twitter.com/samdknowlton/status/1611073311580225536)
+{{<twitter user="samdknowlton" id="1611073311580225536" >}}
 
 Sadly, in a consumption-focused context, where places are seen as
 products, there are progressively
@@ -275,7 +275,8 @@ support broader organizational structures.
 
 {{<image src="/jgcfyi/media/image8.png" caption="A sustainable ecosystem which pairs energy flows and minimizes waste, bearing strong resemblance to Microsolidarity's polycentric vision of nested organizational systems. — Dr. Mae-Wan Ho, <a href='https://www.mdpi.com/2079-8954/1/3/30'>Circular Thermodynamics of Organisms and Sustainable Systems</a>">}}
 
-> [https://twitter.com/ryolithica/status/1467242928011550721](https://twitter.com/ryolithica/status/1467242928011550721)
+{{<twitter user="ryolithica" id="1467242928011550721" >}}
+
 
 ### Iteration is Catastrophe's Antidote
 
@@ -314,3 +315,5 @@ Next we will explore a generational way of thinking about our home
 places, taking natural ecologies as an example. After that discussion,
 we will get into specific technologies that may aid us in maintaining
 these more sustainable organizational structures.
+
+{{<nav prevText="← 2. Agency" prevLink="/2-Agency" nextLink="/4-Time" nextText="4. Time →">}}

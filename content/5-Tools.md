@@ -98,27 +98,25 @@ as they relate to affectionate economies, rooted in their place. The
 concluding piece in the series will more deeply explore near term
 applications in our physical communities.
 
-#### A Note on Terms
-
-In the discussion of these technologies, I'll try to use plain ([if
-uncommon](https://bank.dev/vox#:~:text=By%20inventing%20new,without%20any%20connotations.))
-language instead of terms like 'crypto', not only for the sake of those
-who are unfamiliar with the language of '[crypto
-twitter](https://www.coindesk.com/learn/getting-started-with-crypto-twitter/)'
-but also because many in the field have been made
-[cynics](https://milkyeggs.com/crypto/the-doomer-case-for-the-final-death-of-crypto/)
-by recent failures of its culture to produce worthwhile tools. Thinking
-in terms of 'community computing' can help us [lift our collective
-gaze](https://jzhao.xyz/posts/communal-computing/) to what
-is possible with these technologies beyond the [many
-failures](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine)
-we see today.
-
-> Blockchains are not personal-computing operating systems; they are
-> social systems
+> [!info]- A Note on Terms
 >
-> ---   [Vitalik
-    Buterin](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html#:~:text=blockchains%20are%20not%20personal%2Dcomputing%20operating%20systems%3B%20they%20are%20social%20systems)
+>In the discussion of these technologies, I'll try to use plain ([if
+>uncommon](https://bank.dev/vox#:~:text=By%20inventing%20new,without%20any%20connotations.))
+>language instead of terms like 'crypto', not only for the sake of those
+>who are unfamiliar with the language of '[crypto
+>twitter](https://www.coindesk.com/learn/getting-started-with-crypto-twitter/)'
+>but also because many in the field have been made
+>[cynics](https://milkyeggs.com/crypto/the-doomer-case-for-the-final-death-of-crypto/)
+>by recent failures of its culture to produce worthwhile tools. Thinking
+>in terms of 'community computing' can help us [lift our collective
+>gaze](https://jzhao.xyz/posts/communal-computing/) to what
+>is possible with these technologies beyond the [many
+>failures](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine)
+>we see today.
+>
+>
+> Blockchains are not personal-computing operating systems; they are social systems
+> ---   [Vitalik Buterin](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html#:~:text=blockchains%20are%20not%20personal%2Dcomputing%20operating%20systems%3B%20they%20are%20social%20systems)
 
 ## Societal Change Spurred by Technology
 
@@ -532,65 +530,66 @@ crypto networks and communities results in a dynamic,
 [spontaneous](https://www.bloomberg.com/news/articles/2022-07-21/tokyo-s-urban-planning-secrets-revealed-in-new-book?utm_campaign=socialflow-organic&utm_medium=social&utm_content=citylab&utm_source=facebook&fbclid=IwAR0Q1YkB3xBCktSgVSYH8thtdDAhKmnL33duCYSNoSTzHNrGVQnyF9994eU#:~:text=Tokyo%20was%20shaped%20not%20solely%20by%20disorder%20or%20grand%20design%20but%20by%20the%20intermingling%20of%20daily%20small%20choices%20that%20create%20spontaneous%20patterns%20from%20the%20bottom%20up)
 and iterative ecosystem, all key factors in fostering agency.
 
-### A Note on Digital Agency
 
-The
-[erosion](https://twitter.com/jgcfyi/status/1503822879552688129)
-of opportunities for building agency in the physical world has led some
-to pursue [digital-first
-sovereignty](https://twitter.com/balajis/status/1547851370924892161),
-even going so far as to suggest [network
-states](https://thenetworkstate.com/): political entities
-whose members are digitally and philosophically united, though
-physically dispersed. I
-[acknowledge](https://twitter.com/jgcfyi/status/1548028452355182593)
-that
-[sometimes](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency#:~:text=(There%20are%20good,Start%20typing.))
-digital agency is the only form of agency people have available, however
-I am
-[doubtful](https://twitter.com/jgcfyi/status/1548028447561134090)
-that [this approach](https://thenetworkstate.com/) can
-lead to healthy communities over generations because it is not grounded
-in place.
+> [!info]- A Note on Digital Agency
+>
+>The
+>[erosion](https://twitter.com/jgcfyi/status/1503822879552688129)
+>of opportunities for building agency in the physical world has led some
+>to pursue [digital-first
+>sovereignty](https://twitter.com/balajis/status/1547851370924892161),
+>even going so far as to suggest [network
+>states](https://thenetworkstate.com/): political entities
+>whose members are digitally and philosophically united, though
+>physically dispersed. I
+>[acknowledge](https://twitter.com/jgcfyi/status/1548028452355182593)
+>that
+>[sometimes](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency#:~:text=>(There%20are%20good,Start%20typing.))
+>digital agency is the only form of agency people have available, however
+>I am
+>[doubtful](https://twitter.com/jgcfyi/status/1548028447561134090)
+>that [this approach](https://thenetworkstate.com/) can
+>lead to healthy communities over generations because it is not grounded
+>in place.
+>
+>Digital tools can be powerful for scratching our natural itch for
+>agency, but anchoring them in a physical reality (as makerspaces do)
+>helps to avoid
+>[manipulation](https://www.vox.com/2018/4/14/17236504/>jaron-lanier-ted-talk-social-networks-behavior-modification-ads#:~:text=%E2%80%9CI%20don%E2%80%99t%20beli>eve%20our%20species%20can%20survive%20unless%20we%20fix%20this%2C%E2%80%9D%20he%20said.>%20%E2%80%9CWe%20cannot%20have%20a%20society%20in%20which%2C%20if%20two%20people%20wish%20to%20communicat>e%2C%20the%20only%20way%20that%20can%20happen%20is%20if%20it%E2%80%99s%20financed%20by%20a%20third%20pers>on%20who%20wishes%20to%20manipulate%20them.%E2%80%9D)
+>by and dependency on outside actors, as we are now [subjected
+>to](https://web.archive.org/web/20230602073622/https://www.nytimes.com/2014/06/30/technology/>facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.>html#:~:text=Facebook%20routinely%20adjusts%20its%20users%E2%80%99%20news%20feeds%20%E2%80%94%20testing%2>0out%20the%20number%20of%20ads%20they%20see%20or%20the%20size%20of%20photos%20that%20appear%20%E2%80%94%2>0often%20without%20their%20knowledge.>%20It%20is%20all%20for%20the%20purpose%2C%20the%20company%20says%2C%20of%20creating%20a%20more%20alluring>%20and%20useful%20product.)
+>in
+>[most](https://www.theguardian.com/technology/2016/mar/17/>i-though-my-instagram-was-all-mine-until-the-algorithm-proved-me-wrong)
+>[internet
+>communities](https://www.pnas.org/doi/10.1073/pnas.2119924119).
+>And so, grassroots physical subversions of presiding economic and
+>political structures, such as spontaneous scrap recycling in
+>[Agbogbloshie](https://www.youtube.com/watch?v=i_wtaoHCw3k),
+>are more potent than digital ones that hope to
+>[retroactively](https://thenetworkstate.com/on-network-states#:~:text=Instead%2C%20you%20found,>like%20the%20NASDAQ.)
+>embody themselves.
+>
+> {{<twitter user="jgcfyi" id="1548028450891476992" >}}
 
-Digital tools can be powerful for scratching our natural itch for
-agency, but anchoring them in a physical reality (as makerspaces do)
-helps to avoid
-[manipulation](https://www.vox.com/2018/4/14/17236504/jaron-lanier-ted-talk-social-networks-behavior-modification-ads#:~:text=%E2%80%9CI%20don%E2%80%99t%20believe%20our%20species%20can%20survive%20unless%20we%20fix%20this%2C%E2%80%9D%20he%20said.%20%E2%80%9CWe%20cannot%20have%20a%20society%20in%20which%2C%20if%20two%20people%20wish%20to%20communicate%2C%20the%20only%20way%20that%20can%20happen%20is%20if%20it%E2%80%99s%20financed%20by%20a%20third%20person%20who%20wishes%20to%20manipulate%20them.%E2%80%9D)
-by and dependency on outside actors, as we are now [subjected
-to](https://web.archive.org/web/20230602073622/https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html#:~:text=Facebook%20routinely%20adjusts%20its%20users%E2%80%99%20news%20feeds%20%E2%80%94%20testing%20out%20the%20number%20of%20ads%20they%20see%20or%20the%20size%20of%20photos%20that%20appear%20%E2%80%94%20often%20without%20their%20knowledge.%20It%20is%20all%20for%20the%20purpose%2C%20the%20company%20says%2C%20of%20creating%20a%20more%20alluring%20and%20useful%20product.)
-in
-[most](https://www.theguardian.com/technology/2016/mar/17/i-though-my-instagram-was-all-mine-until-the-algorithm-proved-me-wrong)
-[internet
-communities](https://www.pnas.org/doi/10.1073/pnas.2119924119).
-And so, grassroots physical subversions of presiding economic and
-political structures, such as spontaneous scrap recycling in
-[Agbogbloshie](https://www.youtube.com/watch?v=i_wtaoHCw3k),
-are more potent than digital ones that hope to
-[retroactively](https://thenetworkstate.com/on-network-states#:~:text=Instead%2C%20you%20found,like%20the%20NASDAQ.)
-embody themselves.
-
-[https://twitter.com/jgcfyi/status/1548028450891476992](https://twitter.com/jgcfyi/status/1548028450891476992)
-
-### A Note on Infrastructure
-
-While the internet itself still has a great deal of
-[dependence](https://www.thepublicdiscourse.com/2021/08/77139/)
-on centrally managed [physical
-infrastructure](https://cip.gmu.edu/2016/10/26/understanding-physical-internet-infrastructure-vulnerabilities/#:~:text=the%20existence%20of%20a%20single%20physical%20structure%20that%20houses%20so%20many%20important%20connections%20represents%20a%20vulnerability%20with%20the%20potential%20for%20serious%20cascading%20consequences%20for%20global%20Internet%20routing.)
-today, physical [peer-to-peer
-infrastructure](https://wiki.p2pfoundation.net/Main_Page)
-such as [mesh
-networks](https://urbanomnibus.net/2019/10/building-the-peoples-internet/)
-can and must be a necessary [synergistic
-companion](https://en.wikipedia.org/wiki/Conway%27s_law) to
-the kinds of tools for decentralized (digital) organizational
-infrastructure discussed in this chapter. We cannot have communities
-with agency if they do not have [agency over their
-tools](https://www.youtube.com/watch?v=8_clFVHKS2g) for
-organization, as the
-[tools](https://www.microsolidarity.cc/essays/from-domination-to-partnership#:~:text=It%E2%80%99s%20not%20that%20people%20are%20incapable%20of%20collaboration%2C%20it%E2%80%99s%20just%20that%20most%20of%20us%20lack%20tools%2C%20skills%20and%20role%20models.)
-themselves play a part in imparting agency.
+> [!info]- A Note on Infrastructure
+>
+>While the internet itself still has a great deal of
+>[dependence](https://www.thepublicdiscourse.com/2021/08/77139/)
+>on centrally managed [physical
+>infrastructure](https://cip.gmu.edu/2016/10/26/>understanding-physical-internet-infrastructure-vulnerabilities/>#:~:text=the%20existence%20of%20a%20single%20physical%20structure%20that%20houses%20so%20many%20important>%20connections%20represents%20a%20vulnerability%20with%20the%20potential%20for%20serious%20cascading%20co>nsequences%20for%20global%20Internet%20routing.)
+>today, physical [peer-to-peer
+>infrastructure](https://wiki.p2pfoundation.net/Main_Page)
+>such as [mesh
+>networks](https://urbanomnibus.net/2019/10/building-the-peoples-internet/)
+>can and must be a necessary [synergistic
+>companion](https://en.wikipedia.org/wiki/Conway%27s_law) to
+>the kinds of tools for decentralized (digital) organizational
+>infrastructure discussed in this chapter. We cannot have communities
+>with agency if they do not have [agency over their
+>tools](https://www.youtube.com/watch?v=8_clFVHKS2g) for
+>organization, as the
+>[tools](https://www.microsolidarity.cc/essays/>from-domination-to-partnership#:~:text=It%E2%80%99s%20not%20that%20people%20are%20incapable%20of%20collab>oration%2C%20it%E2%80%99s%20just%20that%20most%20of%20us%20lack%20tools%2C%20skills%20and%20role%20models>.)
+>themselves play a part in imparting agency.
 
 ## Cultural Diversity in Crypto
 
@@ -675,3 +674,5 @@ communities are empowered to maintain locally sensitive infrastructure
 alongside more universally available and [credibly
 neutral](https://nakamoto.com/credible-neutrality/) rails
 for sharing knowledge.
+
+{{<nav prevText="← 4. Time" prevLink="/4-Time" nextLink="/6-Action" nextText="6. Action →">}}

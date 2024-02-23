@@ -401,3 +401,5 @@ we must cultivate smaller-scale organizational and economic structures
 that empower local people to maintain their specific place with care and
 affection. Only then can we begin the work of weaving a dynamic,
 resilient society of our home places.
+
+{{<nav nextLink="/2-Agency" nextText="2. Agency →">}}
