@@ -1,5 +1,5 @@
 ---
-title: jgc.fyi
+title: Community Memory
 enableToc: false
 ---
 
