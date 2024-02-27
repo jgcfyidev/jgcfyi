@@ -16,13 +16,13 @@ h1 {
 }
 
 h2 {
-  color: var(--gray2);
+  color: var(--dark);
   font-size: 1.75em;
 }
 
 h3 {
   color: var(--gray3);
-  font-size: 1.25em;
+  font-size: 1.1em;
 }
 
 h4 {
@@ -52,7 +52,7 @@ a > h3 + p {
   --primary: #f28482;
   --gray: #4e4e4e;
   --gray2: #575757;
-  --gray3: #868686;
+  --gray3: #222222;
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
   --million-progress-bar-color: var(--secondary);
