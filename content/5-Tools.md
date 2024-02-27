@@ -1,13 +1,17 @@
+---
+enableToc: false
+---
+
 # 5
 <h1 style="margin:0;">Tools</h1>
 <h4 style="margin-top:0; margin-bottom: 16px;">Rooting our Computing in Place & Relationship</h4>
 
 
-<mark> Our tools and technologies amplify our habits of relating to each other,
+Our tools and technologies amplify our habits of relating to each other,
 our places, our organizational systems, and even time. More
 collaborative computing architectures can help us shed the prosthesis of
 institutional control and rebuild the locally-derived competency
-necessary to steward our places through generations. </mark>
+necessary to steward our places through generations.
 
 > *Personal Computers unleashed unimaginable levels of sovereignty &
 > interoperability for people.*

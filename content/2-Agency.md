@@ -1,13 +1,16 @@
+---
+enableToc: false
+---
+
 # 2
 <h1 style="margin:0;">Agency</h1>
 <h4 style="margin-top:0; margin-bottom: 16px;">Derived in Affectionate Relationship to Each Other and our Places</h4>
 
-<mark>Life-giving agency must be established through the kind of spontaneous,
+Life-giving agency must be established through the kind of spontaneous,
 trust-filled relationship that distant institutions are incapable of.
 Innovative organizational structures, in rhythm with natural ecologies,
 can scaffold these relationships into a more resilient organizational
 mycelium in support of our home places.
-</mark>
 
 > A form of government that is not the result of a long sequence of
 > shared experiences, efforts, and endeavors can never take root.

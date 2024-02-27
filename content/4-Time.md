@@ -1,13 +1,16 @@
+---
+enableToc: false
+---
+
 # 4
 <h1 style="margin:0;">Time</h1>
 <h4 style="margin-top:0; margin-bottom: 16px;">Generational Ways of Thinking</h4>
 
-<mark> Agency and limits both are strongly supported by traditions of
+Agency and limits both are strongly supported by traditions of
 generational knowledge transfer, rooted in specific place. Equilibrial
 investment and draw from local resources over generations grounds a
 community in time and place, giving joy in the present and assurance of
 the future.
-</mark>
 
 > Invest in the millenium. Plant sequoias.\
 > Say that your main crop is the forest\
@@ -20,14 +23,13 @@ the future.
 > --- Wendell Berry, [Manifesto: The Mad Farmer Liberation
 > Front](https://cales.arizona.edu/~steidl/Liberation.html)
 
-<mark> So far, we have discussed how affectionate relationship unlocks pathways
+So far, we have discussed how affectionate relationship unlocks pathways
 for agency and limits to emerge in balance toward resilient home places.
 Now, we will explore how this equilibrium is matured across generations
 as we build local community memory---traditions of knowledge transfer
 edified by our relationship to that which came before us, and which
 comes after. Without these traditions, our rootlessness leads our
 children to increasingly fragile dependence.
-</mark>
 
 ---
 
