@@ -4,7 +4,8 @@ enableToc: false
 ---
 
 <h1>Community Memory</h1>
-<h5 style="margin:0;">A Framework for Building Resilient Communities Anchored in Relationship and Empowered by Collaborative Technology</h5>
+<h5 style="margin:0; margin-right: 180px;">A Framework for Building Resilient Communities Anchored in Relationship and Empowered by Collaborative Technology</h5>
+
 
 This six-part series will examine how new organizational and
 technological approaches to collaborative coordination can support a

@@ -1,3 +1,8 @@
+---
+title: Relationship
+enableToc: false
+---
+
 # 1
 <h1 style="margin:0;">Relationship</h1>
 <h4 style="margin-top:0; margin-bottom: 16px;">Balancing Agency and Limits Toward Empathetic Placemaking</h4>
