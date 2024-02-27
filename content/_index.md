@@ -13,11 +13,9 @@ and our places over generations. These locally derived traditions of
 placemaking can help build more resilient communities and reduce our
 reliance on disempowering institutions.
 
-Together this collection of essays is about our relationships---\
-To each other (and the systems of coordination we use to scale them)\
-To our places (and the limits we sustain them with)\
-To time (and our traditions) and\
-To our tools and technologies (and the trajectories they amplify)
+Below, you can find a link to each of the essays in the series.
+
+---
 
 ### 1. [**Relationship**](/1-relationship)
 
