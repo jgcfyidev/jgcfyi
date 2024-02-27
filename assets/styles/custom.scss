@@ -42,6 +42,13 @@ h5 {
   font-style: italic; // Makes the text italic
 }
 
+img {
+  max-width: 70%;
+  height: auto; /* Maintain the aspect ratio */
+  border-radius: 3px;
+}
+
+
 a > h3 + p {
   margin-top: 0;
 }
