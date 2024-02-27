@@ -65,4 +65,4 @@ Capable new tools for collaborative action are poised to shift
 sovereignty back to small communities at more appropriate fidelity of
 empowered placemaking. Together, these tools can help us build a
 persistent community memory capable of carrying our places forward
-with vitality.
+with vitality. hi
