@@ -7,7 +7,7 @@ body {
   max-width: 100%;
   box-sizing: border-box;
   background-color: var(--light);
-  line-height: 1.1; // Adjust this value as needed
+  line-height: 5; // Adjust this value as needed
 }
 
 
@@ -23,6 +23,13 @@ h2 {
 h3 {
   color: var(--gray3);
   font-size: 1.25em;
+}
+
+h4 {
+  color: var(--gray3);
+  font-size: 1.25em;
+  font-weight: 450; // Or use "normal" for less boldness
+  font-style: italic; // Makes the text italic
 }
 
 h5 {
