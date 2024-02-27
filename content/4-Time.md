@@ -265,7 +265,7 @@ caused as much by institutional demands on economic (and
 [physical](https://agaveroadtrip.com/episodes/s4e28-problem-with-the-washington-post-article-about-mezcal#:~:text=soon%2Dto%2Dbe%2Dmonoculture%20espadin%20in%20Oaxaca))
 forms than natural demands of the market.
 
-{{<image-dual height="350px" src1="/media/image5.jpg" src2="/media/image13.png" caption="Mezcal distillation in San Agustin Amatengo vs placeless <a href='https://insidethecask.com/2022/01/18/understanding-mezcal/'>industrial</a> distillation">}}
+{{<image-dual height="350px" src1="/media/image5.jpg" src2="/media/image13.png" caption="Mezcal distillation in San Agustin Amatengo vs placeless <a href='https://insidethecask.com/2022/01/18/understanding-mezcal/' target='_blank' rel='noopener noreferrer'>industrial</a> distillation">}}
 
 Despite instiutional intervention, we are capable of learning about the
 traditions we are [in
@@ -343,7 +343,7 @@ to broader regulatory structures, a language for every village is
 probably not the sweet spot for the coordination of resilient physical
 communities at this point in humanity\'s development.
 
-{{<image src="/media/image11.jpg" caption="A photo I took in one such valley-bound <a href='https://maps.app.goo.gl/wFDAX1ooHZhgDSBk6'>village</a> in Sichuan in 2013. The camera shutter was giving me issues, rending half of the image illegible, an apt representation of this place.">}}
+{{<image src="/media/image11.jpg" caption="A photo I took in one such valley-bound <a href='https://maps.app.goo.gl/wFDAX1ooHZhgDSBk6' target='_blank' rel='noopener noreferrer'>village</a> in Sichuan in 2013. The camera shutter was giving me issues, rending half of the image illegible, an apt representation of this place.">}}
 
 Instead of having to choose between isolated local traditions or
 monolithic unilaterally coordinated institutions, we can employ

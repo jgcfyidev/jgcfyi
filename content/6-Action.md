@@ -11,25 +11,23 @@ empowered placemaking. Together, these tools can help us build a
 persistent community memory capable of carrying our places forward with
 vitality.
 
---
+---
 
-<mark>For an enduring community memory to sustain us, we must act to
+For an enduring community memory to sustain us, we must act to
 perpetuate it. The most important of such acts are simple: to listen to
 a friend or plant a tree. Still, there are some ways that community
 computing can help us grow in deeper relationship to our neighbors and
 our place. So finally, let's get into some specific near-term use cases
-for these technologies.</mark>
+for these technologies.
 
-<mark>The following discussion should be viewed as a
+The following discussion should be viewed as a
 [limited](https://genius.com/Twain-in-the-high-of-the-morning-lyrics#:~:text=I%20recall%20that%20I%20used%20to%20despair%20at%20the%20lost%20chance%20of%20knowing%0AA%20much%20longed%20for%20beauty%0ABut%20now%20that%20I%20know%20it%27s%20my%20duty%20to%20love%20life%0ANot%20try%20and%20know%20life%0ATo%20show%20it%2Dto%20show%20I%20don%27t%20know%20yet%20I%20know%20that%20it%27s%20real)
 view, drawing from the
 [many](https://ipfs.metalabel.xyz/ipfs/QmQvVuzF85JDapSAYd8Ke1H2V8ey5je28hbN1UUJn6Hu6e/pdfs/sacred-stack-the-art-of-cyborg-community.pdf)
 [brilliant](https://vitalik.eth.limo/general/2021/10/31/cities.html)
 and dedicated people building these tools. In reality, the open nature
 of these systems means that specific uses cannot be prescribed or
-predicted very far in advance.</mark>
-
----
+predicted very far in advance.
 
 ## Digital Identity
 
@@ -84,7 +82,7 @@ identity in our home places---experiments that may help to
 innovations in community computing, which have until now been used
 mostly for the speculative games of technologists.
 
-{{<image src="/media/image18.png" caption="Our first conception of identity is not given by an institution, but formed in relationship with the people and place around us.<a href='https://jenikirbyhistory.getarchive.net/media/family-farm-sunset-people-b1831e'>(source)</a>">}}
+{{<image src="/media/image18.png" caption="Our first conception of identity is not given by an institution, but formed in relationship with the people and place around us.<a href='https://jenikirbyhistory.getarchive.net/media/family-farm-sunset-people-b1831e' target='_blank' rel='noopener noreferrer'>(source)</a>">}}
 
 ### Reputation Systems
 
@@ -426,7 +424,7 @@ new](https://www.youtube.com/watch?v=jHwZojqJBFE) concepts,
 they do stand to be uniquely invigorated by the interoperability,
 autonomy and verifiability that blockchains offer.
 
-{{<image src="/media/image27.jpg" caption="Berkshire Farm Preserve Notes were jointly issued by two Great Barrington farms in 1991, The Corn Crib and Taft Farm, to finance start-up in the spring, and could be redeemed once produce was ready to be harvested. — <a href='https://centerforneweconomics.org/apply/local-currencies-program/'>Center for New Economics</a>">}}
+{{<image src="/media/image27.jpg" caption="Berkshire Farm Preserve Notes were jointly issued by two Great Barrington farms in 1991, The Corn Crib and Taft Farm, to finance start-up in the spring, and could be redeemed once produce was ready to be harvested. — <a href='https://centerforneweconomics.org/apply/local-currencies-program/' target='_blank' rel='noopener noreferrer'>Center for New Economics</a>">}}
 
 Today, blockchain-based tools like
 [Juicebox](https://juicebox.money/) provide simple
@@ -523,7 +521,7 @@ ownership and collective management---from
 private housing to collective funding of
 [construction](https://metropolismag.com/projects/dont-call-it-a-commune-inside-berlin-radical-cohousing-project/).
 
-{{<image src="/media/image23.png" caption="<a href='https://rocusa.org/whats-a-roc/what-is-a-roc-how-is-it-different/'>Resident-owned</a> <a href='https://www.floridamfghome.com/'>mobile-home</a> communities are one of the more common forms of cooperative ownership structures in America today.">}}
+{{<image src="/media/image23.png" caption="<a href='https://rocusa.org/whats-a-roc/what-is-a-roc-how-is-it-different/'>Resident-owned</a> <a href='https://www.floridamfghome.com/' target='_blank' rel='noopener noreferrer'>mobile-home</a> communities are one of the more common forms of cooperative ownership structures in America today.">}}
 
 While encouraging, these efforts are still sparse and often dependent on
 [professionals](https://metropolismag.com/projects/dont-call-it-a-commune-inside-berlin-radical-cohousing-project/#:~:text=The%20architect%2Dled%2C%20collectively%20funded%20R50%20Baugruppen%20project%20in%20Berlin)
@@ -630,7 +628,7 @@ on residential and home construction, or even [procurement
 hurdles](https://bloombergcities.jhu.edu/news/procurement-reforming-how-cities-work)
 for cities themselves.
 
-{{<image src="/media/image19.png" caption="A CNC design for a 'parklet' made free to use by <a href='Wikiblock'>https://www.betterblock.org/product-page/mobility-parklet</a>">}}
+{{<image src="/media/image19.png" caption="A CNC design for a 'parklet' made free to use by <a href='Wikiblock'></a>">}}
 
 > [!info]- A Note on Hyperfinancialization
 >
@@ -891,7 +889,7 @@ blockchain-based system working to build [on-chain
 infrastructure](https://twitter.com/cyclesmoney) to support
 mutual credit systems to the benefit small communities.
 
-{{<image src="/media/image22.png" caption="The <a href='https://grassecon.org/trust-graph'>trust graph</a> of villages in Kenya using <a href='https://www.grassrootseconomics.org/pages/how-it-works#:~:text=Community%20Asset%20Vouchers%20(CAVs)'>Sarafu</a> for accounting, credit, and debt of their mutual aid <a href='https://viz.sarafu.network/'>network</a>. There are 150 clusters---many with significant economic relationship to each other">}}
+{{<image src="/media/image22.png" caption="The <a href='https://grassecon.org/trust-graph' target='_blank' rel='noopener noreferrer'>trust graph</a> of villages in Kenya using <a href='https://www.grassrootseconomics.org/pages/how-it-works#:~:text=Community%20Asset%20Vouchers%20(CAVs)' target='_blank' rel='noopener noreferrer'>Sarafu</a> for accounting, credit, and debt of their mutual aid <a href='https://viz.sarafu.network/' target='_blank' rel='noopener noreferrer'>network</a>. There are 150 clusters---many with significant economic relationship to each other">}}
 
 ## Where Does That Lead Us? 
 
