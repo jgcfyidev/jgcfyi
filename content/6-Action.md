@@ -12,6 +12,9 @@ persistent community memory capable of carrying our places forward with
 vitality.
 
 ---
+{{<nav prevText="← 5. Tools" prevLink="/5-Tools">}}
+
+---
 
 For an enduring community memory to sustain us, we must act to
 perpetuate it. The most important of such acts are simple: to listen to
@@ -916,5 +919,7 @@ institutions](https://twitter.com/jgcfyi/status/1503822879552688129)
 from within. Instead, the answer lies in a long-term commitment to our
 places and a willingness to engage with new tools to build a sustained
 and vibrant community memory.
+
+---
 
 {{<nav prevText="← 5. Tools" prevLink="/5-Tools">}}

@@ -13,6 +13,9 @@ places around us can help more effectively build resilience and diffuse
 these risks.
 
 ---
+{{<nav prevText="← 2. Agency" prevLink="/2-Agency" nextLink="/4-Time" nextText="4. Time →">}}
+
+---
 
 ## Outside Dependencies, Unknown Limits
 
@@ -317,5 +320,7 @@ Next we will explore a generational way of thinking about our home
 places, taking natural ecologies as an example. After that discussion,
 we will get into specific technologies that may aid us in maintaining
 these more sustainable organizational structures.
+
+ ---
 
 {{<nav prevText="← 2. Agency" prevLink="/2-Agency" nextLink="/4-Time" nextText="4. Time →">}}

@@ -13,11 +13,10 @@ collaborative computing architectures can help us shed the prosthesis of
 institutional control and rebuild the locally-derived competency
 necessary to steward our places through generations.
 
-> *Personal Computers unleashed unimaginable levels of sovereignty &
-> interoperability for people.*
->
+> *Personal Computers unleashed unimaginable levels of sovereignty & interoperability for people.*
+<br>
 > *Community Computers will do the same for groups.*
->
+<br>
 > *A blockchain is just a Community Computer.*
 >
 > ---   [Ethan
@@ -26,6 +25,9 @@ necessary to steward our places through generations.
 A healthy society is built on relationship, between people and to their
 home places over time. Our tools can either support or undermine this
 delicate balance.
+
+---
+{{<nav prevText="← 4. Time" prevLink="/4-Time" nextLink="/6-Action" nextText="6. Action →">}}
 
 ---
 
@@ -682,4 +684,5 @@ alongside more universally available and [credibly
 neutral](https://nakamoto.com/credible-neutrality/) rails
 for sharing knowledge.
 
+---
 {{<nav prevText="← 4. Time" prevLink="/4-Time" nextLink="/6-Action" nextText="6. Action →">}}

@@ -32,6 +32,9 @@ comes after. Without these traditions, our rootlessness leads our
 children to increasingly fragile dependence.
 
 ---
+{{<nav prevText="← 3. Limits" prevLink="/3-Limits" nextLink="/5-Tools" nextText="5. Tools →">}}
+
+---
 
 ## Place in Time and Time in Place
 
@@ -399,4 +402,5 @@ dependencies.
 > ---   [Brian
     Eno](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2#:~:text=%22Civilizations%20with%20long%20nows%20look%20after%20things%20better%2C%22%20says%20Brian%20Eno.%C2%A0%20%22In%20those%20places%20you%20feel%20a%20very%20strong%20but%20flexible%20structure%20which%20is%20built%20to%20absorb%20shocks%20and%20in%20fact%20incorporate%20them.%221)
 
+---
 {{<nav prevText="← 3. Limits" prevLink="/3-Limits" nextLink="/5-Tools" nextText="5. Tools →">}}

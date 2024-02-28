@@ -13,6 +13,9 @@ strong enough to steward our communities sustainably through
 generations.
 
 ---
+{{<nav nextLink="/2-Agency" nextText="2. Agency →">}}
+
+--- 
 
 ## Community Memory
 
