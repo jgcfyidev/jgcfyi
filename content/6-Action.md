@@ -12,7 +12,7 @@ persistent community memory capable of carrying our places forward with
 vitality.
 
 ---
-{{<nav prevText="← 5. Tools" prevLink="/5-Tools">}}
+{{<nav prevText="← 5. Tools" prevLink="/5-Tools" nextLink="https://discord.gg/MMMeyWZZtj" nextText="Chat on Discord →">}}
 
 ---
 
@@ -922,4 +922,4 @@ and vibrant community memory.
 
 ---
 
-{{<nav prevText="← 5. Tools" prevLink="/5-Tools">}}
+{{<nav prevText="← 5. Tools" prevLink="/5-Tools" nextLink="https://discord.gg/MMMeyWZZtj" nextText="Chat on Discord →">}}

@@ -1,12 +1,16 @@
 <!-- nav html -->
 <div style="display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: center;">
     <div>
-        <a href="{{.Get "prevLink" | safeHTML}}">{{.Get "prevText" | safeHTML}}</a>
+        {{ if .Get "prevLink" }}
+        <a href="{{ .Get "prevLink" | safeURL }}"{{ if strings.HasPrefix (.Get "prevLink") "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Get "prevText" | safeHTML }}</a>
+        {{ end }}
     </div>
     <div>
         <a href="/">Home</a> <!-- Adjust the href="/" if your home page has a different URL -->
     </div>
     <div>
-        <a href="{{.Get "nextLink" | safeHTML}}">{{.Get "nextText" | safeHTML}}</a>
+        {{ if .Get "nextLink" }}
+        <a href="{{ .Get "nextLink" | safeURL }}"{{ if strings.HasPrefix (.Get "nextLink") "http" }} target="_blank" rel="noopener noreferrer"{{ end }}>{{ .Get "nextText" | safeHTML }}</a>
+        {{ end }}
     </div>
 </div>
