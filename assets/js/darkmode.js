@@ -7,15 +7,15 @@ const syntaxTheme = document.querySelector("#theme-link");
 {{ $lightSyntax := resources.Get "styles/_light_syntax.scss" | resources.ToCSS (dict "outputStyle" "compressed") | resources.Fingerprint "md5" | resources.Minify  }}
 
 if (currentTheme) {
-  document.documentElement.setAttribute('saved-theme', currentTheme);
+  document.documentElement.setAttribute('saved-theme', 'light');
   syntaxTheme.href = currentTheme === 'dark' ?  '{{ $darkSyntax.Permalink }}' :  '{{ $lightSyntax.Permalink }}';
 }
 
 const switchTheme = (e) => {
   if (e.target.checked) {
     document.documentElement.setAttribute('saved-theme', 'dark');
-    localStorage.setItem('theme', 'dark');
-    syntaxTheme.href = '{{ $darkSyntax.Permalink }}';
+    localStorage.setItem('theme', 'light');
+    syntaxTheme.href = '{{ $lightSyntax.Permalink }}';
   }
   else {
     document.documentElement.setAttribute('saved-theme', 'light')

@@ -521,7 +521,7 @@ ownership and collective management---from
 private housing to collective funding of
 [construction](https://metropolismag.com/projects/dont-call-it-a-commune-inside-berlin-radical-cohousing-project/).
 
-{{<image src="/media/image23.png" caption="<a href='https://rocusa.org/whats-a-roc/what-is-a-roc-how-is-it-different/'>Resident-owned</a> <a href='https://www.floridamfghome.com/' target='_blank' rel='noopener noreferrer'>mobile-home</a> communities are one of the more common forms of cooperative ownership structures in America today.">}}
+{{<image src="/media/image23.png" caption="<a href='https://rocusa.org/whats-a-roc/what-is-a-roc-how-is-it-different/' target='_blank' rel='noopener noreferrer'>Resident-owned</a> <a href='https://www.floridamfghome.com/' target='_blank' rel='noopener noreferrer'>mobile-home</a> communities are one of the more common forms of cooperative ownership structures in America today.">}}
 
 While encouraging, these efforts are still sparse and often dependent on
 [professionals](https://metropolismag.com/projects/dont-call-it-a-commune-inside-berlin-radical-cohousing-project/#:~:text=The%20architect%2Dled%2C%20collectively%20funded%20R50%20Baugruppen%20project%20in%20Berlin)
