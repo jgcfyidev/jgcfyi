@@ -1,9 +1,12 @@
 <!-- nav html -->
-<div style="display: flex; flex-wrap: nowrap;">
+<div style="display: flex; flex-wrap: nowrap; justify-content: space-between; align-items: center;">
     <div>
         <a href="{{.Get "prevLink" | safeHTML}}">{{.Get "prevText" | safeHTML}}</a>
     </div>
-    <div style="margin-left: auto;">
+    <div>
+        <a href="/">Home</a> <!-- Adjust the href="/" if your home page has a different URL -->
+    </div>
+    <div>
         <a href="{{.Get "nextLink" | safeHTML}}">{{.Get "nextText" | safeHTML}}</a>
     </div>
 </div>

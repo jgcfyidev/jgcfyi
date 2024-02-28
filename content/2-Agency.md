@@ -19,6 +19,9 @@ mycelium in support of our home places.
 > Bonaparte](https://simonsarris.substack.com/p/long-distance-thinking#:~:text=%E2%80%9CA%20form%20of%20government%20that%20is%20not%20the%20result%20of%20a%20long%20sequence%20of%20shared%20experiences%2C%20efforts%2C%20and%20endeavors%20can%20never%20take%20root.%E2%80%9D)
 
 ---
+{{<nav prevText="← 1. Relationship" prevLink="/1-Relationship" nextLink="/3-Limits" nextText="3. Limits →">}}
+
+---
 
 ## Distance and (Lack of) Trust
 
@@ -772,5 +775,7 @@ the internet as a substrate for coordination. In subsequent parts of
 this series, we'll discuss explicitly how new protocols for coordination
 can help move our physical communities toward a society with more
 agency.
+
+---
 
 {{<nav prevText="← 1. Relationship" prevLink="/1-Relationship" nextLink="/3-Limits" nextText="3. Limits →">}}
