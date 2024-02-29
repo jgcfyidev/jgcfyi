@@ -52,8 +52,8 @@ the breadth of their scope must be balanced by a reverence for local
 agency. Our systems of government have become incomprehensible to us
 precisely because they extend us no trust and leave no room for
 [dialogue](https://www.researchgate.net/publication/273580417_A_Study_on_Dialogic_Communication_Trust_and_Distrust_Testing_a_Scale_for_Measuring_Organization-Public_Dialogic_Communication_OPDC).
-Thankfully, there are effective systems of affectionate and
-collaborative placemaking emerging as
+Thankfully, effective systems of affectionate and
+collaborative placemaking are emerging as
 [alternatives](https://mises.org/wire/fight-state-build-alternatives-state)
 to the escalation of intractable
 [externalities](https://en.wikipedia.org/wiki/Globalization_and_Its_Discontents)
@@ -106,8 +106,7 @@ Society](https://www.econlib.org/library/Essays/hykKnw.html).*
 
 A social theory called the [Garbage Can
 Model](https://en.wikipedia.org/wiki/Garbage_can_model)
-describes the messy reality of organizational decision making at scale
-well. This model suggests that, despite their intentions, groups of
+describes the messy reality of organizational decision-making at scale. This model suggests that, despite their intentions, groups of
 people don't typically make decisions by agreeing on a problem,
 developing a [perfect
 understanding](https://forum.effectivealtruism.org/posts/T975ydo3mx8onH3iS/ea-is-about-maximization-and-maximization-is-perilous)
@@ -132,12 +131,12 @@ The [planning
 fallacy](https://thedecisionlab.com/biases/planning-fallacy)
 is a related mental model that describes the tendency of individuals and
 institutions to underestimate the time, costs, and risks associated with
-completing a task, often in spite of past experiences. While those
+completing a task, often despite past experiences. While those
 involved may blame this poor judgment on a [basic human
 tendency](https://www.nyu.edu/about/news-publications/news/2007/october/study_reveals_how_the_brain.html)
 for optimism, the phenomenon is also likely related to professionals who
 believe themselves more capable than the population they are planning
-for---no matter the local intricacies (and *of course* unrelated to the
+for---no matter the local intricacies (and, *of course*, unrelated to the
 influence and money that might [flow through
 them](https://www.youtube.com/watch?v=BMGr4yyE1uc&t=1843s)).
 No matter the cause, overconfidence at such a scale can lead to more
@@ -154,9 +153,9 @@ place](https://highways.dot.gov/highway-history/interstate-system/original-inten
 was a result of prioritizing central planning over-sensitivity to local
 neighborhoods.
 
-Originally set for completion in 1998 at an estimated cost of \$7.4
+Originally set for completion in 1998 at an estimated cost of \$7.4 
 billion, the project instead stretched on nearly a decade longer and
-cost over 21.5 billion (adjusted for inflation), making it the most
+cost over \$21.5 billion (adjusted for inflation), making it the most
 expensive highway project in the history of the United States. In
 addition to delays and overrun costs, the project was mired with
 criminal charges and even a death.

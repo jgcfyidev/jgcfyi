@@ -35,7 +35,7 @@ The answer lies in the power of community memory---a shared and living
 capacity for action grounded in relationship to our neighbors and our
 place, from which emanates a joyful balance of agency and limits.
 
-This first of six essays will begin by exploring why this equilibrium of
+This first of six essays will explore why this equilibrium of
 empowering agency and grounding limits is so important to sustaining
 healthy places across generations. Subsequent sections will examine how
 new technological approaches to collective coordination---from
@@ -167,8 +167,7 @@ memory](https://web.mit.edu/allanmc/www/hawlbachsspace.pdf).
 They are uniquely persistent in their effect on culture from generation
 to generation, more
 [enduring](https://en.wikipedia.org/wiki/History_of_Istanbul)
-even than the organizational structures that manage them. We must, then,
-take great care in stewarding how our places change. The consequences of
+even than the organizational structures that manage them. The consequences of
 poor caretaking are painfully clear in almost every American city today
 as the same institutions that [gutted
 downtowns](https://www.vox.com/2015/5/14/8605917/highways-interstate-cities-history)
@@ -207,7 +206,7 @@ is increasingly outsourced to experts. This pattern is reinforced in our
 [increasingly](https://www.forbes.com/sites/joshbersin/2012/01/31/the-end-of-a-job-as-we-know-it/?sh=403cb7eb16aa)
 [specialized](https://www.researchgate.net/publication/338985197_Specialisation_Vs_Diversification_Which_One_Better_Upholds_Regional_Resilience_to_Economic_Crises#:~:text=found%20that%20more%20diversified%20regional%20economies%20were%20better%20at%20coping%20with%20the%20hardships%20triggered%20by%20the%20recent%20recession)
 work lives, where power accrues to C-suite decision-makers removed from
-the work. And so in the making of our places, we too are often left as
+the work. And so, in the making of our places, we too are often left as
 passive speculators on the abilities of experts and a footnote in a
 municipal report on \'community engagement\'.
 
@@ -302,7 +301,7 @@ Generational
 [memory](https://www.mdpi.com/2071-1050/14/19/11870#:~:text=Unlike%20historical%20memory%E2%80%94a%20collection,memory%20alive%E2%80%9D%20%5B32%5D.),
 tradition, and a connection to our home places are exactly the things
 that have traditionally produced lighter individual burdens of choice in
-the past---but ironically they themselves are now
+the past---but ironically, they themselves are now
 [outsourced](https://folklife.si.edu/) to the
 institutional structures whose [depersonalizing
 abstractions](https://sociology.fas.harvard.edu/pages/culture)
@@ -317,7 +316,7 @@ Eventually, our
 loss](https://reedquest.org/2023/09/15/review-of-typhoons-offerings-an-existential-narrative-by-a-portland-band/#:~:text=%E2%80%9CIt%E2%80%99s%20a%20record,from%20violence/oblivion%3F%E2%80%9D)
 can render these traditions unsalvageable--shifting our connection with
 extractive economies from a convenient way to raise 'standards of
-living', to a dangerous dependence on fragile
+living' to a dangerous dependence on fragile
 [gentrifying](https://www.youtube.com/watch?v=1AckNxh1NZY&t=146s)
 [systems](https://www.researchgate.net/publication/290557797_Global_supply_chains_disasters_and_externalities_How_complex_supply_networks_create_damaging_externalities_and_its_consequences)
 beyond local control.
@@ -354,12 +353,12 @@ structure of society. Because incumbent institutions and economic
 relationships adapt slowly to these new realities, individuals and small
 communities find themselves [more
 capable](https://www.goodai.com/a-conversation-with-michael-levin/#:~:text=So%20stress%20is%20part%20of%20that%20glue%20that%20binds%20these%20collective%20agents%20together.)
-and ready to implement useful solutions on their own, without oversight
+and ready to implement solutions independently, without oversight
 or permission. These interventions ultimately prove to be a catalyst of
 longer-term change---as was apparent in the wake of
 [COVID-19](https://www.sciencedirect.com/science/article/pii/S0305750X20303600),
 which invited changes not just in [remote
-working](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8508142/),
+work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8508142/),
 but also
 [healthcare](https://www2.deloitte.com/content/dam/insights/us/articles/6921_CHS-Virtual-work/DI_CHS-virtual-work.pdf),
 [public
@@ -374,7 +373,7 @@ and more.
 This phenomenon can also often be observed after a [pedestrian
 death](https://smartgrowthamerica.org/dangerous-by-design/),
 often the only time when communities sufficiently mobilize to prioritize
-safer transportation infrastructure. In these instances citizens take
+safer transportation infrastructure. In these instances, citizens take
 [matters into their own
 hands](https://ctexaminer.com/2023/01/03/stamford-moves-ahead-with-tactical-urbanism-solutions-for-pedestrian-deaths/)
 or local [demands for
@@ -382,7 +381,7 @@ change](https://blockclubchicago.org/2022/06/12/hundreds-march-in-lincoln-square
 become so loud that even a state transportation agency can be moved to
 action. The rise of [tactical
 urbanism](https://www.re-thinkingthefuture.com/architectural-community/a8570-tactical-urbanism-and-how-it-complements-participatory-planning/#:~:text=Tactical%20urbanism%20is%20a%20response%20to%20the%20top%2Ddown%2C%20bureaucratic%20approach%20to%20city%20planning%20that%20has%20often%20left%20citizens%20feeling%20powerless%20and%20disconnected%20from%20the%20planning%20process.%20Tactical%20urbanism%20is%20about%20empowering%20people%20to%20take%20control%20of%20their%20own%20city%20planning.)
-and other DIY urbanism are further evidence of this impulse.
+and other DIY urbanism is further evidence of this impulse.
 
 Despite positive outcomes from [wake-up
 call](https://www.newsweek.com/near-death-experiences-transform-person-seconds-scientist-1572878)
@@ -392,7 +391,7 @@ positive change in society. If we embrace new (and
 empowering models for collaborative placemaking, we can instead develop
 habits of
 [resilience](https://www.ecosophia.net/the-end-of-the-industrial-age/#:~:text=The%20more%20high%2Dtech%20gimmickry%20you%20can%20do%20without%2C%20and%20the%20more%20you%20rely%20on%20your%20own%20capacities%20instead%20of%20slurping%20at%20an%20assortment%20of%20technological%20teats%2C%20the%20more%20free%20you%20are%20and%20the%20more%20resilience%20you%20have%20in%20the%20face%20of%20the%20future.)
-and problem solving that don't require catastrophe to initiate
+and problem-solving that don't require catastrophe to initiate
 change---a [community
 memory](https://computerhistory.org/blog/community-memory-precedents-in-social-media-and-movements/#1:~:text=Community%20Memory%20as%20%E2%80%9Ca%20shared%20community%20filing%20cabinet%E2%80%9D%20or%20a%20%E2%80%9Ctool%20for%20collective%20thinking%2C%20planning%2C%20organizing%2C%20fantasizing%2C%20and%20decision%2Dmaking.%E2%80%9D)
 that produces a persistent lucidity.
@@ -401,8 +400,8 @@ that produces a persistent lucidity.
 
 The study of long-sustained water and
 [forest](http://www.pacificbio.org/initiatives/fire/fire_ecology.html)
-management systems teaches us that building resilient places, protected
-from catastrophe, requires iterative and ongoing management, in tune
+management systems teaches us that building resilient places protected
+from catastrophe requires iterative and ongoing management in tune
 with local ecology. Just as [prescribed
 burns](https://www.youtube.com/watch?v=E542gY7uR0s) are
 often carried out on foot at a careful pace to prevent larger disasters,
