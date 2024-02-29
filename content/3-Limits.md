@@ -120,8 +120,7 @@ growth to keep existing infrastructure functional.
 > time to render probable the occurrence of an insurmountable calamity.
 >
 > --- [Joseph
-> Tainter](https://en.wikipedia.org/wiki/Joseph_Tainter),
-> The Collapse of Complex Societies
+> Tainter](https://en.wikipedia.org/wiki/Joseph_Tainter), *The Collapse of Complex Societies*
 
 Local people
 [themselves](https://www.thefreelibrary.com/$10+down+and+$10+a+month!+The+sad,+scandalous+story+of+how+General...-a09325195)
@@ -210,8 +209,8 @@ political unrest.
 >
 > ---   [Mancur
     Olson](https://en.wikipedia.org/wiki/Mancur_Olson),
-    [The Rise and Decline of
-    Nations](https://en.wikipedia.org/wiki/Complexity,_Problem_Solving,_and_Sustainable_Societies#:~:text=bureaucratic%20regulation%20itself,complexity%20continuously%20increasing.)
+    *[The Rise and Decline of
+    Nations](https://en.wikipedia.org/wiki/Complexity,_Problem_Solving,_and_Sustainable_Societies#:~:text=bureaucratic%20regulation%20itself,complexity%20continuously%20increasing.)*
 
 ### The Ecological Insufficiency of Institutional Limits
 
@@ -263,8 +262,8 @@ quality of active and sustainable relationships.
 > reciprocal exchange of materials and energy that maintains and ensures
 > the survival of the whole.
 >
-> --- Mae-Wan Ho, [Circular Thermodynamics of Organisms and Sustainable
-> Systems](https://www.mdpi.com/2079-8954/1/3/30)
+> --- Mae-Wan Ho, *[Circular Thermodynamics of Organisms and Sustainable
+> Systems](https://www.mdpi.com/2079-8954/1/3/30)*
 
 While our familiar
 [linear](https://twitter.com/joshmedia/status/1371232834245914624)
@@ -314,7 +313,7 @@ instead have a less precarious relationship with time.
 > child and of man.
 >
 > --- [Friedensreich
-> Hundertwasser](https://hundertwasser.com/en/texts/verschimmelungsmanifest_gegen_den_rationalismus_in_der_architektur#:~:text=For%20true%20architecture%20grows%20out%20of%20normal%20building%20activity%2C%20and%20this%20normal%20building%20activity%20is%20the%20organic%20development%20of%20a%20shell%20around%20a%20group%20of%20people.%20Such%20building%20growth%20is%20like%20the%20growth%20of%20a%20child%20and%20of%20man)
+> Hundertwasser](https://hundertwasser.com/en/texts/verschimmelungsmanifest_gegen_den_rationalismus_in_der_architektur#:~:text=For%20true%20architecture%20grows%20out%20of%20normal%20building%20activity%2C%20and%20this%20normal%20building%20activity%20is%20the%20organic%20development%20of%20a%20shell%20around%20a%20group%20of%20people.%20Such%20building%20growth%20is%20like%20the%20growth%20of%20a%20child%20and%20of%20man), *Mouldiness Manifesto Against Rationalism In Architecture*
 
 Next we will explore a generational way of thinking about our home
 places, taking natural ecologies as an example. After that discussion,

@@ -20,8 +20,8 @@ the future.
 > when they have rotted into the mold.\
 > Call that profit. Prophesy such returns.
 >
-> --- Wendell Berry, [Manifesto: The Mad Farmer Liberation
-> Front](https://cales.arizona.edu/~steidl/Liberation.html)
+> --- Wendell Berry, <i>[Manifesto: The Mad Farmer Liberation
+> Front](https://cales.arizona.edu/~steidl/Liberation.html)</i>
 
 ---
 {{<nav prevText="← 3. Limits" prevLink="/3-Limits" nextLink="/5-Tools" nextText="5. Tools →">}}
@@ -87,8 +87,8 @@ itself](https://en.wikipedia.org/wiki/Post-truth).
 > coherence of a family or a community? What technology can undo the
 > collateral damages of an inhuman rate of technological change?
 >
-> --- Wendell Berry, [It All Turns on
-> Affection](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.pdf)
+> --- Wendell Berry, <i>[It All Turns on
+> Affection](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.pdf)</i>
 
 ### Transience vs. Presence in the Natural World
 
@@ -125,7 +125,7 @@ binding ourselves to them.
 > and their neighbors in the present. And so they are providing for the
 > future as fully and effectively as humans possibly can.
 >
-> --- Wendell Berry, The Art of Loading Brush
+> --- Wendell Berry, <i>The Art of Loading Brush</i>
 
 ### Redefining Progress
 
@@ -144,7 +144,7 @@ old damage to new destruction," as Berry puts it.
 > almost always been a movement from old damage to new destruction, and
 > always with the aim of \'a better future for our children.'
 >
-> ---   Wendell Berry, The Art of Loading Brush
+> ---   Wendell Berry, <i>The Art of Loading Brush</i>
 
 Generational thinking avoids the kind of overuse and excess that
 sacrifices [the future for the
@@ -173,8 +173,8 @@ structures.
 > hundred years. It may be followed by a civilization that won't be a
 > movement, because it will rest upon the earth."
 >
-> --- E. M. Forster, [Howards
-> End](https://en.wikipedia.org/wiki/Howards_End)
+> --- E. M. Forster, <i>[Howards
+> End](https://en.wikipedia.org/wiki/Howards_End)</i>
 
 ### Flows of Energy
 
@@ -209,7 +209,7 @@ deeply in relationship with today's habits.
 > and the biome over ten thousand years.
 >
 > ---   [Stewart
-    Brand](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2?from=1774&to=2093)
+    Brand](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2?from=1774&to=2093), *Pace Layering: How Complex Systems Learn and Keep Learning*
 
 ## Distant Institutions Betray Community Memory 
 
@@ -237,7 +237,7 @@ health of a place.
 > innovation, it was doomed.
 >
 > ---   [Stewart
-    Brand](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2?from=5015&to=5595), Pace Layering: How Complex Systems Learn and Keep Learning
+    Brand](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2?from=5015&to=5595), <i>Pace Layering: How Complex Systems Learn and Keep Learning</i>
 
 ### Traditions in Mezcal
 

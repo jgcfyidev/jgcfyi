@@ -96,17 +96,6 @@ for distributing (instead of
 [consolidating](https://www.theguardian.com/commentisfree/2023/nov/27/openai-microsoft-big-tech-monopoly))
 power toward more resilient home places, in the lineage of BBSs.
 
-This essay seeks to put these emerging tools for collaboration in their
-historical and social context. It won't try to form some
-[all-encompassing
-survey](https://www.bloomberg.com/features/2022-the-crypto-story/)
-of the many corners of crypto, but instead will identify some of its
-core cultural
-[principles](https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0)
-as they relate to affectionate economies, rooted in their place. The
-concluding piece in the series will more deeply explore near term
-applications in our physical communities.
-
 > [!info]- A Note on Terms
 >
 >In the discussion of these technologies, I'll try to use plain ([if
@@ -123,9 +112,23 @@ applications in our physical communities.
 >failures](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine)
 >we see today.
 >
->
+
+This essay seeks to put these emerging tools for collaboration in their
+historical and social context. It won't try to form some
+[all-encompassing
+survey](https://www.bloomberg.com/features/2022-the-crypto-story/)
+of the many corners of crypto, but instead will identify some of its
+core cultural
+[principles](https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0)
+as they relate to affectionate economies, rooted in their place. The
+concluding piece in the series will more deeply explore near term
+applications in our physical communities.
+
 > Blockchains are not personal-computing operating systems; they are social systems
 > ---   [Vitalik Buterin](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html#:~:text=blockchains%20are%20not%20personal%2Dcomputing%20operating%20systems%3B%20they%20are%20social%20systems)
+
+
+
 
 ## Societal Change Spurred by Technology
 
@@ -182,22 +185,18 @@ include:
 -   [Cooperative, common-pool
     irrigation](https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Irrigation%20provides%20a%20path%20for%20large%2Dscale%20cooperation),
     which expanded agricultural capabilities
-
 -   Greek
     [alphabets](https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Alphabets%20are%20interchangeable%20parts%20for%20the%20mind),
     which led to broader trade and language dissemination
-
 -   [The printing
     press](https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Printing%20press%3A%20interchangeable%20parts%20for%20alphabets),
     which greatly expanded publicly available written material
-
 -   [Templates for
     cities](https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=it%20didn%E2%80%99t%20scale.-,The%20art%20of%20reproducing%20cities,-As%20popular%20emerging)
     and [market
     towns](https://en.wikipedia.org/wiki/Market_town),
     which led to [federations and
     city-states](https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=A%20new%20league%20of%20city%2Dstates)
-
 -   [Double entry
     bookkeeping](https://web.archive.org/web/20230206185950/https://shows.banklesshq.com/p/-the-crypto-renaissance-josh-rosenthal-e35#:~:text=used%20double%2Dentry%20booking%20to%20completely%20rework%20the%20financial%20system.),
     which greatly "increased the power, leverage, velocity,
@@ -294,8 +293,8 @@ relationships.
 > change and adapt software for their own needs; for them to experience
 > creating software not like a professional chef, but a home cook.
 >
-> --- Jacky Zhao, [Communal Computing
-> Networks](https://jzhao.xyz/posts/agentic-computing#:~:text=We%20must%20make%20it%20possible%20for%20the%20average%20layperson%20to%20be%20able%20to%20change%20and%20adapt%20software%20for%20their%20own%20needs%3B%20for%20them%20to%20experience%20creating%20software%20not%20like%20a%20professional%20chef%2C%20but%20a%20home%20cook)
+> --- Jacky Zhao, <i>[Communal Computing
+> Networks](https://jzhao.xyz/posts/agentic-computing#:~:text=We%20must%20make%20it%20possible%20for%20the%20average%20layperson%20to%20be%20able%20to%20change%20and%20adapt%20software%20for%20their%20own%20needs%3B%20for%20them%20to%20experience%20creating%20software%20not%20like%20a%20professional%20chef%2C%20but%20a%20home%20cook)</i>
 
 Such digital coordination can be fun and intuitive---and has yielded
 collaborative design and production of everything from [industrial
@@ -347,8 +346,8 @@ has become home to a much wider range of ideologies.
 > coordination and collaboration, rather than simply the integrity and
 > confidentiality of private messages.
 >
-> --- Vitalik Buterin, [A Proof of Stake Design
-> Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#:~:text=Cypherpunk%20philosophy%20is,of%20private%20messages)
+> --- Vitalik Buterin, <i>[A Proof of Stake Design
+> Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#:~:text=Cypherpunk%20philosophy%20is,of%20private%20messages)</i>
 
 ### Caveats and Uncertainties
 
@@ -517,8 +516,8 @@ scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-soci
 >
 > ---   [Nick
     Szabo](https://en.wikipedia.org/wiki/Nick_Szabo),
-    [Money, blockchains, and social
-    scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=the%20number%20and,those%20technological%20improvements.)
+    <i>[Money, blockchains, and social
+    scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=the%20number%20and,those%20technological%20improvements.)</i>
 
 Blockchains can remake standards of relating at scale to more
 appropriately integrate local sovereignty. Their infrastructure is not
@@ -576,9 +575,8 @@ and iterative ecosystem, all key factors in fostering agency.
 >[Agbogbloshie](https://www.youtube.com/watch?v=i_wtaoHCw3k),
 >are more potent than digital ones that hope to
 >[retroactively](https://thenetworkstate.com/on-network-states#:~:text=Instead%2C%20you%20found,>like%20the%20NASDAQ.)
->embody themselves.
+>[embody](https://twitter.com/jgcfyi/status/1548028450891476992) themselves.
 >
-> {{<twitter user="jgcfyi" id="1548028450891476992" >}}
 
 > [!info]- A Note on Infrastructure
 >
@@ -645,9 +643,9 @@ a robust web of resilient yet accessible infrastructure.
 > incentives, we are able to create software and digital records that
 > have a degree of permanence.
 >
-> --- [Josh Stark](https://twitter.com/0xstark), [Atoms,
+> --- [Josh Stark](https://twitter.com/0xstark), <i>[Atoms,
 > Institutions,
-> Blockchains](https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0#:~:text=Recently%2C%20we%E2%80%99ve%20invented%20a%20new%20way%20to%20create%20hardness%3A%20blockchains.%20Using%20an%20elegant%20combination%20of%20cryptography%2C%20networked%20software%2C%20and%20commoditized%20human%20incentives%2C%20we%20are%20able%20to%20create%20software%20and%20digital%20records%20that%20have%20a%20degree%20of%20permanence.)
+> Blockchains](https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0#:~:text=Recently%2C%20we%E2%80%99ve%20invented%20a%20new%20way%20to%20create%20hardness%3A%20blockchains.%20Using%20an%20elegant%20combination%20of%20cryptography%2C%20networked%20software%2C%20and%20commoditized%20human%20incentives%2C%20we%20are%20able%20to%20create%20software%20and%20digital%20records%20that%20have%20a%20degree%20of%20permanence.)</i>
 
 If we aim to use technologies like
 [blockchains](https://www.investopedia.com/terms/b/blockchain.asp)

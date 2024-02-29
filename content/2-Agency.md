@@ -66,8 +66,8 @@ and concentration of power.
 > problem a city poses, because the model ignores the tremendous
 > physical and social complexity of successful urban fabric.
 >
-> ---   [Favelas and Social Housing: The Urbanism of
-    Self-Organization](https://patterns.architexturez.net/system/files/socialhousing.pdf)
+> ---   *[Favelas and Social Housing: The Urbanism of
+    Self-Organization](https://patterns.architexturez.net/system/files/socialhousing.pdf)*
 
 ## Proximity and Congruity
 
@@ -89,8 +89,8 @@ places with distinct local realities expends high levels of
 organizational energy and yields often unusably aggregated observations.
 This problem was the thrust of [FA
 Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)'s
-seminal work, [The Use of Knowledge in
-Society](https://www.econlib.org/library/Essays/hykKnw.html).
+seminal work, *[The Use of Knowledge in
+Society](https://www.econlib.org/library/Essays/hykKnw.html).*
 
 > The sort of knowledge with which I have been concerned is knowledge
 > of the kind which by its nature cannot enter into statistics and
@@ -100,7 +100,7 @@ Society](https://www.econlib.org/library/Essays/hykKnw.html).
 > differences between the things, by lumping together... in a way which
 > may be very significant for the specific decision.
 >
-> --- FA Hayek, The Use of Knowledge in Society
+> --- FA Hayek, *The Use of Knowledge in Society*
 
 ### Overestimating Rationality
 
@@ -187,8 +187,8 @@ in their image for the purpose of predictability and
 [legibility](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/).
 This concept is explored in [James C.
 Scott\'s](https://en.wikipedia.org/wiki/James_C._Scott)
-fantastic book, [Seeing Like a
-State](https://en.wikipedia.org/wiki/Seeing_Like_a_State),
+fantastic book, *[Seeing Like a
+State](https://en.wikipedia.org/wiki/Seeing_Like_a_State)*,
 in a look at German forestry management practices in the early 19th
 century.
 
@@ -197,8 +197,8 @@ century.
 > reality beneath it to something more closely resembling the
 > administrative grid of its observations.
 >
-> ― James C. Scott, [Seeing Like a
-> State](https://en.wikipedia.org/wiki/Seeing_Like_a_State)
+> ― James C. Scott, *[Seeing Like a
+> State](https://en.wikipedia.org/wiki/Seeing_Like_a_State)*
 
 As the early German state
 [sought](https://www.tandfonline.com/doi/abs/10.1080/09505431.2010.519866)
@@ -412,8 +412,8 @@ prerequisite for healthy communities.
 > environment itself as social process, not just as product or
 > container.
 >
-> --- [Favelas and Social Housing: The Urbanism of
-> Self-Organization](https://patterns.architexturez.net/system/files/socialhousing.pdf)
+> --- *[Favelas and Social Housing: The Urbanism of
+> Self-Organization](https://patterns.architexturez.net/system/files/socialhousing.pdf)*
 
 ### Data Analysis Can't Replace Community Memory
 
@@ -494,8 +494,8 @@ without fear of rejection or correction.
 
 Even small extensions of trust can go a long way to building healthy
 relationships between people and a place. The urbanist William H. Whyte
-famously observed in [The Social Life Of Small Urban
-Spaces](https://www.pps.org/product/the-social-life-of-small-urban-spaces)
+famously observed in *[The Social Life Of Small Urban
+Spaces](https://www.pps.org/product/the-social-life-of-small-urban-spaces)*
 that people feel more comfortable in public spaces that allow them to
 [move their
 chairs](https://www.flickr.com/photos/bryantpark/6967693506/in/set-72157629899969863/#:~:text=1983%3A%20Urbanist%20William%20H.%20Whyte%20advocated%20movable%20seating%20in%20public%20spaces%2C%20citing%20the%20social%20limitations%20of%20fixed%20seating%2C%20such%20as%20benches%20and%20railings.%20Bryant%20Park%20is%20now%20undeniably%20social%2C%20with%204%2C120%20chairs.).
@@ -508,7 +508,8 @@ This kind of physical informality builds trust and invites engagement.
 > declaration of autonomy, to oneself, and rather satisfying.
 >
 > --- [William H.
-Whyte](https://www.urbancincy.com/2010/05/clifton-plaza-an-early-success-improvements-needed/#:~:text=%E2%80%9CThe%20possibility%20of,and%20rather%20satisfying.%E2%80%9D)
+Whyte](https://www.urbancincy.com/2010/05/clifton-plaza-an-early-success-improvements-needed/#:~:text=%E2%80%9CThe%20possibility%20of,and%20rather%20satisfying.%E2%80%9D), *The Social Life Of Small Urban
+Spaces*
 
 {{<image src="/media/image20.jpg" caption="1991: Before the bistro chair, Bryant Park Corporation added white plastic chairs for the park's partial reopening in July 1991. Skeptics said they'd be stolen, but most remained in the park. — <a href='https://www.flickr.com/photos/bryantpark/7113772829/in/album-72157629899969863/' target='_blank' rel='noopener noreferrer'>Bryant Park Corporation</a>">}}
 
@@ -542,7 +543,7 @@ processes can be trusted with community members completely.
 > a diploma in order to build.
 >
 > ---   [Friedensreich
-    Hundertwasser](https://hundertwasser.com/en/texts/verschimmelungsmanifest_gegen_den_rationalismus_in_der_architektur)
+    Hundertwasser](https://hundertwasser.com/en/texts/verschimmelungsmanifest_gegen_den_rationalismus_in_der_architektur), *Mouldiness Manifesto Against Rationalism In Architecture*
 
 ### Freedom as a Product
 
@@ -655,8 +656,8 @@ contexts they cannot properly manage.
 > circle, but will give strength to all within and derive its own
 > strength from it.
 >
-> --- Gandhi, [Panchayat
-Raj](https://www.gandhiashramsevagram.org/mind-of-mahatma-gandhi/panchayat-raj.php#:~:text=In%20this%20structure,strength%20from%20it.)
+> --- Gandhi, *[Panchayat
+Raj](https://www.gandhiashramsevagram.org/mind-of-mahatma-gandhi/panchayat-raj.php#:~:text=In%20this%20structure,strength%20from%20it.)*
 
 {{<image src="/media/image26.png" caption="<a href='https://www.youtube.com/watch?v=ekT_WpgBQ0w&t=2516s' target='_blank' rel='noopener noreferrer'>Visualization</a> of Gandhi's Oceanic Circles">}}
 
@@ -718,7 +719,7 @@ histories.
 > Most groups engrave their form in some way upon the soil and retrieve
 > their collective remembrances within the spatial framework.
 >
-> --- [Maurice Halbwachs](https://web.mit.edu/allanmc/www/hawlbachsspace.pdf)
+> --- [Maurice Halbwachs](https://web.mit.edu/allanmc/www/hawlbachsspace.pdf), *The Collective Memory*
 
 Eric Klinenberg's 2018 [Palaces for the
 People](https://99percentinvisible.org/episode/palaces-for-the-people/)
@@ -764,7 +765,7 @@ on outside resources.
 > mediated by, the technologies of memory.
 >
 > ---   [Marita
-    Sturken](https://www.science.org/doi/10.1126/sciadv.1602368#:~:text=Culture%20and%20individual%20memory%20are%20constantly%20produced%20through%2C%20and%20mediated%20by%2C%20the%20technologies%20of%20memory.)
+    Sturken](https://www.science.org/doi/10.1126/sciadv.1602368#:~:text=Culture%20and%20individual%20memory%20are%20constantly%20produced%20through%2C%20and%20mediated%20by%2C%20the%20technologies%20of%20memory.), *The memory remains*
 
 Wonderfully, the world of open source software development has [shown
 us](https://journals.sagepub.com/doi/abs/10.1177/0256090920140212#:~:text=The%20findings%20of,produce%20information%20goods.)

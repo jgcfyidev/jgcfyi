@@ -260,7 +260,7 @@ plans for into a sleep-like dependence on external authority.
 >
 > ― [William H.
 > Whyte](https://en.wikipedia.org/wiki/William_H._Whyte),
-> The Organization Man
+> *The Organization Man*
 
 ### Disengagement
 
@@ -411,4 +411,5 @@ that empower local people to maintain their specific place with care and
 affection. Only then can we begin the work of weaving a dynamic,
 resilient society of our home places.
 
+---
 {{<nav nextLink="/2-Agency" nextText="2. Agency →">}}

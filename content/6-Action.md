@@ -201,11 +201,9 @@ places.
 
 ## A More Engaging and Dynamic Governance
 
-> DAOs will slowly start to eat the local government model.
->
+> DAOs will slowly start to eat the local government model. <br>
 > We will actually see panarchy implemented, first at "hyperlocal
-> governance" level.
->
+> governance" level.<br>
 > NYU researchers have called this "the piecemeal circumvention of the
 > administrative state."
 >
@@ -355,7 +353,7 @@ bureaucracy of yesterday's organizational infrastructure.
 > money or a protocol on the blockchain.
 >
 > ---   [Matt
-    Levine](https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=A%20DAO%20is%20a%20way%20for%20people%20to%20get%20together%20to%20vote%20to%20control%20a%20pot%20of%20money%20or%20a%20protocol%20on%20the%20blockchain.)
+    Levine](https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=A%20DAO%20is%20a%20way%20for%20people%20to%20get%20together%20to%20vote%20to%20control%20a%20pot%20of%20money%20or%20a%20protocol%20on%20the%20blockchain.), <i> The Crypto Story </i>
 
 Giving constituents more direct say over where government money is spent
 is not [a new
@@ -792,9 +790,9 @@ disrupt the operations of small businesses.
 > network... The network, through the aggregate commitments of all of
 > its members, is effectively providing its own money supply.
 >
-> --- [Dil Green](https://twitter.com/dilgreen) - [Someone
+> --- [Dil Green](https://twitter.com/dilgreen), <i>[Someone
 > Just Turned the Lights
-> On](https://www.mutualcredit.services/blog/someone-just-turned-the-lights-on#:~:text=The%20network%2C%20through%20the%20aggregate%20commitments%20of%20all%20of%20its%20members%2C%20is%20effectively%20providing%20its%20own%20money%20supply)
+> On](https://www.mutualcredit.services/blog/someone-just-turned-the-lights-on#:~:text=The%20network%2C%20through%20the%20aggregate%20commitments%20of%20all%20of%20its%20members%2C%20is%20effectively%20providing%20its%20own%20money%20supply) </i>
 
 [Mutual
 credit](https://en.wikipedia.org/wiki/Mutual_credit)
