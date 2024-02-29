@@ -235,6 +235,18 @@ and reclaimed, but not without
 our places for decades or more---as has been the case with German
 forestry.
 
+> [!info]- A Note on States
+>
+> Of course, states and other government institutions aren't miserable at
+> *everything*. They're useful for managing common legal frameworks, the
+> protection of basic human rights, as well as a check against powerful
+> non-state institutions such as large corporations. In those cases, the
+> state creates a common substrate with which communities can interface
+> more freely. When it comes to local placemaking, though, the modern
+> state\'s reach strays far beyond clearing space for coordination.
+> Instead, its prescriptive intervention has a habit of suffocating the
+> vitality that trust invites.
+
 Today, it is not just the state's demand for legibility that is
 [harming rich
 ecologies](https://agaveroadtrip.com/episodes/s4e28-problem-with-the-washington-post-article-about-mezcal#:~:text=But%20instead%20we%E2%80%99re%20all%20drinking%20spirits%20made%20from%20monoculture%20blue%20weber%20agave%20in%20Jalisco%20and%20soon%2Dto%2Dbe%2Dmonoculture%20espadin%20in%20Oaxaca).
@@ -266,19 +278,6 @@ or technological counterparts.
 > --- Wendell Berry, [It All Turns on
 > Affection](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.pdf)
 
-
-
-> [!info]- A Note on States
->
-> Of course, states and other government institutions aren't miserable at
-> *everything*. They're useful for managing common legal frameworks, the
-> protection of basic human rights, as well as a check against powerful
-> non-state institutions such as large corporations. In those cases, the
-> state creates a common substrate with which communities can interface
-> more freely. When it comes to local placemaking, though, the modern
-> state\'s reach strays far beyond clearing space for coordination.
-> Instead, its prescriptive intervention has a habit of suffocating the
-> vitality that trust invites.
 
 
 
