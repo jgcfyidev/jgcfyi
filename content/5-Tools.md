@@ -275,8 +275,7 @@ interrelation and mutual affection.
 > Bartlett](https://www.microsolidarity.cc/essays/from-domination-to-partnership#:~:text=It%E2%80%99s%20not%20that%20people%20are%20incapable%20of%20collaboration%2C%20it%E2%80%99s%20just%20that%20most%20of%20us%20lack%20tools)
 
 Despite the promise of being more effective and empowering, it is
-crucial that [new]
-[tools](https://jzhao.xyz/posts/agentic-computing/) for the
+crucial that [new tools](https://jzhao.xyz/posts/agentic-computing/) for the
 coordination of self sovereign communities be [sufficiently
 learnable](https://venkatesh-rao.gitbook.io/summer-of-protocols/#_ozkudrau5sjb)
 by a broad enough demographic, otherwise they risk becoming
@@ -303,8 +302,8 @@ machinery](https://www.opensourceecology.org/) and
 processes](https://twitter.com/DrNickA/status/1686388841287168000?s=20)
 to [frog
 houses](https://twitter.com/Brieyonce/status/1630051041524760576?s=20)
-and [park]
-[benches](https://www.betterblock.org/wikiblock). Supported
+and
+[park benches](https://www.betterblock.org/wikiblock). Supported
 by [collaborative
 technologies](https://trent.mirror.xyz/GDDRqetgglGR5IYK1uTXxLalwIH6pBF9nulmY9zarUw#:~:text=Resource%20%2D%20the%20Ethereum%20software%20commons),
 digital [commons](https://en.wikipedia.org/wiki/Commons)
@@ -454,8 +453,8 @@ potholes](https://communityscience.com/wp-content/uploads/2021/04/AssetMappingTo
 ### Composability & Openness
 
 For many potential uses of community computing, the question is often
-asked pointedly, "[why does this need to be on a
-blockchain](https://blockchainforgov.org/)?" One of those
+asked pointedly, '[why does this need to be on a
+blockchain](https://blockchainforgov.org/)?' One of those
 reasons is that distributed protocols lend
 [composability](https://blog.aragon.org/what-is-composability/).
 This means that infrastructure natively brings tools in relationship. In

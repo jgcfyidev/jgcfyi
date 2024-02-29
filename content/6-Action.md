@@ -93,7 +93,7 @@ One such category of informal social identity is that of reputation
 systems. Organizations like
 [Gitcoin](https://go.gitcoin.co/blog/intro-to-passport)
 and [Lens](https://docs.lens.xyz/docs/what-is-lens) are
-working to compile and verify user's disparate online identities into
+working to compile and verify users' disparate online identities into
 [portable](https://cointelegraph.com/news/how-does-zero-knowledge-proof-authentication-help-create-a-portable-digital-identity-solution#:~:text=Identity%20portability%20refers%20to%20the%20ability%20of%20users%20to%20generate%20a%20single%20set%20of%20digital%20ID%20credentials%20usable%20across%20multiple%20platforms.)
 social graphs. These systems are useful because they can aggregate
 informal markers of identity like a username, ownership of a [digital
@@ -650,7 +650,7 @@ for cities themselves.
 >already find intimate artwork representing [childhood
 >memories](https://opensea.io/collection/ryans-memories)
 >available on 24/7 marketplaces. This kind of
->[hyperliquidity] [of
+>[hyperliquidity of
 >everything](https://www.forbes.com/sites/worldeconomicforum/2016/11/10/>shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/?>sh=7a264f571735#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service>.)---and
 >the resulting
 >[hypermobility](https://www.fastcompany.com/90779384/>heres-what-to-know-about-flow-adam-neumanns-newly-flush-with-cash-real-estate-startup#:~:text=Flow%20want>s%20to%20be%20a%20housing%20utopia%20for%20remote%20workers.)---[objectifies
@@ -829,8 +829,8 @@ bust](https://www.investopedia.com/terms/b/boom-and-bust-cycle.asp#:~:text=The%2
 monetary systems with [positive
 externalities](https://twitter.com/buchmanster/status/1571569656036753408)
 [present](https://twitter.com/informalinc/status/1600187514127409152)
-in [mutual]
-[relationship](https://www.nhm.ac.uk/discover/mutualism-examples-of-species-that-work-together.html).
+in
+[mutual relationship](https://www.nhm.ac.uk/discover/mutualism-examples-of-species-that-work-together.html).
 
 By reducing the need for individuals and local firms to carry and spend
 outside money, these systems can be used to make local economic
@@ -890,7 +890,7 @@ blockchain-based system working to build [on-chain
 infrastructure](https://twitter.com/cyclesmoney) to support
 mutual credit systems to the benefit small communities.
 
-{{<image src="/media/image22.png" caption="The <a href='https://grassecon.org/trust-graph' target='_blank' rel='noopener noreferrer'>trust graph</a> of villages in Kenya using <a href='https://www.grassrootseconomics.org/pages/how-it-works#:~:text=Community%20Asset%20Vouchers%20(CAVs)' target='_blank' rel='noopener noreferrer'>Sarafu</a> for accounting, credit, and debt of their mutual aid <a href='https://viz.sarafu.network/' target='_blank' rel='noopener noreferrer'>network</a>. There are 150 clusters---many with significant economic relationship to each other">}}
+{{<image src="/media/image22.png" caption="The <a href='https://grassecon.org/trust-graph' target='_blank' rel='noopener noreferrer'>'trust graph'</a> of villages in Kenya using <a href='https://www.grassrootseconomics.org/pages/how-it-works#:~:text=Community%20Asset%20Vouchers%20(CAVs)' target='_blank' rel='noopener noreferrer'>Sarafu</a> for accounting, credit, and debt of their mutual aid <a href='https://viz.sarafu.network/' target='_blank' rel='noopener noreferrer'>network</a>. There are 150 clusters - many with significant economic relationship to each other">}}
 
 ## Where Does That Lead Us? 
 

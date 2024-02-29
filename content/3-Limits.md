@@ -4,7 +4,7 @@ enableToc: false
 
 # 3
 <h1 style="margin:0;">Limits</h1>
-<h4 style="margin-top:0; margin-bottom: 16px;">Derived in Affectionate Relationship to Each Other and our Places</h4>
+<h4 style="margin-top:0; margin-bottom: 16px;">Derived in Affectionate Relationship to Each Other and Our Places</h4>
 
 As globalized economies accumulate hidden existential debts,
 institutions seeking to control for risk instead reinforce our
@@ -81,7 +81,7 @@ cancer rates.
 The consequences of our economic relationships aren't only pushed out of
 sight but also veiled in assumptions about a future we never bother to
 imagine arriving. We do this every day by applying synthetic fertilizers
-despite their deterioration of the soil, or by using fossil fuels
+despite their deterioration of the soil or by using fossil fuels
 despite the near-term inevitability of their exhaustion. These
 precarious trajectories are often explained away because of assumptions
 about future
@@ -135,7 +135,7 @@ and abandoned communities can't be remedied by [more federal
 dollars](https://www.epa.gov/superfund), but local people
 won't know how to get out of these situations if they [weren\'t a
 part](https://www.strongtowns.org/journal/2018/6/25/debt-is-not-a-funding-source#:~:text=They%20can%20cancel%20the%20future%20of%20a%20community%20in%20a%20way%20that%20is%20nearly%20indiscernible%20to%20the%20public%20until%20it%E2%80%99s%20too%20late.)
-of getting there. Building locally-derived traditions of organization,
+of getting there. Building locally derived traditions of organization,
 then, is vital to the survival of our home places.
 
 ### Black Swans
@@ -223,12 +223,12 @@ rendered them.
 One such example is the classic story of the removal and reintroduction
 of wolves to [Yellowstone National
 Park](https://www.yellowstonepark.com/things-to-do/wildlife/wolf-reintroduction-changes-ecosystem/).
-Wolves were once the top predator in the ecosystem of Yellowstone, but
+Wolves were once the top predator in the ecosystem, but
 by the 1920s they had been effectively exterminated due to federal and
 state-sponsored predator control programs aiming to protect
 'economically important' livestock and game populations.
 
-It was not until the 1960s when the resulting ecological imbalance
+It was not until the 1960s that the resulting ecological imbalance
 became evident. Elk became overpopulated, overgrazing willow and aspen
 stands with ripple effects throughout the region, affecting other
 species and leading to a substantial decrease in biodiversity.
@@ -236,7 +236,7 @@ species and leading to a substantial decrease in biodiversity.
 After decades of debate, the effort to reintroduce wolves into
 Yellowstone began in 1995. This simple step had a cascade effect to the
 benefit of the entire local ecosystem. Wolves began to keep the elk
-population in check, which in turn allowed vegetation to recover. The
+population in check, allowing vegetation to recover. The
 recovery of willow stands provided more habitats for beavers, whose dams
 create habitats for other species.
 
@@ -247,7 +247,7 @@ Despite the good result, the resource and time intensive process necessary simpl
 
 ## Limits Derived in Empathetic Relationship
 
-More sensitive local structures of organizing can
+More sensitive local organizational structures can
 [remedy](https://www.youtube.com/watch?v=JsT9V3WQiNA&t=2638s)
 this tendency of industrial economies to produce existential risk.
 Instead of accumulating externalities, these structures [match inputs

@@ -40,12 +40,12 @@ children to increasingly fragile dependence.
 ## Place in Time and Time in Place
 
 A culture can be understood as an accumulation of its people's various
-traditions---of language, land-stewardship, cooking, gathering, and many
+traditions---of language, land stewardship, cooking, gathering, and many
 other practices. Stewart Brand's
 [conception](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2)
 of pace layering below describes society's nested, polycentric
 orientation to time, with slow-changing natural systems and their
-resulting cultures at the core. Here we can see that affection for our
+resulting cultures at the core. Here, we can see that affection for our
 place not only grounds our relationship to each other and limits, but
 also to time.
 
@@ -142,7 +142,7 @@ old damage to new destruction," as Berry puts it.
 > back to the country or back to the city. And because we have never
 > known well enough, or worked well enough, where we were, this has
 > almost always been a movement from old damage to new destruction, and
-> always with the aim of \'a better future for our children.'
+> always with the aim of \'a better future for our children'.
 >
 > ---   Wendell Berry, <i>The Art of Loading Brush</i>
 
@@ -251,7 +251,7 @@ traditional local processes.
 
 Agave distillates (including mezcal) have historically been produced by
 families in small batches for [their
-village](http://maestrosdelmezcal.com/blog#:~:text=Chances%20are%20you,the%20flavor%20itself))
+village](http://maestrosdelmezcal.com/blog#:~:text=Chances%20are%20you,the%20flavor%20itself)
 and personal network. Small mezcaleros typically do not have the money,
 legal literacy, or social capital to have their work certified as
 'official' mezcal by [federal

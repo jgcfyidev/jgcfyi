@@ -153,17 +153,16 @@ place](https://highways.dot.gov/highway-history/interstate-system/original-inten
 was a result of prioritizing central planning over-sensitivity to local
 neighborhoods.
 
-Originally set for completion in 1998 at an estimated cost of \$7.4 
+Originally set for completion in 1998 at an estimated cost of \$7.4
 billion, the project instead stretched on nearly a decade longer and
-cost over \$21.5 billion (adjusted for inflation), making it the most
+cost over 21.5 billion (adjusted for inflation), making it the most
 expensive highway project in the history of the United States. In
 addition to delays and overrun costs, the project was mired with
 criminal charges and even a death.
 
 While
 [big](https://mysteriouschicago.com/finding-daniel-burnhams-no-little-plans-quote/#:~:text=Make%20no%20little%20plans%2C%20they%20have%20no%20magic%20in%20them%20to%20stir%20men%E2%80%99s%20blood)
-plans often have big societal effects, they aren't always the
-consequences [we
+plans often have big societal effects, they aren't always what [we
 intend](https://highways.dot.gov/highway-history/interstate-system/original-intent-purpose-interstate-system-1954-1956#:~:text=The%20next%2040,and%20its%20cities.).
 Even when our grand plans produce more efficient infrastructure,
 [Jevons
@@ -188,7 +187,7 @@ This concept is explored in [James C.
 Scott\'s](https://en.wikipedia.org/wiki/James_C._Scott)
 fantastic book, *[Seeing Like a
 State](https://en.wikipedia.org/wiki/Seeing_Like_a_State)*,
-in a look at German forestry management practices in the early 19th
+looking at German forestry management practices in the early 19th
 century.
 
 > The utopian, immanent, and continually frustrated goal of the modern
@@ -337,9 +336,9 @@ Illich](https://www.youtube.com/watch?v=dcvJs6RS2Ek), and
 
 In her Nobel Prize-winning research, Elinor Ostrom
 [analyzed](https://youtu.be/T6OgRki5SgM?t=1779) irrigation
-systems and fisheries all over the world and found that 72% of
+systems and fisheries all over the world. She found that 72% of
 farmer-managed systems had high performance (in terms of yield and cost)
-compared to 42% of agency run systems, despite having experts and
+compared to 42% of agency-run systems, despite having experts and
 flawless engineering on their side. How is this possible?
 
 The tragedy of the commons is an
@@ -444,7 +443,7 @@ into the process.
 
 ## Spontienty and Informality
 
-It is worth stating explicitly that, while they do offer the
+It is worth stating explicitly that, while they offer the
 preconditions for a more relational society, locally derived authority
 structures can be [just as
 coercive](https://www.strongtowns.org/journal/2022/6/29/local-control-or-centralized-planning-theres-a-third-answer#:~:text=It%20doesn%E2%80%99t%20really%20capture%20the%20reality%20that%20local%20authority%20can%20be%20just%20as%20coercive%20and%20maddening%20as%20distant%20authority.)
@@ -454,18 +453,18 @@ Subsequent essays will focus on the specific kinds of tools that can
 foster our capacity for collaboration and build a coherent [community
 memory](https://www.annualreviews.org/doi/10.1146/annurev-psych-070920-023638)
 to counter these tendencies. But, since a healthy society depends on
-more than simply scorning non-local institutions, first we must better
-understand what healthy patterns of locally sensitive relationship look
+more than simply scorning non-local institutions, we must first better
+understand what healthy patterns of locally sensitive relationship looks
 like.
 
 {{<twitter user="jgcfyi" id="1543957797976547329" >}}
 
-Foundationally, vibrant communities are built on informal and empathetic
+Foundationally, vibrant communities are built on informal, empathetic
 [relationships](https://www.researchgate.net/publication/344484649_Examining_the_Correlates_of_Psychological_Flexibility_in_Romantic_Relationship_and_Family_Dynamics_A_Meta-Analysis)
 that leave
 [space](http://lnu.diva-portal.org/smash/get/diva2:627705/FULLTEXT01.pdf)
 for *spontaneity*. Space granted is an extension of trust capable of
-producing the kind [breakthrough
+producing the kind of [breakthrough
 thinking](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/?mc_cid=147923f650&mc_eid=20f28eef5b#:~:text=So%20slow%2C%20in%20fact%2C%20that%20at%20first%20Wang%20thought%20they%20were%20wasting%20a%20lot%20of%20time%20on%20easy%20problems%20they%20already%20understood.%20But%20then%20he%20realized%20that%20Huh%20was%20learning%20even%20seemingly%20simple%20concepts%20in%20a%20much%20deeper%20way%20%E2%80%94%20and%20in%20precisely%20the%20way%20that%20would%20later%20prove%20useful.)
 necessary to [solve hard
 problems](https://wavelength.asana.com/workstyle-planned-spontaneity/)
@@ -482,7 +481,7 @@ The ensuing
 [dialogue](https://thoughtforms.life/experiments-in-ai-art-with-midjourney-5/#:~:text=a%20mutual%20relationship%20or%20dance.%20The%20latter%20thus%20also%20seems%20to%20range%20from%20pure%20enjoyment%20of%20the%20observer%2C%20vs.%20a%20deep%20connection%20of%202%20minds%20via%20the%20medium%20of%20art.)
 between artist and observer invites a vulnerability and openness that
 cannot be conveyed through formal media with more implied objectivity.
-When an artist gives up control over their art by making it public, they
+When artists give up control over their art by making it public, they
 enter into an uncertainty that empowers the recipient to [make it their
 own](https://joannanewsomlyrics.com/album/1-the-milk-eyed-mender/4-sadie_as_sung/#:~:text=This%20is%20an%20old%20song%2C%20these%20are%20old%20blues.%0AThis%20is%20not%20my%20tune%2C%20but%20it%27s%20mine%20to%20use.),
 fueling [creativity and
@@ -555,11 +554,11 @@ instead of product providers.
 
 In Steve Yegge\'s famous 2011
 [rant](https://gist.github.com/chitchcock/1281611) on
-\'Google vs. Amazon,\' he shows how centralized decision-making and
+\'Google vs. Amazon\', he shows how centralized decision-making and
 product release can't be as dynamic and robust as a platform
 architecture that enables other teams and individuals to release their
 own products with minimal oversight. Instead of selling books
-themselves, Amazon let everyone sell their own books. Eventually they
+themselves, Amazon let everyone sell their own books. Eventually, they
 would expand this posture to their prolific [web
 services](https://en.wikipedia.org/wiki/Amazon_Web_Services)
 as well.
@@ -577,20 +576,20 @@ as well.
 
 Platform architectures are now ubiquitous, where in places like Apple\'s
 App Store, independent producers offer a wider range of more specialized
-software than a single company could ever make itself. Youtube and
+software than a single company could ever make itself. YouTube and
 social media platforms similarly host a whole universe of user-generated
 content.
 
 The difference between these
 [platforms](https://outland.art/art-games/#:~:text=This%20is%20also%20how%20platform%20capitalism%20works),
 though, and the agency-delivering organizational structures we should
-aspire to, is that the platform owners can [take away
+aspire to is that the platform owners can [take away
 access](https://99percentinvisible.org/episode/the-lost-cities-of-geo/transcript/#:~:text=And%20then%2C%20the%20world%20ended.)
 or [censor
 communication](https://link.springer.com/article/10.1007/s13347-020-00423-6)
 [whenever they
 want](https://www.pbs.org/newshour/show/reddit-users-go-dark-in-protest-of-policy-that-could-shut-out-third-party-apps).
-Without giving full-control to users, platforms can
+Without giving full control to users, platforms can
 [only](https://twitter.com/0x113d/status/1754293993133728160)
 offer a taste of what more empowering organizational technologies can
 offer in terms of trustworthiness, interoperability, and permanence.
@@ -724,7 +723,7 @@ Eric Klinenberg's 2018 [Palaces for the
 People](https://99percentinvisible.org/episode/palaces-for-the-people/)
 continues in this lineage, exploring how [social
 infrastructure](https://compass.onlinelibrary.wiley.com/doi/full/10.1111/gec3.12444)---physical
-infrastructure that works to embed social relationship into daily
+infrastructure that embeds social relationship into daily
 life---[helps](https://www.youtube.com/watch?v=YhU45EgFb6Y)
 make people happier, more trusting of their neighbors, and even safer in
 crisis.
@@ -766,7 +765,7 @@ on outside resources.
 > ---   [Marita
     Sturken](https://www.science.org/doi/10.1126/sciadv.1602368#:~:text=Culture%20and%20individual%20memory%20are%20constantly%20produced%20through%2C%20and%20mediated%20by%2C%20the%20technologies%20of%20memory.), *The memory remains*
 
-Wonderfully, the world of open source software development has [shown
+Wonderfully, the world of open-source software development has [shown
 us](https://journals.sagepub.com/doi/abs/10.1177/0256090920140212#:~:text=The%20findings%20of,produce%20information%20goods.)
 that it is possible to challenge institutionalized norms and build
 parallel systems of organization with real legitimacy, especially with
