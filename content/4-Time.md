@@ -23,6 +23,11 @@ the future.
 > --- Wendell Berry, [Manifesto: The Mad Farmer Liberation
 > Front](https://cales.arizona.edu/~steidl/Liberation.html)
 
+---
+{{<nav prevText="← 3. Limits" prevLink="/3-Limits" nextLink="/5-Tools" nextText="5. Tools →">}}
+
+---
+
 So far, we have discussed how affectionate relationship unlocks pathways
 for agency and limits to emerge in balance toward resilient home places.
 Now, we will explore how this equilibrium is matured across generations
@@ -31,10 +36,6 @@ edified by our relationship to that which came before us, and which
 comes after. Without these traditions, our rootlessness leads our
 children to increasingly fragile dependence.
 
----
-{{<nav prevText="← 3. Limits" prevLink="/3-Limits" nextLink="/5-Tools" nextText="5. Tools →">}}
-
----
 
 ## Place in Time and Time in Place
 
