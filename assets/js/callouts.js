@@ -1,6 +1,3 @@
-const addCollapsibleCallouts = () => {
-    const collapsibleCallouts = document.querySelectorAll("blockquote.callout-collapsible");
-    collapsibleCallouts.forEach(el => el.addEventListener('click', event => {
-        event.currentTarget.classList.toggle("callout-collapsed");
-    }));
-}
+// This will ensure all callouts are open by default
+const callouts = document.querySelectorAll("blockquote.callout-collapsible");
+callouts.forEach(el => el.classList.remove("callout-collapsed"));
