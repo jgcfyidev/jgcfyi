@@ -649,7 +649,7 @@ a robust web of resilient yet accessible infrastructure.
 If we aim to use technologies like
 [blockchains](https://www.investopedia.com/terms/b/blockchain.asp)
 as an
-[alternative](https://vitalik.ca/general/2022/12/30/institutions.html#:~:text=Creating%20formal%20structures,of%20challenges%20too.)
+[alternative](https://vitalik.eth.limo/general/2022/12/30/institutions.html#:~:text=Creating%20formal%20structures,of%20challenges%20too.)
 or companion to large institutions, we should [be
 careful](https://www.youtube.com/watch?v=AyaWFicSihE&t=617s)
 not make them too

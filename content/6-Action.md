@@ -112,7 +112,7 @@ implementation of these architectures. Because they aren't controlled by
 a centralized entity that may someday [go
 away](https://www.cnet.com/tech/services-and-software/geocities-dies-in-march-2019-and-with-it-a-piece-of-internet-history/),
 they are more
-[permanent](https://vitalik.ca/general/2022/01/26/soulbound.html)
+[permanent](https://vitalik.eth.limo/general/2022/01/26/soulbound.html)
 and portable than any more self-contained identity solution.
 
 > [!info]- A Note on Privacy
@@ -435,7 +435,7 @@ Stack](https://www.gitcoin.co/grants-stack) allows users to
 coordinate community-driven grants funding.
 [Clr.fund](https://clr.fund/#/about) allows participants
 to crowdfund public goods with the aid of [quadratic
-funding](https://vitalik.ca/general/2019/12/07/quadratic.html),
+funding](https://vitalik.eth.limo/general/2019/12/07/quadratic.html),
 where philanthropic individuals or organizations contribute to a
 matching pool that is dispersed in higher proportion to causes with more
 individual donors.
@@ -563,7 +563,7 @@ exploring blockchain-based structures for '[plural
 property](https://www.radicalxchange.org/concepts/plural-property/)'
 in the physical world, showing the ability of flexible smart contract
 systems to aid in
-[experiments](https://vitalik.ca/general/2021/10/31/cities.html#:~:text=Experiment%20%232%3A%20more%20radical%20and%20participatory%20forms%20of%20governance)
+[experiments](https://vitalik.eth.limo/general/2021/10/31/cities.html#:~:text=Experiment%20%232%3A%20more%20radical%20and%20participatory%20forms%20of%20governance)
 with new ownership structures, such as the [Harberger
 tax](https://dzone.com/articles/harberger-taxes-on-ethereum#:~:text=Harberger%20Taxes%20consists,their%20own%20price.)
 or [Georgist](https://en.wikipedia.org/wiki/Georgism) land
@@ -667,7 +667,7 @@ for cities themselves.
 Beyond physical and digital ownership, blockchains can support broader
 social coordination as well. One example
 [discussed](https://theblockchainsocialist.com/talking-politics-with-vitalik-buterin-part-2/)
-by [Vitalik Buterin](https://vitalik.ca/) is the
+by [Vitalik Buterin](https://vitalik.eth.limo/) is the
 decentralized coordination of a conference. In this example, like-minded
 people can place a deposit into a smart contract along with a preference
 for a location. Once a threshold of deposits with a matching location is
