@@ -14,6 +14,8 @@ and our places over generations. These locally derived traditions of
 placemaking can help build more resilient communities and reduce our
 reliance on disempowering institutions.
 
+Before diving in, you can go 1. [**here**](/Philosophy) for a short brief on my general philosphy of writing and approach to this project. 
+
 Below, you can find a link to each of the essays in the series.
 
 ---
