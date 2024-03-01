@@ -452,8 +452,8 @@ as distant authority.
 Subsequent essays will focus on the specific kinds of tools that can
 foster our capacity for collaboration and build a coherent [community
 memory](https://www.annualreviews.org/doi/10.1146/annurev-psych-070920-023638)
-to counter these tendencies. But, since a healthy society depends on
-more than simply scorning non-local institutions, we must first better
+to counter these tendencies. But, since a healthy society [depends on
+more](https://twitter.com/jgcfyi/status/1543957797976547329) than simply scorning non-local institutions, we must first better
 understand what healthy patterns of locally sensitive relationship looks
 like.
 
