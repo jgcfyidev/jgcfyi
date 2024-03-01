@@ -683,7 +683,7 @@ that modern municipal governments often default to.
 ## Money
 
 Finally, we cannot discuss
-crypto[currency](https://vitalik.ca/general/2022/12/05/excited.html#:~:text=Money%3A%20the%20first%20and%20still%20most%20important%20app)
+crypto<a href="https://vitalik.ca/general/2022/12/05/excited.html#:~:text=Money%3A%20the%20first%20and%20still%20most%20important%20app"currency</a>
 without discussing its role as money. The shape of our economies
 dictates so much of
 [institutional](https://twitter.com/drumm_colin/status/1588320762607259648)
