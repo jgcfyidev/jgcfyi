@@ -69,7 +69,7 @@ blockquote.callout-collapsed > *:not(:first-child) {
 /* Styles for mobile screens */
 @media (max-width: 600px) { /* Adjust 600px to your desired breakpoint */
   blockquote[class*="-callout"] {
-    max-width: 95%; /* The callout will take up to 95% of its parent's width */
+    max-width: 100%; /* The callout will take up to 95% of its parent's width */
     margin-left: auto; /* Centers the callout */
     margin-right: auto; /* Centers the callout */
   }
