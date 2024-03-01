@@ -1,6 +1,4 @@
-This is a working document, I’ll update it when I think of something else to add
-
-General Posture Towards Putting Thought on the Internet
+# General Posture Towards Putting Thought on the Internet
 
 -   I concede that none of my writing can perfectly represent my thinking, or truth itself
 -   I don’t think that what I’m writing about is the most important thing, or the only way to do things, it’s just what I happened to think about often enough to write about.
@@ -34,3 +32,5 @@ General Posture Towards Putting Thought on the Internet
 
 
 Thank you for being here!
+
+{{<nav nextLink="/1-Relationship" nextText="1. Relationship →">}}
