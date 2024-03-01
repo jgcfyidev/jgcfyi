@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 <h1>Community Memory</h1>
-<h5 style="margin:0; margin-right: 180px;">A Framework for Building Resilient Communities Anchored in Relationship and Empowered by Collaborative Technology</h5>
+<h5 style="margin:0;">A Framework for Building Resilient Communities <br> Anchored in Relationship and <br> Empowered by Collaborative Technology</h5>
 
 
 This six-part series will examine how new organizational and
@@ -14,7 +14,7 @@ and our places over generations. These locally derived traditions of
 placemaking can help build more resilient communities and reduce our
 reliance on disempowering institutions.
 
-Before diving in, you can go 1. [**here**](/Philosophy) for a short brief on my general philosphy of writing and approach to this project. 
+Before diving in, you can go [**here**](/Philosophy) for a short brief on my general philosphy of writing and approach to this project. 
 
 Below, you can find a link to each of the essays in the series.
 
