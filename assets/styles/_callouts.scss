@@ -52,15 +52,6 @@
   --callout-warning-accent: #7f4800 !important;
 }
 
-blockquote.callout-collapsible {
-  // cursor: pointer; <- Remove this line
-  // &::after { <- Remove this entire block
-  //   content: '-';
-  //   right: 6px;
-  //   font-weight: bolder;
-  //   font-family: Courier New, Courier, monospace;
-  // }
-}
 
 blockquote.callout-collapsed > *:not(:first-child) {
   display: block !important; /* This ensures that the content is always shown */
@@ -97,14 +88,6 @@ blockquote[class*="-callout"] {
   }
 }
 
-blockquote[class*="-callout"] > p:first-child::after, blockquote.callout-collapsible::after {
-//  display: inline-block;
-//  height: 18px;
-//  width: 18px;
-//  position: absolute;
-//  top: 0.4em;
-//  margin: 0.2em 0.4em;
-}
 
 blockquote[class*="-callout"] > p:first-child {
   font-weight: bold;
