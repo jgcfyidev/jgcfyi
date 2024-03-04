@@ -60,7 +60,8 @@ img {
 
 .blurb {
   font-size: 1.25rem;
-  font-weight: 200; // Or use "normal" for less boldness
+  font-weight: 300; // Or use "normal" for less boldness
+  color: var(--primary);
 }
 
 a > h3 + p {
