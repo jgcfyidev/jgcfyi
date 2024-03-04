@@ -6,11 +6,11 @@ enableToc: false
 <h1 style="margin:0;">Limits</h1>
 <h4 style="margin-top:0; margin-bottom: 16px;">Derived in Affectionate Relationship to Each Other and Our Places</h4>
 
-As globalized economies accumulate hidden existential debts,
+<span class="blurb">As globalized economies accumulate hidden existential debts,
 institutions seeking to control for risk instead reinforce our
 trajectory. Affectionate and empathetic relationship with the people and
 places around us can help more effectively build resilience and diffuse
-these risks.
+these risks.</span>
 
 ---
 {{<nav prevText="← 2. Agency" prevLink="/2-Agency" nextLink="/4-Time" nextText="4. Time →">}}

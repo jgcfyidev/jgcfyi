@@ -7,11 +7,11 @@ enableToc: false
 <h4 style="margin-top:0; margin-bottom: 16px;">Rooting our Computing in Place & Relationship</h4>
 
 
-Our tools and technologies amplify our habits of relating to each other,
+<span class="blurb">Our tools and technologies amplify our habits of relating to each other,
 our places, our organizational systems, and even time. More
 collaborative computing architectures can help us shed the prosthesis of
 institutional control and rebuild the locally-derived competency
-necessary to steward our places through generations.
+necessary to steward our places through generations.</span>
 
 > *Personal Computers unleashed unimaginable levels of sovereignty & interoperability for people.*
 <br>
@@ -22,14 +22,14 @@ necessary to steward our places through generations.
 > ---   [Ethan
     Buchman](https://twitter.com/buchmanster/status/1466092508316905478)
 
-A healthy society is built on relationship, between people and to their
-home places over time. Our tools can either support or undermine this
-delicate balance.
-
 ---
 {{<nav prevText="← 4. Time" prevLink="/4-Time" nextLink="/6-Action" nextText="6. Action →">}}
 
 ---
+
+A healthy society is built on relationship, between people and to their
+home places over time. Our tools can either support or undermine this
+delicate balance.
 
 ## Technology in Place
 
