@@ -33,6 +33,12 @@ into our economic system, often with our
 '[best](https://www.economist.com/finance-and-economics/2022/06/15/the-construction-industry-remains-horribly-climate-unfriendly?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=17210591673&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gad_source=1&gclid=Cj0KCQiA7OqrBhD9ARIsAK3UXh1juWsfFNih08gr-bvOty-1E0Brzw8QqF9bd21dCz4tQ6VVPlUztWYaAtWpEALw_wcB)'
 places becoming the most dependent on this exploitation.
 
+> In the last 100 yrs, California's Central Valley has overdrawn the aquifer (extracted more water than has been replenished with rain or snow) by more than 122 million acre-feet, or 45 trillion gallons
+>As much as 80% of this water goes to agriculture
+>Farmers in the drier areas of the valley rely almost exclusively on water pumped from the aquifer instead of river water. 
+>The ground in these areas has sunken by as much as 30 feet in the last 50 years and continues to drop a foot per year
+> Sam Knowlton
+
 {{<twitter user="samdknowlton" id="1611073311580225536" >}}
 
 Sadly, in a consumption-focused context, where places are seen as

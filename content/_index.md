@@ -71,4 +71,6 @@ persistent community memory capable of carrying our places forward
 with vitality. 
 
 <br>
+<div style="text-align:center">
 👫🏡👪 ~~ ~~ 👫🏡👪 ~~ ~~ 👫🏡👪 ~~ ~~ 👫🏡👪 ~~ ~~ 👫🏡👪 ~~ ~~ 👫🏡👪 ~~ ~~ 👫🏡👪
+</div>
