@@ -890,7 +890,7 @@ blockchain-based system working to build [on-chain
 infrastructure](https://twitter.com/cyclesmoney) to support
 mutual credit systems to the benefit small communities.
 
-{{<image src="/media/image22.png" caption="The <a href='https://grassecon.org/trust-graph' target='_blank' rel='noopener noreferrer'>'trust graph'</a> of villages in Kenya using <a href='https://www.grassrootseconomics.org/pages/how-it-works#:~:text=Community%20Asset%20Vouchers%20(CAVs)' target='_blank' rel='noopener noreferrer'>Sarafu</a> for accounting, credit, and debt of their mutual aid <a href='https://viz.sarafu.network/' target='_blank' rel='noopener noreferrer'>network</a>. There are 150 clusters - many with significant economic relationship to each other">}}
+{{<image src="/media/image22.png" caption="The <a href='https://grassecon.org/trust-graph' target='_blank' rel='noopener noreferrer'>'trust graph'</a> of villages in Kenya using <a href='https://www.grassrootseconomics.org/pages/how-it-works#:~:text=Community%20Asset%20Vouchers%20(CAVs)' target='_blank' rel='noopener noreferrer'>Sarafu</a> for accounting, credit, and debt of their mutual aid <a href='https://viz.sarafu.network/' target='_blank' rel='noopener noreferrer'>network</a>. There are 150 clusters - many with significant economic relationship to each other.">}}
 
 ## Where Does That Lead Us? 
 
