@@ -457,8 +457,6 @@ more](https://twitter.com/jgcfyi/status/1543957797976547329) than simply scornin
 understand what healthy patterns of locally sensitive relationship looks
 like.
 
-{{<twitter user="jgcfyi" id="1543957797976547329" >}}
-
 Foundationally, vibrant communities are built on informal, empathetic
 [relationships](https://www.researchgate.net/publication/344484649_Examining_the_Correlates_of_Psychological_Flexibility_in_Romantic_Relationship_and_Family_Dynamics_A_Meta-Analysis)
 that leave
@@ -595,7 +593,6 @@ offer a taste of what more empowering organizational technologies can
 offer in terms of trustworthiness, interoperability, and permanence.
 
 > [!info]-
-
 > A Note on Protocols
 >
 > The progression toward open architectures that empower communities finds its completion in [protocols](https://knightcolumbia.org/content/protocols-not-platforms-a-technological-approach-to-free-speech): open [standards](https://www.youtube.com/watch?v=9Cs9Yf6WpUk) for organization not controlled by any specific individual or company. These [technological](https://summerofprotocols.com/research) building blocks offer the scaffolding for replicable alternatives to central planning and will see much more discussion in the final essays of this series.

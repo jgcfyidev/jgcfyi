@@ -318,7 +318,7 @@ and transportation infrastructure more relational,
 People seeking
 [refuge](https://www.spencerchang.me/posts/our-internet/)
 from the industrial scale and surveillance of the modern internet are
-advocating for a retreat to what is being called the '[cozy web](https://notes.alexkehayias.com/the-cozy-web/)'. The
+advocating for a retreat to what is being called the ‘<a href="https://notes.alexkehayias.com/the-cozy-web/">cozy web</a>’. The
 concept represents a more private and interpersonal [oasis of digital
 relatedness](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/).
 
