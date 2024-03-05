@@ -7,11 +7,11 @@ enableToc: false
 <h4 style="margin-top:0; margin-bottom: 16px;">Rooting our Computing in Place & Relationship</h4>
 
 
-<span class="blurb">Our tools and technologies amplify our habits of relating to each other,
+<mark class="blurb">Our tools and technologies amplify our habits of relating to each other,
 our places, our organizational systems, and even time. More
 collaborative computing architectures can help us shed the prosthesis of
 institutional control and rebuild the locally-derived competency
-necessary to steward our places through generations.</span>
+necessary to steward our places through generations.</mark>
 
 > *Personal Computers unleashed unimaginable levels of sovereignty & interoperability for people.*
 <br>
@@ -318,8 +318,7 @@ and transportation infrastructure more relational,
 People seeking
 [refuge](https://www.spencerchang.me/posts/our-internet/)
 from the industrial scale and surveillance of the modern internet are
-advocating for a retreat to what is being called the \'[cozy
-web](https://notes.alexkehayias.com/the-cozy-web/)\'. The
+advocating for a retreat to what is being called the '[cozy web](https://notes.alexkehayias.com/the-cozy-web/)'. The
 concept represents a more private and interpersonal [oasis of digital
 relatedness](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/).
 

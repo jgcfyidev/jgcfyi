@@ -6,11 +6,11 @@ enableToc: false
 <h1 style="margin:0;">Time</h1>
 <h4 style="margin-top:0; margin-bottom: 16px;">Generational Ways of Thinking</h4>
 
-<span class="blurb">Agency and limits both are strongly supported by traditions of
+<mark class="blurb">Agency and limits both are strongly supported by traditions of
 generational knowledge transfer, rooted in specific place. Equilibrial
 investment and draw from local resources over generations grounds a
 community in time and place, giving joy in the present and assurance of
-the future.</span>
+the future.</mark>
 
 > Invest in the millenium. Plant sequoias.\
 > Say that your main crop is the forest\

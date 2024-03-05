@@ -45,6 +45,12 @@ h5 {
   font-style: italic; // Makes the text italic
 }
 
+h6 {
+  color: var(--dark);
+  font-size: 1em;
+  font-weight: 400; // Or use "normal" for less boldness
+}
+
 img {
   max-width: 70%;
   height: auto; /* Maintain the aspect ratio */
@@ -61,7 +67,7 @@ img {
 .blurb {
   font-size: 1.25rem;
   font-weight: 300; // Or use "normal" for less boldness
-  color: var(--primary);
+  color: var(--dark);
 }
 
 a > h3 + p {
@@ -75,14 +81,14 @@ a > h3 + p {
   --secondary: #0c6fb1;
   --tertiary: #84a59d;
   --visited: #afbfc9;
-  --primary: #f28482;
+  --primary: #1b6040;
   --gray: #4e4e4e;
   --gray2: #575757;
   --gray3: #222222;
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
   --million-progress-bar-color: var(--secondary);
-  --highlighted: #f5dfaf88;
+  --highlighted: #fb714b24;
 }
 
 [saved-theme="dark"] {
