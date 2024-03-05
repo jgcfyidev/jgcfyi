@@ -12,7 +12,6 @@ body {
   
 }
 
-
 h1 {
   color: var(--dark);
 }
@@ -77,7 +76,7 @@ a > h3 + p {
 
 :root {
   --light: #faf8f8;
-  --bgtest: #ffffff;
+  --bgtest: #ffdfbd3a;
   --dark: #141021;
   --secondary: #0c6fb1;
   --tertiary: #84a59d;
@@ -88,8 +87,9 @@ a > h3 + p {
   --gray3: #222222;
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
+  --calloutbg: #96adfc; 
   --million-progress-bar-color: var(--secondary);
-  --highlighted: #fb714b24;
+  --highlighted: #947fe224;
 }
 
 [saved-theme="dark"] {
