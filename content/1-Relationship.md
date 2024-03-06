@@ -174,7 +174,7 @@ now try to
 [amend](https://www.nytimes.com/interactive/2021/05/27/climate/us-cities-highway-removal.html)
 those mistakes 80 years later.
 
-{{<image src="/media/image4.png" height="600px" caption="Boston <a href='https://www.reddit.com/r/OldPhotosInRealLife/comments/s3b3d0/boston_1938_vs_1969_before_the_big_dig/' target='_blank' rel='noopener noreferrer'>before and after</a> I-93 was built through the <a href='https://en.wikipedia.org/wiki/Interstate_93#History:~:text=This%20new%20highway%20was%20greatly%20disliked%20by%20the%20citizens%20of%20the%20city%20because%20it%20cut%20the%20heart%20of%20the%20city%20in%20half%3B%20cast%20long%2C%20dreary%20shadows%3B%20and%20was%20an%20eyesore%20to%20the%20community.' target='_blank' rel='noopener noreferrer'>middle of downtown</a> in the 1950s">}}
+{{<image src="/media/image4.png" caption="Boston <a href='https://www.reddit.com/r/OldPhotosInRealLife/comments/s3b3d0/boston_1938_vs_1969_before_the_big_dig/' target='_blank' rel='noopener noreferrer'>before and after</a> I-93 was built through the <a href='https://en.wikipedia.org/wiki/Interstate_93#History:~:text=This%20new%20highway%20was%20greatly%20disliked%20by%20the%20citizens%20of%20the%20city%20because%20it%20cut%20the%20heart%20of%20the%20city%20in%20half%3B%20cast%20long%2C%20dreary%20shadows%3B%20and%20was%20an%20eyesore%20to%20the%20community.' target='_blank' rel='noopener noreferrer'>middle of downtown</a> in the 1950s">}}
 
 Decisions made about our places today will
 [impact](https://www.youtube.com/watch?v=JsT9V3WQiNA&t=383s)
