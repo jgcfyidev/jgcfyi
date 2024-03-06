@@ -243,7 +243,7 @@ health of a place.
 
 This conflict between quickening forces of change and the stability of
 culture rooted in place is seen in the world of Mexican distilling
-traditions. Ostensibly created to protect traditional production, the
+traditions. [Ostensibly](https://www.pmspirits.com/neta-destillado#:~:text=In%20creating%20the,seeks%20to%20protect.) created to protect traditional production, the
 institutionally regulated Mezcal [denomination of
 origin](https://en.wikipedia.org/wiki/Denominaci%C3%B3n_de_origen)
 (D.O.) ironically excludes the spirits most representative of

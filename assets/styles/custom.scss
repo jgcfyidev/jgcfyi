@@ -23,8 +23,8 @@ h2 {
 
 h3 {
   color: var(--gray3);
-  font-size: 1..1em;
-  font-weight: 300; // Or use "normal" for less boldness
+  font-size: 1.05em;
+  font-weight: 350; // Or use "normal" for less boldness
   font-style: italic; // Makes the text italic
   margin-top: 0;
   margin-bottom: 0;
@@ -90,7 +90,7 @@ blockquote {
   --dark: #141021;
   --secondary: #0c6fb1;
   --tertiary: #84a59d;
-  --quote: #d0652b;
+  --quote: #FCB196;
   --visited: #afbfc9;
   --primary: #1b6040;
   --gray: #4e4e4e;
@@ -98,7 +98,7 @@ blockquote {
   --gray3: #222222;
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
-  --calloutbg: #c3d1ff6a; 
+  --calloutbg: #dee5ff2e; 
   --million-progress-bar-color: var(--secondary);
   --highlighted: #96aefc46;
 }
