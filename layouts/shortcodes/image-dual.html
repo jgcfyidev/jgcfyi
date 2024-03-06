@@ -5,17 +5,17 @@
     flex-wrap: nowrap;
     flex-direction: row;
     align-items: center;
-    gap: 8px
+    justify-content: center; /* This will ensure the images are centered */
+    gap: 8px; /* Adjust this value as needed for spacing */
     ">
-       <div style="text-align:center; flex-basis: 50%;">
-           <img src='{{.Get "src1"}}' height='{{.Get "height"}}'>
-       </div>
-       <div style="flex-basis: 50%;">
-           <img src='{{.Get "src2"}}' height='{{.Get "height"}}'>
-       </div>
-   </div>
-   <div style="text-align:center;">
-        <text style="font-style: italic; font-size: .9em;">{{.Get "caption" | safeHTML}}</text>
+        <div style="flex: 1; text-align:center;">
+            <img src='{{.Get "src1"}}' style='height: auto; max-width: 70%;'>
+        </div>
+        <div style="flex: 1; text-align:center;">
+            <img src='{{.Get "src2"}}' style='height: auto; max-width: 70%;'>
+        </div>
     </div>
+    <div style="text-align:center;">
+         <text style="font-style: italic; font-size: .9em;">{{.Get "caption" | safeHTML}}</text>
+     </div>
 </div>
-
