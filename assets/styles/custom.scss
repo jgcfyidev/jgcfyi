@@ -18,12 +18,12 @@ h1 {
 
 h2 {
   color: var(--dark);
-  font-size: 1.4em;
+  font-size: 1.3em;
 }
 
 h3 {
   color: var(--gray3);
-  font-size: 1.1em;
+  font-size: 1..1em;
   font-weight: 300; // Or use "normal" for less boldness
   font-style: italic; // Makes the text italic
   margin-top: 0;
@@ -74,12 +74,23 @@ a > h3 + p {
   margin-bottom: 0;
 }
 
+blockquote {
+  margin-left: 60px;
+  border-left: 3px solid var(--secondary);
+  padding-left: 1em;
+  transition: border-color 0.2s ease;
+  p:last-of-type {
+    margin-left: 25px;
+  }
+}
+
 :root {
   --light: #faf8f8;
   --bgtest: #ffdfbd3a;
   --dark: #141021;
   --secondary: #0c6fb1;
   --tertiary: #84a59d;
+  --quote: #d0652b;
   --visited: #afbfc9;
   --primary: #1b6040;
   --gray: #4e4e4e;
@@ -87,9 +98,9 @@ a > h3 + p {
   --gray3: #222222;
   --lightgray: #f0f0f0;
   --outlinegray: #dadada;
-  --calloutbg: #c3d1ff; 
+  --calloutbg: #c3d1ff6a; 
   --million-progress-bar-color: var(--secondary);
-  --highlighted: #947fe224;
+  --highlighted: #96aefc46;
 }
 
 [saved-theme="dark"] {
