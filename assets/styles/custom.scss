@@ -84,18 +84,6 @@ blockquote {
   }
 }
 
-/* Reset margins for nav and adjacent elements */
-nav,
-nav + *,
-nav + hr,
-nav + header,
-nav + p {
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-top: 0;
-  padding-bottom: 0;
-}
-
 /* Specific style for nav div */
 nav div {
   /* Add specific margins or padding if needed */
