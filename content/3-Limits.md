@@ -246,7 +246,7 @@ create habitats for other species.
 
 Despite the good result, the resource and time intensive process necessary simply to return to what were naturally sustainable ecologies should serve as a warning against the kind of <a href='https://www.institute.global/insights/tech-and-digitalisation/gene-editing-food-production-charting-way-forward'>overzealous</a> institutional influence our home places rely on today.
 
-{{<image height="400px" src="/media/image10.png" caption="The regrowth of willow stands after the <a href='https://www.sciencedirect.com/science/article/abs/pii/S0006320711004046?via%3Dihub' target='_blank' rel='noopener noreferrer'>reintroduction</a> of wolves to Yellowstone <a href='https://www.semanticscholar.org/paper/Trophic-cascades-in-Yellowstone%3A-The-first-15-years-Ripple-Beschta/04dd403deb56b90a65cc6fc67ba51d35242875eb/figure/3' target='_blank' rel='noopener noreferrer'>(source)</a>"
+{{<image height="600px" src="/media/image10.png" caption="The regrowth of willow stands after the <a href='https://www.sciencedirect.com/science/article/abs/pii/S0006320711004046?via%3Dihub' target='_blank' rel='noopener noreferrer'>reintroduction</a> of wolves to Yellowstone <a href='https://www.semanticscholar.org/paper/Trophic-cascades-in-Yellowstone%3A-The-first-15-years-Ripple-Beschta/04dd403deb56b90a65cc6fc67ba51d35242875eb/figure/3' target='_blank' rel='noopener noreferrer'>(source)</a>"
 >}}
 
 ## Limits Derived in Empathetic Relationship

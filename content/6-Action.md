@@ -33,8 +33,7 @@ of these systems means that specific uses cannot be prescribed or
 predicted very far in advance.
 
 ## Digital Identity
-
-*And other foundations for digital governance*
+<p style="margin-top:0; margin-bottom: 16px;"><i>And other foundations for digital governance</i> </p>
 
 Establishing a reliable digital identity system has been lauded as
 something of a technological holy grail, unlocking new connections
