@@ -409,3 +409,12 @@ resilient society of our home places.
 
 ---
 {{<nav nextLink="/2-Agency" nextText="2. Agency →">}}
+
+
+
+---
+
+{{<image height="350px"src="/media/1memento.png" caption="Lucidity in grounded relationship">}}
+
+If you're enjoying this series, you can collect a few small mementos [**here**](/Memento) to memorialize your alignment. There is a piece for essay (above) as well as one to represent this *Community Memory* series more broadly.
+<br>The art representing each essay is by Alex White.

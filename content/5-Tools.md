@@ -682,3 +682,10 @@ for sharing knowledge.
 
 ---
 {{<nav prevText="← 4. Time" prevLink="/4-Time" nextLink="/6-Action" nextText="6. Action →">}}
+
+---
+
+{{<image src="/media/5memento.png" caption="Interfacing with the infinite">}}
+
+If you're enjoying this series, you can collect a few small mementos [**here**](/Memento) to memorialize your alignment. There is a piece for essay (above) as well as one to represent this *Community Memory* series more broadly.
+<br>The art representing each essay is by Alex White.

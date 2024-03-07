@@ -920,3 +920,10 @@ and vibrant community memory.
 ---
 
 {{<nav prevText="← 5. Tools" prevLink="/5-Tools" nextLink="https://discord.gg/MMMeyWZZtj" nextText="Chat on Discord →">}}
+
+---
+
+{{<image height="400px"src="/media/6memento.png" caption="Acting to perpetuate an enduring community memory">}}
+
+If you're enjoying this series, you can collect a few small mementos [**here**](/Memento) to memorialize your alignment. There is a piece for essay (above) as well as one to represent this *Community Memory* series more broadly.
+<br>The art representing each essay is by Alex White.

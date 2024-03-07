@@ -19,7 +19,7 @@ search:
 description: 'A Framework for Building Resilient Communities Anchored in Relationship and Empowered by Collaborative Technology'
   
 links:
-  - link_name: Twitter
-    link: https://twitter.com/jgcfyi
   - link_name: jgc.fyi
     link: https://jgc.fyi
+  - link_name: Twitter
+    link: https://twitter.com/jgcfyi

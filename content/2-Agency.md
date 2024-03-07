@@ -760,7 +760,7 @@ on outside resources.
 > mediated by, the technologies of memory.
 >
 > ---   [Marita
-    Sturken](https://www.science.org/doi/10.1126/sciadv.1602368#:~:text=Culture%20and%20individual%20memory%20are%20constantly%20produced%20through%2C%20and%20mediated%20by%2C%20the%20technologies%20of%20memory.), *The memory remains*
+    Sturken](https://www.science.org/doi/10.1126/sciadv.1602368#:~:text=Culture%20and%20individual%20memory%20are%20constantly%20produced%20through%2C%20and%20mediated%20by%2C%20the%20technologies%20of%20memory.), *The Memory Remains*
 
 Wonderfully, the world of open-source software development has [shown
 us](https://journals.sagepub.com/doi/abs/10.1177/0256090920140212#:~:text=The%20findings%20of,produce%20information%20goods.)
@@ -774,3 +774,10 @@ agency.
 ---
 
 {{<nav prevText="← 1. Relationship" prevLink="/1-Relationship" nextLink="/3-Limits" nextText="3. Limits →">}}
+
+---
+
+{{<image src="/media/2memento.png" caption="Freedom in playful and embodied relationship">}}
+
+If you're enjoying this series, you can collect a few small mementos [**here**](/Memento) to memorialize your alignment. There is a piece for essay (above) as well as one to represent this *Community Memory* series more broadly.
+<br>The art representing each essay is by Alex White.

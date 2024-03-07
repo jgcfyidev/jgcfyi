@@ -405,3 +405,10 @@ dependencies.
 
 ---
 {{<nav prevText="← 3. Limits" prevLink="/3-Limits" nextLink="/5-Tools" nextText="5. Tools →">}}
+
+---
+
+{{<image src="/media/4memento.png" caption="Stability in the long now">}}
+
+If you're enjoying this series, you can collect a few small mementos [**here**](/Memento) to memorialize your alignment. There is a piece for essay (above) as well as one to represent this *Community Memory* series more broadly.
+<br>The art representing each essay is by Alex White.

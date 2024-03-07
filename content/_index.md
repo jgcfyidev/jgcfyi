@@ -16,8 +16,10 @@ reliance on disempowering institutions.</blurb>
 
 ~~ ~~ ~~ ~~
 
-Below, you can find a link to each of the essays in the series. 
-<br> Before diving in, you can go [**here**](/Philosophy) for a short brief on my general philosphy of writing and approach to this project.
+Below, you can find a link to each of the essays in the series. <br> Before diving in, you can go [**here**](/Philosophy) for a short brief on my general philosphy of writing and approach to this project.
+<br>
+~~ <br>
+If you enjoy this series, please check out the little mementos I released alongside the series [**here**](/Memento) <br>
 
 ~~ ~~ ~~ ~~
 

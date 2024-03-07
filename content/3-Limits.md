@@ -328,3 +328,10 @@ these more sustainable organizational structures.
  ---
 
 {{<nav prevText="← 2. Agency" prevLink="/2-Agency" nextLink="/4-Time" nextText="4. Time →">}}
+
+---
+
+{{<image src="/media/3memento.png" caption="Safety in presence to place">}}
+
+If you're enjoying this series, you can collect a few small mementos [**here**](/Memento) to memorialize your alignment. There is a piece for essay (above) as well as one to represent this *Community Memory* series more broadly.
+<br>The art representing each essay is by Alex White.
