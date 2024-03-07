@@ -687,5 +687,5 @@ for sharing knowledge.
 
 {{<image src="/media/5memento.png" caption="Interfacing with the infinite">}}
 
-If you're enjoying this series, you can collect a few small mementos [**here**](/Memento) to memorialize your alignment. There is a piece for essay (above) as well as one to represent this *Community Memory* series more broadly.
-<br>The art representing each essay is by Alex White.
+If you're enjoying this series, you can collect a few small mementos [**here**](/Memento) to memorialize your alignment.
+The art (above) representing each essay is by [Alex White](https://www.instagram.com/rezpiral_/).
