@@ -269,7 +269,7 @@ caused as much by institutional demands on economic (and
 [physical](https://agaveroadtrip.com/episodes/s4e28-problem-with-the-washington-post-article-about-mezcal#:~:text=soon%2Dto%2Dbe%2Dmonoculture%20espadin%20in%20Oaxaca))
 forms than natural demands of the market.
 
-{{<image-dual height="350px" src1="/media/image5.png" src2="/media/image13.png" caption="Mezcal distillation in San Agustin Amatengo vs placeless <a href='https://insidethecask.com/2022/01/18/understanding-mezcal/' target='_blank' rel='noopener noreferrer'>industrial</a> distillation">}}
+{{<image-dual height="350px" src1="/media/image5.png" src2="/media/image13.jpg" caption="Mezcal distillation in San Agustin Amatengo vs placeless <a href='https://insidethecask.com/2022/01/18/understanding-mezcal/' target='_blank' rel='noopener noreferrer'>industrial</a> distillation">}}
 
 Despite instiutional intervention, we are capable of learning about the
 traditions we are [in
