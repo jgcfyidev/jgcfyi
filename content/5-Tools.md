@@ -687,5 +687,5 @@ for sharing knowledge.
 
 {{<image src="/media/5memento.png" caption="Interfacing with the infinite">}}
 
-If you're enjoying this series, you can collect a few small mementos [**here**](/Memento) to memorialize your alignment.
+If you enjoyed this essay, you can collect a memento [**here**](/Memento).
 The art (above) representing each essay is by [Alex White](https://www.instagram.com/rezpiral_/).
