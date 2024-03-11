@@ -410,5 +410,5 @@ dependencies.
 
 {{<image src="/media/4memento.png" caption="Stability in the long now">}}
 
-If you enjoyed this essay, you can collect a memento [**here**](/Memento).
+If you enjoyed this essay, you can collect a memento [**here**](/Memento). <br>
 The art (above) representing each essay is by [Alex White](https://www.instagram.com/rezpiral_/).
