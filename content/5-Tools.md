@@ -452,8 +452,8 @@ potholes](https://communityscience.com/wp-content/uploads/2021/04/AssetMappingTo
 ### Composability & Openness
 
 For many potential uses of community computing, the question is often
-asked pointedly, '[why does this need to be on a
-blockchain](https://blockchainforgov.org/)?' One of those
+asked pointedly, '<a href="https://blockchainforgov.org/">why does this need to be on a
+blockchain?</a>' One of those
 reasons is that distributed protocols lend
 [composability](https://blog.aragon.org/what-is-composability/).
 This means that infrastructure natively brings tools in relationship. In
