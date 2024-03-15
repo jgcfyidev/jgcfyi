@@ -685,7 +685,6 @@ for sharing knowledge.
 
 ---
 
-{{<image src="/media/5memento.png" caption="Interfacing with the infinite">}}
-
 If you enjoyed this essay, you can collect a memento [**here**](/Memento). <br>
-The art (above) representing each essay is by [Alex White](https://www.instagram.com/rezpiral_/).
+
+{{<image src="/media/5memento.png" caption="Art by <a href='https://www.instagram.com/p/CyeL7lGv9ZQ/?img_index=3' target='_blank' rel='noopener noreferrer'>Alex White </a>">}}

@@ -413,8 +413,8 @@ resilient society of our home places.
 
 
 ---
-
-{{<image height="400px"src="/media/1memento.png" caption="Lucidity in grounded relationship">}}
-
 If you enjoyed this essay, you can collect a memento [**here**](/Memento1). <br>
-The art (above) representing each essay is by [Alex White](https://www.instagram.com/rezpiral_/).
+
+{{<image height="600px"src="/media/1memento.png" caption="Art by <a href='https://www.instagram.com/p/CyeK6dhvU8I/?img_index=3' target='_blank' rel='noopener noreferrer'>Alex White </a>">}}
+
+

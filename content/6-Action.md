@@ -923,7 +923,6 @@ and vibrant community memory.
 
 ---
 
-{{<image height="450px"src="/media/6memento.png" caption="Acting to perpetuate an enduring community memory">}}
+If you enjoyed this essay, you can collect a memento [**here**](/Memento). <br>
 
-If you enjoyed this series, you can collect a memento [**here**](/Memento). <br>
-The art (above) representing each essay is by [Alex White](https://www.instagram.com/rezpiral_/).
+{{<image height="600px"src="/media/6memento.png" caption="Art by <a href='https://www.instagram.com/p/CyeL7lGv9ZQ/?img_index=3' target='_blank' rel='noopener noreferrer'>Alex White </a>">}}
