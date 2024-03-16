@@ -14,6 +14,10 @@ body {
   
 }
 
+hr {  //This styles the navigation lines
+  margin: 1em auto;
+}
+
 h1 {
   color: var(--dark);
 }
@@ -29,6 +33,11 @@ h3 {
   font-weight: 350; // Or use "normal" for less boldness
   font-style: italic; // Makes the text italic
   margin-top: 16px;
+  margin-bottom: 0;
+}
+
+a:has(h3) + p { //This selects the first paragraph after h3 and applies below stylings to that paragraph
+  margin-top: 4px;
   margin-bottom: 0;
 }
 
@@ -69,11 +78,6 @@ img {
   font-size: 1.25rem;
   font-weight: 300; // Or use "normal" for less boldness
   color: var(--dark);
-}
-
-a > h3 + p {
-  margin-top: 0;
-  margin-bottom: 0;
 }
 
 blockquote {

@@ -1,4 +1,5 @@
 ---
+title: 2 | Agency
 enableToc: false
 ---
 
@@ -155,7 +156,7 @@ neighborhoods.
 
 Originally set for completion in 1998 at an estimated cost of \$7.4
 billion, the project instead stretched on nearly a decade longer and
-cost over 21.5 billion (adjusted for inflation), making it the most
+cost over $21.5 billion (adjusted for inflation), making it the most
 expensive highway project in the history of the United States. In
 addition to delays and overrun costs, the project was mired with
 criminal charges and even a death.
