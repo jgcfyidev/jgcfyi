@@ -19,8 +19,6 @@ mycelium in support of our home places.</mark>
 > --- [Napoleon
 > Bonaparte](https://simonsarris.substack.com/p/long-distance-thinking#:~:text=%E2%80%9CA%20form%20of%20government%20that%20is%20not%20the%20result%20of%20a%20long%20sequence%20of%20shared%20experiences%2C%20efforts%2C%20and%20endeavors%20can%20never%20take%20root.%E2%80%9D)
 
-<br>
-
 ---
 {{<nav prevText="← 1. Relationship" prevLink="/1-Relationship" nextLink="/3-Limits" nextText="3. Limits →">}}
 

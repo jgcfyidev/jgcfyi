@@ -9,7 +9,6 @@ enableToc: false
 
 <mark class="blurb">Despite the proliferation of impersonal organizational structures and abstract global economies, only the mutual extension of trust---grounded in affection for our home places---can foster traditions of placemaking strong enough to steward our communities sustainably through generations.</mark>
 
-<br>
 
 ---
 {{<nav nextLink="/2-Agency" nextText="2. Agency →">}}
