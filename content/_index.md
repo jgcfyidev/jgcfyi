@@ -74,5 +74,5 @@ with vitality.
 
 <br>
 <div style="text-align:center">
-🌳👪👫🏡👪👫🌳
+🌳🏡👪🌳
 </div>

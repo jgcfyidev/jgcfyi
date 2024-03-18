@@ -156,7 +156,9 @@ place](https://www.youtube.com/watch?v=wS3-PffLKqM&t=1100s).
 > Berry](https://en.wikipedia.org/wiki/Wendell_Berry), *The
 > Art of Loading Brush*
 
-{{<image src="/media/image9.png">}}
+<br>
+
+{{<image src="/media/image9.png" caption="As relationship begets agency and limits in balance, a community memory emerges">}}
 
 ## The Persistence of Place
 
@@ -319,7 +321,7 @@ living' to a dangerous dependence on fragile
 [systems](https://www.researchgate.net/publication/290557797_Global_supply_chains_disasters_and_externalities_How_complex_supply_networks_create_damaging_externalities_and_its_consequences)
 beyond local control.
 
-{{<image src="/media/image25.png">}}
+{{<image src="/media/image25.png"  caption="Dependence begets disengagement and lost knowledge">}}
 
 
 This pattern is evident in many rural American communities, where
