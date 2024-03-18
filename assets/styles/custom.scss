@@ -36,10 +36,12 @@ h3 {
   margin-bottom: 0;
 }
 
+/*
 a:has(h3) + p { //This selects the first paragraph after h3 and applies below stylings to that paragraph
   margin-top: 4px;
   margin-bottom: 0;
 }
+*/
 
 h4 {
   color: var(--gray3);
