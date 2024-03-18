@@ -229,8 +229,8 @@ applied---especially as time distances planner from planned.
 > Cities](https://en.wikipedia.org/wiki/The_Death_and_Life_of_Great_American_Cities)*
 
 
-{{<image src="/media/image14.png">}}
-{{<image src="/media/image17.png" caption="Places made for consumers vs places made by their residents">}}
+{{<image-dual height="350px" src1="/media/image14.png" src2="/media/image17.png" caption="Places made for consumers vs places made by their residents">}}
+
 
 Today the power to change a neighborhood is primarily reserved for
 '[visionaries](https://www.youtube.com/watch?v=37zF36oq0jE)'
