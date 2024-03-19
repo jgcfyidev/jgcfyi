@@ -232,8 +232,7 @@ applied---especially as time distances planner from planned.
 {{<image-dual height="350px" src1="/media/image14.png" src2="/media/image17.png" caption="Places made for consumers vs places made by their residents">}}
 
 
-Today the power to change a neighborhood is primarily reserved for
-'[visionaries](https://www.youtube.com/watch?v=37zF36oq0jE)'
+Today the power to change a neighborhood is primarily reserved for '<a href="https://www.youtube.com/watch?v=37zF36oq0jE" target='_blank' rel='noopener noreferrer'>visionaries</a>'
 with enough [political
 power](https://nextcity.org/urbanist-news/the-federal-government-cares-too-much-about-state-dots-and-thats-a-problem),
 [expertise](https://www.strongtowns.org/journal/2021/3/16/have-you-met-this-guy)

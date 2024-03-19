@@ -163,8 +163,7 @@ traditions as a foundation for agency, trust, and humility.
 
 Instead of unsustainable growth by the accrual of existential debt,
 progress should be defined by a community's capacity to maintain the
-kind of equilibrium that allows it to '[rest upon the
-earth](https://en.wikipedia.org/wiki/Steady-state_economy#Herman_Daly's_concept_of_a_steady-state_economy)'.
+kind of equilibrium that allows it to '<a href="https://en.wikipedia.org/wiki/Steady-state_economy#Herman_Daly's_concept_of_a_steady-state_economy" target='_blank' rel='noopener noreferrer'>rest upon the earth</a>'.
 This locally emanating stability conveys more agency to adapt to a
 changing world than dependence on broad and abstract organizational
 structures.
@@ -278,8 +277,7 @@ relationship](https://rezpiral.com/30percent/) with and
 [supporting](https://spiritsjournal.klwines.com/klwinescom-spirits-blog/2019/3/4/mezonte)
 them. In fact, this is
 [regularly](https://www.mezcalreviews.com/mezcal/mezonte-raicilla-japo/#:~:text=When%20Mezonte%20buys%20a%20batch%20from%20a%20producer%2C%20they%20only%20buy%2060%25%20of%20the%20batch%20because%20they%20want%20the%20community%20and%20the%20culture%20of%20the%20community%20to%20continue%20to%20consume%20and%20enjoy%20as%20they%20have%20for%20hundreds%20of%20years.)
-true in the world of
-'[uncertified](https://www.eater.com/22929882/mezcal-destilado-de-agave-distilling-indigenous-culture-oaxaca)'
+true in the world of '<a href="https://www.eater.com/22929882/mezcal-destilado-de-agave-distilling-indigenous-culture-oaxaca" target='_blank' rel='noopener noreferrer'>uncertified</a>'
 agave spirits, where [individual
 mezcaleros](https://www.youtube.com/watch?v=0F876l0VFc4)
 and
@@ -385,8 +383,7 @@ Though today our technologies mostly erode our individual and community
 sovereignty, tools for coordination surely have a place in any healthy
 society. Chapter 5 and 6 of this series will dig further into emerging
 technological pathways for the pursuit of endogenous
-sovereignty---including collaborative tools for '[community
-computing](https://twitter.com/buchmanster/status/1466092508316905478)'
+sovereignty---including collaborative tools for '<a href="https://twitter.com/buchmanster/status/1466092508316905478" target='_blank' rel='noopener noreferrer'>community computing</a>'
 like
 [blockchains](https://www.investopedia.com/terms/b/blockchain.asp)
 and other

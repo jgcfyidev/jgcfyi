@@ -30,9 +30,7 @@ compelled to [produce
 beyond](https://iopscience.iop.org/article/10.1088/1748-9326/ac5419)
 theirs. This imbalance embeds pathways of
 [exploitation](https://en.wikipedia.org/wiki/Dependency_theory)
-into our economic system, often with our
-'[best](https://www.economist.com/finance-and-economics/2022/06/15/the-construction-industry-remains-horribly-climate-unfriendly?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=17210591673&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gad_source=1&gclid=Cj0KCQiA7OqrBhD9ARIsAK3UXh1juWsfFNih08gr-bvOty-1E0Brzw8QqF9bd21dCz4tQ6VVPlUztWYaAtWpEALw_wcB)'
-places becoming the most dependent on this exploitation.
+into our economic system, often with our '<a href="https://www.economist.com/finance-and-economics/2022/06/15/the-construction-industry-remains-horribly-climate-unfriendly?utm_medium=cpc.adword.pd&utm_source=google&ppccampaignID=17210591673&ppcadID=&utm_campaign=a.22brand_pmax&utm_content=conversion.direct-response.anonymous&gad_source=1&gclid=Cj0KCQiA7OqrBhD9ARIsAK3UXh1juWsfFNih08gr-bvOty-1E0Brzw8QqF9bd21dCz4tQ6VVPlUztWYaAtWpEALw_wcB" target='_blank' rel='noopener noreferrer'>best</a>' places becoming the most dependent on this exploitation.
 
 > In the last 100 yrs, California's Central Valley has overdrawn the aquifer (extracted more water than has been replenished with rain or snow) by more than 122 million acre-feet, or 45 trillion gallons. As much as 80% of this water goes to agriculture. <br> <br>
 >Farmers in the drier areas of the valley rely almost exclusively on water pumped from the aquifer instead of river water. 

@@ -350,8 +350,7 @@ dilemma often
 justification](https://www.pnas.org/doi/10.1073/pnas.1619877114#:~:text=Hardin%E2%80%99s%20solution%20was%20to%20cede%20our%20freedoms%20to%20the%20state%2C%20to%20be%20bound%20by%20%E2%80%9Cmutual%20coercion%20mutually%20agreed%20upon%E2%80%9D)
 for formalized institutional intervention into resource management. It
 [states](https://en.wikipedia.org/wiki/Tragedy_of_the_commons#:~:text=a%20situation%20in,resources.%5B3%5D)
-that without externally imposed rules,
-'[rational](https://www.jstor.org/stable/2585925)'
+that without externally imposed rules, '<a href="https://www.jstor.org/stable/2585925" target='_blank' rel='noopener noreferrer'>rational</a>'
 individual users will overuse resources, depleting long-term and
 community-wide viability contrary to the common good of all users. This
 definition of rationality assumes an economy decoupled from
@@ -617,8 +616,7 @@ organizational structures, with [multiple centers of semi-autonomous
 decision-making](https://onlinelibrary.wiley.com/doi/full/10.1111/psj.12212#:~:text=multiple%20centers%20of%20semiautonomous%20decision%20making),
 are one path forward. In what biologist [Michael
 Levin](https://en.wikipedia.org/wiki/Michael_Levin_(biologist))
-calls a '[multi-scale competency
-architecture](https://www.youtube.com/watch?v=0a3xg4M9Oa8)',
+calls a '<a href="https://www.youtube.com/watch?v=0a3xg4M9Oa8&t=112s" target='_blank' rel='noopener noreferrer'>multi-scale competency architecture</a>',
 such aggregated patterns of autonomous local problem-solving are exactly
 how our bodies self-organize to perform as a whole.
 

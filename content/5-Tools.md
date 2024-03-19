@@ -46,10 +46,7 @@ relationship.
 
 Early bulletin board systems (BBS) were hosted in members'
 [homes](https://en.wikipedia.org/wiki/Bulletin_board_system#The_first_BBSes:~:text=placed%20at%20his%20house%20in%20Chicago%20where%20it%20would%20be%20a%20local%20phone%20call%20for%20more%20users),
-many of whom also met in person regularly. The first BBS was called
-'[Community
-Memory](https://en.wikipedia.org/wiki/Community_Memory)', a
-[remarkably
+many of whom also met in person regularly. The first BBS was called '<a href="https://en.wikipedia.org/wiki/Community_Memory" target='_blank' rel='noopener noreferrer'>Community Memory</a>', a [remarkably
 appropriate](https://www.are.na/blog/community-memory#:~:text=the%20project%20might%20serve%20as%20a%20model%20for%20how%20we%20can%20shape%20the%20web%20and%20technology%20around%20our%20mutual%20needs%20and%20desires%20as%20communities%20rooted%20in%20place.)
 descriptor of what we have been discussing. Networks of BBSs like
 [Fidonet](https://en.wikipedia.org/wiki/FidoNet) even
@@ -72,11 +69,8 @@ that help ground us in community and place may be the pathway back to
 both a more human internet and more sustainable places with coherent
 community memory.
 
-EF Schumacher and Ivan Illich were already thinking about these
-'[appropriate
-technologies](https://en.wikipedia.org/wiki/Appropriate_technology)'
-and '[tools for
-conviviality](https://en.wikipedia.org/wiki/Tools_for_Conviviality)'
+EF Schumacher and Ivan Illich were already thinking about these '<a href="https://en.wikipedia.org/wiki/Appropriate_technology" target='_blank' rel='noopener noreferrer'>appropriate technologies</a>'
+and '<a href="https://en.wikipedia.org/wiki/Tools_for_Conviviality" target='_blank' rel='noopener noreferrer'>tools for conviviality</a>'
 in the 1970s. Ongoing small-scale
 [experiments](https://iffybooks.net/wp-content/uploads/zines/Iffy_Books_Pocket_Wifi_Portal_Zine_print.pdf)
 in place-based relationality like
@@ -90,8 +84,7 @@ local placemaking.
 Recent breakthroughs in [artificial
 intelligence](https://www.npr.org/2023/05/25/1177700852/ai-future-dangers-benefits)
 promise broad societal changes---but despite its skeptics, the category
-of emerging technologies that includes the terms 'crypto', '[public
-ledgers](https://www.investopedia.com/tech/what-cryptocurrency-public-ledger/)',
+of emerging technologies that includes the terms 'crypto', '<a href="https://www.investopedia.com/tech/what-cryptocurrency-public-ledger/" target='_blank' rel='noopener noreferrer'>public ledgers</a>',
 blockchains, and 'web3' may be opening the most exciting new pathways
 for distributing (instead of
 [consolidating](https://www.theguardian.com/commentisfree/2023/nov/27/openai-microsoft-big-tech-monopoly))
@@ -99,11 +92,9 @@ power toward more resilient home places, in the lineage of BBSs.
 
 > [!info]- A Note on Terms
 >
->In the discussion of these technologies, I'll try to use plain ([if
->uncommon](https://bank.dev/vox#:~:text=By%20inventing%20new,without%20any%20connotations.))
+>In the discussion of these technologies, I'll try to use plain (<a href="https://bank.dev/vox#:~:text=By%20inventing%20new,without%20any%20connotations." target='_blank' rel='noopener noreferrer'>if uncommon</a>)
 >language instead of terms like 'crypto', not only for the sake of those
->who are unfamiliar with the language of '[crypto
->twitter](https://www.coindesk.com/learn/getting-started-with-crypto-twitter/)'
+>who are unfamiliar with the language of '<a href="https://www.coindesk.com/learn/getting-started-with-crypto-twitter/" target='_blank' rel='noopener noreferrer'>crypto twitter</a>'
 >but also because many in the field have been made
 >[cynics](https://milkyeggs.com/crypto/the-doomer-case-for-the-final-death-of-crypto/)
 >by recent failures of its culture to produce worthwhile tools. Thinking
@@ -524,11 +515,9 @@ mediated by any authority so the network is open to anyone by default,
 without need for social context or permission. Most tools built on
 blockchains are [open
 source](https://opensource.com/article/20/10/open-source-blockchain),
-so their code can be reused (or
-'[forked](https://www.geeksforgeeks.org/blockchain-forks/#:~:text=FORKS%20IN%20BLOCKCHAIN%3A,so%20that%20anyone%20can%20contribute.)')
+so their code can be reused (or '<a href="https://www.geeksforgeeks.org/blockchain-forks/#:~:text=FORKS%20IN%20BLOCKCHAIN%3A,so%20that%20anyone%20can%20contribute." target='_blank' rel='noopener noreferrer'>forked</a>')
 by future communities. These cultural foundations support the
-possibility for
-\'[exit](https://www.youtube.com/watch?v=T6OgRki5SgM&t=1171s)\',
+possibility for '<a href="https://www.youtube.com/watch?v=T6OgRki5SgM&t=1171s" target='_blank' rel='noopener noreferrer'>exit</a>',
 allowing members to depart and establish new communities when
 disagreements or divergences arise. The ability to access, and if
 necessary,

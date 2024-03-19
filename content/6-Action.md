@@ -51,8 +51,8 @@ state currency would be the perfect kind of [surveillance
 state](https://www.state.gov/guiding-principles-on-government-use-of-surveillance-technologies/#:~:text=Surveillance%20technologies%20can%20be%20important%20tools%20for%20protecting%20national%20security%20and%20public%20safety)
 panopticon.
 
-As an alternative, several kinds of '[self-sovereign (digital)
-identity](https://en.wikipedia.org/wiki/Self-sovereign_identity)'
+As an alternative, several kinds of '<a href="https://en.wikipedia.org/wiki/Self-sovereign_identity" target='_blank' rel='noopener noreferrer'>self-sovereign (digital)
+identity</a>'
 (SSI) systems have been
 [proposed](https://arxiv.org/abs/2206.04911) to give
 individuals autonomy and authority over how their identity and
@@ -178,8 +178,7 @@ place may be the *only* digital identity systems that prevail.
 So, if we are to work ourselves iteratively toward 'hard' online
 reputation systems, we should start with the basics. The first step
 toward aggregated identity is simply somewhere for an identity to
-accumulate to. User controlled accounts
-([addresses](https://info.etherscan.com/what-is-an-ethereum-address/))
+accumulate to. User controlled accounts (<a href="https://info.etherscan.com/what-is-an-ethereum-address/" target='_blank' rel='noopener noreferrer'>addresses</a>)
 are foundational to blockchain architecture, and systems like [Ethereum
 Name Service](https://docs.ens.domains/) (ENS) apply human
 readable naming systems to those accounts. These addresses can hold
@@ -414,8 +413,7 @@ for novel funding infrastructure.
 Opportunities for more relational local economies don't end with simple
 crowdfunding. [Use-credit
 obligations](https://www.lowimpact.org/categories/use-credit-obligations)
-allow businesses to exchange
-'[coupons](https://www.lowimpact.org/categories/use-credit-obligations#:~:text=Deli%20owner%20Frank%20Tortoriello%20wanted%20to%20move%20his%20deli%20to%20a%20new%20premises%20in%20Great%20Barrington%2C%20Massachussetts%2C%20in%201989%2C%20but%20couldn%E2%80%99t%20obtain%20a%20bank%20loan.%20He%20issued%20%E2%80%98deli%20dollars%E2%80%99%20%E2%80%93%20vouchers%20for%20future%20produce%20that%20were%20a%20roaring%20success%2C%20and%20allowed%20him%20to%20make%20the%20move.)'
+allow businesses to exchange '<a href="https://www.lowimpact.org/categories/use-credit-obligations#:~:text=Deli%20owner%20Frank%20Tortoriello%20wanted%20to%20move%20his%20deli%20to%20a%20new%20premises%20in%20Great%20Barrington%2C%20Massachussetts%2C%20in%201989%2C%20but%20couldn%E2%80%99t%20obtain%20a%20bank%20loan.%20He%20issued%20%E2%80%98deli%20dollars%E2%80%99%20%E2%80%93%20vouchers%20for%20future%20produce%20that%20were%20a%20roaring%20success%2C%20and%20allowed%20him%20to%20make%20the%20move." target='_blank' rel='noopener noreferrer'>coupons</a>'
 for future goods or services for money today, directly with customers.
 [Community support
 agriculture](https://rodaleinstitute.org/blog/the-history-of-community-supported-agriculture/)
@@ -531,8 +529,7 @@ with personal skin in the game or dedicated and supportive
 Plug-and-play blockchain
 [infrastructure](https://medium.com/lexdaoism/when-daos-get-real-managing-real-property-on-a-blockchain-83f43f55da53)
 for such management can make these shared-ownership models more
-accessible. Prepaid rent vouchers for financing housing ([rent credit
-obligations](https://www.lowimpact.org/categories/housing-commons#:~:text=comments%20section%20below.-,Rent%2Dcredit%20obligations,-It%20might%20be))
+accessible. Prepaid rent vouchers for financing housing (<a href="https://www.lowimpact.org/categories/housing-commons#:~:text=comments%20section%20below.-,Rent%2Dcredit%20obligations,-It%20might%20be" target='_blank' rel='noopener noreferrer'>rent-credit obligations</a>)
 are one strategy that stand to become much simpler for communities to
 manage on their own.
 
@@ -559,8 +556,7 @@ Protocol](https://party.mirror.xyz/dee_r_PxRflk6CYAMNI98PGILQ5RL95E9WN4Iw9kDKc#:
 are being developed for collaborative governance of shared digital
 assets. Groups like [Partial Common
 Ownership](https://partialcommonownership.com/) are
-exploring blockchain-based structures for '[plural
-property](https://www.radicalxchange.org/concepts/plural-property/)'
+exploring blockchain-based structures for '<a href="https://www.radicalxchange.org/concepts/plural-property/" target='_blank' rel='noopener noreferrer'>plural property</a>'
 in the physical world, showing the ability of flexible smart contract
 systems to aid in
 [experiments](https://vitalik.eth.limo/general/2021/10/31/cities.html#:~:text=Experiment%20%232%3A%20more%20radical%20and%20participatory%20forms%20of%20governance)
@@ -577,9 +573,7 @@ design globally can serve as a valuable resource for empowering the
 average citizen to take iterative action and make their ideas a reality
 in their home place. In the tradition of [tactical
 urbanism](http://tacticalurbanismguide.com/about/#:~:text=Tactical%20Urbanism%20is%20all%20about,to%20catalyze%20long%2Dterm%20change.),
-this capacity for action can reduce local dependence on outside
-([sometimes
-predatory](https://smartenoughcity.mitpress.mit.edu/pub/yvyv9j2i/release/1#:~:text=opaque%2C%20often%20proprietary%2C%20algorithms%20to%20make%20life%2Daltering%20decisions))
+this capacity for action can reduce local dependence on outside (<a href="https://smartenoughcity.mitpress.mit.edu/pub/yvyv9j2i/release/1#:~:text=opaque%2C%20often%20proprietary%2C%20algorithms%20to%20make%20life%2Daltering%20decisions" target='_blank' rel='noopener noreferrer'>sometimes predatory</a>)
 service providers for cities.
 
 A robust interoperable infrastructure for the
@@ -683,7 +677,7 @@ that modern municipal governments often default to.
 ## Money
 
 Finally, we cannot discuss
-crypto<a href="https://vitalik.eth.limo/general/2022/12/05/excited.html#:~:text=1.%20Money%3A%20the%20first%20and%20still%20most%20important%20app">currency</a>
+crypto<a href="https://vitalik.eth.limo/general/2022/12/05/excited.html#:~:text=1.%20Money%3A%20the%20first%20and%20still%20most%20important%20app" target='_blank' rel='noopener noreferrer'>currency </a>
 without discussing its role as money. The shape of our economies
 dictates so much of
 [institutional](https://twitter.com/drumm_colin/status/1588320762607259648)
