@@ -199,6 +199,8 @@ that is not a 'movement' but a self-sustaining system with stabilized
 consumption and production, whose prospects of health in the future are
 deeply in relationship with today's habits.
 
+<br>
+
 {{<image src="/media/image24.png">}}
 
 

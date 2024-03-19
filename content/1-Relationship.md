@@ -29,7 +29,7 @@ Mexico](https://newmexiconomad.com/acequias/),
 and
 [India](https://www.indiawaterportal.org/articles/pani-panchayat-model-groundwater-management-presentation-acwadam)?
 
-The answer lies in the power of community memory---a shared and living
+The answer lies in the power of ***community memory***---a shared and living
 capacity for action grounded in relationship to our neighbors and our
 place, from which emanates a joyful balance of agency and limits.
 
@@ -228,6 +228,8 @@ applied---especially as time distances planner from planned.
 > *[The Death and Life of Great American
 > Cities](https://en.wikipedia.org/wiki/The_Death_and_Life_of_Great_American_Cities)*
 
+<br>
+
 
 {{<image-dual height="350px" src1="/media/image14.png" src2="/media/image17.png" caption="Places made for consumers vs places made by their residents">}}
 
@@ -319,6 +321,8 @@ living' to a dangerous dependence on fragile
 [gentrifying](https://www.youtube.com/watch?v=1AckNxh1NZY&t=146s)
 [systems](https://www.researchgate.net/publication/290557797_Global_supply_chains_disasters_and_externalities_How_complex_supply_networks_create_damaging_externalities_and_its_consequences)
 beyond local control.
+
+<br>
 
 {{<image src="/media/image25.png"  caption="Dependence begets disengagement and lost knowledge">}}
 

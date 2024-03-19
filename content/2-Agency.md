@@ -331,6 +331,8 @@ Illich](https://www.youtube.com/watch?v=dcvJs6RS2Ek), and
 > ---   [Royal Swedish Academy of
 >    Sciences](https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2009.pdf)
 
+<br>
+
 {{<image src="/media/image16.png" caption="A traditional <a href='https://fmistnepal.wordpress.com/2014/04/09/' target='_blank' rel='noopener noreferrer'>farmer managed irrigation system</a> in Nepal">}}
 
 ## Relationship and Dialogue 
@@ -388,6 +390,7 @@ the design of institutions affecting them are more successful."
 > --- [Royal Swedish Academy of
 > Sciences](https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2009.pdf)
 
+<br>
 
 {{<image src="/media/image3.png" caption="A <a href='https://fmistnepal.wordpress.com/2014/04/09/' target='_blank' rel='noopener noreferrer'>farmers' meeting</a> in support of local irrigation management in Nepal">}}
 
@@ -506,6 +509,8 @@ This kind of physical informality builds trust and invites engagement.
 > --- [William H.
 Whyte](https://www.urbancincy.com/2010/05/clifton-plaza-an-early-success-improvements-needed/#:~:text=%E2%80%9CThe%20possibility%20of,and%20rather%20satisfying.%E2%80%9D), *The Social Life Of Small Urban
 Spaces*
+
+<br>
 
 {{<image src="/media/image20.jpg" caption="1991: Before the bistro chair, Bryant Park Corporation added white plastic chairs for the park's partial reopening in July 1991. Skeptics said they'd be stolen, but most remained in the park. — <a href='https://www.flickr.com/photos/bryantpark/7113772829/in/album-72157629899969863/' target='_blank' rel='noopener noreferrer'>Bryant Park Corporation</a>">}}
 
@@ -652,6 +657,8 @@ contexts they cannot properly manage.
 >
 > --- Gandhi, *[Panchayat
 Raj](https://www.gandhiashramsevagram.org/mind-of-mahatma-gandhi/panchayat-raj.php#:~:text=In%20this%20structure,strength%20from%20it.)*
+
+<br>
 
 {{<image src="/media/image26.png" caption="<a href='https://www.youtube.com/watch?v=ekT_WpgBQ0w&t=2516s' target='_blank' rel='noopener noreferrer'>Visualization</a> of Gandhi's Oceanic Circles">}}
 
