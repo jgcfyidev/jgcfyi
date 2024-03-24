@@ -70,10 +70,18 @@ img {
   border-radius: 3px;
 }
 
+img + div {
+  max-width: 70%;
+}
+
 /* Media query for mobile devices */
 @media (max-width: 768px) {
   img {
     max-width: 95%; /* You can set this to a higher percentage for mobile */
+  }
+
+  img + div {
+    max-width: 95%;
   }
 }
 
