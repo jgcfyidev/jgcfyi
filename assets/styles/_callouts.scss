@@ -57,15 +57,6 @@ blockquote.callout-collapsed > *:not(:first-child) {
   display: block !important; /* This ensures that the content is always shown */
 }
 
-/* Styles for mobile screens */
-@media (max-width: 600px) { /* Adjust 600px to your desired breakpoint */
-  blockquote[class*="-callout"] {
-    max-width: 100%; /* The callout will take up to 95% of its parent's width */
-    margin-left: auto; /* Centers the callout */
-    margin-right: auto; /* Centers the callout */
-  }
-}
-
 blockquote[class*="-callout"] {
   margin-right: 70px;
   border-radius: 5px;
@@ -88,6 +79,14 @@ blockquote[class*="-callout"] {
   }
 }
 
+/* Styles for mobile screens */
+@media (max-width: 600px) { /* Adjust 600px to your desired breakpoint */
+  blockquote[class*="-callout"] {
+    max-width: 100%; /* The callout will take up to 95% of its parent's width */
+    margin-left: auto; /* Centers the callout */
+    margin-right: auto; /* Centers the callout */
+  }
+}
 
 blockquote[class*="-callout"] > p:first-child {
   font-weight: bold;
