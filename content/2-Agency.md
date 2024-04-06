@@ -483,7 +483,7 @@ The ensuing
 between artist and observer invites a vulnerability and openness that
 cannot be conveyed through formal media with more implied objectivity.
 When artists give up control over their art by making it public, they
-enter into an uncertainty that empowers the recipient to [make it their
+enter into an uncertainty that [empowers](https://www.youtube.com/watch?v=SPgHW1G0pjs&t=966s) the recipient to [make it their
 own](https://joannanewsomlyrics.com/album/1-the-milk-eyed-mender/4-sadie_as_sung/#:~:text=This%20is%20an%20old%20song%2C%20these%20are%20old%20blues.%0AThis%20is%20not%20my%20tune%2C%20but%20it%27s%20mine%20to%20use.),
 fueling [creativity and
 hope](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7090163/)
