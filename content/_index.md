@@ -14,14 +14,19 @@ and our places over generations. These locally derived traditions of
 placemaking can help build more resilient communities and reduce our
 reliance on disempowering institutions.</blurb>
 
-~~ ~~ ~~ ~~
 
-Below, you can find a link to each of the essays in the series. <br> Before diving in, you can go [**here**](/Philosophy) for a short brief on my general philosphy of writing and approach to this project.
+
+---
+
+Each essay is summarized below. Click on its title to read the full essay. <br> 
+~~ <br>
+For additional context on my approach to this project and general philosophy of writing, head [**here**](/Philosophy).
 <br>
 ~~ <br>
-If you enjoy these essays, collect a memento [**here**](https://memento.memory.community/). <br>
+If you enjoy these essays, collect a memento <a href="https://memento.memory.community" class="internal-link" target='_blank' rel='noopener noreferrer'><strong>here</strong></a>. 
+ <br>
 
-~~ ~~ ~~ ~~
+--- 
 
 
 ###### 1. [**Relationship**](/1-relationship)
@@ -30,7 +35,7 @@ Despite the proliferation of impersonal organizational structures and
 abstract global economies, only the mutual extension of
 trust---grounded in affection for our home places---can foster
 traditions of placemaking strong enough to steward our communities
-sustainably through generations.
+sustainably through generations. <more>[Continute reading →](/1-relationship)</more>
 
 ###### 2.  [**Agency**](/2-agency)
 
@@ -72,7 +77,8 @@ empowered placemaking. Together, these tools can help us build a
 persistent community memory capable of carrying our places forward
 with vitality. 
 
+
 <br>
 <div style="text-align:center">
-♡ ☀ ⚠ ⏱ ⚒ ϟ
+♡ ☀ ⚘ ⏱ ⚒ ☇
 </div>

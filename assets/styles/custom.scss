@@ -91,6 +91,11 @@ img + div {
   color: var(--dark);
 }
 
+.more {
+  font-size: 0.2em;
+  font-style: italic; // Makes the text italic
+}
+
 blockquote {
   margin-left: 60px;
   border-left: 3px solid var(--quote);

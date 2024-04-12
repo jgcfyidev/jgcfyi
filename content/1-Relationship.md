@@ -419,8 +419,8 @@ resilient society of our home places.
 
 
 ---
-If you enjoyed this essay, you can collect a memento [**here**](/Memento1). <br>
+If you enjoyed this essay, you can collect a memento [**here**](https://memento.memory.community/). <br>
 
-{{<image height="600px"src="/media/1memento.png" caption="Art by <a href='https://www.instagram.com/p/CyeK6dhvU8I/?img_index=3' target='_blank' rel='noopener noreferrer'>Alex White </a>">}}
+{{<image height="600px"src="/media/2.jpg" caption="Art by <a href='https://www.instagram.com/p/CyeK6dhvU8I/?img_index=3' target='_blank' rel='noopener noreferrer'>Alex White </a>">}}
 
 

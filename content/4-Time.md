@@ -408,6 +408,6 @@ dependencies.
 
 ---
 
-If you enjoyed this essay, you can collect a memento [**here**](/Memento). <br>
+If you enjoyed this essay, you can collect a memento [**here**](https://memento.memory.community/).<br>
 
-{{<image src="/media/4memento.png" caption="Art by <a href='https://www.instagram.com/p/CyeL7lGv9ZQ/?img_index=3' target='_blank' rel='noopener noreferrer'>Alex White </a>">}}
+{{<image src="/media/5.jpg" caption="Art by <a href='https://www.instagram.com/p/CyeL7lGv9ZQ/?img_index=3' target='_blank' rel='noopener noreferrer'>Alex White </a>">}}
