@@ -36,7 +36,7 @@ I find there are two kinds of dialogue: explicit and suggestive. Both invoke dia
 *Practical Things* <br>
 Links are sometimes giving credit for a specific reference but more often are simply a broad gesture intended to get you thinking or be playful.
 <br> ~~ ~~ <br>
-You'll find that the cursor of other visitors appears on your screen. If you type / a dialogue will pop up. Anything you type in it can be read by others.
+You'll find that the cursor of other visitors appears on your screen. If you type / a dialogue will pop up in the bottom right. Anything you type in it can be read by others. Have fun ;)
 <br> ~~ ~~ ~~ ~~ ~~ ~~ <br>
 
 
