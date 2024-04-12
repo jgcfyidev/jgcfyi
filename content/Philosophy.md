@@ -34,7 +34,7 @@ I find there are two kinds of dialogue: explicit and suggestive. Both invoke dia
 <br> ~~ ~~ ~~ ~~ ~~ ~~ <br><br>
 
 *Practical Things* <br>
-Links are sometimes giving credit for a specific reference but more often than that, are a broad gesture intended to get you thinking or simply be playful.
+Links are sometimes giving credit for a specific reference but more often are simply a broad gesture intended to get you thinking or simply be playful.
 <br> ~~ ~~ <br>
 You'll find that the cursor of other visitors appears on your screen. If you type / a dialogue will pop up. Anything you type in it can be read by others.
 <br> ~~ ~~ ~~ ~~ ~~ ~~ <br>
