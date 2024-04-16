@@ -17,7 +17,6 @@ GitHubLink: https://github.com/jgcfyidev/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
 description: 'A framework for building resilient communities anchored in relationship and empowered by collaborative technology'
-  
 links:
   - link_name: jgc.fyi
     link: https://jgc.fyi
