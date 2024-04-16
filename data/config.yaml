@@ -16,7 +16,7 @@ enableMermaid: true
 GitHubLink: https://github.com/jgcfyidev/quartz/tree/hugo/content
 search:
   enableSemanticSearch: false
-description: 'A Framework for Building Resilient Communities Anchored in Relationship and Empowered by Collaborative Technology'
+description: 'A framework for building resilient communities anchored in relationship and empowered by collaborative technology'
   
 links:
   - link_name: jgc.fyi
