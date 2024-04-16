@@ -1,6 +1,6 @@
 ---
 title: Community Memory
-description: "This six-part series will examine how new organizational and technological approaches to collaborative coordination can support a ‘community memory’ grounded in affectionate relationship to each other and our places over generations. These locally derived traditions of placemaking can help build more resilient communities and reduce our reliance on disempowering institutions."
+description: "A framework for building resilient communities anchored in relationship and empowered by collaborative technology"
 image: "/media/image9.png"
 enableToc: false
 ---
