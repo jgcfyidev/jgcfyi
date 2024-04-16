@@ -1,5 +1,7 @@
 ---
 title: 1 | Relationship
+description: "Balancing Agency and Limits Toward Empathetic Placemaking"
+image: "/media/image9.png"
 enableToc: false
 ---
 
