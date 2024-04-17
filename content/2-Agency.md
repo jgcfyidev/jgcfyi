@@ -1,5 +1,7 @@
 ---
 title: 2 | Agency
+summary: "Derived in Affectionate Relationship to Each Other and our Places"
+customImage: "preview2.png"
 enableToc: false
 ---
 

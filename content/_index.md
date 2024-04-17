@@ -1,7 +1,7 @@
 ---
 title: Community Memory
 summary: "A framework for building resilient communities anchored in relationship and empowered by collaborative technology"
-customImage: "overlay.jpeg"
+customImage: "preview.png"
 enableToc: false
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: 5 | Tools
+summary: "Rooting our Computing in Place & Relationship"
+customImage: "preview5.png"
 enableToc: false
 ---
 

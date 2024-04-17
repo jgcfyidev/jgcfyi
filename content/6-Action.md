@@ -1,5 +1,7 @@
 ---
 title: 6 | Action
+summary: "For an enduring community memory to sustain us, we must act to perpetuate it."
+customImage: "preview6.png"
 enableToc: false
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: 4 | Time
+summary: "Generational Ways of Thinking"
+customImage: "preview4.png"
 enableToc: false
 ---
 
