@@ -417,7 +417,7 @@ crowdfunding. [Use-credit
 obligations](https://www.lowimpact.org/categories/use-credit-obligations)
 allow businesses to exchange '<a href="https://www.lowimpact.org/categories/use-credit-obligations#:~:text=Deli%20owner%20Frank%20Tortoriello%20wanted%20to%20move%20his%20deli%20to%20a%20new%20premises%20in%20Great%20Barrington%2C%20Massachussetts%2C%20in%201989%2C%20but%20couldn%E2%80%99t%20obtain%20a%20bank%20loan.%20He%20issued%20%E2%80%98deli%20dollars%E2%80%99%20%E2%80%93%20vouchers%20for%20future%20produce%20that%20were%20a%20roaring%20success%2C%20and%20allowed%20him%20to%20make%20the%20move." target='_blank' rel='noopener noreferrer'>coupons</a>'
 for future goods or services for money today, directly with customers.
-[Community support
+[Community supported
 agriculture](https://rodaleinstitute.org/blog/the-history-of-community-supported-agriculture/)
 (CSA) allows the same type of relationship between farmers and community
 members. While these are [not
