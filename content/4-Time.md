@@ -15,7 +15,7 @@ investment and draw from local resources over generations grounds a
 community in time and place, giving joy in the present and assurance of
 the future.</mark>
 
-> Invest in the millenium. Plant sequoias.\
+> Invest in the millennium. Plant sequoias.\
 > Say that your main crop is the forest\
 > that you did not plant,\
 > that you will not live to harvest.\
@@ -264,7 +264,7 @@ especially when each of their small batches must be approved
 individually.
 
 Instead, the mezcals that have the easiest time being certified are
-those who's industrialized processes and scale of production make them
+those whose industrialized processes and scale of production make them
 more legible to institutional standards. Much has been said of the
 [gentrification of
 mezcal](https://www.mezcalistas.com/walking-the-line-between-design-and-appropriation/)
@@ -275,7 +275,7 @@ forms than natural demands of the market.
 
 {{<image-dual height="350px" src1="/media/image5.png" src2="/media/image13.jpg" caption="Mezcal distillation in San Agustin Amatengo vs placeless <a href='https://insidethecask.com/2022/01/18/understanding-mezcal/' target='_blank' rel='noopener noreferrer'>industrial</a> distillation">}}
 
-Despite instiutional intervention, we are capable of learning about the
+Despite institutional intervention, we are capable of learning about the
 traditions we are [in
 relationship](https://rezpiral.com/30percent/) with and
 [supporting](https://spiritsjournal.klwines.com/klwinescom-spirits-blog/2019/3/4/mezonte)

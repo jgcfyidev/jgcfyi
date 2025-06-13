@@ -107,7 +107,7 @@ Building reputation as an accumulation of iterative action is a socially
 intuitive way to establish digital identity---and a more relational
 component of a locally sovereign web than monolithic state or
 [institution-based](https://worldcoin.org/) identity
-systems. Immutable blockhains
+systems. Immutable blockchains
 [stand](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763)
 both to provide the infrastructure and cultural support for the
 implementation of these architectures. Because they aren't controlled by
@@ -274,7 +274,7 @@ of crypto's account-based foundation, a diverse set of tools of
 [today](https://www.crowdwrite.xyz/),
 [ready](https://twitter.com/metagov_project/status/1580231463353450500)
 to be used similarly in our home places. With more trustworthy systems
-of digital identity, we might be able to make Github-style pull requests
+of digital identity, we might be able to make GitHub-style pull requests
 on [planning
 documents](https://en.wikipedia.org/wiki/Comprehensive_planning)
 and have our ideas approved with enough community support, bypassing
@@ -384,7 +384,7 @@ of [retroactive public goods
 funding](https://notes.andymatuschak.org/z2cqeazKJoESAvRiX8ZUuaoxRNwAYw24G3nS).
 In such a system, the value of services provided by an individual or
 group is estimated and paid for by participants after its
-implementation. Though not realistic for every endevor, this structure
+implementation. Though not realistic for every endeavor, this structure
 may push public projects to be more iterative and relational, serving as
 a possible antidote to unaccountable [accumulation of
 debt](https://fred.stlouisfed.org/series/SLGSDODNS) that is
@@ -452,7 +452,7 @@ contrast, individual ownership is often the only legally and culturally
 supported mode of ownership today.
 
 Though programmable money does allow the possibility of a more
-quantified and finacialized society, it also provides infrastructure for
+quantified and financialized society, it also provides infrastructure for
 collaborative, common ownership. In fact, tools for shared ownership and
 action have been core to blockchains
 [since](https://blog.coinfund.io/community-ownership-as-a-blockchain-adoption-model-71a87f167de2)

@@ -106,7 +106,7 @@ work](https://www.bloomberg.com/news/features/2023-07-11/china-s-hidden-debt-pro
 imposed on communities with no means of course correcting the
 bureaucracy in charge.
 
-{{<image src="/media/image21.jpg" caption="Once pristine but now forgotten malls (and then neighborhoods) like <a href='https://www.flickr.com/photos/fireatwillrva/6800796760/' target='_blank' rel='noopener noreferrer'>this one</a> are the ininevitable result of a society that moves in straight lines rather than cycles. In such a world, it's often better to abandon than to maintain. ">}}
+{{<image src="/media/image21.jpg" caption="Once pristine but now forgotten malls (and then neighborhoods) like <a href='https://www.flickr.com/photos/fireatwillrva/6800796760/' target='_blank' rel='noopener noreferrer'>this one</a> are the inevitable result of a society that moves in straight lines rather than cycles. In such a world, it's often better to abandon than to maintain. ">}}
 
 In the making of our places, state and federal transportation
 authorities are happy to

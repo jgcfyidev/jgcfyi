@@ -460,8 +460,7 @@ application on the network.
 These open maps of relationships, when combined with appropriate privacy
 considerations, can produce new kinds of
 [collaborative](https://cofi.informal.systems/),
-synergistic relationships that are impossible to achieve in a world of
-[intellectual]
+synergistic relationships that are impossible to achieve in a world of intellectual
 [proprietarianism](https://www.google.com/books/edition/Beyond_Foucault_Excursions_in_Political/o4hyDwAAQBAJ?hl=en&gbpv=1&pg=PA121&printsec=frontcover).
 
 Blockchains not only provide the technical infrastructure for more
