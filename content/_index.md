@@ -20,9 +20,10 @@ reliance on disempowering institutions.</blurb>
 
 ~~ ~~ ~~ ~~ ~~ ~~
 
-Each essay is linked below.  If they resonate with you, I'd love for you to collect a memento <a href="https://memento.memory.community" class="internal-link" target='_blank' rel='noopener noreferrer'><strong>here</strong></a>. <br>
+Each essay is linked below. <br>
 Additional context regarding my approach to this project and general philosophy of writing can be found [**here**](/Philosophy).
 <br>
+An accompanying series of mementos can be found <a href="https://memento.memory.community" class="internal-link" target='_blank' rel='noopener noreferrer'><strong>here</strong></a>.
 
 ~~ ~~ ~~ ~~ ~~ ~~
 
@@ -78,5 +79,6 @@ with vitality. <small>[→](/6-action)</small>
 
 <br>
 <div style="text-align:center">
-♡ ☀ ⚘ ⏱ ⚒ ☇
+♡ ☀ ⚘ ⏱ ⚒ ☇ <br>
+Published May 2024
 </div>
