@@ -922,6 +922,6 @@ and vibrant community memory.
 
 ---
 
-If you enjoyed this essay, you can collect a memento [**here**](https://memento.memory.community/). <br>
+A memento for this essay can be found [**here**](https://memento.memory.community/essays/action). <br>
 
 {{<image height="600px"src="/media/7.jpg" caption="Art by <a href='https://www.instagram.com/p/CyeL7lGv9ZQ/?img_index=3' target='_blank' rel='noopener noreferrer'>Alex White </a>">}}

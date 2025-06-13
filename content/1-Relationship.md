@@ -418,10 +418,9 @@ resilient society of our home places.
 ---
 {{<nav nextLink="/2-Agency" nextText="2. Agency →">}}
 
-
-
 ---
-<br>
+
+A memento for this essay can be found [**here**](https://memento.memory.community/essays/relationship). <br>
 
 {{<image height="600px"src="/media/2.jpg" caption="Art by <a href='https://www.instagram.com/p/CyeK6dhvU8I/?img_index=3' target='_blank' rel='noopener noreferrer'>Alex White </a>">}}
 

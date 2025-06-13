@@ -785,6 +785,6 @@ agency.
 
 ---
 
-If you enjoyed this essay, you can collect a memento [**here**](https://memento.memory.community/). <br>
+A memento for this essay can be found [**here**](https://memento.memory.community/essays/agency). <br>
 
 {{<image src="/media/3.jpg" caption="Art by <a href='https://www.instagram.com/p/CyeK6dhvU8I/?img_index=3' target='_blank' rel='noopener noreferrer'>Alex White </a>">}}
