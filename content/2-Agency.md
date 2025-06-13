@@ -446,7 +446,7 @@ champion---creating loops of wasted effort. Unfortunately these loops
 often go unnoticed by a disengaged population that has not been invited
 into the process.
 
-## Spontienty and Informality
+## Spontaneity and Informality
 
 It is worth stating explicitly that, while they offer the
 preconditions for a more relational society, locally derived authority
