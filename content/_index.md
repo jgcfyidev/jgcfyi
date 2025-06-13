@@ -19,7 +19,7 @@ reliance on disempowering institutions.</blurb>
 
 
 ~~ ~~ ~~ ~~ ~~ ~~<br>
-Published May 2024
+Published May 2024<br>
 ~~ ~~<br>
 
 Each essay is linked below. <br>
