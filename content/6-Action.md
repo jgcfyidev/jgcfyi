@@ -627,7 +627,7 @@ on residential and home construction, or even [procurement
 hurdles](https://bloombergcities.jhu.edu/news/procurement-reforming-how-cities-work)
 for cities themselves.
 
-{{<image src="/media/image19.png" caption="A CNC design for a 'parklet' made free to use by <a href="https://www.betterblock.org/wikiblock/" target='_blank' rel='noopener noreferrer'>Wikiblock</a>">}}
+{{<image src="/media/image19.png" caption='A CNC design for a "parklet" made free to use by <a href="https://www.betterblock.org/wikiblock/" target="_blank" rel="noopener noreferrer">Wikiblock</a>'>}}
 
 
 > [!info]- A Note on Hyperfinancialization
