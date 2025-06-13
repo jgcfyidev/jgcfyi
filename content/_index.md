@@ -19,13 +19,14 @@ reliance on disempowering institutions.</blurb>
 
 
 ~~ ~~ ~~ ~~ ~~ ~~
+Published May 2024
+~~ ~~
 
 Each essay is linked below. <br>
 Additional context regarding this project and general philosophy of writing can be found [**here**](/Philosophy).
 <br>
 An accompanying series of mementos can be found <a href="https://memento.memory.community" class="internal-link" target='_blank' rel='noopener noreferrer'><strong>here</strong></a>.
 <br>
-Published May 2024
 
 ~~ ~~ ~~ ~~ ~~ ~~
 
