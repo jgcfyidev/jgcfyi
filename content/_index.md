@@ -18,9 +18,9 @@ reliance on disempowering institutions.</blurb>
 
 
 
-~~ ~~ ~~ ~~ ~~ ~~
+~~ ~~ ~~ ~~ ~~ ~~<br>
 Published May 2024
-~~ ~~
+~~ ~~<br>
 
 Each essay is linked below. <br>
 Additional context regarding this project and general philosophy of writing can be found [**here**](/Philosophy).
