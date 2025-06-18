@@ -2,7 +2,7 @@
 enableToc: false
 ---
 
-# Philosphy of Writing (and Disclaimers)
+# Philosophy of Writing (and Disclaimers)
 
 <br>
 
