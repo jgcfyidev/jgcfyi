@@ -3,6 +3,10 @@ title: Citations
 enableToc: false
 ---
 
+# Citations
+
+<br>
+
 [1] [truth](https://genius.com/Twain-in-the-high-of-the-morning-lyrics#:~:text=I%20recall%20that%20I%20used%20to%20despair%20at%20the%20lost%20chance%20of%20knowing%0AA%20much%20longed%20for%20beauty%0ABut%20now%20that%20I%20know%20it%27s%20my%20duty%20to%20love%20life%0ANot%20try%20and%20know%20life%0ATo%20show%20it%2Dto%20show%20I%20don%27t%20know%20yet%20I%20know%20that%20it%27s%20real) <br>
 [2] [devastate](https://www.youtube.com/watch?v=lp0Sxn42TGs) <br>
 [3] [largest lakes](https://twitter.com/PatrickJBlum/status/1694115787890684407?s=20) <br>
