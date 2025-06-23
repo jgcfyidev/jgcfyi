@@ -11,10 +11,10 @@ enableToc: false
 [2] [devastate](https://www.youtube.com/watch?v=lp0Sxn42TGs) <br>
 [3] [largest lakes](https://twitter.com/PatrickJBlum/status/1694115787890684407?s=20) <br>
 [4] [New Mexico](https://newmexiconomad.com/acequias/) <br>
-[5] [Indonesia](<https://en.wikipedia.org/wiki/Subak_(irrigation>) <br>
+[5] [Indonesia](<https://en.wikipedia.org/wiki/Subak_(irrigation)> <br>
 [6] [Spain](https://es.wikipedia.org/wiki/Comunidad_de_regantes) <br>
 [7] [India](https://www.indiawaterportal.org/articles/pani-panchayat-model-groundwater-management-presentation-acwadam) <br>
-[8] [Agency](<https://en.wikipedia.org/wiki/Agency_(philosophy>) ) <br>
+[8] [Agency](<https://en.wikipedia.org/wiki/Agency_(philosophy>) <br>
 [9] [shape](https://www.goodreads.com/quotes/6875140-the-ultimate-hidden-truth-of-the-world-is-that-it) <br>
 [10] [within](https://twitter.com/cognazor/status/1599097257923514368) <br>
 [11] [vital factor](https://www.mindful.org/seven-ways-to-develop-personal-agency/#:~:text=People%20with%20low%20agency%20experience,and%20they%20act%20on%20impulse.) <br>
