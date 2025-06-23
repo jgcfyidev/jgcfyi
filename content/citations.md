@@ -149,7 +149,7 @@ enableToc: false
 [140] [planning fallacy](https://thedecisionlab.com/biases/planning-fallacy) <br>
 [141] [basic human tendency](https://www.nyu.edu/about/news-publications/news/2007/october/study_reveals_how_the_brain.html) <br>
 [142] [flow through them](https://www.youtube.com/watch?v=BMGr4yyE1uc&t=1843s) <br>
-[143] [Big Dig](https://en.wikipedia.org/wiki/Big_Dig#:~:text=The%20project%20was%20originally%20scheduled%20to%20be%20completed%20in%201998%5B3%5D%20at%20an%20estimated%20cost%20of%20%242.8%20billion%20(in%201982%20dollars%2C%20US%247.4%20billion%20adjusted%20for%20inflation%20as%20of%202020) <br>
+[143] [Big Dig](https://en.wikipedia.org/wiki/Big_Dig#:~:text=The%20project%20was%20originally%20scheduled%20to%20be%20completed%20in%201998%5B3%5D%20at%20an%20estimated%20cost%20of%20%242.8%20billion%20(in%201982%20dollars%2C%20US%247.4%20billion%20adjusted%20for%20inflation%20as%20of%202020)) <br>
 [144] [in the first place](https://highways.dot.gov/highway-history/interstate-system/original-intent-purpose-interstate-system-1954-1956#:~:text=Perhaps%20the%20greatest%20failure%2C%20however%2C%20was%20that%20the%20Interstate%20System%20did%20not%20relieve%20congestion.) <br>
 [145] [big](https://mysteriouschicago.com/finding-daniel-burnhams-no-little-plans-quote/#:~:text=Make%20no%20little%20plans%2C%20they%20have%20no%20magic%20in%20them%20to%20stir%20men%E2%80%99s%20blood) <br>
 [146] [we intend](https://highways.dot.gov/highway-history/interstate-system/original-intent-purpose-interstate-system-1954-1956#:~:text=The%20next%2040,and%20its%20cities.) <br>
@@ -462,7 +462,7 @@ enableToc: false
 [453] [if uncommon](https://bank.dev/vox#:~:text=By%20inventing%20new,without%20any%20connotations.) <br>
 [454] [crypto twitter](https://www.coindesk.com/learn/getting-started-with-crypto-twitter/) <br>
 [455] [cynics](https://milkyeggs.com/crypto/the-doomer-case-for-the-final-death-of-crypto/) <br>
-[456] [lift our collective >gaze](https://jzhao.xyz/posts/communal-computing/) <br>
+[456] [lift our collective gaze](https://jzhao.xyz/posts/communal-computing/) <br>
 [457] [many >failures](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine) <br>
 [458] [all-encompassing survey](https://www.bloomberg.com/features/2022-the-crypto-story/) <br>
 [459] [principles](https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0) <br>
