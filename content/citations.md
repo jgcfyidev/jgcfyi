@@ -184,7 +184,7 @@ enableToc: false
 [175] [generate appropriate solutions](https://twitter.com/PeterGelderloos/status/1560669192461815808) <br>
 [176] [in common](https://twitter.com/jgcfyi/status/1520045628587450368) <br>
 [177] [Elinor Ostrom](https://twitter.com/a_vansi/status/1270406860131221507) <br>
-[178] [Jane Jacobs](<https://mises.org/library/jane-jacobs-anti-planner#:~:text=%22Le%20Corbusier%27s%20Utopia%20was%20a%20condition%20of%20what%20he%20called%20maximum%20liberty%2C%20by%20which%20he%20seems%20to%20have%20meant%20not%20liberty%20to%20do%20anything%20much%2C%20but%20liberty%20from%20ordinary%20responsibility.%20.%20.%20.%20Nobody%20was%20going%20to%20have%20to%20struggle%20with%20plans%20of%20his%20own%22%20(Ibid.%2C%20p.%2022>) ) <br>
+[178] [Jane Jacobs](https://mises.org/library/jane-jacobs-anti-planner#:~:text=%22Le%20Corbusier%27s%20Utopia%20was%20a%20condition%20of%20what%20he%20called%20maximum%20liberty%2C%20by%20which%20he%20seems%20to%20have%20meant%20not%20liberty%20to%20do%20anything%20much%2C%20but%20liberty%20from%20ordinary%20responsibility.%20.%20.%20.%20Nobody%20was%20going%20to%20have%20to%20struggle%20with%20plans%20of%20his%20own%22%20(Ibid.%2C%20p.%2022)) <br>
 [179] [Wendell Berry](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.pdf) <br>
 [180] [FA Hayek](https://www.econlib.org/library/Essays/hykKnw.html) <br>
 [181] [Karl Polanyi](https://www.youtube.com/watch?v=wyXfOc0n1LM&t=330s) <br>
@@ -243,7 +243,7 @@ enableToc: false
 [234] [governments](http://fourthplan.org/action/public-participation) <br>
 [235] [Friedensreich     Hundertwasser](https://hundertwasser.com/en/texts/verschimmelungsmanifest_gegen_den_rationalismus_in_der_architektur) <br>
 [236] [micromanagement](https://twitter.com/izurietavarea/status/1668276028110782465) <br>
-[237] [platforms](<https://hbr.org/2016/04/products-to-platforms-making-the-leap#:~:text=Indeed%2C%20a%20large%20number%20of%20the%20world%E2%80%99s%20most%20valuable%20companies%20by%20market%20capitalization%20in%202015%20were%20platform%20companies%2C%20including%20five%20of%20the%20top%2010%20(Apple%2C%20Microsoft%2C%20Google%2C%20Amazon%2C%20and%20Facebook>) ) <br>
+[237] [platforms](https://hbr.org/2016/04/products-to-platforms-making-the-leap#:~:text=Indeed%2C%20a%20large%20number%20of%20the%20world%E2%80%99s%20most%20valuable%20companies%20by%20market%20capitalization%20in%202015%20were%20platform%20companies%2C%20including%20five%20of%20the%20top%2010%20(Apple%2C%20Microsoft%2C%20Google%2C%20Amazon%2C%20and%20Facebook)) <br>
 [238] [rant](https://gist.github.com/chitchcock/1281611) <br>
 [239] [web services](https://en.wikipedia.org/wiki/Amazon_Web_Services) <br>
 [240] [Steve Yegge](https://gist.github.com/chitchcock/1281611) <br>
@@ -260,7 +260,7 @@ enableToc: false
 [251] [complexity](https://youtu.be/T6OgRki5SgM?t=1081) <br>
 [252] [Polycentric](https://sites.warnercnr.colostate.edu/rebeccagruby/wp-content/uploads/sites/13/2014/01/CarlisleGruby_Polycentricity_InPress.pdf) <br>
 [253] [multiple centers of semi-autonomous decision-making](https://onlinelibrary.wiley.com/doi/full/10.1111/psj.12212#:~:text=multiple%20centers%20of%20semiautonomous%20decision%20making) <br>
-[254] [Michael Levin](<https://en.wikipedia.org/wiki/Michael_Levin_(biologist>) ) <br>
+[254] [Michael Levin](https://en.wikipedia.org/wiki/Michael_Levin_(biologist)) <br>
 [255] [multi-scale competency architecture](https://www.youtube.com/watch?v=0a3xg4M9Oa8&t=112s) <br>
 [256] [Michael Levin](https://www.youtube.com/watch?v=p3lsYlod5OU&t=1185s) <br>
 [257] [Elinor Ostrom](https://www.jstor.org/stable/27871226) <br>
@@ -272,7 +272,7 @@ enableToc: false
 [263] [relationship](https://twitter.com/RichDecibels/status/1718260144813875668) <br>
 [264] [developmental pathway](https://www.microsolidarity.cc/essays/a-developmental-pathway) <br>
 [265] [cosmolocalism](https://actionforesight.net/cosmo-localism-and-the-futures-of-material-production/) <br>
-[266] [digital commons](<https://en.wikipedia.org/wiki/Digital_commons_(economics>) ) <br>
+[266] [digital commons](https://en.wikipedia.org/wiki/Digital_commons_(economics)) <br>
 [267] [CNC](https://www.youtube.com/watch?v=QTi7dnwYTVw) <br>
 [268] [This kind](https://www.youtube.com/watch?v=hAtK-lpazc4) <br>
 [269] [collaboration](https://www.youtube.com/watch?v=NOYa3YzVtyk) <br>
@@ -400,7 +400,7 @@ enableToc: false
 [391] [rest upon the earth](https://en.wikipedia.org/wiki/Steady-state_economy#Herman_Daly) <br>
 [392] [Howards End](https://en.wikipedia.org/wiki/Howards_End) <br>
 [393] [cycle](https://en.wikipedia.org/wiki/Nutrient_cycle) <br>
-[394] [flows of energy](<https://en.wikipedia.org/wiki/Energy_flow_(ecology>) ) <br>
+[394] [flows of energy](https://en.wikipedia.org/wiki/Energy_flow_(ecology)) <br>
 [395] [no waste](https://en.wikipedia.org/wiki/Nutrient_cycle#cite_note-Brown03-7:~:text=Ecosystems%20are%20capable%20of%20complete%20recycling.) <br>
 [396] [forests](https://www.youtube.com/watch?v=6GJFL0MD9fc) <br>
 [397] [time horizons](https://www.google.com/books/edition/Sociobiology_and_Bioeconomics/ZAbtCAAAQBAJ?hl=en&gbpv=1&dq=%E2%80%9CI+have+proposed+%28Ho+1994a%3B+1995b%29+that+open+systems+capable+of+storing+energy+tends+to+evolve+towards+an+extremum,+or+endstate,+in+which+all+space-time+modes+become+equally+populated+with+energy+under+energy+flow.%E2%80%9D&pg=PA241&printsec=frontcover) <br>
@@ -442,7 +442,7 @@ enableToc: false
 [433] [Brian     Eno](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2#:~:text=%22Civilizations%20with%20long%20nows%20look%20after%20things%20better%2C%22%20says%20Brian%20Eno.%C2%A0%20%22In%20those%20places%20you%20feel%20a%20very%20strong%20but%20flexible%20structure%20which%20is%20built%20to%20absorb%20shocks%20and%20in%20fact%20incorporate%20them.%221) <br>
 [434] [Alex White](https://www.instagram.com/p/CyeL7lGv9ZQ/?img_index=3) <br>
 [435] [Ethan     Buchman](https://twitter.com/buchmanster/status/1466092508316905478) <br>
-[436] [handful of corporations](<https://hbr.org/2016/06/who-controls-the-internet#:~:text=After%20all%2C%20today%E2%80%99s%20internet%20is%20clearly%20dominated%20by%20what%20Farhad%20Manjoo%2C%20of%20the%20New%20York%20Times%2C%20calls%20the%20Frightful%20Five%3A%20Amazon%2C%20Apple%2C%20Facebook%2C%20Google%20(now%20a%20unit%20of%20Alphabet>) ) <br>
+[436] [handful of corporations](https://hbr.org/2016/06/who-controls-the-internet#:~:text=After%20all%2C%20today%E2%80%99s%20internet%20is%20clearly%20dominated%20by%20what%20Farhad%20Manjoo%2C%20of%20the%20New%20York%20Times%2C%20calls%20the%20Frightful%20Five%3A%20Amazon%2C%20Apple%2C%20Facebook%2C%20Google%20(now%20a%20unit%20of%20Alphabet)) <br>
 [437] [local](https://spectrum.ieee.org/social-medias-dialup-ancestor-the-bulletin-board-system) <br>
 [438] [interpersonal](https://www.youtube.com/watch?v=I18ifd8I6P8&t=546s) <br>
 [439] [homes](https://en.wikipedia.org/wiki/Bulletin_board_system#The_first_BBSes:~:text=placed%20at%20his%20house%20in%20Chicago%20where%20it%20would%20be%20a%20local%20phone%20call%20for%20more%20users) <br>
@@ -463,7 +463,7 @@ enableToc: false
 [454] [crypto twitter](https://www.coindesk.com/learn/getting-started-with-crypto-twitter/) <br>
 [455] [cynics](https://milkyeggs.com/crypto/the-doomer-case-for-the-final-death-of-crypto/) <br>
 [456] [lift our collective gaze](https://jzhao.xyz/posts/communal-computing/) <br>
-[457] [many >failures](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine) <br>
+[457] [many failures](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine) <br>
 [458] [all-encompassing survey](https://www.bloomberg.com/features/2022-the-crypto-story/) <br>
 [459] [principles](https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0) <br>
 [460] [Vitalik Buterin](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html#:~:text=blockchains%20are%20not%20personal%2Dcomputing%20operating%20systems%3B%20they%20are%20social%20systems) <br>
@@ -548,7 +548,7 @@ enableToc: false
 [539] [shared computing platform](https://www.youtube.com/watch?v=j23HnORQXvs) <br>
 [540] [Vitalik     Buterin](https://twitter.com/zemnmez/status/1443821271045845005/photo/1) <br>
 [541] [privacy](https://safecomputing.umich.edu/privacy/history-of-privacy-timeline) <br>
-[542] [long tradition](<https://en.wikipedia.org/wiki/Magic_Lantern_(software>) ) <br>
+[542] [long tradition](https://en.wikipedia.org/wiki/Magic_Lantern_(software)) <br>
 [543] [control](https://www.strongtowns.org/journal/2022/6/29/local-control-or-centralized-planning-theres-a-third-answer#:~:text=And%20the%20latter%2C%20perhaps%20paradoxically%2C%20requires%20relinquishing%20some%20control%20and%20tolerating%20a%20little%20more%20chaos) <br>
 [544] [consultants](https://www2.deloitte.com/us/en/industries/government-public-services.html?icid=top_government-public-services) <br>
 [545] [mapping of potholes](https://communityscience.com/wp-content/uploads/2021/04/AssetMappingToolkit.pdf) <br>
@@ -571,26 +571,26 @@ enableToc: false
 [562] [exit](https://molochdao.com/docs/introduction/wtf-is-moloch/#:~:text=Moloch%20was%20popularized%20due%20to%20its%20Minimum%20Viable%20DAO%20design%20and%20the%20advent%20of%20%E2%80%9Cragequit%E2%80%9D%20%2D%20a%20means%20for%20members%20to%20exit%20the%20DAO%20by%20exchanging%20their%20shares%20for%20a%20pro%2Drata%20claim%20on%20the%20treasury%27s%20assets.) <br>
 [563] [spontaneous](https://www.bloomberg.com/news/articles/2022-07-21/tokyo-s-urban-planning-secrets-revealed-in-new-book?utm_campaign=socialflow-organic&utm_medium=social&utm_content=citylab&utm_source=facebook&fbclid=IwAR0Q1YkB3xBCktSgVSYH8thtdDAhKmnL33duCYSNoSTzHNrGVQnyF9994eU#:~:text=Tokyo%20was%20shaped%20not%20solely%20by%20disorder%20or%20grand%20design%20but%20by%20the%20intermingling%20of%20daily%20small%20choices%20that%20create%20spontaneous%20patterns%20from%20the%20bottom%20up) <br>
 [564] [erosion](https://twitter.com/jgcfyi/status/1503822879552688129) <br>
-[565] [digital-first >sovereignty](https://twitter.com/balajis/status/1547851370924892161) <br>
-[566] [network >states](https://thenetworkstate.com/) <br>
+[565] [digital-first sovereignty](https://twitter.com/balajis/status/1547851370924892161) <br>
+[566] [network states](https://thenetworkstate.com/) <br>
 [567] [acknowledge](https://twitter.com/jgcfyi/status/1548028452355182593) <br>
-[568] [sometimes](<https://simonsarris.substack.com/p/the-most-precious-resource-is-agency#:~:text=>(There%20are%20good,Start%20typing.>) ) <br>
+[568] [sometimes](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency#:~:text=(There%20are%20good,Start%20typing.)) <br>
 [569] [doubtful](https://twitter.com/jgcfyi/status/1548028447561134090) <br>
 [570] [this approach](https://thenetworkstate.com/) <br>
-[571] [manipulation](https://www.vox.com/2018/4/14/17236504/>jaron-lanier-ted-talk-social-networks-behavior-modification-ads#:~:text=%E2%80%9CI%20don%E2%80%99t%20beli>eve%20our%20species%20can%20survive%20unless%20we%20fix%20this%2C%E2%80%9D%20he%20said.>%20%E2%80%9CWe%20cannot%20have%20a%20society%20in%20which%2C%20if%20two%20people%20wish%20to%20communicat>e%2C%20the%20only%20way%20that%20can%20happen%20is%20if%20it%E2%80%99s%20financed%20by%20a%20third%20pers>on%20who%20wishes%20to%20manipulate%20them.%E2%80%9D) <br>
-[572] [subjected >to](https://web.archive.org/web/20230602073622/https://www.nytimes.com/2014/06/30/technology/>facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.>html#:~:text=Facebook%20routinely%20adjusts%20its%20users%E2%80%99%20news%20feeds%20%E2%80%94%20testing%2>0out%20the%20number%20of%20ads%20they%20see%20or%20the%20size%20of%20photos%20that%20appear%20%E2%80%94%2>0often%20without%20their%20knowledge.>%20It%20is%20all%20for%20the%20purpose%2C%20the%20company%20says%2C%20of%20creating%20a%20more%20alluring>%20and%20useful%20product.) <br>
-[573] [most](https://www.theguardian.com/technology/2016/mar/17/>i-though-my-instagram-was-all-mine-until-the-algorithm-proved-me-wrong) <br>
-[574] [internet >communities](https://www.pnas.org/doi/10.1073/pnas.2119924119) <br>
+[571] [manipulation](https://www.vox.com/2018/4/14/17236504/jaron-lanier-ted-talk-social-networks-behavior-modification-ads#:~:text=%E2%80%9CI%20don%E2%80%99t%20believe%20our%20species%20can%20survive%20unless%20we%20fix%20this%2C%E2%80%9D%20he%20said.%20%E2%80%9CWe%20cannot%20have%20a%20society%20in%20which%2C%20if%20two%20people%20wish%20to%20communicate%2C%20the%20only%20way%20that%20can%20happen%20is%20if%20it%E2%80%99s%20financed%20by%20a%20third%20person%20who%20wishes%20to%20manipulate%20them.%E2%80%9D) <br>
+[572] [subjected to](https://web.archive.org/web/20230602073622/https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html#:~:text=Facebook%20routinely%20adjusts%20its%20users%E2%80%99%20news%20feeds%20%E2%80%94%20testing%20out%20the%20number%20of%20ads%20they%20see%20or%20the%20size%20of%20photos%20that%20appear%20%E2%80%94%20often%20without%20their%20knowledge.%20It%20is%20all%20for%20the%20purpose%2C%20the%20company%20says%2C%20of%20creating%20a%20more%20alluring%20and%20useful%20product.) <br>
+[573] [most](https://www.theguardian.com/technology/2016/mar/17/i-though-my-instagram-was-all-mine-until-the-algorithm-proved-me-wrong) <br>
+[574] [internet communities](https://www.pnas.org/doi/10.1073/pnas.2119924119) <br>
 [575] [Agbogbloshie](https://www.youtube.com/watch?v=i_wtaoHCw3k) <br>
-[576] [retroactively](https://thenetworkstate.com/on-network-states#:~:text=Instead%2C%20you%20found,>like%20the%20NASDAQ.) <br>
+[576] [retroactively](https://thenetworkstate.com/on-network-states#:~:text=Instead%2C%20you%20found,like%20the%20NASDAQ.) <br>
 [577] [embody](https://twitter.com/jgcfyi/status/1548028450891476992) <br>
 [578] [dependence](https://www.thepublicdiscourse.com/2021/08/77139/) <br>
-[579] [physical >infrastructure](https://cip.gmu.edu/2016/10/26/>understanding-physical-internet-infrastructure-vulnerabilities/>#:~:text=the%20existence%20of%20a%20single%20physical%20structure%20that%20houses%20so%20many%20important>%20connections%20represents%20a%20vulnerability%20with%20the%20potential%20for%20serious%20cascading%20co>nsequences%20for%20global%20Internet%20routing.) <br>
-[580] [peer-to-peer >infrastructure](https://wiki.p2pfoundation.net/Main_Page) <br>
-[581] [mesh >networks](https://urbanomnibus.net/2019/10/building-the-peoples-internet/) <br>
-[582] [synergistic >companion](https://en.wikipedia.org/wiki/Conway%27s_law) <br>
-[583] [agency over their >tools](https://www.youtube.com/watch?v=8_clFVHKS2g) <br>
-[584] [tools](https://www.microsolidarity.cc/essays/>from-domination-to-partnership#:~:text=It%E2%80%99s%20not%20that%20people%20are%20incapable%20of%20collab>oration%2C%20it%E2%80%99s%20just%20that%20most%20of%20us%20lack%20tools%2C%20skills%20and%20role%20models>.) <br>
+[579] [physical infrastructure](https://cip.gmu.edu/2016/10/26/understanding-physical-internet-infrastructure-vulnerabilities/#:~:text=the%20existence%20of%20a%20single%20physical%20structure%20that%20houses%20so%20many%20important%20connections%20represents%20a%20vulnerability%20with%20the%20potential%20for%20serious%20cascading%20consequences%20for%20global%20Internet%20routing.) <br>
+[580] [peer-to-peer infrastructure](https://wiki.p2pfoundation.net/Main_Page) <br>
+[581] [mesh networks](https://urbanomnibus.net/2019/10/building-the-peoples-internet/) <br>
+[582] [synergistic companion](https://en.wikipedia.org/wiki/Conway%27s_law) <br>
+[583] [agency over their tools](https://www.youtube.com/watch?v=8_clFVHKS2g) <br>
+[584] [tools](https://www.microsolidarity.cc/essays/from-domination-to-partnership#:~:text=It%E2%80%99s%20not%20that%20people%20are%20incapable%20of%20collaboration%2C%20it%E2%80%99s%20just%20that%20most%20of%20us%20lack%20tools%2C%20skills%20and%20role%20models.) <br>
 [585] [tendency](https://theblockchainsocialist.com/talking-politics-with-vitalik-buterin-part-2/) <br>
 [586] [minimized governance](https://www.paradigm.xyz/2020/10/870) <br>
 [587] [incorruptibility](https://bank.dev/why#:~:text=Understanding%20that%20every%20theoretical%20incentive%20incompatability%20is%20guaranteed%20to%20be%20exploited.) <br>
@@ -653,8 +653,8 @@ enableToc: false
 [644] [permanent](https://vitalik.eth.limo/general/2022/01/26/soulbound.html) <br>
 [645] [privacy](https://en.wikipedia.org/wiki/Tornado_Cash) <br>
 [646] [traceable](https://www.chainalysis.com/why-chainalysis/) <br>
-[647] [Zero-knowledge >proofs](https://ethereum.org/en/zero-knowledge-proofs) <br>
-[648] [privacy to crypto >networks](http://learn.0xparc.org/materials/circom/learning-group-1/intro-zkp) <br>
+[647] [Zero-knowledge proofs](https://ethereum.org/en/zero-knowledge-proofs) <br>
+[648] [privacy to crypto networks](http://learn.0xparc.org/materials/circom/learning-group-1/intro-zkp) <br>
 [649] [already](https://semaphore.appliedzkp.org/docs/introduction) <br>
 [650] [identity](https://docs.sismo.io/sismo-docs/) <br>
 [651] [systems](https://web.archive.org/web/20230306023654/https://irma.app/) <br>
@@ -742,7 +742,7 @@ enableToc: false
 [733] [throughout](https://www.britannica.com/topic/mir-Russian-community) <br>
 [734] [history](https://www.jstor.org/stable/2641287) <br>
 [735] [since](https://blog.coinfund.io/community-ownership-as-a-blockchain-adoption-model-71a87f167de2) <br>
-[736] [the beginning](<https://en.wikipedia.org/wiki/The_DAO_(organization>) ) <br>
+[736] [the beginning](https://en.wikipedia.org/wiki/The_DAO_(organization)) <br>
 [737] [atomizing](https://www.youtube.com/watch?v=VpBOgh2zxtE) <br>
 [738] [Recent efforts to revive](https://www.brookings.edu/essay/the-emerging-solidarity-economy-a-primer-on-community-ownership-of-real-estate/) <br>
 [739] [land banks](https://nextcity.org/urbanist-news/land-banks-land-trusts-blight) <br>
@@ -802,12 +802,12 @@ enableToc: false
 [793] [about this](https://mirror.xyz/jgc.eth/-pGobZqAYOqA1spo9ldV4C7p2LifNjtwQibwXAxLkVk) <br>
 [794] [liquidity](https://twitter.com/balajis/status/1364821818398318595) <br>
 [795] [virtue](https://twitter.com/cburniske/status/1471519286078308359) <br>
-[796] [envisions](https://tim.blog/2021/11/17/balaji-srinivasan-2-trancript/>#:~:text=Every%20ideology%2C%20everything%20will%20have%20a%20price%2C%20which%20roughly%20reflects%20peo>ple%E2%80%99s%20measure%20of%20belief%20in%20it) <br>
-[797] [childhood >memories](https://opensea.io/collection/ryans-memories) <br>
-[798] [hyperliquidity of >everything](https://www.forbes.com/sites/worldeconomicforum/2016/11/10/>shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/?>sh=7a264f571735#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service>.) <br>
-[799] [hypermobility](https://www.fastcompany.com/90779384/>heres-what-to-know-about-flow-adam-neumanns-newly-flush-with-cash-real-estate-startup#:~:text=Flow%20want>s%20to%20be%20a%20housing%20utopia%20for%20remote%20workers.) <br>
-[800] [objectifies >personal relatedness](https://twitter.com/friendtech) <br>
-[801] [It All Turns on >Affection](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.>pdf) <br>
+[796] [envisions](https://tim.blog/2021/11/17/balaji-srinivasan-2-trancript/#:~:text=Every%20ideology%2C%20everything%20will%20have%20a%20price%2C%20which%20roughly%20reflects%20people%E2%80%99s%20measure%20of%20belief%20in%20it) <br>
+[797] [childhood memories](https://opensea.io/collection/ryans-memories) <br>
+[798] [hyperliquidity of everything](https://www.forbes.com/sites/worldeconomicforum/2016/11/10/shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/?sh=7a264f571735#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service.) <br>
+[799] [hypermobility](https://www.fastcompany.com/90779384/heres-what-to-know-about-flow-adam-neumanns-newly-flush-with-cash-real-estate-startup#:~:text=Flow%20wants%20to%20be%20a%20housing%20utopia%20for%20remote%20workers.) <br>
+[800] [objectifies personal relatedness](https://twitter.com/friendtech) <br>
+[801] [It All Turns on Affection](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.pdf) <br>
 [802] [discussed](https://theblockchainsocialist.com/talking-politics-with-vitalik-buterin-part-2/) <br>
 [803] [Vitalik Buterin](https://vitalik.eth.limo/) <br>
 [804] [Ioby](https://ioby.org/about) <br>
@@ -858,7 +858,7 @@ enableToc: false
 [849] [present](https://twitter.com/informalinc/status/1600187514127409152) <br>
 [850] [mutual relationship](https://www.nhm.ac.uk/discover/mutualism-examples-of-species-that-work-together.html) <br>
 [851] [fragile](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4387676) <br>
-[852] [friends and family](<https://en.wikipedia.org/wiki/Chama_(investment>) ) <br>
+[852] [friends and family](https://en.wikipedia.org/wiki/Chama_(investment)) <br>
 [853] [banks](https://www.econstor.eu/bitstream/10419/173367/1/sdp2016-14.pdf) <br>
 [854] [blockchains](https://cofi.informal.systems/FAQ) <br>
 [855] [digital ledgers](https://creditcommons.net/#:~:text=ledger%20which%20they%20control) <br>
@@ -875,7 +875,7 @@ enableToc: false
 [866] [CoFi](https://cofi.informal.systems/) <br>
 [867] [on-chain infrastructure](https://twitter.com/cyclesmoney) <br>
 [868] ['trust graph'](https://grassecon.org/trust-graph) <br>
-[869] [Sarafu](<https://www.grassrootseconomics.org/pages/how-it-works#:~:text=Community%20Asset%20Vouchers%20(CAVs>) ) <br>
+[869] [Sarafu](https://www.grassrootseconomics.org/pages/how-it-works#:~:text=Community%20Asset%20Vouchers%20(CAVs)) <br>
 [870] [network](https://viz.sarafu.network/) <br>
 [871] [dialectic](https://en.wikipedia.org/wiki/Unity_of_opposites) <br>
 [872] [new](https://www.cityofpraxis.com/) <br>
