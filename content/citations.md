@@ -163,7 +163,7 @@ enableToc: false
 [154] [Seeing Like a State](https://en.wikipedia.org/wiki/Seeing_Like_a_State) <br>
 [155] [Seeing Like a State](https://en.wikipedia.org/wiki/Seeing_Like_a_State) <br>
 [156] [sought](https://www.tandfonline.com/doi/abs/10.1080/09505431.2010.519866) <br>
-[157] [initiating](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/#:~:text=The%20early%20modern,monoculture%20%E2%80%94%20were%20inevitable) <br>
+[157] <a href="https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/#:~:text=The%20early%20modern,monoculture%20%E2%80%94%20were%20inevitable">initiating</a> <br>
 [158] [vulnerability](https://ec.europa.eu/research-and-innovation/en/horizon-magazine/rise-and-fall-monoculture-farming) <br>
 [159] [never](https://www.science.org/content/article/germany-s-trees-are-dying-fierce-debate-has-broken-out-over-how-respond) <br>
 [160] [Seeing Like a State](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/) <br>
