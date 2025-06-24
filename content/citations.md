@@ -51,14 +51,14 @@ enableToc: false
 [42] [collective memory](https://web.mit.edu/allanmc/www/hawlbachsspace.pdf) <br>
 [43] [enduring](https://en.wikipedia.org/wiki/History_of_Istanbul) <br>
 [44] [gutted downtowns](https://www.vox.com/2015/5/14/8605917/highways-interstate-cities-history) <br>
-[45] [highways](https://twitter.com/lennartnout/status/1449985513591558144) <br>
+[45] [highways](https://web.archive.org/web/20231017175758/https://twitter.com/lennartnout/status/1449985513591558144) <br>
 [46] [amend](https://www.nytimes.com/interactive/2021/05/27/climate/us-cities-highway-removal.html) <br>
 [47] [before and after](https://www.reddit.com/r/OldPhotosInRealLife/comments/s3b3d0/boston_1938_vs_1969_before_the_big_dig/) <br>
 [48] [middle of downtown](https://en.wikipedia.org/wiki/Interstate_93#History:~:text=This%20new%20highway%20was%20greatly%20disliked%20by%20the%20citizens%20of%20the%20city%20because%20it%20cut%20the%20heart%20of%20the%20city%20in%20half%3B%20cast%20long%2C%20dreary%20shadows%3B%20and%20was%20an%20eyesore%20to%20the%20community.) <br>
 [49] [impact](https://www.youtube.com/watch?v=JsT9V3WQiNA&t=383s) <br>
 [50] [consumer](https://www.youtube.com/watch?v=wyXfOc0n1LM&t=330s) <br>
 [51] [product](https://www.youtube.com/watch?v=FWrG1KgBHdQ&t=585s) <br>
-[52] [lawn maintenance](https://www.businesswire.com/news/home/20160328005521/en/New-Research-Finds-Majority-of-Americans-Lack-Lawn-Care-Knowledge#:~:text=the%20majority%20of%20Americans%20lack%20basic%20knowledge%20about%20how%20to%20properly%20care%20for%20and%20maintain%20their%20lawns) <br>
+[52] [lawn maintenance](https://web.archive.org/web/20240421102640/https://www.businesswire.com/news/home/20160328005521/en/New-Research-Finds-Majority-of-Americans-Lack-Lawn-Care-Knowledge) <br>
 [53] [home cleaning](https://homecleaningcenters.com/franchising/industry/#:~:text=Last%20year%2C%20nearly%2010%25%20of%20all%20U.S.%20households%20paid%20a%20professional%20service%20to%20clean%20their%20homes.%20Within%20the%20next%20few%20years%2C%20the%20US%20Department%20of%20Commerce%20expects%2080%25%20of%20two%2Dincome%20households%20to%20use%20an%20outside%20housecleaning%20service.) <br>
 [54] [cooking](https://www.washingtonpost.com/news/wonk/wp/2015/03/05/the-slow-death-of-the-home-cooked-meal/#:~:text=%E2%80%9CWe%E2%80%99re%20all%20looking%20for%20someone%20else%20to%20cook%20for%20us%2C%22) <br>
 [55] [politics](https://www.researchgate.net/publication/334225098_The_Apathy_Syndrome_How_We_Are_Trained_Not_to_Care_about_Politics) <br>
@@ -94,7 +94,7 @@ enableToc: false
 [85] [outsourced](https://folklife.si.edu/) <br>
 [86] [depersonalizing abstractions](https://sociology.fas.harvard.edu/pages/culture) <br>
 [87] [collective](https://en.wikipedia.org/wiki/Collective_memory) <br>
-[88] [memory loss](https://reedquest.org/2023/09/15/review-of-typhoons-offerings-an-existential-narrative-by-a-portland-band/#:~:text=%E2%80%9CIt%E2%80%99s%20a%20record,from%20violence/oblivion%3F%E2%80%9D) <br>
+[88] [memory loss](https://web.archive.org/web/20240303042330/https://www.reedquest.org/2023/09/15/review-of-typhoons-offerings-an-existential-narrative-by-a-portland-band/#:~:text=It%E2%80%99s%20a%20record,from%20violence/oblivion%3F) <br>
 [89] [gentrifying](https://www.youtube.com/watch?v=1AckNxh1NZY&t=146s) <br>
 [90] [systems](https://www.researchgate.net/publication/290557797_Global_supply_chains_disasters_and_externalities_How_complex_supply_networks_create_damaging_externalities_and_its_consequences) <br>
 [91] [Walmart](https://www.thefreelibrary.com/Wal-Mart%27s+war+on+Main+Street.-a015890049) <br>
@@ -107,7 +107,7 @@ enableToc: false
 [98] [more capable](https://www.goodai.com/a-conversation-with-michael-levin/#:~:text=So%20stress%20is%20part%20of%20that%20glue%20that%20binds%20these%20collective%20agents%20together.) <br>
 [99] [COVID-19](https://www.sciencedirect.com/science/article/pii/S0305750X20303600) <br>
 [100] [remote work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8508142/) <br>
-[101] [healthcare](https://www2.deloitte.com/content/dam/insights/us/articles/6921_CHS-Virtual-work/DI_CHS-virtual-work.pdf) <br>
+[101] [healthcare](https://web.archive.org/web/20250425051334/https://www.deloitte.com/content/dam/insights/us/articles/6921_CHS-Virtual-work/DI_CHS-virtual-work.pdf) <br>
 [102] [public space](https://crosscut.com/opinion/2021/07/how-pandemic-made-us-rethink-community-spaces) <br>
 [103] [transportation](https://usa.streetsblog.org/2022/01/27/study-covid-era-pop-up-bike-lanes-increase-cycling-trips-up-to-48/) <br>
 [104] [outdoor dining](https://www.nbcnews.com/think/opinion/even-post-covid-outdoor-dining-should-keep-going-our-staid-ncna1263352) <br>
@@ -117,7 +117,7 @@ enableToc: false
 [108] [demands for change](https://blockclubchicago.org/2022/06/12/hundreds-march-in-lincoln-square-uptown-to-demand-safer-streets-after-2-toddlers-killed-it-is-evident-that-our-streets-are-not-safe/) <br>
 [109] [tactical urbanism](https://www.re-thinkingthefuture.com/architectural-community/a8570-tactical-urbanism-and-how-it-complements-participatory-planning/#:~:text=Tactical%20urbanism%20is%20a%20response%20to%20the%20top%2Ddown%2C%20bureaucratic%20approach%20to%20city%20planning%20that%20has%20often%20left%20citizens%20feeling%20powerless%20and%20disconnected%20from%20the%20planning%20process.%20Tactical%20urbanism%20is%20about%20empowering%20people%20to%20take%20control%20of%20their%20own%20city%20planning.) <br>
 [110] [wake-up call](https://www.newsweek.com/near-death-experiences-transform-person-seconds-scientist-1572878) <br>
-[111] [old](https://computerhistory.org/blog/community-memory-precedents-in-social-media-and-movements/#1:~:text=Community%20Memory%20as%20%E2%80%9Ca%20shared%20community%20filing%20cabinet%E2%80%9D%20or%20a%20%E2%80%9Ctool%20for%20collective%20thinking%2C%20planning%2C%20organizing%2C%20fantasizing%2C%20and%20decision%2Dmaking.%E2%80%9D) <br>
+[111] [old](https://computerhistory.org/blog/community-memory-precedents-in-social-media-and-movements/#1:~:text=Community%20Memory%20as%20%E2%80%9Ca%20shared%20community%20filing%20cabinet%E2%80%9D%20or%20a%20%E2%80%9Ctool%20for%20collective%20thinking%2C%20planning%2C%20organizing%2C%20fantasizing%2C%20and%20decision%2Dmaking.) <br>
 [112] [resilience](https://www.ecosophia.net/the-end-of-the-industrial-age/#:~:text=The%20more%20high%2Dtech%20gimmickry%20you%20can%20do%20without%2C%20and%20the%20more%20you%20rely%20on%20your%20own%20capacities%20instead%20of%20slurping%20at%20an%20assortment%20of%20technological%20teats%2C%20the%20more%20free%20you%20are%20and%20the%20more%20resilience%20you%20have%20in%20the%20face%20of%20the%20future.) <br>
 [113] [community memory](https://computerhistory.org/blog/community-memory-precedents-in-social-media-and-movements/#1:~:text=Community%20Memory%20as%20%E2%80%9Ca%20shared%20community%20filing%20cabinet%E2%80%9D%20or%20a%20%E2%80%9Ctool%20for%20collective%20thinking%2C%20planning%2C%20organizing%2C%20fantasizing%2C%20and%20decision%2Dmaking.%E2%80%9D) <br>
 [114] [forest](http://www.pacificbio.org/initiatives/fire/fire_ecology.html) <br>
@@ -126,8 +126,8 @@ enableToc: false
 [117] [Napoleon Bonaparte](https://simonsarris.substack.com/p/long-distance-thinking#:~:text=%E2%80%9CA%20form%20of%20government%20that%20is%20not%20the%20result%20of%20a%20long%20sequence%20of%20shared%20experiences%2C%20efforts%2C%20and%20endeavors%20can%20never%20take%20root.%E2%80%9D) <br>
 [118] [fragile](https://www.strongtowns.org/journal/2020/3/17/the-tragic-downside-of-efficiency#:~:text=Efficient%20is%20the%20same%20as%20fragile.) <br>
 [119] [rational](https://en.wikipedia.org/wiki/Participatory_planning#Rational_planning_tradition) <br>
-[120] [well-credentialed](https://en.wikipedia.org/wiki/Sam_Bankman-Fried#Early_life_and_education) <br>
-[121] [institutions](https://www.pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022/) <br>
+[120] [well-credentialed](https://en.wikipedia.org/wiki/Sam_Bankman-Fried#Life) <br>
+[121] [institutions](https://web.archive.org/web/20250619123444/https://www.pewresearch.org/politics/2024/06/24/public-trust-in-government-1958-2024/) <br>
 [122] [each other](https://www.pewresearch.org/fact-tank/2019/07/22/key-findings-about-americans-declining-trust-in-government-and-each-other/) <br>
 [123] [predict-and-provide](https://www.culturechange.org/issue8/predict%20and%20provide.htm) <br>
 [124] [shared societal trust](https://link.springer.com/article/10.1007/s11109-015-9322-8) <br>

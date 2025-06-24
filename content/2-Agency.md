@@ -35,11 +35,11 @@ we stabilize
 modern economies other than through
 [rational](https://en.wikipedia.org/wiki/Participatory_planning#Rational_planning_tradition)
 analysis and precise engineering by
-[well-credentialed](https://en.wikipedia.org/wiki/Sam_Bankman-Fried#Early_life_and_education)
+[well-credentialed](https://en.wikipedia.org/wiki/Sam_Bankman-Fried#Life)
 professionals?
 
 It is clear, though, that trust in our
-[institutions](https://www.pewresearch.org/politics/2022/06/06/public-trust-in-government-1958-2022/)
+[institutions](https://web.archive.org/web/20250619123444/https://www.pewresearch.org/politics/2024/06/24/public-trust-in-government-1958-2024/)
 (and [each
 other](https://www.pewresearch.org/fact-tank/2019/07/22/key-findings-about-americans-declining-trust-in-government-and-each-other/))
 is unsustainably low. Our society doesn't feel particularly stable, nor

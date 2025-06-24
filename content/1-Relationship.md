@@ -174,7 +174,7 @@ poor caretaking are painfully clear in almost every American city today
 as the same institutions that [gutted
 downtowns](https://www.vox.com/2015/5/14/8605917/highways-interstate-cities-history)
 in service of
-[highways](https://twitter.com/lennartnout/status/1449985513591558144)
+[highways](https://web.archive.org/web/20231017175758/https://twitter.com/lennartnout/status/1449985513591558144)
 now try to
 [amend](https://www.nytimes.com/interactive/2021/05/27/climate/us-cities-highway-removal.html)
 those mistakes 80 years later.
@@ -193,7 +193,7 @@ The path of least resistance in American culture today is to be a
 of place as
 [product](https://www.youtube.com/watch?v=FWrG1KgBHdQ&t=585s),
 just as we are consumers of [lawn
-maintenance](https://www.businesswire.com/news/home/20160328005521/en/New-Research-Finds-Majority-of-Americans-Lack-Lawn-Care-Knowledge#:~:text=the%20majority%20of%20Americans%20lack%20basic%20knowledge%20about%20how%20to%20properly%20care%20for%20and%20maintain%20their%20lawns),
+maintenance](https://web.archive.org/web/20240421102640/https://www.businesswire.com/news/home/20160328005521/en/New-Research-Finds-Majority-of-Americans-Lack-Lawn-Care-Knowledge),
 [home
 cleaning](https://homecleaningcenters.com/franchising/industry/#:~:text=Last%20year%2C%20nearly%2010%25%20of%20all%20U.S.%20households%20paid%20a%20professional%20service%20to%20clean%20their%20homes.%20Within%20the%20next%20few%20years%2C%20the%20US%20Department%20of%20Commerce%20expects%2080%25%20of%20two%2Dincome%20households%20to%20use%20an%20outside%20housecleaning%20service.),
 and
@@ -316,7 +316,7 @@ placemaking that have grown alongside the specific ecology of our place.
 Eventually, our
 [collective](https://en.wikipedia.org/wiki/Collective_memory)
 [memory
-loss](https://reedquest.org/2023/09/15/review-of-typhoons-offerings-an-existential-narrative-by-a-portland-band/#:~:text=%E2%80%9CIt%E2%80%99s%20a%20record,from%20violence/oblivion%3F%E2%80%9D)
+loss](https://web.archive.org/web/20240303042330/https://www.reedquest.org/2023/09/15/review-of-typhoons-offerings-an-existential-narrative-by-a-portland-band/#:~:text=It%E2%80%99s%20a%20record,from%20violence/oblivion%3F)
 can render these traditions unsalvageable--shifting our connection with
 extractive economies from a convenient way to raise 'standards of
 living' to a dangerous dependence on fragile
@@ -365,7 +365,7 @@ longer-term change---as was apparent in the wake of
 which invited changes not just in [remote
 work](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8508142/),
 but also
-[healthcare](https://www2.deloitte.com/content/dam/insights/us/articles/6921_CHS-Virtual-work/DI_CHS-virtual-work.pdf),
+[healthcare](https://web.archive.org/web/20250425051334/https://www.deloitte.com/content/dam/insights/us/articles/6921_CHS-Virtual-work/DI_CHS-virtual-work.pdf),
 [public
 space](https://crosscut.com/opinion/2021/07/how-pandemic-made-us-rethink-community-spaces),
 [transportation](https://usa.streetsblog.org/2022/01/27/study-covid-era-pop-up-bike-lanes-increase-cycling-trips-up-to-48/),
