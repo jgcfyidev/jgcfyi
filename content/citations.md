@@ -163,7 +163,7 @@ enableToc: false
 [154] [Seeing Like a State](https://en.wikipedia.org/wiki/Seeing_Like_a_State) <br>
 [155] [Seeing Like a State](https://en.wikipedia.org/wiki/Seeing_Like_a_State) <br>
 [156] [sought](https://www.tandfonline.com/doi/abs/10.1080/09505431.2010.519866) <br>
-[157] <a href="https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/#:~:text=The%20early%20modern,monoculture%20%E2%80%94%20were%20inevitable">initiating</a> <br>
+[157] <a href="https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/#:~:text=The%20early%20modern,monoculture%20%E2%80%94%20were%20inevitable" target="_blank" rel="noopener noreferrer">initiating</a> <br>
 [158] [vulnerability](https://ec.europa.eu/research-and-innovation/en/horizon-magazine/rise-and-fall-monoculture-farming) <br>
 [159] [never](https://www.science.org/content/article/germany-s-trees-are-dying-fierce-debate-has-broken-out-over-how-respond) <br>
 [160] [Seeing Like a State](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/) <br>
@@ -224,7 +224,7 @@ enableToc: false
 [215] [community memory](https://www.annualreviews.org/doi/10.1146/annurev-psych-070920-023638) <br>
 [216] [depends on more](https://twitter.com/jgcfyi/status/1543957797976547329) <br>
 [217] [relationships](https://www.researchgate.net/publication/344484649_Examining_the_Correlates_of_Psychological_Flexibility_in_Romantic_Relationship_and_Family_Dynamics_A_Meta-Analysis) <br>
-[218] [space](http://lnu.diva-portal.org/smash/get/diva2:627705/FULLTEXT01.pdf) <br>
+[218] [space](https://web.archive.org/web/20231017201538/http://lnu.diva-portal.org/smash/get/diva2:627705/FULLTEXT01.pdf) <br>
 [219] [breakthrough thinking](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/?mc_cid=147923f650&mc_eid=20f28eef5b#:~:text=So%20slow%2C%20in%20fact%2C%20that%20at%20first%20Wang%20thought%20they%20were%20wasting%20a%20lot%20of%20time%20on%20easy%20problems%20they%20already%20understood.%20But%20then%20he%20realized%20that%20Huh%20was%20learning%20even%20seemingly%20simple%20concepts%20in%20a%20much%20deeper%20way%20%E2%80%94%20and%20in%20precisely%20the%20way%20that%20would%20later%20prove%20useful.) <br>
 [220] [solve hard problems](https://wavelength.asana.com/workstyle-planned-spontaneity/) <br>
 [221] [social movements](https://mobilizingideas.wordpress.com/2015/02/05/spontaneity-an-important-and-neglected-topic-in-social-movements/) <br>
@@ -258,7 +258,7 @@ enableToc: false
 [249] [false agency](https://outland.art/art-games/#:~:text=crisis%20of%20agency,infinitesimally%20small%20pathways.) <br>
 [250] [eschewing society](https://twitter.com/cognazor/status/1699778244952670709?s=20) <br>
 [251] [complexity](https://youtu.be/T6OgRki5SgM?t=1081) <br>
-[252] [Polycentric](https://sites.warnercnr.colostate.edu/rebeccagruby/wp-content/uploads/sites/13/2014/01/CarlisleGruby_Polycentricity_InPress.pdf) <br>
+[252] [Polycentric](https://web.archive.org/web/20230512063158/https://sites.warnercnr.colostate.edu/rebeccagruby/wp-content/uploads/sites/13/2014/01/CarlisleGruby_Polycentricity_InPress.pdf) <br>
 [253] [multiple centers of semi-autonomous decision-making](https://onlinelibrary.wiley.com/doi/full/10.1111/psj.12212#:~:text=multiple%20centers%20of%20semiautonomous%20decision%20making) <br>
 [254] [Michael Levin](https://en.wikipedia.org/wiki/Michael_Levin_(biologist)) <br>
 [255] [multi-scale competency architecture](https://www.youtube.com/watch?v=0a3xg4M9Oa8&t=112s) <br>
@@ -286,7 +286,7 @@ enableToc: false
 [277] [helps](https://www.youtube.com/watch?v=YhU45EgFb6Y) <br>
 [278] [1995 Chicago heat wave](https://en.wikipedia.org/wiki/1995_Chicago_heat_wave) <br>
 [279] [surveillance in the name of safety](https://cityterritoryarchitecture.springeropen.com/articles/10.1186/s40410-018-0090-8) <br>
-[280] [marketed to cities](https://spectrumsmartcities.com/articles/temperature-monitoring.html) <br>
+[280] [marketed to cities](https://spectrumsmartcities.com/articles/temperature-monitoring.html/1000) <br>
 [281] [physical infrastructure](https://web.mit.edu/allanmc/www/hawlbachsspace.pdf) <br>
 [282] [Marita     Sturken](https://www.science.org/doi/10.1126/sciadv.1602368#:~:text=Culture%20and%20individual%20memory%20are%20constantly%20produced%20through%2C%20and%20mediated%20by%2C%20the%20technologies%20of%20memory.) <br>
 [283] [shown us](https://journals.sagepub.com/doi/abs/10.1177/0256090920140212#:~:text=The%20findings%20of,produce%20information%20goods.) <br>
@@ -387,7 +387,7 @@ enableToc: false
 [378] [belonging](https://www.sciencedaily.com/releases/1999/08/990810164724.htm) <br>
 [379] [truth itself](https://en.wikipedia.org/wiki/Post-truth) <br>
 [380] [It All Turns on Affection](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.pdf) <br>
-[381] [trend-chasing](https://i-d.vice.com/en/article/y3vj8m/trendcore-tiktok) <br>
+[381] [trend-chasing](https://web.archive.org/web/20231202205251/https://i-d.vice.com/en/article/y3vj8m/trendcore-tiktok) <br>
 [382] [conception of the past](https://lsa.umich.edu/psych/news-events/all-news/faculty-news/why-we-romanticize-the-past.html) <br>
 [383] [sourced](https://lifeinwestamerica.com/) <br>
 [384] [orient](https://www.youtube.com/watch?v=h-DUcbk58OI&t=41s) <br>

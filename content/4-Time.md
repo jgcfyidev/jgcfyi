@@ -96,7 +96,7 @@ itself](https://en.wikipedia.org/wiki/Post-truth).
 ### Transience vs. Presence in the Natural World
 
 How do we escape the unpleasant
-[trend-chasing](https://i-d.vice.com/en/article/y3vj8m/trendcore-tiktok)
+[trend-chasing](https://web.archive.org/web/20231202205251/https://i-d.vice.com/en/article/y3vj8m/trendcore-tiktok)
 of pop culture without fetishizing a [conception of the
 past](https://lsa.umich.edu/psych/news-events/all-news/faculty-news/why-we-romanticize-the-past.html)
 [sourced](https://lifeinwestamerica.com/) from a

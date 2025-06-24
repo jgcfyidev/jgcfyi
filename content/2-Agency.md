@@ -465,7 +465,7 @@ like.
 Foundationally, vibrant communities are built on informal, empathetic
 [relationships](https://www.researchgate.net/publication/344484649_Examining_the_Correlates_of_Psychological_Flexibility_in_Romantic_Relationship_and_Family_Dynamics_A_Meta-Analysis)
 that leave
-[space](http://lnu.diva-portal.org/smash/get/diva2:627705/FULLTEXT01.pdf)
+[space](https://web.archive.org/web/20231017201538/http://lnu.diva-portal.org/smash/get/diva2:627705/FULLTEXT01.pdf)
 for *spontaneity*. Space granted is an extension of trust capable of
 producing the kind of [breakthrough
 thinking](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/?mc_cid=147923f650&mc_eid=20f28eef5b#:~:text=So%20slow%2C%20in%20fact%2C%20that%20at%20first%20Wang%20thought%20they%20were%20wasting%20a%20lot%20of%20time%20on%20easy%20problems%20they%20already%20understood.%20But%20then%20he%20realized%20that%20Huh%20was%20learning%20even%20seemingly%20simple%20concepts%20in%20a%20much%20deeper%20way%20%E2%80%94%20and%20in%20precisely%20the%20way%20that%20would%20later%20prove%20useful.)
@@ -618,7 +618,7 @@ organization---ones that both honor the
 specific places and are benefited by their relationship to a broader
 society.
 
-[Polycentric](https://sites.warnercnr.colostate.edu/rebeccagruby/wp-content/uploads/sites/13/2014/01/CarlisleGruby_Polycentricity_InPress.pdf)
+[Polycentric](https://web.archive.org/web/20230512063158/https://sites.warnercnr.colostate.edu/rebeccagruby/wp-content/uploads/sites/13/2014/01/CarlisleGruby_Polycentricity_InPress.pdf)
 organizational structures, with [multiple centers of semi-autonomous
 decision-making](https://onlinelibrary.wiley.com/doi/full/10.1111/psj.12212#:~:text=multiple%20centers%20of%20semiautonomous%20decision%20making),
 are one path forward. In what biologist [Michael
@@ -748,7 +748,7 @@ As an alternative to the kind of agency-eroding [surveillance in the
 name of
 safety](https://cityterritoryarchitecture.springeropen.com/articles/10.1186/s40410-018-0090-8)
 currently being [marketed to
-cities](https://spectrumsmartcities.com/articles/temperature-monitoring.html),
+cities](https://spectrumsmartcities.com/articles/temperature-monitoring.html/1000),
 communities have the opportunity to raise up [physical
 infrastructure](https://web.mit.edu/allanmc/www/hawlbachsspace.pdf)
 to foster safety nets of neighborly affection that both make us happier
