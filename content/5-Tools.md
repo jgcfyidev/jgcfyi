@@ -94,14 +94,14 @@ power toward more resilient home places, in the lineage of BBSs.
 
 > [!info]- A Note on Terms
 >
->In the discussion of these technologies, I'll try to use plain (<a href="https://bank.dev/vox#:~:text=By%20inventing%20new,without%20any%20connotations." target='_blank' rel='noopener noreferrer'>if uncommon</a>)
+>In the discussion of these technologies, I'll try to use plain (<a href="https://web.archive.org/web/20240813162111/https://bank.dev/vox#:~:text=By%20inventing%20new,without%20any%20connotations." target='_blank' rel='noopener noreferrer'>if uncommon</a>)
 >language instead of terms like 'crypto', not only for the sake of those
 >who are unfamiliar with the language of '<a href="https://www.coindesk.com/learn/getting-started-with-crypto-twitter/" target='_blank' rel='noopener noreferrer'>crypto twitter</a>'
 >but also because many in the field have been made
 >[cynics](https://milkyeggs.com/crypto/the-doomer-case-for-the-final-death-of-crypto/)
 >by recent failures of its culture to produce worthwhile tools. Thinking
 >in terms of 'community computing' can help us [lift our collective
->gaze](https://jzhao.xyz/posts/communal-computing/) to what
+>gaze](https://jzhao.xyz/posts/agentic-computing) to what
 >is possible with these technologies beyond the [many
 >failures](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine)
 >we see today.
@@ -209,7 +209,7 @@ have any interest.
 
 Of course, it's not just culture and institutions that are changed by
 new tools. From the [birth of
-agriculture](https://en.wikipedia.org/wiki/History_of_the_city#cite_note-1:~:text=The%20Neolithic%20revolution%20brought%20agriculture%2C%20which%20made%20denser%20human%20populations%20possible%2C%20thereby%20supporting%20city%20development.)
+agriculture](https://en.wikipedia.org/wiki/History_of_cities#Origins)
 to the [industrial
 revolution](https://en.wikipedia.org/wiki/History_of_the_city#Industrial_revolution)
 and the [advent of the

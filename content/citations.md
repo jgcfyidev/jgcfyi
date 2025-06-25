@@ -439,7 +439,7 @@ enableToc: false
 [430] [community computing](https://twitter.com/buchmanster/status/1466092508316905478) <br>
 [431] [blockchains](https://www.investopedia.com/terms/b/blockchain.asp) <br>
 [432] [peer-to-peer](https://wiki.p2pfoundation.net/Main_Page) <br>
-[433] [Brian     Eno](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2#:~:text=%22Civilizations%20with%20long%20nows%20look%20after%20things%20better%2C%22%20says%20Brian%20Eno.%C2%A0%20%22In%20those%20places%20you%20feel%20a%20very%20strong%20but%20flexible%20structure%20which%20is%20built%20to%20absorb%20shocks%20and%20in%20fact%20incorporate%20them.%221) <br>
+[433] [Brian     Eno](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2?from=1&to=199) <br>
 [434] [Alex White](https://www.instagram.com/p/CyeL7lGv9ZQ/?img_index=3) <br>
 [435] [Ethan     Buchman](https://twitter.com/buchmanster/status/1466092508316905478) <br>
 [436] [handful of corporations](https://hbr.org/2016/06/who-controls-the-internet#:~:text=After%20all%2C%20today%E2%80%99s%20internet%20is%20clearly%20dominated%20by%20what%20Farhad%20Manjoo%2C%20of%20the%20New%20York%20Times%2C%20calls%20the%20Frightful%20Five%3A%20Amazon%2C%20Apple%2C%20Facebook%2C%20Google%20(now%20a%20unit%20of%20Alphabet)) <br>
@@ -459,10 +459,10 @@ enableToc: false
 [450] [artificial intelligence](https://www.npr.org/2023/05/25/1177700852/ai-future-dangers-benefits) <br>
 [451] [public ledgers](https://www.investopedia.com/tech/what-cryptocurrency-public-ledger/) <br>
 [452] [consolidating](https://www.theguardian.com/commentisfree/2023/nov/27/openai-microsoft-big-tech-monopoly) <br>
-[453] [if uncommon](https://bank.dev/vox#:~:text=By%20inventing%20new,without%20any%20connotations.) <br>
+[453] [if uncommon](https://web.archive.org/web/20240813162111/https://bank.dev/vox#:~:text=By%20inventing%20new,without%20any%20connotations.) <br>
 [454] [crypto twitter](https://www.coindesk.com/learn/getting-started-with-crypto-twitter/) <br>
 [455] [cynics](https://milkyeggs.com/crypto/the-doomer-case-for-the-final-death-of-crypto/) <br>
-[456] [lift our collective gaze](https://jzhao.xyz/posts/communal-computing/) <br>
+[456] [lift our collective gaze](https://jzhao.xyz/posts/agentic-computing) <br>
 [457] [many failures](https://www.bloomberg.com/features/2022-the-crypto-story-FTX-collapse-matt-levine) <br>
 [458] [all-encompassing survey](https://www.bloomberg.com/features/2022-the-crypto-story/) <br>
 [459] [principles](https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0) <br>
@@ -487,8 +487,8 @@ enableToc: false
 [478] [Ethan Buchman](https://www.youtube.com/watch?v=e9C1Y89Txdw) <br>
 [479] [Jon Hillis](https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8) <br>
 [480] [Josh Rosenthal](https://www.youtube.com/watch?v=karddOiv4ZA) <br>
-[481] [birth of agriculture](https://en.wikipedia.org/wiki/History_of_the_city#cite_note-1:~:text=The%20Neolithic%20revolution%20brought%20agriculture%2C%20which%20made%20denser%20human%20populations%20possible%2C%20thereby%20supporting%20city%20development.) <br>
-[482] [industrial revolution](https://en.wikipedia.org/wiki/History_of_the_city#Industrial_revolution) <br>
+[481] [birth of agriculture](https://en.wikipedia.org/wiki/History_of_cities#Origins) <br>
+[482] [industrial revolution](https://en.wikipedia.org/wiki/History_of_cities#Industrial_Revolution) <br>
 [483] [advent of the automobile](https://www.bloomberg.com/news/features/2019-08-29/the-commuting-principle-that-shaped-urban-history) <br>
 [484] [more](https://www.pewresearch.org/fact-tank/2021/03/26/about-three-in-ten-u-s-adults-say-they-are-almost-constantly-online/) <br>
 [485] [time](https://datareportal.com/reports/digital-2022-time-spent-with-connected-tech) <br>
