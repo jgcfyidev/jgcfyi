@@ -274,7 +274,7 @@ coordination of self sovereign communities be [sufficiently
 learnable](https://venkatesh-rao.gitbook.io/summer-of-protocols/#_ozkudrau5sjb)
 by a broad enough demographic, otherwise they risk becoming
 infrastructure for the same kind of
-[intermediaries](https://www.coindesk.com/layer2/2022/05/05/the-defi-mullet/)
+[intermediaries](https://web.archive.org/web/20230610080459/https://www.coindesk.com/layer2/2022/05/05/the-defi-mullet//)
 we rely on today to coordinate our economies. If made accessible,
 community computers and other collaborative technologies can mature
 knowledge sharing aspirations present in organizations like
@@ -413,7 +413,7 @@ These principles of self-determination are also tightly tied with
 A lack of privacy can result in altered behavior---either through
 fearful self-censorship or due to intervention by surveilling
 institutions (of which the internet has a [long
-tradition](https://en.wikipedia.org/wiki/Magic_Lantern_(software))
+tradition](https://en.wikipedia.org/wiki/Magic_Lantern_(spyware))
 of).
 
 Distributed systems that grant sovereignty and privacy by default make
@@ -473,7 +473,7 @@ as the seminal 'theological' work. Many of its [19
 lessons](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar#Lessons_for_creating_good_open_source_software)
 for creating good open source software are also cultural cornerstones in
 the world of
-[crypto](https://www.youtube.com/watch?v=eAMzAOhn1KY),
+[crypto](https://www.youtube.com/watch?v=ipWQ4w9pUkA),
 including making 'users' into collaborators, and the free sharing of
 code.
 
@@ -593,9 +593,9 @@ While open systems can create the right conditions for agency, there is
 the
 [tendency](https://theblockchainsocialist.com/talking-politics-with-vitalik-buterin-part-2/)
 in the world of crypto to favor censorship resistance and [minimized
-governance](https://www.paradigm.xyz/2020/10/870) over
+governance](https://web.archive.org/web/20240714012751/https://www.paradigm.xyz/2020/10/870) over
 social flexibility to achieve
-[incorruptibility](https://bank.dev/why#:~:text=Understanding%20that%20every%20theoretical%20incentive%20incompatability%20is%20guaranteed%20to%20be%20exploited.).
+[incorruptibility](https://web.archive.org/web/20240310154035/bank.dev/why#:~:text=Understanding%20that%20every%20theoretical%20incentive%20incompatability%20is%20guaranteed%20to%20be%20exploited.).
 The ability to make open, general purpose, permanent and uncensorable
 tools is important, but so is the ability to have
 [stewardable](https://venkatesh-rao.gitbook.io/summer-of-protocols/#_1znhggknfsxb),
@@ -661,7 +661,7 @@ which seek to provide
 sovereignty at the community level, with more degrees of freedom in
 designing how to build and maintain social consensus---but also with
 more responsibility for maintaining [critical
-infrastructure](https://v1.cosmos.network/intro#:~:text=A%20sovereign%20blockchain,has%20limited%20sovereignty.).
+infrastructure](https://web.archive.org/web/20250125090007/https://v1.cosmos.network/intro#:~:text=A%20sovereign%20blockchain,has%20limited%20sovereignty.).
 
 Together, these new foundations of community computing can help forge
 pathways of polycentric, cosmolocal agency propagation toward strong

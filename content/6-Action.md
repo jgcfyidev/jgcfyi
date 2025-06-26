@@ -50,7 +50,7 @@ A state-organized digital identity system, integrated with a
 state-managed payment platform, powered by a
 [sovereign](https://ebuchman.github.io/posts/mmt/#:~:text=monetary%20revolution%20afoot.-,Monetary%20Sovereignty,-At%20the%20heart)
 state currency would be the perfect kind of [surveillance
-state](https://www.state.gov/guiding-principles-on-government-use-of-surveillance-technologies/#:~:text=Surveillance%20technologies%20can%20be%20important%20tools%20for%20protecting%20national%20security%20and%20public%20safety)
+state](https://web.archive.org/web/20240228170331/https://www.state.gov/guiding-principles-on-government-use-of-surveillance-technologies/#:~:text=Surveillance%20technologies%20can%20be%20important%20tools%20for%20protecting%20national%20security%20and%20public%20safety)
 panopticon.
 
 As an alternative, several kinds of '<a href="https://en.wikipedia.org/wiki/Self-sovereign_identity" target='_blank' rel='noopener noreferrer'>self-sovereign (digital)
@@ -93,7 +93,7 @@ mostly for the speculative games of technologists.
 
 One such category of informal social identity is that of reputation
 systems. Organizations like
-[Gitcoin](https://go.gitcoin.co/blog/intro-to-passport)
+[Gitcoin](https://www.gitcoin.co/blog/intro-to-passport)
 and [Lens](https://docs.lens.xyz/docs/what-is-lens) are
 working to compile and verify users' disparate online identities into
 [portable](https://cointelegraph.com/news/how-does-zero-knowledge-proof-authentication-help-create-a-portable-digital-identity-solution#:~:text=Identity%20portability%20refers%20to%20the%20ability%20of%20users%20to%20generate%20a%20single%20set%20of%20digital%20ID%20credentials%20usable%20across%20multiple%20platforms.)
@@ -139,7 +139,7 @@ and portable than any more self-contained identity solution.
 >[already](https://semaphore.appliedzkp.org/docs/introduction)
 >[identity](https://docs.sismo.io/sismo-docs/)
 >[systems](https://web.archive.org/web/20230306023654/https://irma.app/),
->[messaging](https://www.heyanon.xyz/), and
+>[messaging](https://web.archive.org/web/20250317172549/https://www.heyanon.xyz/), and
 >[blockchain](https://aztec.network/) applications
 >experimenting with the implications of
 >[zero-knowledge](https://www.youtube.com/watch?v=fOGdb1CTu5c)
@@ -185,7 +185,7 @@ are foundational to blockchain architecture, and systems like [Ethereum
 Name Service](https://docs.ens.domains/) (ENS) apply human
 readable naming systems to those accounts. These addresses can hold
 assets from [US dollars](https://www.circle.com/en/usdc)
-to [magazine subscriptions](https://dirt.fyi/subscribe)
+to [magazine subscriptions](https://x.com/dirtyverse/status/1615426255821889537)
 and prove [legal](https://otoco.io/)
 [incorporation](https://docs.wrappr.wtf/get-started/what/#what-is-wrappr)
 of a company.
@@ -269,9 +269,9 @@ Many digital communities already harness platforms like
 and [Canny](https://canny.io/) to allow for simple and
 collaborative co-creation of functional software and websites. Because
 of crypto's account-based foundation, a diverse set of tools of
-[collaboration](https://subconscious.network/)
+[collaboration](https://web.archive.org/web/20230126082949/https://subconscious.network/)
 [exist](https://www.kolektivo.network/)
-[today](https://www.crowdwrite.xyz/),
+[today](https://docs.fileverse.io/about),
 [ready](https://twitter.com/metagov_project/status/1580231463353450500)
 to be used similarly in our home places. With more trustworthy systems
 of digital identity, we might be able to make GitHub-style pull requests
@@ -288,7 +288,7 @@ unlocks of mature digital identity systems, even in their absence
 blockchains are enabling novel forms of voting. Prominent
 [on-chain](https://www.investopedia.com/terms/c/chain-transactions-cryptocurrency.asp)
 voting tools include
-[Snapshot](https://docs.snapshot.org/introduction),
+[Snapshot](https://docs.snapshot.box/#welcome-to-snapshot),
 [Tally](https://docs.tally.xyz/knowledge-base/tally),
 [Aragon](https://aragon.org/), and
 [Coordinape](https://coordinape.com/#how-it-works).
@@ -328,7 +328,7 @@ actively in governance of local issues in real-time.
 Blockchains don't just serve as trustworthy record keeping
 infrastructure for identity and voting, they introduce natively digital
 value transmission. Combined with their
-[transparency](https://vitalik.ca/general/2021/10/31/cities.html#:~:text=One%20simple%20idea,payments%20and%20salaries.)
+[transparency](https://vitalik.eth.limo/general/2021/10/31/cities.html#:~:text=One%20simple%20idea,payments%20and%20salaries.)
 and potential for collaboration, they give us a pathway to collectively
 and
 [directly](https://en.wikipedia.org/wiki/Superuser#:~:text=root%20is%20the%20conventional%20name%20of%20the%20user%20who%20has%20all%20rights%20or%20permissions)
@@ -338,9 +338,9 @@ organization.
 Today, some of the most important [on-chain
 organizations](https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=goes%20like%20this%3A-,ii.%20DAOs,-I%20should%20mention)
 (DAOs), such as
-[MakerDAO](https://dune.com/hagaetc/maker-dao---mcd), are
+[MakerDAO](https://dune.com/sportreally/makerdao-dashboard), are
 already completely
-[auditable](https://dune.com/blog/revolution-not-quarterly)
+[auditable](https://web.archive.org/web/20250328110152/https://dune.com/blog/revolution-not-quarterly)
 in real-time with governance that happens
 [on-chain](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance),
 meaning votes are capable of executing their results immediately. In the

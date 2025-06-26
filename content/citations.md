@@ -506,7 +506,7 @@ enableToc: false
 [497] [Richard D. Bartlett](https://www.microsolidarity.cc/essays/from-domination-to-partnership#:~:text=It%E2%80%99s%20not%20that%20people%20are%20incapable%20of%20collaboration%2C%20it%E2%80%99s%20just%20that%20most%20of%20us%20lack%20tools) <br>
 [498] [new tools](https://jzhao.xyz/posts/agentic-computing/) <br>
 [499] [sufficiently learnable](https://venkatesh-rao.gitbook.io/summer-of-protocols/#_ozkudrau5sjb) <br>
-[500] [intermediaries](https://www.coindesk.com/layer2/2022/05/05/the-defi-mullet/) <br>
+[500] [intermediaries](https://web.archive.org/web/20230610080459/https://www.coindesk.com/layer2/2022/05/05/the-defi-mullet/) <br>
 [501] [makerspaces](https://scholarworks.umass.edu/masters_theses_2/257/) <br>
 [502] [Communal Computing Networks](https://jzhao.xyz/posts/agentic-computing#:~:text=We%20must%20make%20it%20possible%20for%20the%20average%20layperson%20to%20be%20able%20to%20change%20and%20adapt%20software%20for%20their%20own%20needs%3B%20for%20them%20to%20experience%20creating%20software%20not%20like%20a%20professional%20chef%2C%20but%20a%20home%20cook) <br>
 [503] [industrial machinery](https://www.opensourceecology.org/) <br>
@@ -548,7 +548,7 @@ enableToc: false
 [539] [shared computing platform](https://www.youtube.com/watch?v=j23HnORQXvs) <br>
 [540] [Vitalik     Buterin](https://twitter.com/zemnmez/status/1443821271045845005/photo/1) <br>
 [541] [privacy](https://safecomputing.umich.edu/privacy/history-of-privacy-timeline) <br>
-[542] [long tradition](https://en.wikipedia.org/wiki/Magic_Lantern_(software)) <br>
+[542] [long tradition](https://en.wikipedia.org/wiki/Magic_Lantern_(spyware)) <br>
 [543] [control](https://www.strongtowns.org/journal/2022/6/29/local-control-or-centralized-planning-theres-a-third-answer#:~:text=And%20the%20latter%2C%20perhaps%20paradoxically%2C%20requires%20relinquishing%20some%20control%20and%20tolerating%20a%20little%20more%20chaos) <br>
 [544] [consultants](https://www2.deloitte.com/us/en/industries/government-public-services.html?icid=top_government-public-services) <br>
 [545] [mapping of potholes](https://communityscience.com/wp-content/uploads/2021/04/AssetMappingToolkit.pdf) <br>
@@ -560,7 +560,7 @@ enableToc: false
 [551] [cooperative ethos](https://theblockchainsocialist.com/safeguarding-ethereums-soul-protocol-guild-and-governing-the-digital-commons/) <br>
 [552] [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/) <br>
 [553] [19 lessons](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar#Lessons_for_creating_good_open_source_software) <br>
-[554] [crypto](https://www.youtube.com/watch?v=eAMzAOhn1KY) <br>
+[554] [crypto](https://www.youtube.com/watch?v=ipWQ4w9pUkA) <br>
 [555] [Chris Dixon](https://www.youtube.com/watch?v=jezH_7qEk50) <br>
 [556] [social scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=Social%20scalability%20is,can%20successfully%20participate.) <br>
 [557] [Nick     Szabo](https://en.wikipedia.org/wiki/Nick_Szabo) <br>
@@ -592,8 +592,8 @@ enableToc: false
 [583] [agency over their tools](https://www.youtube.com/watch?v=8_clFVHKS2g) <br>
 [584] [tools](https://www.microsolidarity.cc/essays/from-domination-to-partnership#:~:text=It%E2%80%99s%20not%20that%20people%20are%20incapable%20of%20collaboration%2C%20it%E2%80%99s%20just%20that%20most%20of%20us%20lack%20tools%2C%20skills%20and%20role%20models.) <br>
 [585] [tendency](https://theblockchainsocialist.com/talking-politics-with-vitalik-buterin-part-2/) <br>
-[586] [minimized governance](https://www.paradigm.xyz/2020/10/870) <br>
-[587] [incorruptibility](https://bank.dev/why#:~:text=Understanding%20that%20every%20theoretical%20incentive%20incompatability%20is%20guaranteed%20to%20be%20exploited.) <br>
+[586] [minimized governance](https://web.archive.org/web/20240714012751/https://www.paradigm.xyz/2020/10/870) <br>
+[587] [incorruptibility](https://web.archive.org/web/20240310154035/bank.dev/why#:~:text=Understanding%20that%20every%20theoretical%20incentive%20incompatability%20is%20guaranteed%20to%20be%20exploited.) <br>
 [588] [stewardable](https://venkatesh-rao.gitbook.io/summer-of-protocols/#_1znhggknfsxb) <br>
 [589] [socially responsive technologies](https://www.youtube.com/watch?v=AyaWFicSihE) <br>
 [590] [research](https://www.nobelprize.org/uploads/2018/06/popular-economicsciences2009.pdf) <br>
@@ -614,7 +614,7 @@ enableToc: false
 [605] [Cosmos](https://twitter.com/buchmanster/status/1330600018777157633) <br>
 [606] [Celestia](https://twitter.com/divine_economy/status/1548345842431455236) <br>
 [607] [local](https://otherinter.net/research/three-body-problem/#:~:text=From%20this%20vantage,society%20unto%20itself.) <br>
-[608] [critical infrastructure](https://v1.cosmos.network/intro#:~:text=A%20sovereign%20blockchain,has%20limited%20sovereignty.) <br>
+[608] [critical infrastructure](https://web.archive.org/web/20250125090007/https://v1.cosmos.network/intro#:~:text=A%20sovereign%20blockchain,has%20limited%20sovereignty.) <br>
 [609] [credibly neutral](https://nakamoto.com/credible-neutrality/) <br>
 [610] [Alex White](https://www.instagram.com/p/CyeL7lGv9ZQ/?img_index=3) <br>
 [611] [limited](https://genius.com/Twain-in-the-high-of-the-morning-lyrics#:~:text=I%20recall%20that%20I%20used%20to%20despair%20at%20the%20lost%20chance%20of%20knowing%0AA%20much%20longed%20for%20beauty%0ABut%20now%20that%20I%20know%20it%27s%20my%20duty%20to%20love%20life%0ANot%20try%20and%20know%20life%0ATo%20show%20it%2Dto%20show%20I%20don%27t%20know%20yet%20I%20know%20that%20it%27s%20real) <br>
@@ -624,7 +624,7 @@ enableToc: false
 [615] [institutions](https://www3.weforum.org/docs/WEF_A_Blueprint_for_Digital_Identity.pdf) <br>
 [616] [corporations](https://www.immigrantdefenseproject.org/wp-content/uploads/smart-city-digital-id-products.pdf) <br>
 [617] [sovereign](https://ebuchman.github.io/posts/mmt/#:~:text=monetary%20revolution%20afoot.-,Monetary%20Sovereignty,-At%20the%20heart) <br>
-[618] [surveillance state](https://www.state.gov/guiding-principles-on-government-use-of-surveillance-technologies/#:~:text=Surveillance%20technologies%20can%20be%20important%20tools%20for%20protecting%20national%20security%20and%20public%20safety) <br>
+[618] [surveillance state](https://web.archive.org/web/20240228170331/https://www.state.gov/guiding-principles-on-government-use-of-surveillance-technologies/#:~:text=Surveillance%20technologies%20can%20be%20important%20tools%20for%20protecting%20national%20security%20and%20public%20safety) <br>
 [619] [self-sovereign (digital) identity](https://en.wikipedia.org/wiki/Self-sovereign_identity) <br>
 [620] [proposed](https://arxiv.org/abs/2206.04911) <br>
 [621] [the](https://www.proofofhumanity.id/) <br>
@@ -641,7 +641,7 @@ enableToc: false
 [632] [*community*](https://www.radicalxchange.org/concepts/social-identity/) <br>
 [633] [mature](https://otherinter.net/research/three-body-problem/#:~:text=From%20this%20vantage,society%20unto%20itself.) <br>
 [634] [(source)](https://jenikirbyhistory.getarchive.net/media/family-farm-sunset-people-b1831e) <br>
-[635] [Gitcoin](https://go.gitcoin.co/blog/intro-to-passport) <br>
+[635] [Gitcoin](https://www.gitcoin.co/blog/intro-to-passport) <br>
 [636] [Lens](https://docs.lens.xyz/docs/what-is-lens) <br>
 [637] [portable](https://cointelegraph.com/news/how-does-zero-knowledge-proof-authentication-help-create-a-portable-digital-identity-solution#:~:text=Identity%20portability%20refers%20to%20the%20ability%20of%20users%20to%20generate%20a%20single%20set%20of%20digital%20ID%20credentials%20usable%20across%20multiple%20platforms.) <br>
 [638] [digital collectible](https://en.wikipedia.org/wiki/Non-fungible_token) <br>
@@ -658,7 +658,7 @@ enableToc: false
 [649] [already](https://semaphore.appliedzkp.org/docs/introduction) <br>
 [650] [identity](https://docs.sismo.io/sismo-docs/) <br>
 [651] [systems](https://web.archive.org/web/20230306023654/https://irma.app/) <br>
-[652] [messaging](https://www.heyanon.xyz/) <br>
+[652] [messaging](https://web.archive.org/web/20250317172549/https://www.heyanon.xyz/) <br>
 [653] [blockchain](https://aztec.network/) <br>
 [654] [zero-knowledge](https://www.youtube.com/watch?v=fOGdb1CTu5c) <br>
 [655] [hardness](https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0#:~:text=Recently%2C%20we%E2%80%99ve%20invented%20a%20new%20way%20to%20create%20hardness%3A%20blockchains.%20Using%20an%20elegant%20combination%20of%20cryptography%2C%20networked%20software%2C%20and%20commoditized%20human%20incentives%2C%20we%20are%20able%20to%20create%20software%20and%20digital%20records%20that%20have%20a%20degree%20of%20permanence.) <br>
@@ -672,7 +672,7 @@ enableToc: false
 [663] [addresses](https://info.etherscan.com/what-is-an-ethereum-address/) <br>
 [664] [Ethereum Name Service](https://docs.ens.domains/) <br>
 [665] [US dollars](https://www.circle.com/en/usdc) <br>
-[666] [magazine subscriptions](https://dirt.fyi/subscribe) <br>
+[666] [magazine subscriptions](https://x.com/dirtyverse/status/1615426255821889537) <br>
 [667] [legal](https://otoco.io/) <br>
 [668] [incorporation](https://docs.wrappr.wtf/get-started/what/#what-is-wrappr) <br>
 [669] [governance](https://vitalik.eth.limo/general/2024/01/31/end.html#:~:text=this%20stack%20is-,democratic%20governance%20technology,-%3A%20tools%20for%20people) <br>
@@ -692,13 +692,13 @@ enableToc: false
 [683] [no safe way](https://www.theatlantic.com/ideas/archive/2022/04/local-government-community-input-housing-public-transportation/629625/) <br>
 [684] [Github](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) <br>
 [685] [Canny](https://canny.io/) <br>
-[686] [collaboration](https://subconscious.network/) <br>
+[686] [collaboration](https://web.archive.org/web/20230126082949/https://subconscious.network/) <br>
 [687] [exist](https://www.kolektivo.network/) <br>
-[688] [today](https://www.crowdwrite.xyz/) <br>
+[688] [today](https://docs.fileverse.io/about) <br>
 [689] [ready](https://twitter.com/metagov_project/status/1580231463353450500) <br>
 [690] [planning documents](https://en.wikipedia.org/wiki/Comprehensive_planning) <br>
 [691] [on-chain](https://www.investopedia.com/terms/c/chain-transactions-cryptocurrency.asp) <br>
-[692] [Snapshot](https://docs.snapshot.org/introduction) <br>
+[692] [Snapshot](https://docs.snapshot.box/#welcome-to-snapshot) <br>
 [693] [Tally](https://docs.tally.xyz/knowledge-base/tally) <br>
 [694] [Aragon](https://aragon.org/) <br>
 [695] [Coordinape](https://coordinape.com/#how-it-works) <br>
@@ -708,11 +708,11 @@ enableToc: false
 [699] [Conviction voting](https://medium.com/commonsstack/conviction-voting-f6f83a5d392a) <br>
 [700] [new experiments](https://www.radicalxchange.org/concepts/plural-voting/) <br>
 [701] [open doors](https://vitalik.eth.limo/general/2021/10/31/cities.html#:~:text=Experiment%20%232%3A%20more%20radical%20and%20participatory%20forms%20of%20governance) <br>
-[702] [transparency](https://vitalik.ca/general/2021/10/31/cities.html#:~:text=One%20simple%20idea,payments%20and%20salaries.) <br>
+[702] [transparency](https://vitalik.eth.limo/general/2021/10/31/cities.html#:~:text=One%20simple%20idea,payments%20and%20salaries.) <br>
 [703] [directly](https://en.wikipedia.org/wiki/Superuser#:~:text=root%20is%20the%20conventional%20name%20of%20the%20user%20who%20has%20all%20rights%20or%20permissions) <br>
 [704] [on-chain organizations](https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=goes%20like%20this%3A-,ii.%20DAOs,-I%20should%20mention) <br>
-[705] [MakerDAO](https://dune.com/hagaetc/maker-dao---mcd) <br>
-[706] [auditable](https://dune.com/blog/revolution-not-quarterly) <br>
+[705] [MakerDAO](https://dune.com/sportreally/makerdao-dashboard) <br>
+[706] [auditable](https://web.archive.org/web/20250328110152/https://dune.com/blog/revolution-not-quarterly) <br>
 [707] [on-chain](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) <br>
 [708] [Matt     Levine](https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=A%20DAO%20is%20a%20way%20for%20people%20to%20get%20together%20to%20vote%20to%20control%20a%20pot%20of%20money%20or%20a%20protocol%20on%20the%20blockchain.) <br>
 [709] [a new idea](https://en.wikipedia.org/wiki/Participatory_budgeting#History) <br>
