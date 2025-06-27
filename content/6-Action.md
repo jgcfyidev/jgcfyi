@@ -529,7 +529,7 @@ private housing to collective funding of
 While encouraging, these efforts are still sparse and often dependent on
 [professionals](https://metropolismag.com/projects/dont-call-it-a-commune-inside-berlin-radical-cohousing-project/#:~:text=The%20architect%2Dled%2C%20collectively%20funded%20R50%20Baugruppen%20project%20in%20Berlin)
 with personal skin in the game or dedicated and supportive
-[non-profits](https://rocusa.org/about-roc-usa/mission-history/).
+[non-profits](https://rocusa.org/about-roc-usa/).
 Plug-and-play blockchain
 [infrastructure](https://medium.com/lexdaoism/when-daos-get-real-managing-real-property-on-a-blockchain-83f43f55da53)
 for such management can make these shared-ownership models more
@@ -581,7 +581,7 @@ this capacity for action can reduce local dependence on outside (<a href="https:
 service providers for cities.
 
 A robust interoperable infrastructure for the
-[distribution](https://mint.fun/) and
+[distribution](https://manifold.xyz/) and
 [management](https://highlight.xyz/about) of [digital
 property](https://twitter.com/metalabel_/status/1760361580657877361)
 already exists to support the world of digital art. Meanwhile,
@@ -612,7 +612,7 @@ like-minded communities.
 Such libraries and marketplaces could make
 [design](https://www.betterblock.org/library-of-social-infrastructure)
 and implementation of [bus
-shelters](https://www.betterblock.org/product-page/melendez-bench-attachment),
+shelters](https://www.betterblock.org/product-page/roberts-kiosk),
 [parks](https://www.betterblock.org/product-page/mobility-parklet),
 [bike
 lanes](https://www.betterblock.org/product-page/diodati-bike-stencil),
@@ -624,7 +624,7 @@ approved implementations from these design libraries could reduce the
 burden of [development
 restrictions](https://www.strongtowns.org/journal/2022/10/6/pre-approved-house-designs-jump-start-infill-development-in-south-bend#:~:text=layer%20upon%20layer%20of%20development%20delays%2C%20permit%20requirements%2C%20arcane%20zoning%20rules%2C%20appeals%20to%20mountain%20lion%20conservation%2C%20etc.)
 on residential and home construction, or even [procurement
-hurdles](https://bloombergcities.jhu.edu/news/procurement-reforming-how-cities-work)
+hurdles](https://web.archive.org/web/20250328060820/https://bloombergcities.jhu.edu/news/procurement-reforming-how-cities-work)
 for cities themselves.
 
 {{<image src="/media/image19.png" caption="A CNC design for a parklet, made free to use by <a href='https://www.betterblock.org/wikiblock/' target='_blank' rel='noopener noreferrer'>Wikiblock</a>">}}
@@ -649,7 +649,7 @@ for cities themselves.
 >memories](https://opensea.io/collection/ryans-memories)
 >available on 24/7 marketplaces. This kind of
 >[hyperliquidity of
->everything](https://www.forbes.com/sites/worldeconomicforum/2016/11/10/>shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/?>sh=7a264f571735#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service>.)---and
+>everything](https://web.archive.org/web/20220604095403/http://forbes.com/sites/worldeconomicforum/2016/11/10/shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/?sh=23c2ee313431#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service.)---and
 >the resulting
 >[hypermobility](https://www.fastcompany.com/90779384/>heres-what-to-know-about-flow-adam-neumanns-newly-flush-with-cash-real-estate-startup#:~:text=Flow%20want>s%20to%20be%20a%20housing%20utopia%20for%20remote%20workers.)---[objectifies
 >personal relatedness](https://twitter.com/friendtech). It

@@ -763,7 +763,7 @@ enableToc: false
 [754] [Resident-owned](https://rocusa.org/whats-a-roc/what-is-a-roc-how-is-it-different/) <br>
 [755] [mobile-home](https://www.floridamfghome.com/) <br>
 [756] [professionals](https://metropolismag.com/projects/dont-call-it-a-commune-inside-berlin-radical-cohousing-project/#:~:text=The%20architect%2Dled%2C%20collectively%20funded%20R50%20Baugruppen%20project%20in%20Berlin) <br>
-[757] [non-profits](https://rocusa.org/about-roc-usa/mission-history/) <br>
+[757] [non-profits](https://rocusa.org/about-roc-usa/) <br>
 [758] [infrastructure](https://medium.com/lexdaoism/when-daos-get-real-managing-real-property-on-a-blockchain-83f43f55da53) <br>
 [759] [rent-credit obligations](https://www.lowimpact.org/categories/housing-commons#:~:text=comments%20section%20below.-,Rent%2Dcredit%20obligations,-It%20might%20be) <br>
 [760] [NFTX](https://docs.nftx.io/) <br>
@@ -776,7 +776,7 @@ enableToc: false
 [767] [Georgist](https://en.wikipedia.org/wiki/Georgism) <br>
 [768] [tactical urbanism](http://tacticalurbanismguide.com/about/#:~:text=Tactical%20Urbanism%20is%20all%20about,to%20catalyze%20long%2Dterm%20change.) <br>
 [769] [sometimes predatory](https://smartenoughcity.mitpress.mit.edu/pub/yvyv9j2i/release/1#:~:text=opaque%2C%20often%20proprietary%2C%20algorithms%20to%20make%20life%2Daltering%20decisions) <br>
-[770] [distribution](https://mint.fun/) <br>
+[770] [distribution](https://manifold.xyz/) <br>
 [771] [management](https://highlight.xyz/about) <br>
 [772] [digital property](https://twitter.com/metalabel_/status/1760361580657877361) <br>
 [773] [commons](https://en.wikipedia.org/wiki/Commons-based_peer_production) <br>
@@ -792,19 +792,19 @@ enableToc: false
 [783] [subscription](https://support.patreon.com/hc/en-us/articles/204606315-What-is-Patreon) <br>
 [784] [networking](https://www.ledger.com/academy/topics/crypto/what-is-token-gating#:~:text=Token%2Dgating%20is%20a%20way,channels%20within%20a%20public%20server.) <br>
 [785] [design](https://www.betterblock.org/library-of-social-infrastructure) <br>
-[786] [bus shelters](https://www.betterblock.org/product-page/melendez-bench-attachment) <br>
+[786] [bus shelters](https://www.betterblock.org/product-page/roberts-kiosk) <br>
 [787] [parks](https://www.betterblock.org/product-page/mobility-parklet) <br>
 [788] [bike lanes](https://www.betterblock.org/product-page/diodati-bike-stencil) <br>
 [789] [homes](https://www.strongtowns.org/journal/2022/10/6/pre-approved-house-designs-jump-start-infill-development-in-south-bend#:~:text=one%20of%20the%20culprits%20in%20the%20disappearance%20of%20the%20small%20developer%E2%80%94is%20the%20lack%20of%20templates%20to%20make%20what%20they%20do%20more%20replicable) <br>
 [790] [development restrictions](https://www.strongtowns.org/journal/2022/10/6/pre-approved-house-designs-jump-start-infill-development-in-south-bend#:~:text=layer%20upon%20layer%20of%20development%20delays%2C%20permit%20requirements%2C%20arcane%20zoning%20rules%2C%20appeals%20to%20mountain%20lion%20conservation%2C%20etc.) <br>
-[791] [procurement hurdles](https://bloombergcities.jhu.edu/news/procurement-reforming-how-cities-work) <br>
+[791] [procurement hurdles](https://web.archive.org/web/20250328060820/https://bloombergcities.jhu.edu/news/procurement-reforming-how-cities-work) <br>
 [792] [Wikiblock](https://www.betterblock.org/wikiblock/) <br>
 [793] [about this](https://mirror.xyz/jgc.eth/-pGobZqAYOqA1spo9ldV4C7p2LifNjtwQibwXAxLkVk) <br>
 [794] [liquidity](https://twitter.com/balajis/status/1364821818398318595) <br>
 [795] [virtue](https://twitter.com/cburniske/status/1471519286078308359) <br>
 [796] [envisions](https://tim.blog/2021/11/17/balaji-srinivasan-2-trancript/#:~:text=Every%20ideology%2C%20everything%20will%20have%20a%20price%2C%20which%20roughly%20reflects%20people%E2%80%99s%20measure%20of%20belief%20in%20it) <br>
 [797] [childhood memories](https://opensea.io/collection/ryans-memories) <br>
-[798] [hyperliquidity of everything](https://www.forbes.com/sites/worldeconomicforum/2016/11/10/shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/?sh=7a264f571735#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service.) <br>
+[798] [hyperliquidity of everything](https://web.archive.org/web/20220604095403/http://forbes.com/sites/worldeconomicforum/2016/11/10/shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/?sh=23c2ee313431#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service.) <br>
 [799] [hypermobility](https://www.fastcompany.com/90779384/heres-what-to-know-about-flow-adam-neumanns-newly-flush-with-cash-real-estate-startup#:~:text=Flow%20wants%20to%20be%20a%20housing%20utopia%20for%20remote%20workers.) <br>
 [800] [objectifies personal relatedness](https://twitter.com/friendtech) <br>
 [801] [It All Turns on Affection](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.pdf) <br>
