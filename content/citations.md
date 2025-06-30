@@ -818,13 +818,12 @@ enableToc: false
 [809] [blockspace](https://www.paradigm.xyz/2021/03/ethereum-blockspace-who-gets-what-and-why#:~:text=Blockspace%20is%20the%20commodity%20that%20powers%20the%20heartbeats%20of%20all%20cryptocurrency%20networks) <br>
 [810] [DAI](https://makerdao.com/en/whitepaper/#introduction) <br>
 [811] [collateral-backed](https://makerdao.com/en/whitepaper/#the-dai-stablecoin:~:text=Every%20Dai%20in%20circulation%20is%20directly%20backed%20by%20excess%20collateral%2C%20meaning%20that%20the%20value%20of%20the%20collateral%20is%20higher%20than%20the%20value%20of%20the%20Dai%20debt) <br>
-[812] [RAI](https://medium.com/reflexer-labs/stability-without-pegs-8c6a1cbc7fbd) <br>
-[813] [still developing](https://bank.dev/) <br>
+[813] [still developing](https://web.archive.org/web/20240226011549/http://bank.dev/) <br>
 [814] [states themselves](https://www.federalreserve.gov/cbdc-faqs.htm) <br>
 [815] [created](https://www.imf.org/en/Publications/fandd/issues/Series/Back-to-Basics/Banks#:~:text=Banks%20also%20create%20money.) <br>
 [816] [local banks](https://www.youtube.com/watch?v=IzE038REw2k) <br>
 [817] [money on-chain](https://en.wikipedia.org/wiki/Stablecoin) <br>
-[818] [USDF](https://www.usdfconsortium.com/) <br>
+[818] [USDF](https://web.archive.org/web/20250304002651/https://www.usdfconsortium.com/) <br>
 [819] [other experiments](https://blockworks.co/news/wyoming-could-be-first-us-state-to-issue-official-stablecoin) <br>
 [820] [alternatives](https://en.wikipedia.org/wiki/Free_banking) <br>
 [821] [central-bank](https://hbr.org/2021/10/what-if-central-banks-issued-digital-currency) <br>
@@ -862,23 +861,23 @@ enableToc: false
 [853] [banks](https://www.econstor.eu/bitstream/10419/173367/1/sdp2016-14.pdf) <br>
 [854] [blockchains](https://cofi.informal.systems/FAQ) <br>
 [855] [digital ledgers](https://creditcommons.net/#:~:text=ledger%20which%20they%20control) <br>
-[856] [Mapping and balancing](https://www.localloop.network/services/mtcs/) <br>
+[856] [Mapping and balancing](https://web.archive.org/web/20240225211519/https://www.localloop.network/services/mtcs/) <br>
 [857] [Credit Commons Society](https://creditcommonssociety.org/) <br>
 [858] [system](https://breadchain.mirror.xyz/nwQx4CqPAcwZ5zSNB2_K25N1quOF1NGcKaYcS3S33CA) <br>
 [859] [operator](https://chamasoft.com/) <br>
-[860] [governance](https://discovery.rsm.nl/articles/368-digital-community-currencies-for-global-challenges/#:~:text=community%20governance) <br>
+[860] [governance](https://www.rsm.nl/discovery/2018/digital-community-currencies-for-global-challenges/#:~:text=2.-,Community%20Governance,-The%20second%20issuee) <br>
 [861] [Community Inclusion Currencies](https://www.grassrootseconomics.org/pages/how-it-works) <br>
 [862] [Sarafu](https://sarafu.network/) <br>
 [863] [Network](https://en.wikipedia.org/wiki/Sarafu-Credit) <br>
-[864] [Open Credit Network](https://opencredit.network/) <br>
+[864] [Circles](https://aboutcircles.com/) <br>
 [865] [Mutual Credit Services](https://www.mutualcredit.services/home) <br>
-[866] [CoFi](https://cofi.informal.systems/) <br>
+[866] [Cycles](https://cycles.money/) <br>
 [867] [on-chain infrastructure](https://twitter.com/cyclesmoney) <br>
 [868] ['trust graph'](https://grassecon.org/trust-graph) <br>
 [869] [Sarafu](https://www.grassrootseconomics.org/pages/how-it-works#:~:text=Community%20Asset%20Vouchers%20(CAVs)) <br>
 [870] [network](https://viz.sarafu.network/) <br>
 [871] [dialectic](https://en.wikipedia.org/wiki/Unity_of_opposites) <br>
-[872] [new](https://www.cityofpraxis.com/) <br>
+[872] [new](https://en.wikipedia.org/wiki/Praxis_(proposed_city)) <br>
 [873] [communities](https://twitter.com/alphaxbarry/status/1633176607031541761) <br>
 [874] [healing our institutions](https://twitter.com/jgcfyi/status/1503822879552688129) <br>
 [875] [Alex White](https://www.instagram.com/p/CyeL7lGv9ZQ/?img_index=3) <br>

@@ -702,7 +702,7 @@ currency that seeks to peg itself to the US Dollar), and
 [RAI](https://medium.com/reflexer-labs/stability-without-pegs-8c6a1cbc7fbd)
 (an experimental stable asset without a peg at all). Demand for global
 money is not going away, and many interesting experiments with this goal
-are [still developing](https://bank.dev/).
+are [still developing](https://web.archive.org/web/20240226011549/http://bank.dev/).
 
 Of course, [states
 themselves](https://www.federalreserve.gov/cbdc-faqs.htm)
@@ -714,7 +714,7 @@ banks](https://www.youtube.com/watch?v=IzE038REw2k), and so
 it follows that new experiments in banks issuing their own [money
 on-chain](https://en.wikipedia.org/wiki/Stablecoin) are
 consequential for our monetary system. One such experiment, a consortium
-of banks called [USDF](https://www.usdfconsortium.com/),
+of banks called [USDF](https://web.archive.org/web/20250304002651/https://www.usdfconsortium.com/),
 proposes to produce an interoperable money derived from deposits in its
 member banks. This, and [other
 experiments](https://blockworks.co/news/wyoming-could-be-first-us-state-to-issue-official-stablecoin),
@@ -852,7 +852,7 @@ are making such credit offset accessible to wider categories of
 communities.
 
 [Mapping and
-balancing](https://www.localloop.network/services/mtcs/)
+balancing](https://web.archive.org/web/20240225211519/https://www.localloop.network/services/mtcs/)
 economic relationships on-chain can help communities understand the
 shape of their existing economy, build more healthy economic loops, and
 more quickly stand up mutual credit systems of their own. [Credit
@@ -866,7 +866,7 @@ Historically, mutual credit systems have needed a trusted central
 is possible these responsibilities can be delegated to autonomous and
 transparent smart-contracts and managed through on-chain governance.
 Overall, DAO structures may help with
-[governance](https://discovery.rsm.nl/articles/368-digital-community-currencies-for-global-challenges/#:~:text=community%20governance)
+[governance](https://www.rsm.nl/discovery/2018/digital-community-currencies-for-global-challenges/#:~:text=2.-,Community%20Governance,-The%20second%20issue)
 of local currency, including visibility and management of who is able to
 originate, accept and spend the currency.
 
@@ -880,10 +880,9 @@ are real-world applications of highly-localized credit offset, giving
 people a way to exchange goods and services and incubate projects and
 businesses without relying on scarce national currency and volatile
 markets. Many other dedicated organizations are working towards these
-ends, including, [Open Credit
-Network](https://opencredit.network/) and [Mutual Credit
+ends, including, [Circles](https://aboutcircles.com/) and [Mutual Credit
 Services](https://www.mutualcredit.services/home).
-[CoFi](https://cofi.informal.systems/) is a
+[Cycles](https://cycles.money/) is a
 blockchain-based system working to build [on-chain
 infrastructure](https://twitter.com/cyclesmoney) to support
 mutual credit systems to the benefit small communities.
@@ -908,7 +907,7 @@ safeguards the vitality of our communities, not just in the present but
 for generations to come.
 
 How can we get there? Not by abandoning our homes to flee to
-[new](https://www.cityofpraxis.com/)
+[new](https://en.wikipedia.org/wiki/Praxis_(proposed_city))
 [communities](https://twitter.com/alphaxbarry/status/1633176607031541761),
 nor in the unlikely prospect of [healing our
 institutions](https://twitter.com/jgcfyi/status/1503822879552688129)
