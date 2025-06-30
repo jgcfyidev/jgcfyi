@@ -149,7 +149,7 @@ enableToc: false
 [140] [planning fallacy](https://thedecisionlab.com/biases/planning-fallacy) <br>
 [141] [basic human tendency](https://www.nyu.edu/about/news-publications/news/2007/october/study_reveals_how_the_brain.html) <br>
 [142] [flow through them](https://www.youtube.com/watch?v=BMGr4yyE1uc&t=1843s) <br>
-[143] <a href="https://en.wikipedia.org/wiki/Big_Dig#:~:text=The%20project%20was%20originally%20scheduled%20to%20be%20completed%20in%201998%5B3%5D%20at%20an%20estimated%20cost%20of%20%242.8%20billion%20(in%201982%20dollars%2C%20US%247.4%20billion%20adjusted%20for%20inflation%20as%20of%202020)" target="_blank" rel="noopener noreferrer">Big Dig</a> <br>
+[143] <a href="https://en.wikipedia.org/wiki/Big_Dig#:~:text=The%20project%20was%20originally%20scheduled%20to%20be%20completed%20in%201998%5B3%5D%20at%20an%20estimated%20cost%20of%20%242.8%20billion%2C%20US%247.4%20billion%20adjusted%20for%20inflation%20as%20of%202020" target="_blank" rel="noopener noreferrer">Big Dig</a> <br>
 [144] <a href="https://highways.dot.gov/highway-history/interstate-system/original-intent-purpose-interstate-system-1954-1956#:~:text=Perhaps%20the%20greatest%20failure%2C%20however%2C%20was%20that%20the%20Interstate%20System%20did%20not%20relieve%20congestion." target="_blank" rel="noopener noreferrer">in the first place</a> <br>
 [145] <a href="https://mysteriouschicago.com/finding-daniel-burnhams-no-little-plans-quote/#:~:text=Make%20no%20little%20plans%2C%20they%20have%20no%20magic%20in%20them%20to%20stir%20men%E2%80%99s%20blood" target="_blank" rel="noopener noreferrer">big</a> <br>
 [146] <a href="https://highways.dot.gov/highway-history/interstate-system/original-intent-purpose-interstate-system-1954-1956#:~:text=The%20next%2040,and%20its%20cities." target="_blank" rel="noopener noreferrer">we intend</a> <br>
@@ -184,7 +184,7 @@ enableToc: false
 [175] [generate appropriate solutions](https://twitter.com/PeterGelderloos/status/1560669192461815808) <br>
 [176] [in common](https://twitter.com/jgcfyi/status/1520045628587450368) <br>
 [177] [Elinor Ostrom](https://twitter.com/a_vansi/status/1270406860131221507) <br>
-[178] <a href="https://mises.org/library/jane-jacobs-anti-planner#:~:text=%22Le%20Corbusier%27s%20Utopia%20was%20a%20condition%20of%20what%20he%20called%20maximum%20liberty%2C%20by%20which%20he%20seems%20to%20have%20meant%20not%20liberty%20to%20do%20anything%20much%2C%20but%20liberty%20from%20ordinary%20responsibility.%20.%20.%20.%20Nobody%20was%20going%20to%20have%20to%20struggle%20with%20plans%20of%20his%20own%22%20(Ibid.%2C%20p.%2022" target="_blank" rel="noopener noreferrer">Jane Jacobs</a>) <br>
+[178] <a href="https://mises.org/library/jane-jacobs-anti-planner#:~:text=%22Le%20Corbusier%27s%20Utopia%20was%20a%20condition%20of%20what%20he%20called%20maximum%20liberty%2C%20by%20which%20he%20seems%20to%20have%20meant%20not%20liberty%20to%20do%20anything%20much%2C%20but%20liberty%20from%20ordinary%20responsibility.%20.%20.%20.%20Nobody%20was%20going%20to%20have%20to%20struggle%20with%20plans%20of%20his%20own%22%20(Ibid.%2C%20p.%2022)" target="_blank" rel="noopener noreferrer">Jane Jacobs</a> <br>
 [179] [Wendell Berry](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.pdf) <br>
 [180] [FA Hayek](https://www.econlib.org/library/Essays/hykKnw.html) <br>
 [181] [Karl Polanyi](https://www.youtube.com/watch?v=wyXfOc0n1LM&t=330s) <br>
@@ -243,7 +243,7 @@ enableToc: false
 [234] [governments](http://fourthplan.org/action/public-participation) <br>
 [235] [Friedensreich     Hundertwasser](https://hundertwasser.com/en/texts/verschimmelungsmanifest_gegen_den_rationalismus_in_der_architektur) <br>
 [236] [micromanagement](https://twitter.com/izurietavarea/status/1668276028110782465) <br>
-[237] <a href="https://hbr.org/2016/04/products-to-platforms-making-the-leap#:~:text=Indeed%2C%20a%20large%20number%20of%20the%20world%E2%80%99s%20most%20valuable%20companies%20by%20market%20capitalization%20in%202015%20were%20platform%20companies%2C%20including%20five%20of%20the%20top%2010%20(Apple%2C%20Microsoft%2C%20Google%2C%20Amazon%2C%20and%20Facebook" target="_blank" rel="noopener noreferrer">platforms</a>) <br>
+[237] <a href="https://hbr.org/2016/04/products-to-platforms-making-the-leap#:~:text=Indeed%2C%20a%20large%20number%20of%20the%20world%E2%80%99s%20most%20valuable%20companies%20by%20market%20capitalization%20in%202015%20were%20platform%20companies%2C%20including%20five%20of%20the%20top%2010%20(Apple%2C%20Microsoft%2C%20Google%2C%20Amazon%2C%20and%20Facebook)" target="_blank" rel="noopener noreferrer">platforms</a> <br>
 [238] [rant](https://gist.github.com/chitchcock/1281611) <br>
 [239] [web services](https://en.wikipedia.org/wiki/Amazon_Web_Services) <br>
 [240] [Steve Yegge](https://gist.github.com/chitchcock/1281611) <br>
@@ -442,7 +442,7 @@ enableToc: false
 [433] [Brian     Eno](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2?from=1&to=199) <br>
 [434] [Alex White](https://www.instagram.com/p/CyeL7lGv9ZQ/?img_index=3) <br>
 [435] [Ethan     Buchman](https://twitter.com/buchmanster/status/1466092508316905478) <br>
-[436] <a href="https://hbr.org/2016/06/who-controls-the-internet#:~:text=After%20all%2C%20today%E2%80%99s%20internet%20is%20clearly%20dominated%20by%20what%20Farhad%20Manjoo%2C%20of%20the%20New%20York%20Times%2C%20calls%20the%20Frightful%20Five%3A%20Amazon%2C%20Apple%2C%20Facebook%2C%20Google%20(now%20a%20unit%20of%20Alphabet" target="_blank" rel="noopener noreferrer">handful of corporations</a>) <br>
+[436] <a href="https://hbr.org/2016/06/who-controls-the-internet#:~:text=After%20all%2C%20today%E2%80%99s%20internet%20is%20clearly%20dominated%20by%20what%20Farhad%20Manjoo%2C%20of%20the%20New%20York%20Times%2C%20calls%20the%20Frightful%20Five%3A%20Amazon%2C%20Apple%2C%20Facebook%2C%20Google%20(now%20a%20unit%20of%20Alphabet)" target="_blank" rel="noopener noreferrer">handful of corporations</a> <br>
 [437] [local](https://spectrum.ieee.org/social-medias-dialup-ancestor-the-bulletin-board-system) <br>
 [438] [interpersonal](https://www.youtube.com/watch?v=I18ifd8I6P8&t=546s) <br>
 [439] <a href="https://en.wikipedia.org/wiki/Bulletin_board_system#The_first_BBSes:~:text=placed%20at%20his%20house%20in%20Chicago%20where%20it%20would%20be%20a%20local%20phone%20call%20for%20more%20users" target="_blank" rel="noopener noreferrer">homes</a> <br>
@@ -574,7 +574,7 @@ enableToc: false
 [565] [digital-first sovereignty](https://twitter.com/balajis/status/1547851370924892161) <br>
 [566] [network states](https://thenetworkstate.com/) <br>
 [567] [acknowledge](https://twitter.com/jgcfyi/status/1548028452355182593) <br>
-[568] <a href="https://simonsarris.substack.com/p/the-most-precious-resource-is-agency#:~:text=(There%20are%20good,Start%20typing." target="_blank" rel="noopener noreferrer">sometimes</a>) <br>
+[568] <a href="https://simonsarris.substack.com/p/the-most-precious-resource-is-agency#:~:text=(There%20are%20good,Start%20typing.)" target="_blank" rel="noopener noreferrer">sometimes</a> <br>
 [569] [doubtful](https://twitter.com/jgcfyi/status/1548028447561134090) <br>
 [570] [this approach](https://thenetworkstate.com/) <br>
 [571] <a href="https://www.vox.com/2018/4/14/17236504/jaron-lanier-ted-talk-social-networks-behavior-modification-ads#:~:text=%E2%80%9CI%20don%E2%80%99t%20believe%20our%20species%20can%20survive%20unless%20we%20fix%20this%2C%E2%80%9D%20he%20said.%20%E2%80%9CWe%20cannot%20have%20a%20society%20in%20which%2C%20if%20two%20people%20wish%20to%20communicate%2C%20the%20only%20way%20that%20can%20happen%20is%20if%20it%E2%80%99s%20financed%20by%20a%20third%20person%20who%20wishes%20to%20manipulate%20them.%E2%80%9D" target="_blank" rel="noopener noreferrer">manipulation</a> <br>
@@ -874,7 +874,7 @@ enableToc: false
 [866] [Cycles](https://cycles.money/) <br>
 [867] [on-chain infrastructure](https://twitter.com/cyclesmoney) <br>
 [868] ['trust graph'](https://grassecon.org/trust-graph) <br>
-[869] <a href="https://www.grassrootseconomics.org/pages/how-it-works#:~:text=Community%20Asset%20Vouchers%20(CAVs" target="_blank" rel="noopener noreferrer">Sarafu</a>) <br>
+[869] <a href="https://www.grassrootseconomics.org/pages/how-it-works#:~:text=Community%20Asset%20Vouchers%20(CAVs)" target="_blank" rel="noopener noreferrer">Sarafu</a>S <br>
 [870] [network](https://viz.sarafu.network/) <br>
 [871] [dialectic](https://en.wikipedia.org/wiki/Unity_of_opposites) <br>
 [872] [new](https://en.wikipedia.org/wiki/Praxis_(proposed_city)) <br>
