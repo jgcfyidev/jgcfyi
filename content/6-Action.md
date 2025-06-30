@@ -696,7 +696,7 @@ what a state-independent universal money can be, including
 [Ethereum](https://vitalik.eth.limo/general/2022/12/05/excited.html#:~:text=1.-,Money,-%3A%20the%20first%20and)
 (serving as a specific currency for
 [blockspace](https://www.paradigm.xyz/2021/03/ethereum-blockspace-who-gets-what-and-why#:~:text=Blockspace%20is%20the%20commodity%20that%20powers%20the%20heartbeats%20of%20all%20cryptocurrency%20networks)),
-[DAI](https://makerdao.com/en/whitepaper#abstract) (a
+[DAI](https://makerdao.com/en/whitepaper/#introduction) (a
 [collateral-backed](https://makerdao.com/en/whitepaper/#the-dai-stablecoin:~:text=Every%20Dai%20in%20circulation%20is%20directly%20backed%20by%20excess%20collateral%2C%20meaning%20that%20the%20value%20of%20the%20collateral%20is%20higher%20than%20the%20value%20of%20the%20Dai%20debt)
 currency that seeks to peg itself to the US Dollar), and
 [RAI](https://medium.com/reflexer-labs/stability-without-pegs-8c6a1cbc7fbd)

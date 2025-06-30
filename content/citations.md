@@ -816,7 +816,7 @@ enableToc: false
 [807] [Bitcoin](https://bitcoin.org/bitcoin.pdf) <br>
 [808] [Ethereum](https://vitalik.eth.limo/general/2022/12/05/excited.html#:~:text=1.-,Money,-%3A%20the%20first%20and) <br>
 [809] [blockspace](https://www.paradigm.xyz/2021/03/ethereum-blockspace-who-gets-what-and-why#:~:text=Blockspace%20is%20the%20commodity%20that%20powers%20the%20heartbeats%20of%20all%20cryptocurrency%20networks) <br>
-[810] [DAI](https://makerdao.com/en/whitepaper#abstract) <br>
+[810] [DAI](https://makerdao.com/en/whitepaper/#introduction) <br>
 [811] [collateral-backed](https://makerdao.com/en/whitepaper/#the-dai-stablecoin:~:text=Every%20Dai%20in%20circulation%20is%20directly%20backed%20by%20excess%20collateral%2C%20meaning%20that%20the%20value%20of%20the%20collateral%20is%20higher%20than%20the%20value%20of%20the%20Dai%20debt) <br>
 [812] [RAI](https://medium.com/reflexer-labs/stability-without-pegs-8c6a1cbc7fbd) <br>
 [813] [still developing](https://bank.dev/) <br>
