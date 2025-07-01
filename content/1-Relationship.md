@@ -51,8 +51,7 @@ is the capacity to
 the world around (and
 [within](https://twitter.com/cognazor/status/1599097257923514368))
 us through action. The fields of psychology and mental health have well
-established this power for self-determination as a [vital
-factor](https://www.mindful.org/seven-ways-to-develop-personal-agency/#:~:text=People%20with%20low%20agency%20experience,and%20they%20act%20on%20impulse.)
+established this power for self-determination as a <a href="https://www.mindful.org/seven-ways-to-develop-personal-agency/#:~:text=People%20with%20low%20agency%20experience,and%20they%20act%20on%20impulse." target="_blank" rel="noopener noreferrer">vital factor</a>
 for a healthy life. It allows us to engage more deeply in ways that
 [improve](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/dad2.12278)
 [memory](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4154531/),
