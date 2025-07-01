@@ -59,8 +59,8 @@ for a healthy life. It allows us to engage more deeply in ways that
 and
 [resilience](https://www.researchgate.net/publication/263111355_Resilience_as_Agency)
 in the face of challenges. Without agency,
-[we](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04214-5#:~:text=We%20speculate%20that%20poor%20outcomes%20may%20be%20contributed%20to%20by%20patients%27%20lack%20of%20engagement%20in%20recovery%20due%20to%20poor%20agency%20and%20an%20external%20locus%20of%20control.)
-[disengage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002400/#:~:text=Research%20on%20patients%20with%20schizophrenia%20has%20confirmed%20that%20these%20individuals%20have%20agency%20processing%20problems.)
+<a href="https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04214-5#:~:text=We%20speculate%20that%20poor%20outcomes%20may%20be%20contributed%20to%20by%20patients%27%20lack%20of%20engagement%20in%20recovery%20due%20to%20poor%20agency%20and%20an%20external%20locus%20of%20control." target="_blank" rel="noopener noreferrer">we</a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002400/#:~:text=Research%20on%20patients%20with%20schizophrenia%20has%20confirmed%20that%20these%20individuals%20have%20agency%20processing%20problems." target="_blank" rel="noopener noreferrer">disengage</a>
 and are less successful in building healthy and sustainable habits.
 
 While experienced by the
