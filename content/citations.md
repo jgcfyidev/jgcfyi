@@ -99,7 +99,7 @@ enableToc: false
 [90] [systems](https://www.researchgate.net/publication/290557797_Global_supply_chains_disasters_and_externalities_How_complex_supply_networks_create_damaging_externalities_and_its_consequences) <br>
 [91] [Walmart](https://www.thefreelibrary.com/Wal-Mart%27s+war+on+Main+Street.-a015890049) <br>
 [92] [Dollar General](https://www.theguardian.com/business/2018/aug/13/dollar-general-walmart-buhler-haven-kansas) <br>
-[93] [disruption](https://mospace.umsystem.edu/xmlui/handle/10355/88143) <br>
+[93] [disruption](https://web.archive.org/web/20211207210843/https://mospace.umsystem.edu/xmlui/handle/10355/88143) <br>
 [94] [close](https://youtu.be/p3O6bKdPLbw?t=471) <br>
 [95] [shuttered](https://commons.wikimedia.org/wiki/File:Hamilton_County,_TN_abandoned_store.jpg) <br>
 [96] [numbing](https://www.vox.com/explainers/2017/7/19/15925506/psychic-numbing-paul-slovic-apathy) <br>
@@ -129,7 +129,7 @@ enableToc: false
 [120] [well-credentialed](https://en.wikipedia.org/wiki/Sam_Bankman-Fried#Life) <br>
 [121] [institutions](https://web.archive.org/web/20250619123444/https://www.pewresearch.org/politics/2024/06/24/public-trust-in-government-1958-2024/) <br>
 [122] [each other](https://www.pewresearch.org/fact-tank/2019/07/22/key-findings-about-americans-declining-trust-in-government-and-each-other/) <br>
-[123] [predict-and-provide](https://www.culturechange.org/issue8/predict%20and%20provide.htm) <br>
+[123] [predict-and-provide](https://web.archive.org/web/20231207074709/https://www.culturechange.org/issue8/predict%20and%20provide.htm) <br>
 [124] [shared societal trust](https://link.springer.com/article/10.1007/s11109-015-9322-8) <br>
 [125] [dialogue](https://www.researchgate.net/publication/273580417_A_Study_on_Dialogic_Communication_Trust_and_Distrust_Testing_a_Scale_for_Measuring_Organization-Public_Dialogic_Communication_OPDC) <br>
 [126] [alternatives](https://mises.org/wire/fight-state-build-alternatives-state) <br>
@@ -197,7 +197,7 @@ enableToc: false
 [188] [apparent](https://aeon.co/essays/the-tragedy-of-the-commons-is-a-false-and-dangerous-myth) <br>
 [189] <a href="https://www.investopedia.com/terms/t/tragedy-of-the-commons.asp#:~:text=Regulatory%20Solutions" target="_blank" rel="noopener noreferrer">referenced</a> <br>
 [190] <a href="https://www.pnas.org/doi/10.1073/pnas.1619877114#:~:text=Hardin%E2%80%99s%20solution%20was%20to%20cede%20our%20freedoms%20to%20the%20state%2C%20to%20be%20bound%20by%20%E2%80%9Cmutual%20coercion%20mutually%20agreed%20upon%E2%80%9D" target="_blank" rel="noopener noreferrer">as justification</a> <br>
-[191] <a href="https://en.wikipedia.org/wiki/Tragedy_of_the_commons#:~:text=a%20situation%20in,resources.%5B3%5D" target="_blank" rel="noopener noreferrer">states</a> <br>
+[191] <a href="https://en.wikipedia.org/wiki/Tragedy_of_the_commons#:~:text=Hardin%20also%20pointed%20out%20the%20problem%20of%20individuals%20acting%20in%20rational%20self%2Dinterest%20by%20claiming%20that%20if%20all%20members%20in%20a%20group%20used%20common%20resources%20for%20their%20own%20gain%20and%20with%20no%20regard%20for%20others%2C%20all%20resources%20would%20still%20eventually%20be%20depleted." target="_blank" rel="noopener noreferrer">states</a> <br>
 [192] [rational](https://www.jstor.org/stable/2585925) <br>
 [193] [common](https://en.wikipedia.org/wiki/Commons) <br>
 [194] [pool](https://en.wikipedia.org/wiki/Common-pool_resource) <br>

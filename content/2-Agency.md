@@ -45,7 +45,7 @@ other](https://www.pewresearch.org/fact-tank/2019/07/22/key-findings-about-ameri
 is unsustainably low. Our society doesn't feel particularly stable, nor
 are our externalities well-accounted for. And so, in recent decades, we
 have reason to doubt the proposition that
-[predict-and-provide](https://www.culturechange.org/issue8/predict%20and%20provide.htm)
+[predict-and-provide](https://web.archive.org/web/20231207074709/https://www.culturechange.org/issue8/predict%20and%20provide.htm)
 modes of planning can stabilize and provision livable places.
 
 For large-scale organizational structures to produce a sense of [shared
@@ -353,7 +353,7 @@ dilemma often
 [as
 justification](https://www.pnas.org/doi/10.1073/pnas.1619877114#:~:text=Hardin%E2%80%99s%20solution%20was%20to%20cede%20our%20freedoms%20to%20the%20state%2C%20to%20be%20bound%20by%20%E2%80%9Cmutual%20coercion%20mutually%20agreed%20upon%E2%80%9D)
 for formalized institutional intervention into resource management. It
-[states](https://en.wikipedia.org/wiki/Tragedy_of_the_commons#:~:text=a%20situation%20in,resources.%5B3%5D)
+[states](https://en.wikipedia.org/wiki/Tragedy_of_the_commons#:~:text=Hardin%20also%20pointed%20out%20the%20problem%20of%20individuals%20acting%20in%20rational%20self%2Dinterest%20by%20claiming%20that%20if%20all%20members%20in%20a%20group%20used%20common%20resources%20for%20their%20own%20gain%20and%20with%20no%20regard%20for%20others%2C%20all%20resources%20would%20still%20eventually%20be%20depleted.)
 that without externally imposed rules, '<a href="https://www.jstor.org/stable/2585925" target='_blank' rel='noopener noreferrer'>rational</a>'
 individual users will overuse resources, depleting long-term and
 community-wide viability contrary to the common good of all users. This

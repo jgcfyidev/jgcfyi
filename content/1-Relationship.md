@@ -338,7 +338,7 @@ initially disrupted local economies, replacing groups of locally owned
 businesses with a single store. Over time, communities have grown
 reliant on these corporations for jobs and access to food, only to again
 see
-[disruption](https://mospace.umsystem.edu/xmlui/handle/10355/88143)
+[disruption](https://web.archive.org/web/20211207210843/https://mospace.umsystem.edu/xmlui/handle/10355/88143)
 when the retailers choose to
 [close](https://youtu.be/p3O6bKdPLbw?t=471) or move.
 

@@ -6,7 +6,7 @@ enableToc: false
 
 <br>
 
-I concede that none of my writing can perfectly represent my thinking, or [truth](https://genius.com/Twain-in-the-high-of-the-morning-lyrics#:~:text=I%20recall%20that%20I%20used%20to%20despair%20at%20the%20lost%20chance%20of%20knowing%0AA%20much%20longed%20for%20beauty%0ABut%20now%20that%20I%20know%20it%27s%20my%20duty%20to%20love%20life%0ANot%20try%20and%20know%20life%0ATo%20show%20it%2Dto%20show%20I%20don%27t%20know%20yet%20I%20know%20that%20it%27s%20real) itself---nor do I possess some unique claim on truth, nor do I possess any particular ability to teach you anything.
+I concede that none of my writing can perfectly represent my thinking, or <a href="https://genius.com/Twain-in-the-high-of-the-morning-lyrics#:~:text=I%20recall%20that%20I%20used%20to%20despair%20at%20the%20lost%20chance%20of%20knowing%0AA%20much%20longed%20for%20beauty%0ABut%20now%20that%20I%20know%20it%27s%20my%20duty%20to%20love%20life%0ANot%20try%20and%20know%20life%0ATo%20show%20it%2Dto%20show%20I%20don%27t%20know%20yet%20I%20know%20that%20it%27s%20real" target="_blank" rel="noopener noreferrer">truth</a> itself---nor do I possess some unique claim on truth, nor do I possess any particular ability to teach you anything.
 <br> ~~ ~~ <br>
 I concede that there are many resources and smart people I haven’t had the time or chance to be exposed to yet, including ones that may cause me to update or change my opinions. I welcome those resources and ask that we all acknowledge each other’s limits in knowledge & experience.
 <br> ~~ <br>
