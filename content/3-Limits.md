@@ -163,8 +163,7 @@ consequences.
 Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 has become well known for cautioning against [these
 risks](https://www.youtube.com/watch?v=xyXwrpmt0zk) in
-recent decades, but this phenomenon is not new. [Ibn Khaldun
-described](https://www.mindattic.org/muqaddimah/#:~:text=these%20societies%20eventually%20lose%20the%20knowledge%20and%20skills%20to%20defend%20themselves%20from%20outside%20threats%20and%20end%20up%20employing%20outsiders%20for%20their%20protection.)
+recent decades, but this phenomenon is not new. <a href="https://web.archive.org/web/20240516042020/https://www.mindattic.org/muqaddimah/#:~:text=these%20societies%20eventually%20lose%20the%20knowledge%20and%20skills%20to%20defend%20themselves%20from%20outside%20threats%20and%20end%20up%20employing%20outsiders%20for%20their%20protection" target="_blank" rel="noopener noreferrer">Ibn Khaldun described</a>
 non-agentic dependence on outside resources as a precursor to societal
 collapse as early as the 1300s in one of the [very
 first](https://en.wikipedia.org/wiki/Muqaddimah)

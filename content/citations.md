@@ -335,7 +335,7 @@ enableToc: false
 [326] [very real](https://www.carbonbrief.org/mapped-how-climate-change-affects-extreme-weather-around-the-world/) <br>
 [327] [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) <br>
 [328] [these risks](https://www.youtube.com/watch?v=xyXwrpmt0zk) <br>
-[329] <a href="https://www.mindattic.org/muqaddimah/#:~:text=these%20societies%20eventually%20lose%20the%20knowledge%20and%20skills%20to%20defend%20themselves%20from%20outside%20threats%20and%20end%20up%20employing%20outsiders%20for%20their%20protection." target="_blank" rel="noopener noreferrer">Ibn Khaldun described</a> <br>
+[329] <a href="https://web.archive.org/web/20240516042020/https://www.mindattic.org/muqaddimah/#:~:text=these%20societies%20eventually%20lose%20the%20knowledge%20and%20skills%20to%20defend%20themselves%20from%20outside%20threats%20and%20end%20up%20employing%20outsiders%20for%20their%20protection" target="_blank" rel="noopener noreferrer">Ibn Khaldun described</a> <br>
 [330] [very first](https://en.wikipedia.org/wiki/Muqaddimah) <br>
 [331] [artificial intelligence](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities#) <br>
 [332] [regulatory capture](https://corporate.exxonmobil.com/-/media/Global/Files/policy/Climate-lobbying/2021-Climate-Lobbying-Report.pdf) <br>
@@ -505,8 +505,8 @@ enableToc: false
 [496] [outperform](https://www.youtube.com/watch?v=T6OgRki5SgM&t=1779s) <br>
 [497] <a href="https://www.microsolidarity.cc/essays/from-domination-to-partnership#:~:text=It%E2%80%99s%20not%20that%20people%20are%20incapable%20of%20collaboration%2C%20it%E2%80%99s%20just%20that%20most%20of%20us%20lack%20tools" target="_blank" rel="noopener noreferrer">Richard D. Bartlett</a> <br>
 [498] [new tools](https://jzhao.xyz/posts/agentic-computing/) <br>
-[499] [sufficiently learnable](https://venkatesh-rao.gitbook.io/summer-of-protocols/#_ozkudrau5sjb) <br>
-[500] [intermediaries](https://web.archive.org/web/20230610080459/https://www.coindesk.com/layer2/2022/05/05/the-defi-mullet/) <br>
+[499] [sufficiently learnable](https://summerofprotocols.com/the-unreasonable-sufficiency-of-protocols-web) <br>
+[500] [intermediaries](https://cointelegraph.com/news/fintech-needs-de-fi-in-the-back) <br>
 [501] [makerspaces](https://scholarworks.umass.edu/masters_theses_2/257/) <br>
 [502] <a href="https://jzhao.xyz/posts/agentic-computing#:~:text=We%20must%20make%20it%20possible%20for%20the%20average%20layperson%20to%20be%20able%20to%20change%20and%20adapt%20software%20for%20their%20own%20needs%3B%20for%20them%20to%20experience%20creating%20software%20not%20like%20a%20professional%20chef%2C%20but%20a%20home%20cook" target="_blank" rel="noopener noreferrer">Communal Computing Networks</a> <br>
 [503] [industrial machinery](https://www.opensourceecology.org/) <br>
@@ -630,7 +630,7 @@ enableToc: false
 [621] [the](https://www.proofofhumanity.id/) <br>
 [622] [many](https://www.brightid.org/) <br>
 [623] [worthwhile](https://www.civic.com/) <br>
-[624] [efforts](https://www.uport.me/) <br>
+[624] [efforts](https://x.com/_daecae/status/1938919188363427869) <br>
 [625] [at](https://web.archive.org/web/20230206224256/https://www.burrata.xyz/) <br>
 [626] [universal digital identity systems](https://consensys.net/blockchain-use-cases/digital-identity/) <br>
 [627] [constructed](https://repository.law.umich.edu/mlr_online/vol117/iss1/9/) <br>
@@ -701,7 +701,7 @@ enableToc: false
 [692] [Snapshot](https://docs.snapshot.box/#welcome-to-snapshot) <br>
 [693] [Tally](https://docs.tally.xyz/knowledge-base/tally) <br>
 [694] [Aragon](https://aragon.org/) <br>
-[695] [Coordinape](https://coordinape.com/#how-it-works) <br>
+[695] [Coordinape](https://about.coordinape.com/) <br>
 [696] [decentralized finance](https://en.wikipedia.org/wiki/Decentralized_finance) <br>
 [697] <a href="https://docs.ens.domains/v/governance/process#:~:text=Delegation%3A%20ENS%20holders%20cannot%20vote%20or%20create%20proposals%20until%20they%20delegate%20their%20voting%20rights%20to%20an%20address.%20Delegation%20can%20be%20given%20to%20one%20address%20at%20a%20time%2C%20including%20the%20holder%E2%80%99s%20own%20address.%20Note%20that%20delegation%20does%20not%20lock%20tokens%3B%20it%20simply%20adds%20votes%20to%20the%20chosen%20delegation%20address." target="_blank" rel="noopener noreferrer">delegation</a> <br>
 [698] [liquid democracy](https://en.wikipedia.org/wiki/Liquid_democracy) <br>
@@ -804,7 +804,7 @@ enableToc: false
 [795] [virtue](https://twitter.com/cburniske/status/1471519286078308359) <br>
 [796] <a href="https://tim.blog/2021/11/17/balaji-srinivasan-2-trancript/#:~:text=Every%20ideology%2C%20everything%20will%20have%20a%20price%2C%20which%20roughly%20reflects%20people%E2%80%99s%20measure%20of%20belief%20in%20it" target="_blank" rel="noopener noreferrer">envisions</a> <br>
 [797] [childhood memories](https://opensea.io/collection/ryans-memories) <br>
-[798] <a href="https://web.archive.org/web/20220604095403/http://forbes.com/sites/worldeconomicforum/2016/11/10/shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/?sh=23c2ee313431#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service." target="_blank" rel="noopener noreferrer">hyperliquidity of everything</a> <br>
+[798] <a href="https://web.archive.org/web/20220604095403/http://forbes.com/sites/worldeconomicforum/2016/11/10/shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service" target="_blank" rel="noopener noreferrer">hyperliquidity of everything</a> <br>
 [799] <a href="https://www.fastcompany.com/90779384/heres-what-to-know-about-flow-adam-neumanns-newly-flush-with-cash-real-estate-startup#:~:text=Flow%20wants%20to%20be%20a%20housing%20utopia%20for%20remote%20workers." target="_blank" rel="noopener noreferrer">hypermobility</a> <br>
 [800] [objectifies personal relatedness](https://twitter.com/friendtech) <br>
 [801] [It All Turns on Affection](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.pdf) <br>
@@ -865,7 +865,7 @@ enableToc: false
 [857] [Credit Commons Society](https://creditcommonssociety.org/) <br>
 [858] [system](https://breadchain.mirror.xyz/nwQx4CqPAcwZ5zSNB2_K25N1quOF1NGcKaYcS3S33CA) <br>
 [859] [operator](https://chamasoft.com/) <br>
-[860] <a href="https://www.rsm.nl/discovery/2018/digital-community-currencies-for-global-challenges/#:~:text=2.-,Community%20Governance,-The%20second%20issuee" target="_blank" rel="noopener noreferrer">governance</a> <br>
+[860] <a href="https://www.rsm.nl/discovery/2018/digital-community-currencies-for-global-challenges/#:~:text=2.-,Community%20Governance,-The%20second%20issue" target="_blank" rel="noopener noreferrer">governance</a> <br>
 [861] [Community Inclusion Currencies](https://www.grassrootseconomics.org/pages/how-it-works) <br>
 [862] [Sarafu](https://sarafu.network/) <br>
 [863] [Network](https://en.wikipedia.org/wiki/Sarafu-Credit) <br>

@@ -67,7 +67,7 @@ Even while considering
 [the](https://www.proofofhumanity.id/)
 [many](https://www.brightid.org/)
 [worthwhile](https://www.civic.com/)
-[efforts](https://www.uport.me/)
+[efforts](https://x.com/_daecae/status/1938919188363427869)
 [at](https://web.archive.org/web/20230206224256/https://www.burrata.xyz/)
 [universal digital identity
 systems](https://consensys.net/blockchain-use-cases/digital-identity/),
@@ -291,7 +291,7 @@ voting tools include
 [Snapshot](https://docs.snapshot.box/#welcome-to-snapshot),
 [Tally](https://docs.tally.xyz/knowledge-base/tally),
 [Aragon](https://aragon.org/), and
-[Coordinape](https://coordinape.com/#how-it-works).
+[Coordinape](https://about.coordinape.com/).
 
 In the world of [decentralized
 finance](https://en.wikipedia.org/wiki/Decentralized_finance),
@@ -649,7 +649,7 @@ for cities themselves.
 >memories](https://opensea.io/collection/ryans-memories)
 >available on 24/7 marketplaces. This kind of
 >[hyperliquidity of
->everything](https://web.archive.org/web/20220604095403/http://forbes.com/sites/worldeconomicforum/2016/11/10/shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/?sh=23c2ee313431#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service.)---and
+>everything](https://web.archive.org/web/20220604095403/http://forbes.com/sites/worldeconomicforum/2016/11/10/shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service)---and
 >the resulting
 >[hypermobility](https://www.fastcompany.com/90779384/>heres-what-to-know-about-flow-adam-neumanns-newly-flush-with-cash-real-estate-startup#:~:text=Flow%20want>s%20to%20be%20a%20housing%20utopia%20for%20remote%20workers.)---[objectifies
 >personal relatedness](https://twitter.com/friendtech). It

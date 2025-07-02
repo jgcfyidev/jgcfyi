@@ -271,10 +271,10 @@ interrelation and mutual affection.
 Despite the promise of being more effective and empowering, it is
 crucial that [new tools](https://jzhao.xyz/posts/agentic-computing/) for the
 coordination of self sovereign communities be [sufficiently
-learnable](https://venkatesh-rao.gitbook.io/summer-of-protocols/#_ozkudrau5sjb)
+learnable](https://summerofprotocols.com/the-unreasonable-sufficiency-of-protocols-web)
 by a broad enough demographic, otherwise they risk becoming
 infrastructure for the same kind of
-[intermediaries](https://web.archive.org/web/20230610080459/https://www.coindesk.com/layer2/2022/05/05/the-defi-mullet//)
+[intermediaries](https://cointelegraph.com/news/fintech-needs-de-fi-in-the-back)
 we rely on today to coordinate our economies. If made accessible,
 community computers and other collaborative technologies can mature
 knowledge sharing aspirations present in organizations like
