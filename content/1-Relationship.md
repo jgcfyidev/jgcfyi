@@ -68,18 +68,18 @@ While experienced by the
 a rich and enduring faculty for self-determination can only be achieved
 when we produce agency for each other in the mutual extension of trust
 and empathy. This kind of relationally imbued self-efficacy has been
-[shown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3449358/#:~:text=Agency%20as%20discussed,by%20other%20people.)
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3449358/#:~:text=Agency%20as%20discussed,by%20other%20people." target="_blank" rel="noopener noreferrer">shown</a>
 to correlate with recovery from mental illness. Conversely, a [key
 marker](https://www.womensaid.org.uk/information-support/what-is-domestic-abuse/coercive-control/)
 of an
-[unhealthy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002400/#:~:text=Importantly%2C%20this%20reduction%20in%20sense%20of%20agency%20is%20associated%20with%20poor%20health%20and%20a%20reduction%20in%20quality%20of%20life)
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002400/#:~:text=Importantly%2C%20this%20reduction%20in%20sense%20of%20agency%20is%20associated%20with%20poor%20health%20and%20a%20reduction%20in%20quality%20of%20life" target="_blank" rel="noopener noreferrer">unhealthy</a>
 relationship is one where a
 [partner's](https://www.microsolidarity.cc/essays/from-domination-to-partnership)
 right to self-determination is
-[reduced](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768593/#:~:text=Campbell%20and%20Lewandowski,thrive%2C%20diarrhea)---and
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4768593/#:~:text=Campbell%20and%20Lewandowski,thrive%2C%20diarrhea" target="_blank" rel="noopener noreferrer">reduced</a>---and
 yet we consider a lack of agency in making our communities to be normal
 and even
-[necessary](https://www.newyorker.com/magazine/2016/11/07/the-case-against-democracy#:~:text=Brennan%20argues%20that%20it%E2%80%99s%20entirely%20justifiable%20to%20limit%20the%20political%20power%20that%20the%20irrational%2C%20the%20ignorant%2C%20and%20the%20incompetent%20have%20over%20others.).
+<a href="https://www.newyorker.com/magazine/2016/11/07/the-case-against-democracy#:~:text=Brennan%20argues%20that%20it%E2%80%99s%20entirely%20justifiable%20to%20limit%20the%20political%20power%20that%20the%20irrational%2C%20the%20ignorant%2C%20and%20the%20incompetent%20have%20over%20others." target="_blank" rel="noopener noreferrer">necessary</a>.
 
 ## Limits
 
@@ -87,9 +87,8 @@ Empathetic relationship is vital not only for agency-building, but also
 the formation of mutual and responsive limits that ensure that the
 exercise of agency does not compromise the long-term health of our
 places. As technology broadens our
-[propensity](https://newdesigncongress.org/en/about/#:~:text=Today%27s%20connected%20world%20exacerbates%20intolerable%20social%2C%20economic%2C%20political%20and%20ecological%20issues%20without%20accountability.)
-for consumption, this relationship to limits becomes [increasingly
-important](https://www.sierraclub.org/sierra/thought-limits-prodigal-age#:~:text=Those%20who%20live,of%20its%20people.).
+<a href="https://newdesigncongress.org/en/about/#:~:text=Today%27s%20connected%20world%20exacerbates%20intolerable%20social%2C%20economic%2C%20political%20and%20ecological%20issues%20without%20accountability." target="_blank" rel="noopener noreferrer">propensity</a>
+for consumption, this relationship to limits becomes <a href="https://www.sierraclub.org/sierra/thought-limits-prodigal-age#:~:text=Those%20who%20live,of%20its%20people." target="_blank" rel="noopener noreferrer">increasingly important</a>.
 
 It is not that natural limits have been transcended, but that technology
 allows us to more easily externalize the effects of our consumption
@@ -108,13 +107,13 @@ too find our homes
 in such an abstract system of economic relationship. Fostering agency in
 a globally connected, technologically enabled society, then, depends on
 our collective capability to
-[conjure](https://ebuchman.github.io/posts/mmt/#:~:text=But%20a%20monetary%20sovereign%20has%20to%20conjure%20its%20own%20source%20of%20discipline.)
+<a href="https://ebuchman.github.io/posts/mmt/#:~:text=But%20a%20monetary%20sovereign%20has%20to%20conjure%20its%20own%20source%20of%20discipline." target="_blank" rel="noopener noreferrer">conjure</a>
 a sufficient source of discipline. But where might it come from?
 
 ### Limits Derived in Institutions
 
 In the absence (or doubt) of local capacity for disciplined stewardship,
-[institutions](https://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=institution%20%E2%80%93%2D%20a%20relationship%20or%20shared%20endeavor%2C%20in%20which%20multiple%20people%20repeatedly%20participate%2C%20and%20featuring%20customs%2C%20rules%2C%20or%20other%20features%20which%20constrain%20or%20motivate%20participants%E2%80%99%20behaviors)
+<a href="https://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=institution%20%E2%80%93%2D%20a%20relationship%20or%20shared%20endeavor%2C%20in%20which%20multiple%20people%20repeatedly%20participate%2C%20and%20featuring%20customs%2C%20rules%2C%20or%20other%20features%20which%20constrain%20or%20motivate%20participants%E2%80%99%20behaviors" target="_blank" rel="noopener noreferrer">institutions</a>
 attempt control to produce moderation but achieve neither. Instead,
 leaving us with a
 [self-reinforcing](https://en.wikipedia.org/wiki/Campbell%27s_law)
@@ -193,10 +192,9 @@ of place as
 [product](https://www.youtube.com/watch?v=FWrG1KgBHdQ&t=585s),
 just as we are consumers of [lawn
 maintenance](https://web.archive.org/web/20240421102640/https://www.businesswire.com/news/home/20160328005521/en/New-Research-Finds-Majority-of-Americans-Lack-Lawn-Care-Knowledge),
-[home
-cleaning](https://homecleaningcenters.com/franchising/industry/#:~:text=Last%20year%2C%20nearly%2010%25%20of%20all%20U.S.%20households%20paid%20a%20professional%20service%20to%20clean%20their%20homes.%20Within%20the%20next%20few%20years%2C%20the%20US%20Department%20of%20Commerce%20expects%2080%25%20of%20two%2Dincome%20households%20to%20use%20an%20outside%20housecleaning%20service.),
+<a href="https://homecleaningcenters.com/franchising/industry/#:~:text=Last%20year%2C%20nearly%2010%25%20of%20all%20U.S.%20households%20paid%20a%20professional%20service%20to%20clean%20their%20homes.%20Within%20the%20next%20few%20years%2C%20the%20US%20Department%20of%20Commerce%20expects%2080%25%20of%20two%2Dincome%20households%20to%20use%20an%20outside%20housecleaning%20service." target="_blank" rel="noopener noreferrer">home cleaning</a>,
 and
-[cooking](https://www.washingtonpost.com/news/wonk/wp/2015/03/05/the-slow-death-of-the-home-cooked-meal/#:~:text=%E2%80%9CWe%E2%80%99re%20all%20looking%20for%20someone%20else%20to%20cook%20for%20us%2C%22)
+<a href="https://www.washingtonpost.com/news/wonk/wp/2015/03/05/the-slow-death-of-the-home-cooked-meal/#:~:text=%E2%80%9CWe%E2%80%99re%20all%20looking%20for%20someone%20else%20to%20cook%20for%20us%2C%22" target="_blank" rel="noopener noreferrer">cooking</a>
 services. Our
 [politics](https://www.researchgate.net/publication/334225098_The_Apathy_Syndrome_How_We_Are_Trained_Not_to_Care_about_Politics)
 invite us to be
@@ -205,7 +203,7 @@ more often than participants, and even the [parenting of our
 children](https://www.todaysparent.com/blogs/opinion/outsourcing-parenting/)
 is increasingly outsourced to experts. This pattern is reinforced in our
 [increasingly](https://www.forbes.com/sites/joshbersin/2012/01/31/the-end-of-a-job-as-we-know-it/?sh=403cb7eb16aa)
-[specialized](https://www.researchgate.net/publication/338985197_Specialisation_Vs_Diversification_Which_One_Better_Upholds_Regional_Resilience_to_Economic_Crises#:~:text=found%20that%20more%20diversified%20regional%20economies%20were%20better%20at%20coping%20with%20the%20hardships%20triggered%20by%20the%20recent%20recession)
+<a href="https://www.researchgate.net/publication/338985197_Specialisation_Vs_Diversification_Which_One_Better_Upholds_Regional_Resilience_to_Economic_Crises#:~:text=found%20that%20more%20diversified%20regional%20economies%20were%20better%20at%20coping%20with%20the%20hardships%20triggered%20by%20the%20recent%20recession" target="_blank" rel="noopener noreferrer">specialized</a>
 work lives, where power accrues to C-suite decision-makers removed from
 the work. And so, in the making of our places, we too are often left as
 passive speculators on the abilities of experts and a footnote in a
@@ -225,7 +223,7 @@ applied---especially as time distances planner from planned.
 > own. As in all Utopias, the right to have plans of any significance
 > belonged only to the planner in charge.
 >
-> --- [Jane Jacobs](https://mises.org/library/jane-jacobs-anti-planner#:~:text=Jacobs%20often%20looked,Cities%2C%20p.%2017),
+> --- <a href="https://mises.org/library/jane-jacobs-anti-planner#:~:text=Jacobs%20often%20looked,Cities%2C%20p.%2017" target="_blank" rel="noopener noreferrer">Jane Jacobs</a>,
 > *[The Death and Life of Great American
 > Cities](https://en.wikipedia.org/wiki/The_Death_and_Life_of_Great_American_Cities)*
 
@@ -240,15 +238,14 @@ with enough [political
 power](https://nextcity.org/urbanist-news/the-federal-government-cares-too-much-about-state-dots-and-thats-a-problem),
 [expertise](https://www.strongtowns.org/journal/2021/3/16/have-you-met-this-guy)
 or
-[money](https://www.strongtowns.org/journal/2011/6/13/the-growth-ponzi-scheme-part-1.html#:~:text=Put%20these%20two%20characteristics%20together%20and%20you%20have%20a%20key%20insight%3B%20Cities%20routinely%20trade%20near%2Dterm%20cash%20advantages%20associated%20with%20new%20growth%20for%20long%2Dterm%20financial%20obligations%20associated%20with%20maintenance%20of%20infrastructure)
+<a href="https://www.strongtowns.org/journal/2011/6/13/the-growth-ponzi-scheme-part-1.html#:~:text=Put%20these%20two%20characteristics%20together%20and%20you%20have%20a%20key%20insight%3B%20Cities%20routinely%20trade%20near%2Dterm%20cash%20advantages%20associated%20with%20new%20growth%20for%20long%2Dterm%20financial%20obligations%20associated%20with%20maintenance%20of%20infrastructure" target="_blank" rel="noopener noreferrer">money</a>
 to navigate institutional
 [processes](https://sf.curbed.com/2016/7/22/12259876/trulia-delays-red-tape-home-prices).
 While such a dynamic expands the capacity for
 [large-scale](https://www.rclco.com/publication/the-top-selling-master-planned-communities-of-2022/)
 change, it hinders the ability of small actors to respond incrementally
 to the problems they experience in their own homes and neighborhoods.
-[This
-style](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/#:~:text=Here%20is%20the,Utopia%20fail%20horribly)
+<a href="https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/#:~:text=Here%20is%20the,Utopia%20fail%20horribly" target="_blank" rel="noopener noreferrer">This style</a>
 of central planning not only ends up making inaccurate generalizations
 about the specific places it changes, but it also lulls those who it
 plans for into a sleep-like dependence on external authority.
@@ -267,15 +264,13 @@ plans for into a sleep-like dependence on external authority.
 
 Over time, not being trusted with community-building has made us
 [apathetic](https://time.com/6160337/hard-to-care-about-anything/).
-Engagement in local governance is at an [all-time
-low](https://www.nationalcivicleague.org/ncr-article/increasing-voter-turnout-in-local-elections/#:~:text=The%20turnout%20for%20local%20elections%20is%20historically%20both%20low%20and%20less%20representative%20of%20community%20demographics.)
+Engagement in local governance is at an <a href="https://www.nationalcivicleague.org/ncr-article/increasing-voter-turnout-in-local-elections/#:~:text=The%20turnout%20for%20local%20elections%20is%20historically%20both%20low%20and%20less%20representative%20of%20community%20demographics." target="_blank" rel="noopener noreferrer">all-time low</a> 
 and it is now common for people to live without any connection to their
 [neighbors](https://qz.com/916801/americans-dont-know-their-neighbors-anymore-and-thats-bad-for-the-future-of-democracy),
 [neighborhoods](https://www.bostonglobe.com/magazine/2017/10/10/don-know-our-neighbors-anymore-here-what-that-costs/m9sTUVbmi3XFfxRN96Ft9M/story.html),
-or [local
-history](https://medium.com/new-american-history/all-history-is-local-be096696291b#:~:text=Though%20I%20grew,anywhere%20else%20around.).
+or <a href="https://medium.com/new-american-history/all-history-is-local-be096696291b#:~:text=Though%20I%20grew,anywhere%20else%20around." target="_blank" rel="noopener noreferrer">local history</a>.
 Our habit of
-[consuming](https://simonsarris.substack.com/p/are-we-still-thinking#:~:text=Mass%20media%E2%80%8A%E2%80%94%E2%80%8Aprint,have%20conversations%20with.)
+<a href="https://simonsarris.substack.com/p/are-we-still-thinking#:~:text=Mass%20media%E2%80%8A%E2%80%94%E2%80%8Aprint,have%20conversations%20with." target="_blank" rel="noopener noreferrer">consuming</a>
 has rendered us increasingly willing to depend on outsourced management
 of our places, whose
 [expertise](https://www.reddit.com/r/OceanGateTitan/comments/14gc35d/used_carbon_fiber_was_proud_of_it/)
@@ -300,7 +295,7 @@ weight of choosing our life from a buffet of all possible
 happinesses---and find none.
 
 Generational
-[memory](https://www.mdpi.com/2071-1050/14/19/11870#:~:text=Unlike%20historical%20memory%E2%80%94a%20collection,memory%20alive%E2%80%9D%20%5B32%5D.),
+<a href="https://www.mdpi.com/2071-1050/14/19/11870#:~:text=Unlike%20historical%20memory%E2%80%94a%20collection,memory%20alive%E2%80%9D%20%5B32%5D." target="_blank" rel="noopener noreferrer">memory</a>,
 tradition, and a connection to our home places are exactly the things
 that have traditionally produced lighter individual burdens of choice in
 the past---but ironically, they themselves are now
@@ -314,8 +309,7 @@ organization goes on, the more out of tune we become with traditions of
 placemaking that have grown alongside the specific ecology of our place.
 Eventually, our
 [collective](https://en.wikipedia.org/wiki/Collective_memory)
-[memory
-loss](https://web.archive.org/web/20240303042330/https://www.reedquest.org/2023/09/15/review-of-typhoons-offerings-an-existential-narrative-by-a-portland-band/#:~:text=It%E2%80%99s%20a%20record,from%20violence/oblivion%3F)
+<a href="https://web.archive.org/web/20240303042330/https://www.reedquest.org/2023/09/15/review-of-typhoons-offerings-an-existential-narrative-by-a-portland-band/#:~:text=It%E2%80%99s%20a%20record,from%20violence/oblivion%3F" target="_blank" rel="noopener noreferrer">memory loss</a>
 can render these traditions unsalvageable--shifting our connection with
 extractive economies from a convenient way to raise 'standards of
 living' to a dangerous dependence on fragile
@@ -355,8 +349,7 @@ breaks.
 Such shock events provide space to reevaluate and engage with the deeper
 structure of society. Because incumbent institutions and economic
 relationships adapt slowly to these new realities, individuals and small
-communities find themselves [more
-capable](https://www.goodai.com/a-conversation-with-michael-levin/#:~:text=So%20stress%20is%20part%20of%20that%20glue%20that%20binds%20these%20collective%20agents%20together.)
+communities find themselves <a href="https://www.goodai.com/a-conversation-with-michael-levin/#:~:text=So%20stress%20is%20part%20of%20that%20glue%20that%20binds%20these%20collective%20agents%20together." target="_blank" rel="noopener noreferrer">more capable</a>
 and ready to implement solutions independently, without oversight
 or permission. These interventions ultimately prove to be a catalyst of
 longer-term change---as was apparent in the wake of
@@ -383,21 +376,19 @@ hands](https://ctexaminer.com/2023/01/03/stamford-moves-ahead-with-tactical-urba
 or local [demands for
 change](https://blockclubchicago.org/2022/06/12/hundreds-march-in-lincoln-square-uptown-to-demand-safer-streets-after-2-toddlers-killed-it-is-evident-that-our-streets-are-not-safe/)
 become so loud that even a state transportation agency can be moved to
-action. The rise of [tactical
-urbanism](https://www.re-thinkingthefuture.com/architectural-community/a8570-tactical-urbanism-and-how-it-complements-participatory-planning/#:~:text=Tactical%20urbanism%20is%20a%20response%20to%20the%20top%2Ddown%2C%20bureaucratic%20approach%20to%20city%20planning%20that%20has%20often%20left%20citizens%20feeling%20powerless%20and%20disconnected%20from%20the%20planning%20process.%20Tactical%20urbanism%20is%20about%20empowering%20people%20to%20take%20control%20of%20their%20own%20city%20planning.)
+action. The rise of <a href="https://www.re-thinkingthefuture.com/architectural-community/a8570-tactical-urbanism-and-how-it-complements-participatory-planning/#:~:text=Tactical%20urbanism%20is%20a%20response%20to%20the%20top%2Ddown%2C%20bureaucratic%20approach%20to%20city%20planning%20that%20has%20often%20left%20citizens%20feeling%20powerless%20and%20disconnected%20from%20the%20planning%20process.%20Tactical%20urbanism%20is%20about%20empowering%20people%20to%20take%20control%20of%20their%20own%20city%20planning." target="_blank" rel="noopener noreferrer">tactical urbanism</a>
 and other DIY urbanism is further evidence of this impulse.
 
 Despite positive outcomes from [wake-up
 call](https://www.newsweek.com/near-death-experiences-transform-person-seconds-scientist-1572878)
 events, we shouldn\'t depend on pandemics and pedestrian deaths to drive
 positive change in society. If we embrace new (and
-[old](https://computerhistory.org/blog/community-memory-precedents-in-social-media-and-movements/#1:~:text=Community%20Memory%20as%20%E2%80%9Ca%20shared%20community%20filing%20cabinet%E2%80%9D%20or%20a%20%E2%80%9Ctool%20for%20collective%20thinking%2C%20planning%2C%20organizing%2C%20fantasizing%2C%20and%20decision%2Dmaking.%E2%80%9D))
+<a href="https://computerhistory.org/blog/community-memory-precedents-in-social-media-and-movements/#1:~:text=Community%20Memory%20as%20%E2%80%9Ca%20shared%20community%20filing%20cabinet%E2%80%9D%20or%20a%20%E2%80%9Ctool%20for%20collective%20thinking%2C%20planning%2C%20organizing%2C%20fantasizing%2C%20and%20decision%2Dmaking." target="_blank" rel="noopener noreferrer">old</a>)
 empowering models for collaborative placemaking, we can instead develop
 habits of
-[resilience](https://www.ecosophia.net/the-end-of-the-industrial-age/#:~:text=The%20more%20high%2Dtech%20gimmickry%20you%20can%20do%20without%2C%20and%20the%20more%20you%20rely%20on%20your%20own%20capacities%20instead%20of%20slurping%20at%20an%20assortment%20of%20technological%20teats%2C%20the%20more%20free%20you%20are%20and%20the%20more%20resilience%20you%20have%20in%20the%20face%20of%20the%20future.)
+<a href="https://www.ecosophia.net/the-end-of-the-industrial-age/#:~:text=The%20more%20high%2Dtech%20gimmickry%20you%20can%20do%20without%2C%20and%20the%20more%20you%20rely%20on%20your%20own%20capacities%20instead%20of%20slurping%20at%20an%20assortment%20of%20technological%20teats%2C%20the%20more%20free%20you%20are%20and%20the%20more%20resilience%20you%20have%20in%20the%20face%20of%20the%20future." target="_blank" rel="noopener noreferrer">resilience</a>
 and problem-solving that don't require catastrophe to initiate
-change---a [community
-memory](https://computerhistory.org/blog/community-memory-precedents-in-social-media-and-movements/#1:~:text=Community%20Memory%20as%20%E2%80%9Ca%20shared%20community%20filing%20cabinet%E2%80%9D%20or%20a%20%E2%80%9Ctool%20for%20collective%20thinking%2C%20planning%2C%20organizing%2C%20fantasizing%2C%20and%20decision%2Dmaking.%E2%80%9D)
+change---a <a href="https://computerhistory.org/blog/community-memory-precedents-in-social-media-and-movements/#1:~:text=Community%20Memory%20as%20%E2%80%9Ca%20shared%20community%20filing%20cabinet%E2%80%9D%20or%20a%20%E2%80%9Ctool%20for%20collective%20thinking%2C%20planning%2C%20organizing%2C%20fantasizing%2C%20and%20decision%2Dmaking.%E2%80%9D" target="_blank" rel="noopener noreferrer">community memory</a>
 that produces a persistent lucidity.
 
 ## Where Do We Start?
