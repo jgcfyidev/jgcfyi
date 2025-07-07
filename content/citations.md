@@ -347,7 +347,7 @@ enableToc: false
 [338] [destabilizes](https://en.wikipedia.org/wiki/Dutch_farmers%27_protests) <br>
 [339] [Sri Lanka](https://www.vox.com/future-perfect/2022/7/15/23218969/sri-lanka-organic-fertilizer-pesticide-agriculture-farming) <br>
 [340] [Mancur     Olson](https://en.wikipedia.org/wiki/Mancur_Olson) <br>
-[341] <a href="https://en.wikipedia.org/wiki/Complexity,_Problem_Solving,_and_Sustainable_Societies#:~:text=bureaucratic%20regulation%20itself,complexity%20continuously%20increasing." target="_blank" rel="noopener noreferrer">The Rise and Decline of     Nations</a> <br>
+[341] <a href="https://en.wikipedia.org/wiki/Complexity,_Problem_Solving,_and_Sustainable_Societies#:~:text=bureaucratic%20regulation%20itself,complexity%20continuously%20increasing." target="_blank" rel="noopener noreferrer">The Rise and Decline of Nations</a> <br>
 [342] [Yellowstone National Park](https://www.yellowstonepark.com/things-to-do/wildlife/wolf-reintroduction-changes-ecosystem/) <br>
 [343] [overzealous](https://www.institute.global/insights/tech-and-digitalisation/gene-editing-food-production-charting-way-forward) <br>
 [344] [reintroduction](https://www.sciencedirect.com/science/article/abs/pii/S0006320711004046?via%3Dihub) <br>

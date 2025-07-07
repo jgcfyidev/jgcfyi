@@ -25,8 +25,7 @@ these risks.</mark>
 As our economic systems continue to globalize and decouple from local
 relationship, our communities increase their dependence on outside
 resources. This dependence erodes local agency and leaves the
-consequences of our actions to accumulate [out of
-sight](https://atmos.earth/mezcal-oaxaca-environmental-impact/#:~:text=the%20spirit%E2%80%99s%20environmental%20toll%20back%20in%20Mexico%20remains%20hidden%20from%20most%20consumers.%C2%A0).
+consequences of our actions to accumulate <a href="https://atmos.earth/mezcal-oaxaca-environmental-impact/#:~:text=the%20spirit%E2%80%99s%20environmental%20toll%20back%20in%20Mexico%20remains%20hidden%20from%20most%20consumers.%C2%A0" target="_blank" rel="noopener noreferrer">out of sight</a>.
 When some communities consume beyond their local capacity, others are
 compelled to [produce
 beyond](https://iopscience.iop.org/article/10.1088/1748-9326/ac5419)
@@ -42,7 +41,7 @@ into our economic system, often with our '<a href="https://www.economist.com/fin
 
 Sadly, in a consumption-focused context, where places are seen as
 products, there are progressively
-[fewer](https://time.com/5736789/small-american-farmers-debt-crisis-extinction/#:~:text=Even%20as%20four%20million%20farms%20disappeared%20in%20the%20United%20States%20between%201948%20and%202015%2C%20total%20farm%20output%20more%20than%20doubled.)
+<a href="https://time.com/5736789/small-american-farmers-debt-crisis-extinction/#:~:text=Even%20as%20four%20million%20farms%20disappeared%20in%20the%20United%20States%20between%201948%20and%202015%2C%20total%20farm%20output%20more%20than%20doubled." target="_blank" rel="noopener noreferrer">fewer</a>
 loving stewards and more only-economically-present
 [landholders](https://www.usatoday.com/story/money/2020/11/12/these-people-own-the-most-land-in-america/43008987/).
 The average globally-minded manufacturer exists in its place so long as
@@ -67,9 +66,8 @@ while
 the consequences of such abstract patterns of consumption is
 [difficult](https://www.youtube.com/watch?v=qbeHyN15HQE&t=900s).
 This
-[inability](https://en.wikipedia.org/wiki/Hannah_Arendt#:~:text=thoughtlessness%2C%20a%20tendency%20of%20ordinary%20people%20to%20obey%20orders%20and%20conform%20to%20mass%20opinion%20without%20a%20critical%20evaluation%20of%20the%20consequences%20of%20their%20actions)
-to metabolize sorrow from a distance is known as [psychic
-numbing](https://www.bbc.com/future/article/20200630-what-makes-people-stop-caring#:~:text=%E2%80%9CThe%20fast%2C%20intuitive,increase%20as%20well.%E2%80%9D),
+<a href="https://en.wikipedia.org/wiki/Hannah_Arendt#:~:text=thoughtlessness%2C%20a%20tendency%20of%20ordinary%20people%20to%20obey%20orders%20and%20conform%20to%20mass%20opinion%20without%20a%20critical%20evaluation%20of%20the%20consequences%20of%20their%20actions" target="_blank" rel="noopener noreferrer">inability</a>
+to metabolize sorrow from a distance is known as <a href="https://www.bbc.com/future/article/20200630-what-makes-people-stop-caring#:~:text=%E2%80%9CThe%20fast%2C%20intuitive,increase%20as%20well.%E2%80%9D" target="_blank" rel="noopener noreferrer">psychic numbing</a>,
 and is the reason why globalized economies trend towards [local
 decay](https://en.wikipedia.org/wiki/Rust_Belt) over time.
 Without the ability to account for accumulating problems locally, like
@@ -112,7 +110,7 @@ In the making of our places, state and federal transportation
 authorities are happy to
 [subsidize](https://www.strongtowns.org/journal/2023/2/16/governor-parson-proposes-859-million-driving-subsidy)
 new construction to
-[grow](https://en.wikipedia.org/wiki/Joseph_Tainter#:~:text=as%20Roman%20agricultural,of%20more%20territory.)
+<a href="https://en.wikipedia.org/wiki/Joseph_Tainter#:~:text=as%20Roman%20agricultural,of%20more%20territory." target="_blank" rel="noopener noreferrer">grow</a>
 their tax-base when they [aren't
 responsible](https://www.bloomberg.com/features/2023-china-ev-graveyards/)
 for maintenance. Politicians are glad to put their name behind flashy
@@ -138,8 +136,7 @@ health](https://www.salon.com/2016/01/04/teflons_toxic_legacy_partner/)
 of growth-beyond-means long after the consultants are gone. Lost lives
 and abandoned communities can't be remedied by [more federal
 dollars](https://www.epa.gov/superfund), but local people
-won't know how to get out of these situations if they [weren\'t a
-part](https://www.strongtowns.org/journal/2018/6/25/debt-is-not-a-funding-source#:~:text=They%20can%20cancel%20the%20future%20of%20a%20community%20in%20a%20way%20that%20is%20nearly%20indiscernible%20to%20the%20public%20until%20it%E2%80%99s%20too%20late.)
+won't know how to get out of these situations if they <a href="https://www.strongtowns.org/journal/2018/6/25/debt-is-not-a-funding-source#:~:text=They%20can%20cancel%20the%20future%20of%20a%20community%20in%20a%20way%20that%20is%20nearly%20indiscernible%20to%20the%20public%20until%20it%E2%80%99s%20too%20late." target="_blank" rel="noopener noreferrer">weren\'t a part</a>
 of getting there. Building locally derived traditions of organization,
 then, is vital to the survival of our home places.
 
@@ -182,7 +179,7 @@ are vulnerable to [regulatory
 capture](https://corporate.exxonmobil.com/-/media/Global/Files/policy/Climate-lobbying/2021-Climate-Lobbying-Report.pdf),
 [arbitrage](https://www.theguardian.com/environment/2010/jun/16/un-review-carbon-offset-abuses),
 and
-[pushback](https://en.wikipedia.org/wiki/Complexity,_Problem_Solving,_and_Sustainable_Societies#:~:text=bureaucratic%20regulation%20itself,complexity%20continuously%20increasing.).
+<a href="https://en.wikipedia.org/wiki/Complexity,_Problem_Solving,_and_Sustainable_Societies#:~:text=bureaucratic%20regulation%20itself,complexity%20continuously%20increasing." target="_blank" rel="noopener noreferrer">pushback</a>.
 And so, [we end up
 with](https://twitter.com/samdknowlton/status/1717891196016623956)
 certified 'grass-fed' beef where the cattle are fed grass pellets in a
@@ -213,8 +210,7 @@ political unrest.
 >
 > ---   [Mancur
     Olson](https://en.wikipedia.org/wiki/Mancur_Olson),
-    *[The Rise and Decline of
-    Nations](https://en.wikipedia.org/wiki/Complexity,_Problem_Solving,_and_Sustainable_Societies#:~:text=bureaucratic%20regulation%20itself,complexity%20continuously%20increasing.)*
+    *<a href="https://en.wikipedia.org/wiki/Complexity,_Problem_Solving,_and_Sustainable_Societies#:~:text=bureaucratic%20regulation%20itself,complexity%20continuously%20increasing." target="_blank" rel="noopener noreferrer">The Rise and Decline of Nations</a>*
 
 ### The Ecological Insufficiency of Institutional Limits
 
@@ -273,8 +269,7 @@ While our familiar
 [linear](https://twitter.com/joshmedia/status/1371232834245914624)
 economies hasten destruction as they scale, the nested
 [reciprocal](https://pubmed.ncbi.nlm.nih.gov/21836016/)
-cycles of healthy forests [build resilience with scale and
-complexity](https://today.uconn.edu/2019/08/structural-complexity-forests-improves-carbon-sequestration/#:~:text=In%20other%20words%2C%20forests%20that%20are%20structurally%20variable%20and%20contain%20multiple%20layers%20of%20leaves%20outperform%20structurally%20simple%20forests%20with%20a%20single%20concentrated%20band%20of%20vegetation).
+cycles of healthy forests <a href="https://today.uconn.edu/2019/08/structural-complexity-forests-improves-carbon-sequestration/#:~:text=In%20other%20words%2C%20forests%20that%20are%20structurally%20variable%20and%20contain%20multiple%20layers%20of%20leaves%20outperform%20structurally%20simple%20forests%20with%20a%20single%20concentrated%20band%20of%20vegetation" target="_blank" rel="noopener noreferrer">build resilience with scale and complexity</a>.
 By embracing [locally
 coherent](https://laidbackgardener.blog/2019/10/14/the-worlds-second-oldest-sealed-terrarium/),
 [non-dissipative](https://youtu.be/Luh7m7YHRts?t=897)
@@ -290,11 +285,10 @@ sovereignty](https://en.wikipedia.org/wiki/Swaraj) and
 [reciprocity](https://www.reddit.com/r/socialism/comments/7f3g0e/what_is_tequio_traditional_community_labor_in/),
 create iteratively adaptive living places attuned to their local
 environment. This rhythm is more compatible with social and ecological
-abilities to [digest
-change](https://www.science.org/doi/10.1126/sciadv.1700906#:~:text=In%20other%20words%2C%20catastrophe%20results%20when%20the%20rate%20of%20environmental%20change%20exceeds%20a%20threshold.)
+abilities to <a href="https://www.science.org/doi/10.1126/sciadv.1700906#:~:text=In%20other%20words%2C%20catastrophe%20results%20when%20the%20rate%20of%20environmental%20change%20exceeds%20a%20threshold." target="_blank" rel="noopener noreferrer">digest change</a>
 than our [current
 model](https://www.strongtowns.org/journal/2019/10/16/the-march-of-build-it-and-they-will-come-suburbia)
-of [build, rot, replace](https://www.strongtowns.org/journal/2019/6/17/if-were-not-going-to-maintain-what-we-have-then-why-bother-building-anything-new#:~:text=We%20build%20a%20lot%20of%20stuff%2C%20all%20of%20it%20to%20a%20finished%20state.%20That%20stuff%20then%20sits%20and%20rots%E2%80%94perhaps%20with%20some%20nominal%20maintenance%20from%20time%20to%20time%E2%80%94until%20it%20falls%20apart%2C%20at%20which%20point%20we%20put%20together%20a%20huge%20project%20to%20replace%20it%20with%20something%20new%20built%20to%20a%20finished%20state.)
+of <a href="https://www.strongtowns.org/journal/2019/6/17/if-were-not-going-to-maintain-what-we-have-then-why-bother-building-anything-new#:~:text=We%20build%20a%20lot%20of%20stuff%2C%20all%20of%20it%20to%20a%20finished%20state.%20That%20stuff%20then%20sits%20and%20rots%E2%80%94perhaps%20with%20some%20nominal%20maintenance%20from%20time%20to%20time%E2%80%94until%20it%20falls%20apart%2C%20at%20which%20point%20we%20put%20together%20a%20huge%20project%20to%20replace%20it%20with%20something%20new%20built%20to%20a%20finished%20state." target="_blank" rel="noopener noreferrer">build, rot, replace</a>
 communities.
 
 >An upside to decentralizing food production is that less goes to waste. The same neighborhood can be fed with less inputs and practically no fossil energy thru a few community gardens + backyard gardens and a local farm or two. And the labor to do it is there.
@@ -317,8 +311,7 @@ instead have a less precarious relationship with time.
 > around a group of people. Such building growth is like the growth of a
 > child and of man.
 >
-> --- [Friedensreich
-> Hundertwasser](https://hundertwasser.com/en/texts/verschimmelungsmanifest_gegen_den_rationalismus_in_der_architektur#:~:text=For%20true%20architecture%20grows%20out%20of%20normal%20building%20activity%2C%20and%20this%20normal%20building%20activity%20is%20the%20organic%20development%20of%20a%20shell%20around%20a%20group%20of%20people.%20Such%20building%20growth%20is%20like%20the%20growth%20of%20a%20child%20and%20of%20man), *Mouldiness Manifesto Against Rationalism In Architecture*
+> --- <a href="https://hundertwasser.com/en/texts/verschimmelungsmanifest_gegen_den_rationalismus_in_der_architektur#:~:text=For%20true%20architecture%20grows%20out%20of%20normal%20building%20activity%2C%20and%20this%20normal%20building%20activity%20is%20the%20organic%20development%20of%20a%20shell%20around%20a%20group%20of%20people.%20Such%20building%20growth%20is%20like%20the%20growth%20of%20a%20child%20and%20of%20man" target="_blank" rel="noopener noreferrer">Friedensreich Hundertwasser</a>, *Mouldiness Manifesto Against Rationalism In Architecture*
 
 Next we will explore a generational way of thinking about our home
 places, taking natural ecologies as an example. After that discussion,
