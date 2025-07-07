@@ -288,7 +288,7 @@ enableToc: false
 [279] [surveillance in the name of safety](https://cityterritoryarchitecture.springeropen.com/articles/10.1186/s40410-018-0090-8) <br>
 [280] [marketed to cities](https://spectrumsmartcities.com/articles/temperature-monitoring.html/1000) <br>
 [281] [physical infrastructure](https://web.mit.edu/allanmc/www/hawlbachsspace.pdf) <br>
-[282] <a href="https://www.science.org/doi/10.1126/sciadv.1602368#:~:text=Culture%20and%20individual%20memory%20are%20constantly%20produced%20through%2C%20and%20mediated%20by%2C%20the%20technologies%20of%20memory." target="_blank" rel="noopener noreferrer">Marita     Sturken</a> <br>
+[282] <a href="https://www.science.org/doi/10.1126/sciadv.1602368#:~:text=Culture%20and%20individual%20memory%20are%20constantly%20produced%20through%2C%20and%20mediated%20by%2C%20the%20technologies%20of%20memory." target="_blank" rel="noopener noreferrer">Marita Sturken</a> <br>
 [283] <a href="https://journals.sagepub.com/doi/abs/10.1177/0256090920140212#:~:text=The%20findings%20of,produce%20information%20goods." target="_blank" rel="noopener noreferrer">shown us</a> <br>
 [284] [Alex White](https://www.instagram.com/p/CyeK6dhvU8I/?img_index=3) <br>
 [285] <a href="https://atmos.earth/mezcal-oaxaca-environmental-impact/#:~:text=the%20spirit%E2%80%99s%20environmental%20toll%20back%20in%20Mexico%20remains%20hidden%20from%20most%20consumers.%C2%A0" target="_blank" rel="noopener noreferrer">out of sight</a> <br>

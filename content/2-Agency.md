@@ -18,8 +18,7 @@ mycelium in support of our home places.</mark>
 > A form of government that is not the result of a long sequence of
 > shared experiences, efforts, and endeavors can never take root.
 >
-> --- [Napoleon
-> Bonaparte](https://simonsarris.substack.com/p/long-distance-thinking#:~:text=%E2%80%9CA%20form%20of%20government%20that%20is%20not%20the%20result%20of%20a%20long%20sequence%20of%20shared%20experiences%2C%20efforts%2C%20and%20endeavors%20can%20never%20take%20root.%E2%80%9D)
+> --- <a href="https://simonsarris.substack.com/p/long-distance-thinking#:~:text=%E2%80%9CA%20form%20of%20government%20that%20is%20not%20the%20result%20of%20a%20long%20sequence%20of%20shared%20experiences%2C%20efforts%2C%20and%20endeavors%20can%20never%20take%20root.%E2%80%9D" target="_blank" rel="noopener noreferrer">Napoleon Bonaparte</a>
 
 ---
 {{<nav prevText="← 1. Relationship" prevLink="/1-Relationship" nextLink="/3-Limits" nextText="3. Limits →">}}
@@ -31,7 +30,7 @@ mycelium in support of our home places.</mark>
 The story told is that monolithic institutions are necessary because
 there are no good alternatives. In such a complex world, how else could
 we stabilize
-[fragile](https://www.strongtowns.org/journal/2020/3/17/the-tragic-downside-of-efficiency#:~:text=Efficient%20is%20the%20same%20as%20fragile.)
+<a href="https://www.strongtowns.org/journal/2020/3/17/the-tragic-downside-of-efficiency#:~:text=Efficient%20is%20the%20same%20as%20fragile." target="_blank" rel="noopener noreferrer">fragile</a>
 modern economies other than through
 [rational](https://en.wikipedia.org/wiki/Participatory_planning#Rational_planning_tradition)
 analysis and precise engineering by
@@ -147,12 +146,10 @@ impactful externalities than are possible with more distributed models
 of placemaking.
 
 One of the most infamous examples of large institutions\' tendency to
-underestimate costs is the [Big
-Dig](https://en.wikipedia.org/wiki/Big_Dig#:~:text=The%20project%20was%20originally%20scheduled%20to%20be%20completed%20in%201998%5B3%5D%20at%20an%20estimated%20cost%20of%20%242.8%20billion%20(in%201982%20dollars%2C%20US%247.4%20billion%20adjusted%20for%20inflation%20as%20of%202020).%5B4%5D%20However%2C%20the%20project%20was%20completed%20in%20December%202007%20at%20a%20cost%20of%20over%20%248.08%20billion),
+underestimate costs is the <a href="https://en.wikipedia.org/wiki/Big_Dig#:~:text=The%20project%20was%20originally%20scheduled%20to%20be%20completed%20in%201998%5B3%5D%20at%20an%20estimated%20cost%20of%20%242.8%20billion%2C%20US%247.4%20billion%20adjusted%20for%20inflation%20as%20of%202020" target="_blank" rel="noopener noreferrer">Big Dig</a>,
 a large highway project in Boston designed to reroute I-93 out of the
 core of downtown. Ironically, the decision for the highway to be there
-[in the first
-place](https://highways.dot.gov/highway-history/interstate-system/original-intent-purpose-interstate-system-1954-1956#:~:text=Perhaps%20the%20greatest%20failure%2C%20however%2C%20was%20that%20the%20Interstate%20System%20did%20not%20relieve%20congestion.)
+<a href="https://highways.dot.gov/highway-history/interstate-system/original-intent-purpose-interstate-system-1954-1956#:~:text=Perhaps%20the%20greatest%20failure%2C%20however%2C%20was%20that%20the%20Interstate%20System%20did%20not%20relieve%20congestion." target="_blank" rel="noopener noreferrer">in the first place</a>
 was a result of prioritizing central planning over-sensitivity to local
 neighborhoods.
 
@@ -164,9 +161,8 @@ addition to delays and overrun costs, the project was mired with
 criminal charges and even a death.
 
 While
-[big](https://mysteriouschicago.com/finding-daniel-burnhams-no-little-plans-quote/#:~:text=Make%20no%20little%20plans%2C%20they%20have%20no%20magic%20in%20them%20to%20stir%20men%E2%80%99s%20blood)
-plans often have big societal effects, they aren't always what [we
-intend](https://highways.dot.gov/highway-history/interstate-system/original-intent-purpose-interstate-system-1954-1956#:~:text=The%20next%2040,and%20its%20cities.).
+<a href="https://mysteriouschicago.com/finding-daniel-burnhams-no-little-plans-quote/#:~:text=Make%20no%20little%20plans%2C%20they%20have%20no%20magic%20in%20them%20to%20stir%20men%E2%80%99s%20blood" target="_blank" rel="noopener noreferrer">big</a>
+plans often have big societal effects, they aren't always what <a href="https://highways.dot.gov/highway-history/interstate-system/original-intent-purpose-interstate-system-1954-1956#:~:text=The%20next%2040,and%20its%20cities." target="_blank" rel="noopener noreferrer">we intend</a>.
 Even when our grand plans produce more efficient infrastructure,
 [Jevons
 Paradox](https://en.wikipedia.org/wiki/Jevons_paradox)
@@ -205,7 +201,7 @@ As the early German state
 [sought](https://www.tandfonline.com/doi/abs/10.1080/09505431.2010.519866)
 to maximize timber yields for tax revenue, it began promoting
 'scientific forestry',
-[initiating](https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/#:~:text=The%20early%20modern,monoculture%20%E2%80%94%20were%20inevitable)
+<a href="https://www.ribbonfarm.com/2010/07/26/a-big-little-idea-called-legibility/#:~:text=The%20early%20modern,monoculture%20%E2%80%94%20were%20inevitable" target="_blank" rel="noopener noreferrer">initiating</a>
 "the gradual transformation of forests with a rich diversity of species
 growing wildly and randomly into orderly stands of the highest-yielding
 varieties."
@@ -249,8 +245,7 @@ forestry.
 > vitality that trust invites.
 
 Today, it is not just the state's demand for legibility that is
-[harming rich
-ecologies](https://agaveroadtrip.com/episodes/s4e28-problem-with-the-washington-post-article-about-mezcal#:~:text=But%20instead%20we%E2%80%99re%20all%20drinking%20spirits%20made%20from%20monoculture%20blue%20weber%20agave%20in%20Jalisco%20and%20soon%2Dto%2Dbe%2Dmonoculture%20espadin%20in%20Oaxaca).
+<a href="https://agaveroadtrip.com/episodes/s4e28-problem-with-the-washington-post-article-about-mezcal#:~:text=But%20instead%20we%E2%80%99re%20all%20drinking%20spirits%20made%20from%20monoculture%20blue%20weber%20agave%20in%20Jalisco%20and%20soon%2Dto%2Dbe%2Dmonoculture%20espadin%20in%20Oaxaca" target="_blank" rel="noopener noreferrer">harming rich ecologies</a>.
 Technological systems for scaling agriculture---like [robotic apple
 harvesters](https://twitter.com/Rainmaker1973/status/1618976136314355717)---are
 making our food systems in their image. Despite the techno-optimist's
@@ -287,7 +282,7 @@ or technological counterparts.
 [Thriving
 places](https://www.patternlanguage.com/archive/cityisnotatree.html)
 simply cannot be planned for by the
-[outside](https://web.archive.org/web/20230717152821/https://milkyeggs.com/society/new-yorks-subway-construction-is-strangled-by-government-bloat/#:~:text=Excessive%20reliance%20on%20external%20contractors)
+<a href="https://web.archive.org/web/20230717152821/https://milkyeggs.com/society/new-yorks-subway-construction-is-strangled-by-government-bloat/#:~:text=Excessive%20reliance%20on%20external%20contractors" target="_blank" rel="noopener noreferrer">outside</a>
 with responsiveness and care. Only people with sufficient proximity and
 [affection](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.pdf)
 enough for the places and people around them can understand the problems
@@ -300,19 +295,17 @@ been discussed [in
 common](https://twitter.com/jgcfyi/status/1520045628587450368)
 by many different people across many different times, including [Elinor
 Ostrom](https://twitter.com/a_vansi/status/1270406860131221507),
-[Jane
-Jacobs](https://mises.org/library/jane-jacobs-anti-planner#:~:text=%22Le%20Corbusier%27s%20Utopia%20was%20a%20condition%20of%20what%20he%20called%20maximum%20liberty%2C%20by%20which%20he%20seems%20to%20have%20meant%20not%20liberty%20to%20do%20anything%20much%2C%20but%20liberty%20from%20ordinary%20responsibility.%20.%20.%20.%20Nobody%20was%20going%20to%20have%20to%20struggle%20with%20plans%20of%20his%20own%22%20(Ibid.%2C%20p.%2022).),
+<a href="https://mises.org/library/jane-jacobs-anti-planner#:~:text=%22Le%20Corbusier%27s%20Utopia%20was%20a%20condition%20of%20what%20he%20called%20maximum%20liberty%2C%20by%20which%20he%20seems%20to%20have%20meant%20not%20liberty%20to%20do%20anything%20much%2C%20but%20liberty%20from%20ordinary%20responsibility.%20.%20.%20.%20Nobody%20was%20going%20to%20have%20to%20struggle%20with%20plans%20of%20his%20own%22%20(Ibid.%2C%20p.%2022)" target="_blank" rel="noopener noreferrer">Jane Jacobs</a>,
 [Wendell
 Berry](https://spiritoftheland.ca/wp-content/uploads/2014/05/It-All-Turns-On-Affection-Wendell-Berry.pdf),
 [FA
 Hayek](https://www.econlib.org/library/Essays/hykKnw.html),
 [Karl
 Polanyi](https://www.youtube.com/watch?v=wyXfOc0n1LM&t=330s),
-[Christopher
-Alexander](https://www.pps.org/article/calexander#:~:text=At%20the%20core%20of%20this%20movement%20is%20the%20idea%20that%20people%20should%20design%20houses%2C%20streets%2C%20and%20communities%20for%20themselves.),
+<a href="https://www.pps.org/article/calexander#:~:text=At%20the%20core%20of%20this%20movement%20is%20the%20idea%20that%20people%20should%20design%20houses%2C%20streets%2C%20and%20communities%20for%20themselves." target="_blank" rel="noopener noreferrer">Christopher Alexander</a>,
 [Ivan
 Illich](https://www.youtube.com/watch?v=dcvJs6RS2Ek), and
-[Gandhi](https://www.newworldencyclopedia.org/entry/Anekantavada#Influence_on_Mahatma_Gandhi:~:text=on.%5B28%5D-,Influence%20on%20Mahatma%20Gandhi,-Since%20childhood%2C).
+<a href="https://www.newworldencyclopedia.org/entry/Anekantavada#Influence_on_Mahatma_Gandhi:~:text=on.%5B28%5D-,Influence%20on%20Mahatma%20Gandhi,-Since%20childhood%2C" target="_blank" rel="noopener noreferrer">Gandhi</a>.
 
 > In Nepal, locally managed irrigation systems have successfully
 > allocated water between users for a long time. However, the dams --
@@ -349,11 +342,10 @@ flawless engineering on their side. How is this possible?
 The tragedy of the commons is an
 [apparent](https://aeon.co/essays/the-tragedy-of-the-commons-is-a-false-and-dangerous-myth)
 dilemma often
-[referenced](https://www.investopedia.com/terms/t/tragedy-of-the-commons.asp#:~:text=Regulatory%20Solutions)
-[as
-justification](https://www.pnas.org/doi/10.1073/pnas.1619877114#:~:text=Hardin%E2%80%99s%20solution%20was%20to%20cede%20our%20freedoms%20to%20the%20state%2C%20to%20be%20bound%20by%20%E2%80%9Cmutual%20coercion%20mutually%20agreed%20upon%E2%80%9D)
+<a href="https://www.investopedia.com/terms/t/tragedy-of-the-commons.asp#:~:text=Regulatory%20Solutions" target="_blank" rel="noopener noreferrer">referenced</a>
+<a href="https://www.pnas.org/doi/10.1073/pnas.1619877114#:~:text=Hardin%E2%80%99s%20solution%20was%20to%20cede%20our%20freedoms%20to%20the%20state%2C%20to%20be%20bound%20by%20%E2%80%9Cmutual%20coercion%20mutually%20agreed%20upon%E2%80%9D" target="_blank" rel="noopener noreferrer">as justification</a>
 for formalized institutional intervention into resource management. It
-[states](https://en.wikipedia.org/wiki/Tragedy_of_the_commons#:~:text=Hardin%20also%20pointed%20out%20the%20problem%20of%20individuals%20acting%20in%20rational%20self%2Dinterest%20by%20claiming%20that%20if%20all%20members%20in%20a%20group%20used%20common%20resources%20for%20their%20own%20gain%20and%20with%20no%20regard%20for%20others%2C%20all%20resources%20would%20still%20eventually%20be%20depleted.)
+<a href="https://en.wikipedia.org/wiki/Tragedy_of_the_commons#:~:text=Hardin%20also%20pointed%20out%20the%20problem%20of%20individuals%20acting%20in%20rational%20self%2Dinterest%20by%20claiming%20that%20if%20all%20members%20in%20a%20group%20used%20common%20resources%20for%20their%20own%20gain%20and%20with%20no%20regard%20for%20others%2C%20all%20resources%20would%20still%20eventually%20be%20depleted." target="_blank" rel="noopener noreferrer">states</a>
 that without externally imposed rules, '<a href="https://www.jstor.org/stable/2585925" target='_blank' rel='noopener noreferrer'>rational</a>'
 individual users will overuse resources, depleting long-term and
 community-wide viability contrary to the common good of all users. This
@@ -368,8 +360,8 @@ resources, including forests, irrigation systems, and groundwater. She
 that groups lacking avenues for communication did indeed abuse their
 shared resources. She also observed, however, that simply introducing
 the possibility of
-[face-to-face](https://eight2late.wordpress.com/2009/12/02/cooperation-versus-self-interest-the-theory-of-collective-action-and-its-relevance-to-project-management/#:~:text=Moreover%2C%20research%20shows,transfer%20information.)
-[communication](https://ideas.repec.org/a/oup/ecinqu/v26y1988i4p585-608.html#abstract:~:text=Communication%20is%20shown%20to%20significantly%20improve%20group%20optimality.)
+<a href="https://eight2late.wordpress.com/2009/12/02/cooperation-versus-self-interest-the-theory-of-collective-action-and-its-relevance-to-project-management/#:~:text=Moreover%2C%20research%20shows,transfer%20information." target="_blank" rel="noopener noreferrer">face-to-face</a>
+<a href="https://ideas.repec.org/a/oup/ecinqu/v26y1988i4p585-608.html#abstract:~:text=Communication%20is%20shown%20to%20significantly%20improve%20group%20optimality." target="_blank" rel="noopener noreferrer">communication</a>
 allowed for the kind of greatly increased
 [cooperation](https://www.youtube.com/watch?v=7kHZ0a_6TxY)
 that
@@ -424,14 +416,14 @@ Capacity for this kind of relational self-organization is built through
 customs, tools, and technologies
 [embedded](https://www.youtube.com/watch?v=KXGbCjzmm2M) in
 their specific
-[social](https://en.wikipedia.org/wiki/Embeddedness#:~:text=Exchange%20takes%20place%20within%20and%20is%20regulated%20by%20society%20rather%20than%20being%20located%20in%20a%20social%20vacuum.)
+<a href="https://en.wikipedia.org/wiki/Embeddedness#:~:text=Exchange%20takes%20place%20within%20and%20is%20regulated%20by%20society%20rather%20than%20being%20located%20in%20a%20social%20vacuum." target="_blank" rel="noopener noreferrer">social</a>
 and [ecological](https://sesmad.dartmouth.edu/theories/95)
 contexts. It emerges through
 [dialogue](https://map.simonsarris.com/p/are-we-still-thinking)
 and tradition more often than formal design principles. These
 generational relationships anchor problem-solving in place and create
 the kind of local
-[memory](https://thoughtforms.life/but-where-is-the-memory-a-discussion-of-training-gene-regulatory-networks-and-its-implications/#:~:text=So%20where%20is%20the%20memory%20in%20such%20a%20system%3F%20It%E2%80%99s%20in%20the%20relationship%20between%20it%20and%20the%20observer.)
+<a href="https://thoughtforms.life/but-where-is-the-memory-a-discussion-of-training-gene-regulatory-networks-and-its-implications/#:~:text=So%20where%20is%20the%20memory%20in%20such%20a%20system%3F%20It%E2%80%99s%20in%20the%20relationship%20between%20it%20and%20the%20observer." target="_blank" rel="noopener noreferrer">memory</a>
 required to learn and carry the present into the future.
 
 So, the biggest reason institutions fail to foster resilient communities
@@ -439,8 +431,7 @@ is not that they lack the computational firepower, but a persistent
 generational memory. Despite the strength of their quantitative models,
 the consultants that write the plans for our places are only paid to
 care long enough to meet the terms of their contract. Over time,
-incentives fall toward suggesting [yet another
-study](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/#:~:text=It%E2%80%99s%20important%20to,the%20original%20version.)
+incentives fall toward suggesting <a href="https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/#:~:text=It%E2%80%99s%20important%20to,the%20original%20version." target="_blank" rel="noopener noreferrer">yet another study</a>
 instead of following up on previous ideas with no remaining
 champion---creating loops of wasted effort. Unfortunately these loops
 often go unnoticed by a disengaged population that has not been invited
@@ -450,8 +441,7 @@ into the process.
 
 It is worth stating explicitly that, while they offer the
 preconditions for a more relational society, locally derived authority
-structures can be [just as
-coercive](https://www.strongtowns.org/journal/2022/6/29/local-control-or-centralized-planning-theres-a-third-answer#:~:text=It%20doesn%E2%80%99t%20really%20capture%20the%20reality%20that%20local%20authority%20can%20be%20just%20as%20coercive%20and%20maddening%20as%20distant%20authority.)
+structures can be <a href="https://www.strongtowns.org/journal/2022/6/29/local-control-or-centralized-planning-theres-a-third-answer#:~:text=It%20doesn%E2%80%99t%20really%20capture%20the%20reality%20that%20local%20authority%20can%20be%20just%20as%20coercive%20and%20maddening%20as%20distant%20authority." target="_blank" rel="noopener noreferrer">just as coercive</a>
 as distant authority.
 
 Subsequent essays will focus on the specific kinds of tools that can
@@ -467,8 +457,7 @@ Foundationally, vibrant communities are built on informal, empathetic
 that leave
 [space](https://web.archive.org/web/20231017201538/http://lnu.diva-portal.org/smash/get/diva2:627705/FULLTEXT01.pdf)
 for *spontaneity*. Space granted is an extension of trust capable of
-producing the kind of [breakthrough
-thinking](https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/?mc_cid=147923f650&mc_eid=20f28eef5b#:~:text=So%20slow%2C%20in%20fact%2C%20that%20at%20first%20Wang%20thought%20they%20were%20wasting%20a%20lot%20of%20time%20on%20easy%20problems%20they%20already%20understood.%20But%20then%20he%20realized%20that%20Huh%20was%20learning%20even%20seemingly%20simple%20concepts%20in%20a%20much%20deeper%20way%20%E2%80%94%20and%20in%20precisely%20the%20way%20that%20would%20later%20prove%20useful.)
+producing the kind of <a href="https://www.quantamagazine.org/june-huh-high-school-dropout-wins-the-fields-medal-20220705/?mc_cid=147923f650&mc_eid=20f28eef5b#:~:text=So%20slow%2C%20in%20fact%2C%20that%20at%20first%20Wang%20thought%20they%20were%20wasting%20a%20lot%20of%20time%20on%20easy%20problems%20they%20already%20understood.%20But%20then%20he%20realized%20that%20Huh%20was%20learning%20even%20seemingly%20simple%20concepts%20in%20a%20much%20deeper%20way%20%E2%80%94%20and%20in%20precisely%20the%20way%20that%20would%20later%20prove%20useful." target="_blank" rel="noopener noreferrer">breakthrough thinking</a>
 necessary to [solve hard
 problems](https://wavelength.asana.com/workstyle-planned-spontaneity/)
 and spur on effective [social
@@ -481,12 +470,11 @@ from
 [prescribing](https://en.wikipedia.org/wiki/Against_Interpretation)
 [explicit meaning](https://www.jstor.org/stable/426981).
 The ensuing
-[dialogue](https://thoughtforms.life/experiments-in-ai-art-with-midjourney-5/#:~:text=a%20mutual%20relationship%20or%20dance.%20The%20latter%20thus%20also%20seems%20to%20range%20from%20pure%20enjoyment%20of%20the%20observer%2C%20vs.%20a%20deep%20connection%20of%202%20minds%20via%20the%20medium%20of%20art.)
+<a href="https://thoughtforms.life/experiments-in-ai-art-with-midjourney-5/#:~:text=a%20mutual%20relationship%20or%20dance.%20The%20latter%20thus%20also%20seems%20to%20range%20from%20pure%20enjoyment%20of%20the%20observer%2C%20vs.%20a%20deep%20connection%20of%202%20minds%20via%20the%20medium%20of%20art." target="_blank" rel="noopener noreferrer">dialogue</a>
 between artist and observer invites a vulnerability and openness that
 cannot be conveyed through formal media with more implied objectivity.
 When artists give up control over their art by making it public, they
-enter into an uncertainty that [empowers](https://www.youtube.com/watch?v=SPgHW1G0pjs&t=966s) the recipient to [make it their
-own](https://joannanewsomlyrics.com/album/1-the-milk-eyed-mender/4-sadie_as_sung/#:~:text=This%20is%20an%20old%20song%2C%20these%20are%20old%20blues.%0AThis%20is%20not%20my%20tune%2C%20but%20it%27s%20mine%20to%20use.),
+enter into an uncertainty that [empowers](https://www.youtube.com/watch?v=SPgHW1G0pjs&t=966s) the recipient to <a href="https://joannanewsomlyrics.com/album/1-the-milk-eyed-mender/4-sadie_as_sung/#:~:text=This%20is%20an%20old%20song%2C%20these%20are%20old%20blues.%0AThis%20is%20not%20my%20tune%2C%20but%20it%27s%20mine%20to%20use." target="_blank" rel="noopener noreferrer">make it their own</a>,
 fueling [creativity and
 hope](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7090163/)
 without fear of rejection or correction.
@@ -498,8 +486,7 @@ relationships between people and a place. The urbanist William H. Whyte
 famously observed in *[The Social Life Of Small Urban
 Spaces](https://www.pps.org/product/the-social-life-of-small-urban-spaces)*
 that people feel more comfortable in public spaces that allow them to
-[move their
-chairs](https://www.flickr.com/photos/bryantpark/6967693506/in/set-72157629899969863/#:~:text=1983%3A%20Urbanist%20William%20H.%20Whyte%20advocated%20movable%20seating%20in%20public%20spaces%2C%20citing%20the%20social%20limitations%20of%20fixed%20seating%2C%20such%20as%20benches%20and%20railings.%20Bryant%20Park%20is%20now%20undeniably%20social%2C%20with%204%2C120%20chairs.).
+<a href="https://www.flickr.com/photos/bryantpark/6967693506/in/set-72157629899969863/#:~:text=1983%3A%20Urbanist%20William%20H.%20Whyte%20advocated%20movable%20seating%20in%20public%20spaces%2C%20citing%20the%20social%20limitations%20of%20fixed%20seating%2C%20such%20as%20benches%20and%20railings.%20Bryant%20Park%20is%20now%20undeniably%20social%2C%20with%204%2C120%20chairs." target="_blank" rel="noopener noreferrer">move their chairs</a>.
 This kind of physical informality builds trust and invites engagement.
 
 > The possibility of choice is as important as the exercise of it. This
@@ -508,8 +495,7 @@ This kind of physical informality builds trust and invites engagement.
 > was in the first place. The moves are functional, however. They are a
 > declaration of autonomy, to oneself, and rather satisfying.
 >
-> --- [William H.
-Whyte](https://www.urbancincy.com/2010/05/clifton-plaza-an-early-success-improvements-needed/#:~:text=%E2%80%9CThe%20possibility%20of,and%20rather%20satisfying.%E2%80%9D), *The Social Life Of Small Urban
+> --- <a href="https://www.urbancincy.com/2010/05/clifton-plaza-an-early-success-improvements-needed/#:~:text=%E2%80%9CThe%20possibility%20of,and%20rather%20satisfying.%E2%80%9D" target="_blank" rel="noopener noreferrer">William H. Whyte</a>, *The Social Life Of Small Urban
 Spaces*
 
 <br>
@@ -554,7 +540,7 @@ While our governments maintain their resource-heavy
 [micromanagement](https://twitter.com/izurietavarea/status/1668276028110782465),
 some of the world's most successful corporations have succeeded by
 learning to relinquish control and become
-[platforms](https://hbr.org/2016/04/products-to-platforms-making-the-leap#:~:text=Indeed%2C%20a%20large%20number%20of%20the%20world%E2%80%99s%20most%20valuable%20companies%20by%20market%20capitalization%20in%202015%20were%20platform%20companies%2C%20including%20five%20of%20the%20top%2010%20(Apple%2C%20Microsoft%2C%20Google%2C%20Amazon%2C%20and%20Facebook).)
+<a href="https://hbr.org/2016/04/products-to-platforms-making-the-leap#:~:text=Indeed%2C%20a%20large%20number%20of%20the%20world%E2%80%99s%20most%20valuable%20companies%20by%20market%20capitalization%20in%202015%20were%20platform%20companies%2C%20including%20five%20of%20the%20top%2010%20(Apple%2C%20Microsoft%2C%20Google%2C%20Amazon%2C%20and%20Facebook)" target="_blank" rel="noopener noreferrer">platforms</a>
 instead of product providers.
 
 In Steve Yegge\'s famous 2011
@@ -586,10 +572,9 @@ social media platforms similarly host a whole universe of user-generated
 content.
 
 The difference between these
-[platforms](https://outland.art/art-games/#:~:text=This%20is%20also%20how%20platform%20capitalism%20works),
+<a href="https://outland.art/art-games/#:~:text=This%20is%20also%20how%20platform%20capitalism%20works" target="_blank" rel="noopener noreferrer">platforms</a>,
 though, and the agency-delivering organizational structures we should
-aspire to is that the platform owners can [take away
-access](https://99percentinvisible.org/episode/the-lost-cities-of-geo/transcript/#:~:text=And%20then%2C%20the%20world%20ended.)
+aspire to is that the platform owners can <a href="https://99percentinvisible.org/episode/the-lost-cities-of-geo/transcript/#:~:text=And%20then%2C%20the%20world%20ended." target="_blank" rel="noopener noreferrer">take away access</a>
 or [censor
 communication](https://link.springer.com/article/10.1007/s13347-020-00423-6)
 [whenever they
@@ -608,8 +593,7 @@ offer in terms of trustworthiness, interoperability, and permanence.
 ## Alternatives to Central Planning
 
 How can we build organizational alternatives to dispiriting
-institutional governance and the [false
-agency](https://outland.art/art-games/#:~:text=crisis%20of%20agency,infinitesimally%20small%20pathways.)
+institutional governance and the <a href="https://outland.art/art-games/#:~:text=crisis%20of%20agency,infinitesimally%20small%20pathways." target="_blank" rel="noopener noreferrer">false agency</a>
 of corporate platforms? While some have opted out by [eschewing
 society](https://twitter.com/cognazor/status/1699778244952670709?s=20)
 altogether, we are capable of forming more healthy modes of
@@ -619,8 +603,7 @@ specific places and are benefited by their relationship to a broader
 society.
 
 [Polycentric](https://web.archive.org/web/20230512063158/https://sites.warnercnr.colostate.edu/rebeccagruby/wp-content/uploads/sites/13/2014/01/CarlisleGruby_Polycentricity_InPress.pdf)
-organizational structures, with [multiple centers of semi-autonomous
-decision-making](https://onlinelibrary.wiley.com/doi/full/10.1111/psj.12212#:~:text=multiple%20centers%20of%20semiautonomous%20decision%20making),
+organizational structures, with <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/psj.12212#:~:text=multiple%20centers%20of%20semiautonomous%20decision%20making" target="_blank" rel="noopener noreferrer">multiple centers of semi-autonomous decision-making</a>,
 are one path forward. In what biologist [Michael
 Levin](https://en.wikipedia.org/wiki/Michael_Levin_(biologist))
 calls a '<a href="https://www.youtube.com/watch?v=0a3xg4M9Oa8&t=112s" target='_blank' rel='noopener noreferrer'>multi-scale competency architecture</a>',
@@ -657,8 +640,7 @@ contexts they cannot properly manage.
 > circle, but will give strength to all within and derive its own
 > strength from it.
 >
-> --- Gandhi, *[Panchayat
-Raj](https://www.gandhiashramsevagram.org/mind-of-mahatma-gandhi/panchayat-raj.php#:~:text=In%20this%20structure,strength%20from%20it.)*
+> --- Gandhi, *<a href="https://www.gandhiashramsevagram.org/mind-of-mahatma-gandhi/panchayat-raj.php#:~:text=In%20this%20structure,strength%20from%20it." target="_blank" rel="noopener noreferrer">Panchayat Raj</a>*
 
 <br>
 
@@ -696,8 +678,7 @@ skills to their mutual benefit.
 > best produce 'lifeboat' relocalization and at worst will not produce
 > basic sufficiency.
 >
-> --- [José Ramos, Action
-> Foresight](https://actionforesight.net/cosmo-localism-and-the-futures-of-material-production/#:~:text=A%20relocalization%20which%20does%20not%20draw%20from%20a%20global%20knowledge%20and%20design%20commons%20and%20which%20is%20relegated%20to%20only%20local%20knowledge%20can%20at%20best%20produce%20%E2%80%98life%20boat%E2%80%99%20relocalization%20and%20at%20worst%20will%20not%20produce%20basic%20sufficiency.)
+> --- <a href="https://actionforesight.net/cosmo-localism-and-the-futures-of-material-production/#:~:text=A%20relocalization%20which%20does%20not%20draw%20from%20a%20global%20knowledge%20and%20design%20commons%20and%20which%20is%20relegated%20to%20only%20local%20knowledge%20can%20at%20best%20produce%20%E2%80%98life%20boat%E2%80%99%20relocalization%20and%20at%20worst%20will%20not%20produce%20basic%20sufficiency." target="_blank" rel="noopener noreferrer">José Ramos, Action Foresight</a>
 
 When paired with polycentric organizational structures, these kinds of
 networks can help to proliferate relevant local knowledge across
@@ -767,11 +748,9 @@ on outside resources.
 > Culture and individual memory are constantly produced through, and
 > mediated by, the technologies of memory.
 >
-> ---   [Marita
-    Sturken](https://www.science.org/doi/10.1126/sciadv.1602368#:~:text=Culture%20and%20individual%20memory%20are%20constantly%20produced%20through%2C%20and%20mediated%20by%2C%20the%20technologies%20of%20memory.), *The Memory Remains*
+> ---   <a href="https://www.science.org/doi/10.1126/sciadv.1602368#:~:text=Culture%20and%20individual%20memory%20are%20constantly%20produced%20through%2C%20and%20mediated%20by%2C%20the%20technologies%20of%20memory." target="_blank" rel="noopener noreferrer">Marita Sturken</a>, *The Memory Remains*
 
-Wonderfully, the world of open-source software development has [shown
-us](https://journals.sagepub.com/doi/abs/10.1177/0256090920140212#:~:text=The%20findings%20of,produce%20information%20goods.)
+Wonderfully, the world of open-source software development has <a href="https://journals.sagepub.com/doi/abs/10.1177/0256090920140212#:~:text=The%20findings%20of,produce%20information%20goods." target="_blank" rel="noopener noreferrer">shown us</a>
 that it is possible to challenge institutionalized norms and build
 parallel systems of organization with real legitimacy, especially with
 the internet as a substrate for coordination. In subsequent parts of
