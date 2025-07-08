@@ -58,21 +58,19 @@ As our cultural center
 [moves](https://www.entrepreneur.com/science-technology/a-world-of-difference-the-transformation-from-physical-to/430683)
 away from the slowness of [natural
 systems](https://greatergood.berkeley.edu/article/item/how_modern_life_became_disconnected_from_nature),
-we are no longer [in
-conversation](https://www.mdpi.com/2071-1050/14/19/11870#:~:text=Unlike%20historical%20memory%E2%80%94a%20collection,memory%20alive%E2%80%9D%20%5B32%5D.)
+we are no longer <a href="https://www.mdpi.com/2071-1050/14/19/11870#:~:text=Unlike%20historical%20memory%E2%80%94a%20collection,memory%20alive%E2%80%9D%20%5B32%5D." target="_blank" rel="noopener noreferrer">in conversation</a>
 with the past or [our
 place](https://www.entrepreneur.com/science-technology/a-world-of-difference-the-transformation-from-physical-to/430683).
-Accelerated by the virality of internet phenomena, [the
-present](https://en.wikipedia.org/wiki/Popular_culture#:~:text=in%20a%20society-,at%20a%20given%20point%20in%20time.,-Popular%20culture%20also)
+Accelerated by the virality of internet phenomena, <a href="https://en.wikipedia.org/wiki/Popular_culture#:~:text=in%20a%20society-,at%20a%20given%20point%20in%20time.,-Popular%20culture%20also" target="_blank" rel="noopener noreferrer">the present</a>
 comes to [pass
 quickly](https://x.com/Historiographos/status/1729493204666577359?s=20),
 leaving us with [shortened memory
 spans](https://x.com/SethLargo/status/1727163521962528987?s=20)
 and without cultural footholds. Instead of a song to sing to our
 children, our story is now a
-[firehose](https://genius.com/Sun-kil-moon-day-in-america-lyrics#:~:text=Circling%20the%20drain%20to,processed%0APulsed%2C%20like%20vegetables)
+<a href="https://genius.com/Sun-kil-moon-day-in-america-lyrics#:~:text=Circling%20the%20drain%20to,processed%0APulsed%2C%20like%20vegetables" target="_blank" rel="noopener noreferrer">firehose</a> 
 of
-[information](https://genius.com/Typhoon-band-rorschach-lyrics#:~:text=Eyes%20on%20the%20screen%0AWe%20have%20all%20the%20information%20now%2C%20but%20what%20does%20it%20mean%3F),
+<a href="https://genius.com/Typhoon-band-rorschach-lyrics#:~:text=Eyes%20on%20the%20screen%0AWe%20have%20all%20the%20information%20now%2C%20but%20what%20does%20it%20mean%3F" target="_blank" rel="noopener noreferrer">information</a>,
 growing in quantity but losing its
 [meaning](https://en.wikipedia.org/wiki/Generation_loss).
 This unmoored culture, in pursuit of universal understanding,
@@ -157,8 +155,7 @@ for the
 future](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/15451/Mulgan_2017_CJP_UtilitarianFuture_AAM.pdf?sequence=1&isAllowed=y)
 either---as some
 [utilitarians](https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/15451/Mulgan_2017_CJP_UtilitarianFuture_AAM.pdf?sequence=1&isAllowed=y)
-and [effective
-altruists](https://80000hours.org/2020/08/misconceptions-effective-altruism/#:~:text=no%20matter%20where%20or%20when%20they%20live)
+and <a href="https://80000hours.org/2020/08/misconceptions-effective-altruism/#:~:text=no%20matter%20where%20or%20when%20they%20live" target="_blank" rel="noopener noreferrer">effective altruists</a>
 may suggest. Instead, we can sustain our communities joyfully both
 through the present day and coming generations by leaning on place-based
 traditions as a foundation for agency, trust, and humility.
@@ -185,8 +182,7 @@ Healthy natural systems
 [flows of
 energy](https://en.wikipedia.org/wiki/Energy_flow_(ecology))
 in ways that sustain the community of organisms within---matching inputs
-and outputs with [no
-waste](https://en.wikipedia.org/wiki/Nutrient_cycle#cite_note-Brown03-7:~:text=Ecosystems%20are%20capable%20of%20complete%20recycling.).
+and outputs with <a href="https://en.wikipedia.org/wiki/Nutrient_cycle#cite_note-Brown03-7:~:text=Ecosystems%20are%20capable%20of%20complete%20recycling." target="_blank" rel="noopener noreferrer">no waste</a>.
 We see this in
 [forests](https://www.youtube.com/watch?v=6GJFL0MD9fc),
 coral reefs, and even our soils. As natural systems mature, these cyclic
@@ -194,7 +190,7 @@ patterns spread their available energy over broader [time
 horizons](https://www.google.com/books/edition/Sociobiology_and_Bioeconomics/ZAbtCAAAQBAJ?hl=en&gbpv=1&dq=%E2%80%9CI+have+proposed+(Ho+1994a%3B+1995b)+that+open+systems+capable+of+storing+energy+tends+to+evolve+towards+an+extremum,+or+endstate,+in+which+all+space-time+modes+become+equally+populated+with+energy+under+energy+flow.%E2%80%9D&pg=PA241&printsec=frontcover).
 This
 [temporal](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2?from=1873&to=1887)
-[polycentricity](https://www.i-sis.org.uk/hannove.php#:~:text=Energy%20storage%20depends,back%20to%20later.)
+<a href="https://www.i-sis.org.uk/hannove.php#:~:text=Energy%20storage%20depends,back%20to%20later." target="_blank" rel="noopener noreferrer">polycentricity</a>
 builds an
 [ecology](https://jods.mitpress.mit.edu/pub/issue3-brand/release/2?from=374&to=954)
 that is not a 'movement' but a self-sustaining system with stabilized
@@ -219,7 +215,7 @@ deeply in relationship with today's habits.
 
 In contrast with the natural world---sustained by flows of energy in
 relationship over
-[diverse](https://www.researchgate.net/publication/338985197_Specialisation_Vs_Diversification_Which_One_Better_Upholds_Regional_Resilience_to_Economic_Crises#:~:text=found%20that%20more%20diversified%20regional%20economies%20were%20better%20at%20coping%20with%20the%20hardships%20triggered%20by%20the%20recent%20recession)
+<a href="https://www.researchgate.net/publication/338985197_Specialisation_Vs_Diversification_Which_One_Better_Upholds_Regional_Resilience_to_Economic_Crises#:~:text=found%20that%20more%20diversified%20regional%20economies%20were%20better%20at%20coping%20with%20the%20hardships%20triggered%20by%20the%20recent%20recession" target="_blank" rel="noopener noreferrer">diverse</a>
 temporal and spatial horizons---large institutions impose a
 short-sighted, one-way demand of legibility on both local ecologies and
 cultural traditions. This attempt to replace the
@@ -247,15 +243,14 @@ health of a place.
 
 This conflict between quickening forces of change and the stability of
 culture rooted in place is seen in the world of Mexican distilling
-traditions. [Ostensibly](https://www.pmspirits.com/neta-destillado#:~:text=In%20creating%20the,seeks%20to%20protect.) created to protect traditional production, the
+traditions. <a href="https://www.pmspirits.com/neta-destillado#:~:text=In%20creating%20the,seeks%20to%20protect." target="_blank" rel="noopener noreferrer">Ostensibly</a> created to protect traditional production, the
 institutionally regulated Mezcal [denomination of
 origin](https://en.wikipedia.org/wiki/Denominaci%C3%B3n_de_origen)
 (D.O.) ironically excludes the spirits most representative of
 traditional local processes.
 
 Agave distillates (including mezcal) have historically been produced by
-families in small batches for [their
-village](http://maestrosdelmezcal.com/blog#:~:text=Chances%20are%20you,the%20flavor%20itself)
+families in small batches for <a href="http://maestrosdelmezcal.com/blog#:~:text=Chances%20are%20you,the%20flavor%20itself" target="_blank" rel="noopener noreferrer">their village</a>
 and personal network. Small mezcaleros typically do not have the money,
 legal literacy, or social capital to have their work certified as
 'official' mezcal by [federal
@@ -270,7 +265,7 @@ more legible to institutional standards. Much has been said of the
 mezcal](https://www.mezcalistas.com/walking-the-line-between-design-and-appropriation/)
 by foreign markets, but a shift away from traditional processes is
 caused as much by institutional demands on economic (and
-[physical](https://agaveroadtrip.com/episodes/s4e28-problem-with-the-washington-post-article-about-mezcal#:~:text=soon%2Dto%2Dbe%2Dmonoculture%20espadin%20in%20Oaxaca))
+<a href="https://agaveroadtrip.com/episodes/s4e28-problem-with-the-washington-post-article-about-mezcal#:~:text=soon%2Dto%2Dbe%2Dmonoculture%20espadin%20in%20Oaxaca" target="_blank" rel="noopener noreferrer">physical</a>)
 forms than natural demands of the market.
 
 {{<image-dual height="350px" src1="/media/image5.png" src2="/media/image13.jpg" caption="Mezcal distillation in San Agustin Amatengo vs placeless <a href='https://insidethecask.com/2022/01/18/understanding-mezcal/' target='_blank' rel='noopener noreferrer'>industrial</a> distillation">}}
@@ -280,16 +275,15 @@ traditions we are [in
 relationship](https://rezpiral.com/30percent/) with and
 [supporting](https://spiritsjournal.klwines.com/klwinescom-spirits-blog/2019/3/4/mezonte)
 them. In fact, this is
-[regularly](https://www.mezcalreviews.com/mezcal/mezonte-raicilla-japo/#:~:text=When%20Mezonte%20buys%20a%20batch%20from%20a%20producer%2C%20they%20only%20buy%2060%25%20of%20the%20batch%20because%20they%20want%20the%20community%20and%20the%20culture%20of%20the%20community%20to%20continue%20to%20consume%20and%20enjoy%20as%20they%20have%20for%20hundreds%20of%20years.)
+<a href="https://www.mezcalreviews.com/mezcal/mezonte-raicilla-japo/#:~:text=When%20Mezonte%20buys%20a%20batch%20from%20a%20producer%2C%20they%20only%20buy%2060%25%20of%20the%20batch%20because%20they%20want%20the%20community%20and%20the%20culture%20of%20the%20community%20to%20continue%20to%20consume%20and%20enjoy%20as%20they%20have%20for%20hundreds%20of%20years." target="_blank" rel="noopener noreferrer">regularly</a>
 true in the world of '<a href="https://www.eater.com/22929882/mezcal-destilado-de-agave-distilling-indigenous-culture-oaxaca" target='_blank' rel='noopener noreferrer'>uncertified</a>'
 agave spirits, where [individual
 mezcaleros](https://www.youtube.com/watch?v=0F876l0VFc4)
 and
-[communities](https://netaspirits.com/about-us#:~:text=NETA%20works%20closely%20with%20over%20twenty%20small%2C%20family%20producers%20from%20the%20southern%20valleys%20and%20hills%20of%20Miahuatl%C3%A1n%2C%20Oaxaca%2C%20many%20of%20whom%20are%20members%20of%20the%20cooperative%20Grupo%20Productor%20Logoche.)
+<a href="https://netaspirits.com/about-us#:~:text=NETA%20works%20closely%20with%20over%20twenty%20small%2C%20family%20producers%20from%20the%20southern%20valleys%20and%20hills%20of%20Miahuatl%C3%A1n%2C%20Oaxaca%2C%20many%20of%20whom%20are%20members%20of%20the%20cooperative%20Grupo%20Productor%20Logoche." target="_blank" rel="noopener noreferrer">communities</a>
 are elevated over brand names, and customers are encouraged to visit
 producing communities themselves. In this case and many others, systems
-that elude or ignore institutional oversight [may be
-doing](https://en.wikipedia.org/wiki/The_Art_of_Not_Being_Governed#:~:text=using%20their%20culture%2C%20farming%20practices%2C%20egalitarian%20political%20structures%2C%20prophet%2Dled%20rebellions%2C%20and%20even%20their%20lack%20of%20writing%20systems%20to%20put%20distance%20between%20themselves%20and%20the%20states%20that%20wished%20to%20engulf%20them.)
+that elude or ignore institutional oversight <a href="https://en.wikipedia.org/wiki/The_Art_of_Not_Being_Governed#:~:text=using%20their%20culture%2C%20farming%20practices%2C%20egalitarian%20political%20structures%2C%20prophet%2Dled%20rebellions%2C%20and%20even%20their%20lack%20of%20writing%20systems%20to%20put%20distance%20between%20themselves%20and%20the%20states%20that%20wished%20to%20engulf%20them." target="_blank" rel="noopener noreferrer">may be doing</a>
 so for very good reasons.
 
 > A traditional mezcal has a social function in its community of origin,
@@ -301,14 +295,13 @@ so for very good reasons.
 > been preserved, recreated and modified by the mezcal producing
 > populations.
 >
-> --- [Cornelio
-> Pérez](http://maestrosdelmezcal.com/blog#:~:text=Cornelio%20P%C3%A9rez%E2%80%99%2014%20Criteria%20for%20Traditional%20Mezcal),
+> --- <a href="http://maestrosdelmezcal.com/blog#:~:text=Cornelio%20P%C3%A9rez%E2%80%99%2014%20Criteria%20for%20Traditional%20Mezcal" target="_blank" rel="noopener noreferrer">Cornelio Pérez</a>,
 > *14 Criteria for Traditional Mezcal*
 
 ## Appropriate Technology
 
 [Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo) has
-[defined](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=a%20relationship%20or%20shared%20endeavor%2C%20in%20which%20multiple%20people%20repeatedly%20participate%2C%20and%20featuring%20customs%2C%20rules%2C%20or%20other%20features%20which%20constrain%20or%20motivate%20participants%E2%80%99%20behaviors)
+<a href="http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=a%20relationship%20or%20shared%20endeavor%2C%20in%20which%20multiple%20people%20repeatedly%20participate%2C%20and%20featuring%20customs%2C%20rules%2C%20or%20other%20features%20which%20constrain%20or%20motivate%20participants%E2%80%99%20behaviors" target="_blank" rel="noopener noreferrer">defined</a>
 an institution as simply "a relationship or shared endeavor, in which
 multiple people repeatedly participate, and featuring customs, rules, or
 other features which constrain or motivate participants' behaviors."
@@ -330,8 +323,7 @@ level in order to begin to impart greater agency to communities. While
 common language among a community is important, for example, there is no
 objective measure of what kind of scale is ideal.
 
-[Some communities in southwestern
-China](https://folklife.si.edu/magazine/own-words-himalayan-languages-sichuan#:~:text=%E2%80%9CWe%20are%20all%20Qiang%2C%20but%20our%20dialects%2C%20traditions%2C%20folklore%2C%20and%20beliefs%20vary%20widely%20by%20valley%20or%20even%20by%20village%2C%E2%80%9D%20Jianqiong%20explains.%20%E2%80%9CAs%20far%20as%20Black%20Tiger%20goes%2C%20it%E2%80%99s%20pretty%20different.%20I%20can%20understand%20about%20thirty%20percent%20of%20the%20words%2C%20but%20it%20is%20hard%20to%20follow.%E2%80%9D)
+<a href="https://folklife.si.edu/magazine/own-words-himalayan-languages-sichuan#:~:text=%E2%80%9CWe%20are%20all%20Qiang%2C%20but%20our%20dialects%2C%20traditions%2C%20folklore%2C%20and%20beliefs%20vary%20widely%20by%20valley%20or%20even%20by%20village%2C%E2%80%9D%20Jianqiong%20explains.%20%E2%80%9CAs%20far%20as%20Black%20Tiger%20goes%2C%20it%E2%80%99s%20pretty%20different.%20I%20can%20understand%20about%20thirty%20percent%20of%20the%20words%2C%20but%20it%20is%20hard%20to%20follow.%E2%80%9D" target="_blank" rel="noopener noreferrer">Some communities in southwestern China</a>
 maintain a common language only local to their village, with neighboring
 communities having trouble understanding each other. Many of these
 languages have formed in direct relation to the steep valleys these
@@ -345,7 +337,7 @@ In contrast, the nearly global scale of the English language creates
 advantages for global business but also may not be able to retain local
 memory as well as a smaller language. While there are indeed benefits to
 remaining
-[illegible](https://theanarchistlibrary.org/library/james-c-scott-the-art-of-not-being-governed#:~:text=One%20way%20of,Burman%2C%20the%20Thai.)
+<a href="https://theanarchistlibrary.org/library/james-c-scott-the-art-of-not-being-governed#:~:text=One%20way%20of,Burman%2C%20the%20Thai." target="_blank" rel="noopener noreferrer">illegible</a> 
 to broader regulatory structures, a language for every village is
 probably not the sweet spot for the coordination of resilient physical
 communities at this point in humanity\'s development.
@@ -374,8 +366,7 @@ fidelity? If national policy goals or technologies gain control over
 local social traditions, the system breaks down.
 
 Organizational flows of influence, then, should be in the direction of
-[Gandhi\'s oceanic
-circles,](https://link.springer.com/chapter/10.1007/978-981-16-8476-0_2#:~:text=Gandhi%20argues%20for%20self%2Drule,in%20'ever%2Dwidening%20circles.)
+<a href="https://link.springer.com/chapter/10.1007/978-981-16-8476-0_2#:~:text=Gandhi%20argues%20for%20self%2Drule,in%20'ever%2Dwidening%20circles." target="_blank" rel="noopener noreferrer">Gandhi\'s oceanic circles,</a>
 moving outward as a ripple emanating from small communities. In this
 architecture, natural ecologies inform local social traditions of care,
 which inform local formal methods for organization, which in turn inform
