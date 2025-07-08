@@ -639,8 +639,7 @@ for cities themselves.
 >available on 24/7 marketplaces. This kind of
 ><a href="https://web.archive.org/web/20220604095403/http://forbes.com/sites/worldeconomicforum/2016/11/10/shopping-i-cant-really-remember-what-that-is-or-how-differently-well-live-in-2030/#:~:text=Everything%20you%20considered%20a%20product%2C%20has%20now%20become%20a%20service" target="_blank" rel="noopener noreferrer">hyperliquidity of everything</a>---and
 >the resulting
-><a href="https://www.fastcompany.com/90779384/heres-what-to-know-about-flow-adam-neumanns-newly-flush-with-cash-real-estate-startup#:~:text=Flow%20wants%20to%20be%20a%20housing%20utopia%20for%20remote%20workers." target="_blank" rel="noopener noreferrer">hypermobility</a>---[objectifies
->personal relatedness](https://twitter.com/friendtech). It
+><a href="https://www.fastcompany.com/90779384/heres-what-to-know-about-flow-adam-neumanns-newly-flush-with-cash-real-estate-startup#:~:text=Flow%20wants%20to%20be%20a%20housing%20utopia%20for%20remote%20workers." target="_blank" rel="noopener noreferrer">hypermobility</a>---[objectifies personal relatedness](https://twitter.com/friendtech). It
 >works directly against genuine loving care for specific
 >places---***the*** necessary ingredient for sustainable and resilient
 >places. Much more is said about the consequences of the distance that
