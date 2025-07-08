@@ -477,10 +477,10 @@ enableToc: false
 [468] [solidarity](https://en.wikipedia.org/wiki/Asabiyyah) <br>
 [469] <a href="https://dark.fi/insights/ftx-where-next.html#:~:text=Evolution%20is%20not%20a%20steady%20progression%20of%20mechanical%20optimizations.%20It%20is%20more%20like%20an%20orchestra.%20Periods%20of%20sombre%20stability%20and%20balance%20are%20punctuated%20by%20incredibly%20violent%20but%20short%20episodes%20of%20change." target="_blank" rel="noopener noreferrer">catalysts</a> <br>
 [470] <a href="https://physics.aps.org/articles/v12/35#c1:~:text=A%20new%20study%20suggests%20that%20this%20process%20involves%20a%20kind%20of%20phase%20transition%20in%20which%20the%20%E2%80%9Cdeep%20structure%E2%80%9D%20of%20a%20language%20crystallizes%20out%20abruptly%20as%20grammar%20rules%20are%20intuited%20by%20the%20learner." target="_blank" rel="noopener noreferrer">cultural phase transition</a> <br>
-[471] <a href="https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Irrigation%20provides%20a%20path%20for%20large%2Dscale%20cooperation" target="_blank" rel="noopener noreferrer">Cooperative, common-pool     irrigation</a> <br>
+[471] <a href="https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Irrigation%20provides%20a%20path%20for%20large%2Dscale%20cooperation" target="_blank" rel="noopener noreferrer">Cooperative, common-pool irrigation</a> <br>
 [472] <a href="https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Alphabets%20are%20interchangeable%20parts%20for%20the%20mind" target="_blank" rel="noopener noreferrer">alphabets</a> <br>
-[473] <a href="https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Printing%20press%3A%20interchangeable%20parts%20for%20alphabets" target="_blank" rel="noopener noreferrer">The printing     press</a> <br>
-[474] <a href="https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=it%20didn%E2%80%99t%20scale.-,The%20art%20of%20reproducing%20cities,-As%20popular%20emerging" target="_blank" rel="noopener noreferrer">Templates for     cities</a> <br>
+[473] <a href="https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Printing%20press%3A%20interchangeable%20parts%20for%20alphabets" target="_blank" rel="noopener noreferrer">The printing press</a> <br>
+[474] <a href="https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=it%20didn%E2%80%99t%20scale.-,The%20art%20of%20reproducing%20cities,-As%20popular%20emerging" target="_blank" rel="noopener noreferrer">Templates for cities</a> <br>
 [475] [market     towns](https://en.wikipedia.org/wiki/Market_town) <br>
 [476] <a href="https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=A%20new%20league%20of%20city%2Dstates" target="_blank" rel="noopener noreferrer">federations and     city-states</a> <br>
 [477] <a href="https://web.archive.org/web/20230206185950/https://shows.banklesshq.com/p/-the-crypto-renaissance-josh-rosenthal-e35#:~:text=used%20double%2Dentry%20booking%20to%20completely%20rework%20the%20financial%20system." target="_blank" rel="noopener noreferrer">Double entry     bookkeeping</a> <br>
@@ -564,12 +564,12 @@ enableToc: false
 [555] [Chris Dixon](https://www.youtube.com/watch?v=jezH_7qEk50) <br>
 [556] <a href="http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=Social%20scalability%20is,can%20successfully%20participate." target="_blank" rel="noopener noreferrer">social scalability</a> <br>
 [557] [Nick     Szabo](https://en.wikipedia.org/wiki/Nick_Szabo) <br>
-[558] <a href="http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=the%20number%20and,those%20technological%20improvements." target="_blank" rel="noopener noreferrer">Money, blockchains, and social     scalability</a> <br>
+[558] <a href="http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=the%20number%20and,those%20technological%20improvements." target="_blank" rel="noopener noreferrer">Money, blockchains, and social scalability</a> <br>
 [559] [open source](https://opensource.com/article/20/10/open-source-blockchain) <br>
 [560] <a href="https://www.geeksforgeeks.org/blockchain-forks/#:~:text=FORKS%20IN%20BLOCKCHAIN%3A,so%20that%20anyone%20can%20contribute." target="_blank" rel="noopener noreferrer">forked</a> <br>
 [561] [exit](https://www.youtube.com/watch?v=T6OgRki5SgM&t=1171s) <br>
 [562] <a href="https://molochdao.com/docs/introduction/wtf-is-moloch/#:~:text=Moloch%20was%20popularized%20due%20to%20its%20Minimum%20Viable%20DAO%20design%20and%20the%20advent%20of%20%E2%80%9Cragequit%E2%80%9D%20%2D%20a%20means%20for%20members%20to%20exit%20the%20DAO%20by%20exchanging%20their%20shares%20for%20a%20pro%2Drata%20claim%20on%20the%20treasury%27s%20assets." target="_blank" rel="noopener noreferrer">exit</a> <br>
-[563] <a href="https://www.bloomberg.com/news/articles/2022-07-21/tokyo-s-urban-planning-secrets-revealed-in-new-book?utm_campaign=socialflow-organic&utm_medium=social&utm_content=citylab&utm_source=facebook&fbclid=IwAR0Q1YkB3xBCktSgVSYH8thtdDAhKmnL33duCYSNoSTzHNrGVQnyF9994eU#:~:text=Tokyo%20was%20shaped%20not%20solely%20by%20disorder%20or%20grand%20design%20but%20by%20the%20intermingling%20of%20daily%20small%20choices%20that%20create%20spontaneous%20patterns%20from%20the%20bottom%20up" target="_blank" rel="noopener noreferrer">spontaneous</a> <br>
+[563] <a href="https://www.bloomberg.com/news/articles/2022-07-21/tokyo-s-urban-planning-secrets-revealed-in-new-book#:~:text=Tokyo%20was%20shaped%20not%20solely%20by%20disorder%20or%20grand%20design%20but%20by%20the%20intermingling%20of%20daily%20small%20choices%20that%20create%20spontaneous%20patterns%20from%20the%20bottom%20up" target="_blank" rel="noopener noreferrer">spontaneous</a> <br>
 [564] [erosion](https://twitter.com/jgcfyi/status/1503822879552688129) <br>
 [565] [digital-first sovereignty](https://twitter.com/balajis/status/1547851370924892161) <br>
 [566] [network states](https://thenetworkstate.com/) <br>
@@ -714,7 +714,7 @@ enableToc: false
 [705] [MakerDAO](https://dune.com/sportreally/makerdao-dashboard) <br>
 [706] [auditable](https://web.archive.org/web/20250328110152/https://dune.com/blog/revolution-not-quarterly) <br>
 [707] [on-chain](https://manual.makerdao.com/governance/voting-in-makerdao/on-chain-governance) <br>
-[708] <a href="https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=A%20DAO%20is%20a%20way%20for%20people%20to%20get%20together%20to%20vote%20to%20control%20a%20pot%20of%20money%20or%20a%20protocol%20on%20the%20blockchain." target="_blank" rel="noopener noreferrer">Matt     Levine</a> <br>
+[708] <a href="https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=A%20DAO%20is%20a%20way%20for%20people%20to%20get%20together%20to%20vote%20to%20control%20a%20pot%20of%20money%20or%20a%20protocol%20on%20the%20blockchain." target="_blank" rel="noopener noreferrer">Matt Levine</a> <br>
 [709] [a new idea](https://en.wikipedia.org/wiki/Participatory_budgeting#History) <br>
 [710] [Participatory budgeting](https://nextcity.org/urbanist-news/what-can-1.3-million-accomplish-nyc-residents-are-getting-a-say) <br>
 [711] [can help](https://zine.zora.co/budgeting-for-all) <br>

@@ -38,8 +38,7 @@ delicate balance.
 
 The internet has been the defining tool of the past century. While it
 appears today as a force of abstraction and disembodiment, controlled by
-a [handful of
-corporations](https://hbr.org/2016/06/who-controls-the-internet#:~:text=After%20all%2C%20today%E2%80%99s%20internet%20is%20clearly%20dominated%20by%20what%20Farhad%20Manjoo%2C%20of%20the%20New%20York%20Times%2C%20calls%20the%20Frightful%20Five%3A%20Amazon%2C%20Apple%2C%20Facebook%2C%20Google%20(now%20a%20unit%20of%20Alphabet)%2C%20and%20Microsoft.)---we
+a <a href="https://hbr.org/2016/06/who-controls-the-internet#:~:text=After%20all%2C%20today%E2%80%99s%20internet%20is%20clearly%20dominated%20by%20what%20Farhad%20Manjoo%2C%20of%20the%20New%20York%20Times%2C%20calls%20the%20Frightful%20Five%3A%20Amazon%2C%20Apple%2C%20Facebook%2C%20Google%20(now%20a%20unit%20of%20Alphabet)" target="_blank" rel="noopener noreferrer">handful of corporations</a>---we
 often forget that the first versions of the public internet originated
 in
 [local](https://spectrum.ieee.org/social-medias-dialup-ancestor-the-bulletin-board-system)
@@ -47,9 +46,8 @@ in
 relationship.
 
 Early bulletin board systems (BBS) were hosted in members'
-[homes](https://en.wikipedia.org/wiki/Bulletin_board_system#The_first_BBSes:~:text=placed%20at%20his%20house%20in%20Chicago%20where%20it%20would%20be%20a%20local%20phone%20call%20for%20more%20users),
-many of whom also met in person regularly. The first BBS was called '<a href="https://en.wikipedia.org/wiki/Community_Memory" target='_blank' rel='noopener noreferrer'>Community Memory</a>', a [remarkably
-appropriate](https://www.are.na/blog/community-memory#:~:text=the%20project%20might%20serve%20as%20a%20model%20for%20how%20we%20can%20shape%20the%20web%20and%20technology%20around%20our%20mutual%20needs%20and%20desires%20as%20communities%20rooted%20in%20place.)
+<a href="https://en.wikipedia.org/wiki/Bulletin_board_system#The_first_BBSes:~:text=placed%20at%20his%20house%20in%20Chicago%20where%20it%20would%20be%20a%20local%20phone%20call%20for%20more%20users" target="_blank" rel="noopener noreferrer">homes</a>,
+many of whom also met in person regularly. The first BBS was called '<a href="https://en.wikipedia.org/wiki/Community_Memory" target='_blank' rel='noopener noreferrer'>Community Memory</a>', a <a href="https://www.are.na/blog/community-memory#:~:text=the%20project%20might%20serve%20as%20a%20model%20for%20how%20we%20can%20shape%20the%20web%20and%20technology%20around%20our%20mutual%20needs%20and%20desires%20as%20communities%20rooted%20in%20place." target="_blank" rel="noopener noreferrer">remarkably appropriate</a>
 descriptor of what we have been discussing. Networks of BBSs like
 [Fidonet](https://en.wikipedia.org/wiki/FidoNet) even
 created protocols for interrelation of small communities notably similar
@@ -60,8 +58,7 @@ to the polycentric organizational structures we discussed in Chapter 2.
 > number of service providers, reflecting on the long-forgotten dial-up
 > era can open our eyes to the value of diversity and local control.
 >
-> --- [Kevin
-> Driscoll](https://spectrum.ieee.org/social-medias-dialup-ancestor-the-bulletin-board-system#:~:text=For%20Internet%20users%20today%2C%20there%20is%20more%20to%20the%20BBS%20story%20than%20mere%20nostalgia.%20As%20our%20online%20lives%20are%20channeled%20through%20an%20ever%2Dsmaller%20number%20of%20service%20providers%2C%20reflecting%20on%20the%20long%2Dforgotten%20dial%2Dup%20era%20can%20open%20our%20eyes%20to%20the%20value%20of%20diversity%20and%20local%20control)
+> --- <a href="https://spectrum.ieee.org/social-medias-dialup-ancestor-the-bulletin-board-system#:~:text=For%20Internet%20users%20today%2C%20there%20is%20more%20to%20the%20BBS%20story%20than%20mere%20nostalgia.%20As%20our%20online%20lives%20are%20channeled%20through%20an%20ever%2Dsmaller%20number%20of%20service%20providers%2C%20reflecting%20on%20the%20long%2Dforgotten%20dial%2Dup%20era%20can%20open%20our%20eyes%20to%20the%20value%20of%20diversity%20and%20local%20control" target="_blank" rel="noopener noreferrer">Kevin Driscoll</a>
 
 {{<image src="/media/image15.png" caption="<a href='https://www.computerhistory.org/collections/catalog/102774056' target='_blank' rel='noopener noreferrer'>Community Memory</a> terminal being used at Berkeley laundromat in 1990">}}
 
@@ -94,7 +91,7 @@ power toward more resilient home places, in the lineage of BBSs.
 
 > [!info]- A Note on Terms
 >
->In the discussion of these technologies, I'll try to use plain (<a href="https://web.archive.org/web/20240813162111/https://bank.dev/vox#:~:text=By%20inventing%20new,without%20any%20connotations." target='_blank' rel='noopener noreferrer'>if uncommon</a>)
+>In the discussion of these technologies, I'll try to use plain (<a href="https://web.archive.org/web/20240813162111/https://bank.dev/vox#:~:text=By%20inventing%20new,without%20any%20connotations." target="_blank" rel="noopener noreferrer">if uncommon</a>)
 >language instead of terms like 'crypto', not only for the sake of those
 >who are unfamiliar with the language of '<a href="https://www.coindesk.com/learn/getting-started-with-crypto-twitter/" target='_blank' rel='noopener noreferrer'>crypto twitter</a>'
 >but also because many in the field have been made
@@ -119,7 +116,7 @@ concluding piece in the series will more deeply explore near term
 applications in our physical communities.
 
 > Blockchains are not personal-computing operating systems; they are social systems
-> ---   [Vitalik Buterin](https://vitalik.eth.limo/general/2023/09/30/enshrinement.html#:~:text=blockchains%20are%20not%20personal%2Dcomputing%20operating%20systems%3B%20they%20are%20social%20systems)
+> ---   <a href="https://vitalik.eth.limo/general/2023/09/30/enshrinement.html#:~:text=blockchains%20are%20not%20personal%2Dcomputing%20operating%20systems%3B%20they%20are%20social%20systems" target="_blank" rel="noopener noreferrer">Vitalik Buterin</a>
 
 
 
@@ -139,7 +136,7 @@ bank](https://www.nytimes.com/2022/10/07/business/economy/federal-reserve-global
 deciding the [fate of the
 world](https://twitter.com/JonathanHillis/status/1605413877985968128)
 economy is not how value worked
-[historically](https://ebuchman.github.io/posts/properties-of-money/#:~:text=For%20a%20phenomenal%20review%20of%20money%E2%80%99s%20historical%20plurality%2C%20see%20Akinobu%20Kuroda%E2%80%99s%20A%20Global%20History%20of%20Money.),
+<a href="https://ebuchman.github.io/posts/properties-of-money/#:~:text=For%20a%20phenomenal%20review%20of%20money%E2%80%99s%20historical%20plurality%2C%20see%20Akinobu%20Kuroda%E2%80%99s%20A%20Global%20History%20of%20Money." target="_blank" rel="noopener noreferrer">historically</a>,
 and it is likely not a healthy or permanent feature of our global
 economic system. These tools go far beyond money as well, with the
 possibility to reclaim systems of maintaining our places, independent of
@@ -171,28 +168,22 @@ social technologies or other catalysts for change.
 
 While this model fits the evolution of the internet itself, some other
 examples of social technologies that were
-[catalysts](https://dark.fi/insights/ftx-where-next.html#:~:text=Evolution%20is%20not%20a%20steady%20progression%20of%20mechanical%20optimizations.%20It%20is%20more%20like%20an%20orchestra.%20Periods%20of%20sombre%20stability%20and%20balance%20are%20punctuated%20by%20incredibly%20violent%20but%20short%20episodes%20of%20change.)
-for [cultural phase
-transition](https://physics.aps.org/articles/v12/35#c1:~:text=A%20new%20study%20suggests%20that%20this%20process%20involves%20a%20kind%20of%20phase%20transition%20in%20which%20the%20%E2%80%9Cdeep%20structure%E2%80%9D%20of%20a%20language%20crystallizes%20out%20abruptly%20as%20grammar%20rules%20are%20intuited%20by%20the%20learner.)
+<a href="https://dark.fi/insights/ftx-where-next.html#:~:text=Evolution%20is%20not%20a%20steady%20progression%20of%20mechanical%20optimizations.%20It%20is%20more%20like%20an%20orchestra.%20Periods%20of%20sombre%20stability%20and%20balance%20are%20punctuated%20by%20incredibly%20violent%20but%20short%20episodes%20of%20change." target="_blank" rel="noopener noreferrer">catalysts</a>
+for <a href="https://physics.aps.org/articles/v12/35#c1:~:text=A%20new%20study%20suggests%20that%20this%20process%20involves%20a%20kind%20of%20phase%20transition%20in%20which%20the%20%E2%80%9Cdeep%20structure%E2%80%9D%20of%20a%20language%20crystallizes%20out%20abruptly%20as%20grammar%20rules%20are%20intuited%20by%20the%20learner." target="_blank" rel="noopener noreferrer">cultural phase transition</a>
 include:
 
--   [Cooperative, common-pool
-    irrigation](https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Irrigation%20provides%20a%20path%20for%20large%2Dscale%20cooperation),
+-   <a href="https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Irrigation%20provides%20a%20path%20for%20large%2Dscale%20cooperation" target="_blank" rel="noopener noreferrer">Cooperative, common-pool irrigation</a>,
     which expanded agricultural capabilities
 -   Greek
-    [alphabets](https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Alphabets%20are%20interchangeable%20parts%20for%20the%20mind),
+    <a href="https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Alphabets%20are%20interchangeable%20parts%20for%20the%20mind" target="_blank" rel="noopener noreferrer">alphabets</a>,
     which led to broader trade and language dissemination
--   [The printing
-    press](https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Printing%20press%3A%20interchangeable%20parts%20for%20alphabets),
+-   <a href="https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=Printing%20press%3A%20interchangeable%20parts%20for%20alphabets" target="_blank" rel="noopener noreferrer">The printing press</a>,
     which greatly expanded publicly available written material
--   [Templates for
-    cities](https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=it%20didn%E2%80%99t%20scale.-,The%20art%20of%20reproducing%20cities,-As%20popular%20emerging)
+-   <a href="https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=it%20didn%E2%80%99t%20scale.-,The%20art%20of%20reproducing%20cities,-As%20popular%20emerging" target="_blank" rel="noopener noreferrer">Templates for cities</a>
     and [market
     towns](https://en.wikipedia.org/wiki/Market_town),
-    which led to [federations and
-    city-states](https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=A%20new%20league%20of%20city%2Dstates)
--   [Double entry
-    bookkeeping](https://web.archive.org/web/20230206185950/https://shows.banklesshq.com/p/-the-crypto-renaissance-josh-rosenthal-e35#:~:text=used%20double%2Dentry%20booking%20to%20completely%20rework%20the%20financial%20system.),
+    which led to <a href="https://creators.mirror.xyz/s9h4_PQAcJyqgC0rnsWjw9geU2wJs-IBPXIzHhgi-P8#:~:text=A%20new%20league%20of%20city%2Dstates" target="_blank" rel="noopener noreferrer">federations and city-states</a>
+-   <a href="https://web.archive.org/web/20230206185950/https://shows.banklesshq.com/p/-the-crypto-renaissance-josh-rosenthal-e35#:~:text=used%20double%2Dentry%20booking%20to%20completely%20rework%20the%20financial%20system." target="_blank" rel="noopener noreferrer">Double entry bookkeeping</a>,
     which greatly "increased the power, leverage, velocity,
     composability and granularity of money"
 
@@ -221,7 +212,7 @@ increasing number of people spend
 online than being physically present, the internet represents not just a
 retreat from the physical, but a strong influence on the shape of our
 places. Today we have seen greater internet connectivity
-[move](https://www.nytimes.com/1996/09/16/business/the-internet-as-an-influence-on-urbanization.html#:~:text=But%20to%20date%2C%20the%20impact%20of%20the%20Internet%20has%20been%20mainly%20to%20reinforce%20the%20economic%20and%20intellectual%20leadership%20of%20a%20handful%20of%20urban%20centers%20and%20nearby%20suburbs%2C%20according%20to%20an%20analysis%20by%20the%20Taub%20Urban%20Research%20Center%20at%20New%20York%20University.)
+<a href="https://www.nytimes.com/1996/09/16/business/the-internet-as-an-influence-on-urbanization.html#:~:text=But%20to%20date%2C%20the%20impact%20of%20the%20Internet%20has%20been%20mainly%20to%20reinforce%20the%20economic%20and%20intellectual%20leadership%20of%20a%20handful%20of%20urban%20centers%20and%20nearby%20suburbs%2C%20according%20to%20an%20analysis%20by%20the%20Taub%20Urban%20Research%20Center%20at%20New%20York%20University." target="_blank" rel="noopener noreferrer">move</a>
 less dense urban regions towards greater
 [physical](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248982)
 and
@@ -265,8 +256,7 @@ interrelation and mutual affection.
 > It's not that people are incapable of collaboration, it's just that
 > most of us lack tools
 >
-> --- [Richard D.
-> Bartlett](https://www.microsolidarity.cc/essays/from-domination-to-partnership#:~:text=It%E2%80%99s%20not%20that%20people%20are%20incapable%20of%20collaboration%2C%20it%E2%80%99s%20just%20that%20most%20of%20us%20lack%20tools)
+> --- <a href="https://www.microsolidarity.cc/essays/from-domination-to-partnership#:~:text=It%E2%80%99s%20not%20that%20people%20are%20incapable%20of%20collaboration%2C%20it%E2%80%99s%20just%20that%20most%20of%20us%20lack%20tools" target="_blank" rel="noopener noreferrer">Richard D. Bartlett</a>
 
 Despite the promise of being more effective and empowering, it is
 crucial that [new tools](https://jzhao.xyz/posts/agentic-computing/) for the
@@ -286,8 +276,7 @@ relationships.
 > change and adapt software for their own needs; for them to experience
 > creating software not like a professional chef, but a home cook.
 >
-> --- Jacky Zhao, <i>[Communal Computing
-> Networks](https://jzhao.xyz/posts/agentic-computing#:~:text=We%20must%20make%20it%20possible%20for%20the%20average%20layperson%20to%20be%20able%20to%20change%20and%20adapt%20software%20for%20their%20own%20needs%3B%20for%20them%20to%20experience%20creating%20software%20not%20like%20a%20professional%20chef%2C%20but%20a%20home%20cook)</i>
+> --- Jacky Zhao, <i><a href="https://jzhao.xyz/posts/agentic-computing#:~:text=We%20must%20make%20it%20possible%20for%20the%20average%20layperson%20to%20be%20able%20to%20change%20and%20adapt%20software%20for%20their%20own%20needs%3B%20for%20them%20to%20experience%20creating%20software%20not%20like%20a%20professional%20chef%2C%20but%20a%20home%20cook" target="_blank" rel="noopener noreferrer">Communal Computing Networks</a></i>
 
 Such digital coordination can be fun and intuitive---and has yielded
 collaborative design and production of everything from [industrial
@@ -298,8 +287,7 @@ to [frog
 houses](https://twitter.com/Brieyonce/status/1630051041524760576?s=20)
 and
 [park benches](https://www.betterblock.org/wikiblock). Supported
-by [collaborative
-technologies](https://trent.mirror.xyz/GDDRqetgglGR5IYK1uTXxLalwIH6pBF9nulmY9zarUw#:~:text=Resource%20%2D%20the%20Ethereum%20software%20commons),
+by <a href="https://trent.mirror.xyz/GDDRqetgglGR5IYK1uTXxLalwIH6pBF9nulmY9zarUw#:~:text=Resource%20%2D%20the%20Ethereum%20software%20commons" target="_blank" rel="noopener noreferrer">collaborative technologies</a>,
 digital [commons](https://en.wikipedia.org/wiki/Commons)
 can enable key functions of physical placemaking---making home-building
 and transportation infrastructure more relational,
@@ -317,7 +305,7 @@ concept represents a more private and interpersonal [oasis of digital
 relatedness](https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/).
 
 This desire for online autonomy isn\'t new. Privacy enabling
-[cryptography](https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=Digression%3A%20The%20%E2%80%9Ccrypto%E2%80%9D%20in%20crypto)
+<a href="https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=Digression%3A%20The%20%E2%80%9Ccrypto%E2%80%9D%20in%20crypto" target="_blank" rel="noopener noreferrer">cryptography</a>
 has been powering our relationships on the internet [since its
 beginning](https://en.wikipedia.org/wiki/History_of_cryptography#Cryptography_politics)
 (and
@@ -338,8 +326,7 @@ has become home to a much wider range of ideologies.
 > coordination and collaboration, rather than simply the integrity and
 > confidentiality of private messages.
 >
-> --- Vitalik Buterin, <i>[A Proof of Stake Design
-> Philosophy](https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#:~:text=Cypherpunk%20philosophy%20is,of%20private%20messages)</i>
+> --- Vitalik Buterin, <i><a href="https://medium.com/@VitalikButerin/a-proof-of-stake-design-philosophy-506585978d51#:~:text=Cypherpunk%20philosophy%20is,of%20private%20messages" target="_blank" rel="noopener noreferrer">A Proof of Stake Design Philosophy</a></i>
 
 ### Caveats and Uncertainties
 
@@ -347,7 +334,7 @@ Ironically, much of what has been written about the ability of these
 technologies to build local agency has come from the many [venture
 capitalists](https://twitter.com/cdixon/status/1442201621266534402)
 (a different kind of
-[large](https://web.archive.org/web/20230107093836/https://a16zcrypto.com/#:~:text=a16z%20crypto%20is%20a%20venture%20capital%20fund%20that%20invests%20in%20crypto%20and%20web3%20startups.%20We%20recently%20announced%20a%20%244.5%20billion%20fourth%20fund%2C%20bringing%20our%20total%20funds%20raised%20to%20more%20than%20%247.6%20billion.)
+<a href="https://web.archive.org/web/20230107093836/https://a16zcrypto.com/#:~:text=a16z%20crypto%20is%20a%20venture%20capital%20fund%20that%20invests%20in%20crypto%20and%20web3%20startups.%20We%20recently%20announced%20a%20%244.5%20billion%20fourth%20fund%2C%20bringing%20our%20total%20funds%20raised%20to%20more%20than%20%247.6%20billion." target="_blank" rel="noopener noreferrer">large</a> 
 institution) looking to make money from their salesmanship
 [rather](https://twitter.com/delete_shitcoin/status/1569682809932976128)
 than an ability to build meaningful new tools. This kind of gold rush in
@@ -356,7 +343,7 @@ characters](https://cryptobriefing.com/the-top-10-crypto-villains-2022/)
 and resulted in often extremely [negative public
 opinions](https://mheadd.medium.com/on-zealotry-and-cryptocurrency-b92bbab61bf7),
 many
-[well-founded](https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=Just%20kidding%3A%20They%E2%80%99ll%20be%20owned%20by%20venture%20capitalists%20who%20buy%20tokens%20in%20these%20projects%20early%20on%20and%20who%20are%20the%20biggest%20boosters%20of%20web3.).
+<a href="https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=Just%20kidding%3A%20They%E2%80%99ll%20be%20owned%20by%20venture%20capitalists%20who%20buy%20tokens%20in%20these%20projects%20early%20on%20and%20who%20are%20the%20biggest%20boosters%20of%20web3." target="_blank" rel="noopener noreferrer">well-founded</a>.
 
 What\'s more, the disruptive and open nature of these technologies means
 that the development of these social systems may only continue in the
@@ -377,8 +364,7 @@ and local [generational
 memory](https://www.telegraph.co.uk/technology/2019/06/06/internet-giving-us-shorter-attention-spans-worse-memories-major/)
 over the past century.
 
-Despite these uncertainties, community computers [are already being
-used](https://vitalik.eth.limo/general/2021/10/31/cities.html#:~:text=We%27re%20even%20seeing%20projects%20with%20varying%20degrees%20of%20radicalness%20%2D%20Cul%20de%20sac%2C%20Telosa%2C%20CityDAO%2C%20Nkwashi%2C%20Prospera%20and%20many%20more%20%2D%20trying%20to%20create%20entire%20neighborhoods%20and%20cities%20from%20scratch.)
+Despite these uncertainties, community computers <a href="https://vitalik.eth.limo/general/2021/10/31/cities.html#:~:text=We%27re%20even%20seeing%20projects%20with%20varying%20degrees%20of%20radicalness%20%2D%20Cul%20de%20sac%2C%20Telosa%2C%20CityDAO%2C%20Nkwashi%2C%20Prospera%20and%20many%20more%20%2D%20trying%20to%20create%20entire%20neighborhoods%20and%20cities%20from%20scratch." target="_blank" rel="noopener noreferrer">are already being used</a>
 to improve places in small ways today. We'll get into some specific
 examples in our final chapter, but first let\'s engage with the spirit
 of the budding technological tradition we're discussing.
@@ -388,7 +374,7 @@ of the budding technological tradition we're discussing.
 Digital sovereignty is perhaps the most basic pursuit of these
 technologies. What began as a retreat from state-controlled money, has
 become a pursuit of freedom from
-[broader](https://vitalik.eth.limo/general/2024/01/31/end.html#:~:text=Rather%20than%20just,at%20every%20level.)
+<a href="https://vitalik.eth.limo/general/2024/01/31/end.html#:~:text=Rather%20than%20just,at%20every%20level." target="_blank" rel="noopener noreferrer">broader</a>
 dependencies. [Vitalik
 Buterin](https://twitter.com/VitalikButerin), the inventor
 of the prominent crypto protocol
@@ -418,7 +404,7 @@ of).
 
 Distributed systems that grant sovereignty and privacy by default make
 surveillance harder for states. What institutions may give up in
-[control](https://www.strongtowns.org/journal/2022/6/29/local-control-or-centralized-planning-theres-a-third-answer#:~:text=And%20the%20latter%2C%20perhaps%20paradoxically%2C%20requires%20relinquishing%20some%20control%20and%20tolerating%20a%20little%20more%20chaos),
+<a href="https://www.strongtowns.org/journal/2022/6/29/local-control-or-centralized-planning-theres-a-third-answer#:~:text=And%20the%20latter%2C%20perhaps%20paradoxically%2C%20requires%20relinquishing%20some%20control%20and%20tolerating%20a%20little%20more%20chaos" target="_blank" rel="noopener noreferrer">control</a>,
 though, they gain in resilience by empowering citizens to engage more
 deeply in maintaining their own tools and places.
 
@@ -496,8 +482,7 @@ remain sensitive to interpersonal relationship at their current scale.
 Nick Szabo pioneered the argument that blockchains allow shared
 endeavors (what he calls institutions) to scale beyond what is typically
 locally and socially viable through traditional means, calling this
-[social
-scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=Social%20scalability%20is,can%20successfully%20participate.).
+<a href="http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=Social%20scalability%20is,can%20successfully%20participate." target="_blank" rel="noopener noreferrer">social scalability</a>.
 
 > The number and variety of people who can successfully participate in
 > an online institution is far less often restricted by the objective
@@ -507,8 +492,7 @@ scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-soci
 >
 > ---   [Nick
     Szabo](https://en.wikipedia.org/wiki/Nick_Szabo),
-    <i>[Money, blockchains, and social
-    scalability](http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=the%20number%20and,those%20technological%20improvements.)</i>
+    <i> <a href="http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html#:~:text=the%20number%20and,those%20technological%20improvements." target="_blank" rel="noopener noreferrer">Money, blockchains, and social scalability</a> </i>
 
 Blockchains can remake standards of relating at scale to more
 appropriately integrate local sovereignty. Their infrastructure is not
@@ -516,15 +500,15 @@ mediated by any authority so the network is open to anyone by default,
 without need for social context or permission. Most tools built on
 blockchains are [open
 source](https://opensource.com/article/20/10/open-source-blockchain),
-so their code can be reused (or '<a href="https://www.geeksforgeeks.org/blockchain-forks/#:~:text=FORKS%20IN%20BLOCKCHAIN%3A,so%20that%20anyone%20can%20contribute." target='_blank' rel='noopener noreferrer'>forked</a>')
+so their code can be reused (or '<a href="https://www.geeksforgeeks.org/blockchain-forks/#:~:text=FORKS%20IN%20BLOCKCHAIN%3A,so%20that%20anyone%20can%20contribute." target="_blank" rel="noopener noreferrer">forked</a>')
 by future communities. These cultural foundations support the
 possibility for '<a href="https://www.youtube.com/watch?v=T6OgRki5SgM&t=1171s" target='_blank' rel='noopener noreferrer'>exit</a>',
 allowing members to depart and establish new communities when
 disagreements or divergences arise. The ability to access, and if
 necessary,
-[exit](https://molochdao.com/docs/introduction/wtf-is-moloch/#:~:text=Moloch%20was%20popularized%20due%20to%20its%20Minimum%20Viable%20DAO%20design%20and%20the%20advent%20of%20%E2%80%9Cragequit%E2%80%9D%20%2D%20a%20means%20for%20members%20to%20exit%20the%20DAO%20by%20exchanging%20their%20shares%20for%20a%20pro%2Drata%20claim%20on%20the%20treasury%27s%20assets.)
+<a href="https://molochdao.com/docs/introduction/wtf-is-moloch/#:~:text=Moloch%20was%20popularized%20due%20to%20its%20Minimum%20Viable%20DAO%20design%20and%20the%20advent%20of%20%E2%80%9Cragequit%E2%80%9D%20%2D%20a%20means%20for%20members%20to%20exit%20the%20DAO%20by%20exchanging%20their%20shares%20for%20a%20pro%2Drata%20claim%20on%20the%20treasury%27s%20assets." target="_blank" rel="noopener noreferrer">exit</a>
 crypto networks and communities results in a dynamic,
-[spontaneous](https://www.bloomberg.com/news/articles/2022-07-21/tokyo-s-urban-planning-secrets-revealed-in-new-book?utm_campaign=socialflow-organic&utm_medium=social&utm_content=citylab&utm_source=facebook&fbclid=IwAR0Q1YkB3xBCktSgVSYH8thtdDAhKmnL33duCYSNoSTzHNrGVQnyF9994eU#:~:text=Tokyo%20was%20shaped%20not%20solely%20by%20disorder%20or%20grand%20design%20but%20by%20the%20intermingling%20of%20daily%20small%20choices%20that%20create%20spontaneous%20patterns%20from%20the%20bottom%20up)
+<a href="https://www.bloomberg.com/news/articles/2022-07-21/tokyo-s-urban-planning-secrets-revealed-in-new-book#:~:text=Tokyo%20was%20shaped%20not%20solely%20by%20disorder%20or%20grand%20design%20but%20by%20the%20intermingling%20of%20daily%20small%20choices%20that%20create%20spontaneous%20patterns%20from%20the%20bottom%20up" target="_blank" rel="noopener noreferrer">spontaneous</a>
 and iterative ecosystem, all key factors in fostering agency.
 
 
@@ -541,7 +525,7 @@ and iterative ecosystem, all key factors in fostering agency.
 >physically dispersed. I
 >[acknowledge](https://twitter.com/jgcfyi/status/1548028452355182593)
 >that
->[sometimes](https://simonsarris.substack.com/p/the-most-precious-resource-is-agency#:~:text=>(There%20are%20good,Start%20typing.))
+><a href="https://simonsarris.substack.com/p/the-most-precious-resource-is-agency#:~:text=(There%20are%20good,Start%20typing.)" target="_blank" rel="noopener noreferrer">sometimes</a>
 >digital agency is the only form of agency people have available, however
 >I am
 >[doubtful](https://twitter.com/jgcfyi/status/1548028447561134090)
@@ -552,9 +536,8 @@ and iterative ecosystem, all key factors in fostering agency.
 >Digital tools can be powerful for scratching our natural itch for
 >agency, but anchoring them in a physical reality (as makerspaces do)
 >helps to avoid
->[manipulation](https://www.vox.com/2018/4/14/17236504/>jaron-lanier-ted-talk-social-networks-behavior-modification-ads#:~:text=%E2%80%9CI%20don%E2%80%99t%20beli>eve%20our%20species%20can%20survive%20unless%20we%20fix%20this%2C%E2%80%9D%20he%20said.>%20%E2%80%9CWe%20cannot%20have%20a%20society%20in%20which%2C%20if%20two%20people%20wish%20to%20communicat>e%2C%20the%20only%20way%20that%20can%20happen%20is%20if%20it%E2%80%99s%20financed%20by%20a%20third%20pers>on%20who%20wishes%20to%20manipulate%20them.%E2%80%9D)
->by and dependency on outside actors, as we are now [subjected
->to](https://web.archive.org/web/20230602073622/https://www.nytimes.com/2014/06/30/technology/>facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.>html#:~:text=Facebook%20routinely%20adjusts%20its%20users%E2%80%99%20news%20feeds%20%E2%80%94%20testing%2>0out%20the%20number%20of%20ads%20they%20see%20or%20the%20size%20of%20photos%20that%20appear%20%E2%80%94%2>0often%20without%20their%20knowledge.>%20It%20is%20all%20for%20the%20purpose%2C%20the%20company%20says%2C%20of%20creating%20a%20more%20alluring>%20and%20useful%20product.)
+><a href="https://www.vox.com/2018/4/14/17236504/jaron-lanier-ted-talk-social-networks-behavior-modification-ads#:~:text=%E2%80%9CI%20don%E2%80%99t%20believe%20our%20species%20can%20survive%20unless%20we%20fix%20this%2C%E2%80%9D%20he%20said.%20%E2%80%9CWe%20cannot%20have%20a%20society%20in%20which%2C%20if%20two%20people%20wish%20to%20communicate%2C%20the%20only%20way%20that%20can%20happen%20is%20if%20it%E2%80%99s%20financed%20by%20a%20third%20person%20who%20wishes%20to%20manipulate%20them.%E2%80%9D" target="_blank" rel="noopener noreferrer">manipulation</a>
+>by and dependency on outside actors, as we are now <a href="https://web.archive.org/web/20230602073622/https://www.nytimes.com/2014/06/30/technology/facebook-tinkers-with-users-emotions-in-news-feed-experiment-stirring-outcry.html#:~:text=Facebook%20routinely%20adjusts%20its%20users%E2%80%99%20news%20feeds%20%E2%80%94%20testing%20out%20the%20number%20of%20ads%20they%20see%20or%20the%20size%20of%20photos%20that%20appear%20%E2%80%94%20often%20without%20their%20knowledge.%20It%20is%20all%20for%20the%20purpose%2C%20the%20company%20says%2C%20of%20creating%20a%20more%20alluring%20and%20useful%20product." target="_blank" rel="noopener noreferrer">subjected to</a>
 >in
 >[most](https://www.theguardian.com/technology/2016/mar/17/>i-though-my-instagram-was-all-mine-until-the-algorithm-proved-me-wrong)
 >[internet
@@ -563,7 +546,7 @@ and iterative ecosystem, all key factors in fostering agency.
 >political structures, such as spontaneous scrap recycling in
 >[Agbogbloshie](https://www.youtube.com/watch?v=i_wtaoHCw3k),
 >are more potent than digital ones that hope to
->[retroactively](https://thenetworkstate.com/on-network-states#:~:text=Instead%2C%20you%20found,>like%20the%20NASDAQ.)
+><a href="https://thenetworkstate.com/on-network-states#:~:text=Instead%2C%20you%20found,like%20the%20NASDAQ." target="_blank" rel="noopener noreferrer">retroactively</a>
 >[embody](https://twitter.com/jgcfyi/status/1548028450891476992) themselves.
 >
 
@@ -571,8 +554,7 @@ and iterative ecosystem, all key factors in fostering agency.
 >
 >While the internet itself still has a great deal of
 >[dependence](https://www.thepublicdiscourse.com/2021/08/77139/)
->on centrally managed [physical
->infrastructure](https://cip.gmu.edu/2016/10/26/>understanding-physical-internet-infrastructure-vulnerabilities/>#:~:text=the%20existence%20of%20a%20single%20physical%20structure%20that%20houses%20so%20many%20important>%20connections%20represents%20a%20vulnerability%20with%20the%20potential%20for%20serious%20cascading%20co>nsequences%20for%20global%20Internet%20routing.)
+>on centrally managed <a href="https://cip.gmu.edu/2016/10/26/understanding-physical-internet-infrastructure-vulnerabilities/#:~:text=the%20existence%20of%20a%20single%20physical%20structure%20that%20houses%20so%20many%20important%20connections%20represents%20a%20vulnerability%20with%20the%20potential%20for%20serious%20cascading%20consequences%20for%20global%20Internet%20routing." target="_blank" rel="noopener noreferrer">physical infrastructure</a>
 >today, physical [peer-to-peer
 >infrastructure](https://wiki.p2pfoundation.net/Main_Page)
 >such as [mesh
@@ -584,7 +566,7 @@ and iterative ecosystem, all key factors in fostering agency.
 >with agency if they do not have [agency over their
 >tools](https://www.youtube.com/watch?v=8_clFVHKS2g) for
 >organization, as the
->[tools](https://www.microsolidarity.cc/essays/>from-domination-to-partnership#:~:text=It%E2%80%99s%20not%20that%20people%20are%20incapable%20of%20collab>oration%2C%20it%E2%80%99s%20just%20that%20most%20of%20us%20lack%20tools%2C%20skills%20and%20role%20models>.)
+><a href="https://www.microsolidarity.cc/essays/from-domination-to-partnership#:~:text=It%E2%80%99s%20not%20that%20people%20are%20incapable%20of%20collaboration%2C%20it%E2%80%99s%20just%20that%20most%20of%20us%20lack%20tools%2C%20skills%20and%20role%20models." target="_blank" rel="noopener noreferrer">tools</a>
 >themselves play a part in imparting agency.
 
 ## Cultural Diversity in Crypto
@@ -595,7 +577,7 @@ the
 in the world of crypto to favor censorship resistance and [minimized
 governance](https://web.archive.org/web/20240714012751/https://www.paradigm.xyz/2020/10/870) over
 social flexibility to achieve
-[incorruptibility](https://web.archive.org/web/20240310154035/bank.dev/why#:~:text=Understanding%20that%20every%20theoretical%20incentive%20incompatability%20is%20guaranteed%20to%20be%20exploited.).
+<a href="https://web.archive.org/web/20240310154035/bank.dev/why#:~:text=Understanding%20that%20every%20theoretical%20incentive%20incompatability%20is%20guaranteed%20to%20be%20exploited." target="_blank" rel="noopener noreferrer">incorruptibility</a>.
 The ability to make open, general purpose, permanent and uncensorable
 tools is important, but so is the ability to have
 [stewardable](https://venkatesh-rao.gitbook.io/summer-of-protocols/#_1znhggknfsxb),
@@ -611,18 +593,18 @@ to improve systems of self-organization, then we must welcome social
 process.
 
 This tension between the universal
-[accessibility](https://otherinter.net/research/three-body-problem/#:~:text=But%20the%20true%20culprit%20behind%20this%20poisonous%20idea%20is%20the%20principle%20of%20credible%20neutrality.)
+<a href="https://otherinter.net/research/three-body-problem/#:~:text=But%20the%20true%20culprit%20behind%20this%20poisonous%20idea%20is%20the%20principle%20of%20credible%20neutrality." target="_blank" rel="noopener noreferrer">accessibility</a>
 of formal and rigid systems and the invitation to local spontaneous
 engagement potentiated by more [informal
 systems](https://informal.systems/about) has been the
 subject of debates in the communities of the
-[Ethereum](https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=i.-,Ethereum,-The%20computer%20that)
+<a href="https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=i.-,Ethereum,-The%20computer%20that" target="_blank" rel="noopener noreferrer">Ethereum</a>
 and [Cosmos](https://cosmos.network/) blockchains.
 
 Ethereum is designed to function
 [best](https://twitter.com/jgcfyi/status/1540427123839713280)
 as an
-[immutable](https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=i.-,Censorship%20resistance,-Ordinarily%2C%20if%20there%E2%80%99s)
+<a href="https://www.bloomberg.com/features/2022-the-crypto-story/?leadSource=uverify%20wall#ledgers-bitcoin-blockchains:~:text=i.-,Censorship%20resistance,-Ordinarily%2C%20if%20there%E2%80%99s" target="_blank" rel="noopener noreferrer">immutable</a>
 and permanent source of 'universal' truth. This helps make tools
 composable, interoperable, and free of dependencies---over time building
 a robust web of resilient yet accessible infrastructure.
@@ -632,14 +614,12 @@ a robust web of resilient yet accessible infrastructure.
 > incentives, we are able to create software and digital records that
 > have a degree of permanence.
 >
-> --- [Josh Stark](https://twitter.com/0xstark), <i>[Atoms,
-> Institutions,
-> Blockchains](https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0#:~:text=Recently%2C%20we%E2%80%99ve%20invented%20a%20new%20way%20to%20create%20hardness%3A%20blockchains.%20Using%20an%20elegant%20combination%20of%20cryptography%2C%20networked%20software%2C%20and%20commoditized%20human%20incentives%2C%20we%20are%20able%20to%20create%20software%20and%20digital%20records%20that%20have%20a%20degree%20of%20permanence.)</i>
+> --- [Josh Stark](https://twitter.com/0xstark), <i><a href="https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0#:~:text=Recently%2C%20we%E2%80%99ve%20invented%20a%20new%20way%20to%20create%20hardness%3A%20blockchains.%20Using%20an%20elegant%20combination%20of%20cryptography%2C%20networked%20software%2C%20and%20commoditized%20human%20incentives%2C%20we%20are%20able%20to%20create%20software%20and%20digital%20records%20that%20have%20a%20degree%20of%20permanence." target="_blank" rel="noopener noreferrer">Atoms, Institutions, Blockchains</a></i>
 
 If we aim to use technologies like
 [blockchains](https://www.investopedia.com/terms/b/blockchain.asp)
 as an
-[alternative](https://vitalik.eth.limo/general/2022/12/30/institutions.html#:~:text=Creating%20formal%20structures,of%20challenges%20too.)
+<a href="https://vitalik.eth.limo/general/2022/12/30/institutions.html#:~:text=Creating%20formal%20structures,of%20challenges%20too." target="_blank" rel="noopener noreferrer">alternative</a>
 or companion to large institutions, we should [be
 careful](https://www.youtube.com/watch?v=AyaWFicSihE&t=617s)
 not make them too
@@ -657,11 +637,10 @@ architectures may come from communities like
 (and
 [Celestia](https://twitter.com/divine_economy/status/1548345842431455236)),
 which seek to provide
-[local](https://otherinter.net/research/three-body-problem/#:~:text=From%20this%20vantage,society%20unto%20itself.)
+<a href="https://otherinter.net/research/three-body-problem/#:~:text=From%20this%20vantage,society%20unto%20itself." target="_blank" rel="noopener noreferrer">local</a>
 sovereignty at the community level, with more degrees of freedom in
 designing how to build and maintain social consensus---but also with
-more responsibility for maintaining [critical
-infrastructure](https://web.archive.org/web/20250125090007/https://v1.cosmos.network/intro#:~:text=A%20sovereign%20blockchain,has%20limited%20sovereignty.).
+more responsibility for maintaining <a href="https://web.archive.org/web/20250125090007/https://v1.cosmos.network/intro#:~:text=A%20sovereign%20blockchain,has%20limited%20sovereignty." target="_blank" rel="noopener noreferrer">critical infrastructure</a>.
 
 Together, these new foundations of community computing can help forge
 pathways of polycentric, cosmolocal agency propagation toward strong
