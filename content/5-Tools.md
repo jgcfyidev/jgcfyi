@@ -1,13 +1,13 @@
 ---
 title: 5 | Tools
-summary: "Rooting our Computing in Place & Relationship"
+summary: "Rooting Computing in Place & Relationship"
 customImage: "preview5.png"
 enableToc: false
 ---
 
 # 5
 <h1 style="margin:0;">Tools</h1>
-<h4 style="margin-top:0; margin-bottom: 16px;">Rooting our Computing in Place & Relationship</h4>
+<h4 style="margin-top:0; margin-bottom: 16px;">Rooting Computing in Place & Relationship</h4>
 
 
 <mark class="blurb">Our tools and technologies amplify our habits of relating to each other,
