@@ -16,11 +16,11 @@ collaborative computing architectures can help us shed the prosthesis of
 institutional control and rebuild the locally-derived competency
 necessary to steward our places through generations.</mark>
 
-> *Personal Computers unleashed unimaginable levels of sovereignty & interoperability for people.*
+> Personal Computers unleashed unimaginable levels of sovereignty & interoperability for people.
 <br>
-> *Community Computers will do the same for groups.*
+> Community Computers will do the same for groups.
 <br>
-> *A blockchain is just a Community Computer.*
+> A blockchain is just a Community Computer.
 >
 > ---   [Ethan
     Buchman](https://twitter.com/buchmanster/status/1466092508316905478)
