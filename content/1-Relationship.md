@@ -20,10 +20,9 @@ enableToc: false
 ## Community Memory
 
 Why did bureaucratic efforts to stimulate economic growth instead
-[devastate](https://www.youtube.com/watch?v=lp0Sxn42TGs)
-one of the world\'s [largest
-lakes](https://twitter.com/PatrickJBlum/status/1694115787890684407?s=20)
-in less than fifty years? And how is it that 'uneducated' peasants have
+[wreak havoc](https://www.youtube.com/watch?v=lp0Sxn42TGs)
+on one of the world\'s [largest
+lakes](https://twitter.com/PatrickJBlum/status/1694115787890684407?s=20)? And how is it that 'uneducated' peasants have
 collectively managed thriving irrigation systems for centuries in [New
 Mexico](https://newmexiconomad.com/acequias/),
 [Indonesia](https://en.wikipedia.org/wiki/Subak_(irrigation)),
